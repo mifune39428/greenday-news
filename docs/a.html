@@ -9,6 +9,7 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
+<script src="ui.js" data-site="greenday-news"></script>
 <style>
   :root {
     color-scheme: only light;
@@ -129,6 +130,7 @@ async function load() {
         <p>公演日程・チケットの発売日・リリース日は変わることがあります。参加や購入の前に、公式サイトおよび主催者の告知をご確認ください。</p>
         <p>記事および画像の著作権は${escapeHtml(a.source)}に帰属します。このサイトは個人が運営する非公式のニュースまとめです。</p>
       </div>`;
+    if (window.uiAttachDetail) uiAttachDetail(a);   // 日付の行に「☆ お気に入り」を足す
   } catch (err) {
     main.innerHTML = '<p class="loading">記事が見つかりませんでした。<br><a href="./">一覧へ戻る</a></p>';
   }
