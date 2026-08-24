@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24T16:57:30.249380+09:00",
+ "updated_at": "2026-08-24T19:25:05.603925+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -36,6 +36,7 @@
   "MediaPost",
   "NME",
   "Orlando Sentinel",
+  "Rock Cellar Magazine",
   "Rolling Stone",
   "Rolling Stone Australia",
   "Santa Clarita Valley Signal",
@@ -48,10 +49,10 @@
   "Tullahoma News",
   "chorus.fm",
   "wecb.fm",
-  "千葉テレビ放送株式会社"
+  "チバテレ"
  ],
- "count": 29,
- "detail_count": 18,
+ "count": 31,
+ "detail_count": 20,
  "items": [
   {
    "id": "4d3462ecead5c61e",
@@ -221,7 +222,7 @@
    "url": "https://rock929rocks.com/2026/08/21/green-day-bassist-mike-dirnt-to-sell-career-spanning-gear-collection-on-reverb",
    "title_original": "Green Day Bassist Mike Dirnt to Sell Career-Spanning Gear Collection on Reverb",
    "source": "Boston's ROCK 92.9",
-   "image": "",
+   "image": "https://rock929rocks.com/uploads/2026/08/GettyImages-2289755206-e1787330098643.jpg?auto=webp",
    "lang": "en",
    "region": "global",
    "published": "2026-08-21T16:36:04+00:00",
@@ -318,6 +319,26 @@
    "detail_tries": 2
   },
   {
+   "id": "db5030f3a79d19d9",
+   "url": "https://rockcellarmagazine.com/weezer-gold-album-review-listen-stream-2026",
+   "title_original": "Weezer's 'Gold Album' a vibrant return to form (album review)",
+   "source": "Rock Cellar Magazine",
+   "image": "https://rockcellarmagazine.com/wp-content/uploads/2026/08/weezer-gold-album-pic.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-21T04:00:03+00:00",
+   "title_ja": "Weezerの新作『Gold Album』が原点回帰作と高評価を獲得",
+   "summary_ja": "Weezerのアルバム『Gold Album』に関するレビュー記事。本作はバンドの勢いを取り戻した活気あふれる原点回帰作であるとして好意的に評されている。",
+   "category": "新曲・新作",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "c637bfeba01a1e77",
    "url": "https://au.rollingstone.com/music/music-news/rise-against-wolf-alice-spacey-jane-on-the-steps-2026-100118",
    "title_original": "Rise Against, Wolf Alice, Spacey Jane Lead On The Steps 2026 Line-Up",
@@ -344,7 +365,7 @@
    "url": "https://signalscv.com/2026/08/photos-paramore-at-the-disco-at-concerts-in-the-park",
    "title_original": "Photos: Paramore! At The Disco at Concerts in the Park",
    "source": "Santa Clarita Valley Signal",
-   "image": "",
+   "image": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2026/08/20183339/082026_CONCERTS_KQ_5-scaled.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-08-21T01:43:05+00:00",
@@ -364,7 +385,7 @@
    "url": "https://wrat.com/2026/08/20/aftershock-2026-releases-set-times-for-limp-bizkit-my-chemical-romance-tool-four-day-festival",
    "title_original": "Aftershock 2026 Releases Set Times for Limp Bizkit, My Chemical Romance, TOOL Four-Day Festival",
    "source": "95.9 The Rat",
-   "image": "",
+   "image": "https://wrat.com/uploads/2026/08/GettyImages-1397133344-e1787250982235.jpg?auto=webp",
    "lang": "en",
    "region": "global",
    "published": "2026-08-20T18:48:03+00:00",
@@ -407,7 +428,7 @@
    "url": "https://chorus.fm/news/green-days-mike-dirnt-selling-more-on-reverb",
    "title_original": "Green Day’s Mike Dirnt Selling More on Reverb",
    "source": "chorus.fm",
-   "image": "",
+   "image": "https://chorus.fm/wp-content/uploads/2025/11/Mike-Dirnt.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-08-20T15:19:03+00:00",
@@ -428,7 +449,7 @@
    "url": "https://www.jambase.com/article/weezer-tonight-show-fallon-we-might-as-well-be-strangers",
    "title_original": "Rivers Cuomo Goes Full Gold For Weezer’s ‘Tonight Show’ Appearance",
    "source": "JamBase",
-   "image": "",
+   "image": "https://www.jambase.com/wp-content/uploads/2026/08/weezer-fallon-tonight-show-2026-1480x832.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-08-20T14:22:00+00:00",
@@ -483,7 +504,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "23b8484ff0c98eed",
@@ -510,7 +531,7 @@
    "id": "48430961a46bda09",
    "url": "https://www.chiba-tv.com/plus/detail/2026081920537",
    "title_original": "「お蔵入り」から一転？グリーン・デイ『アメリカン・イディオット』映画化へ話し合いが進行か",
-   "source": "千葉テレビ放送株式会社",
+   "source": "チバテレ",
    "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1463080160905430574/origin_1.jpg",
    "lang": "ja",
    "region": "jp",
@@ -524,7 +545,7 @@
    ],
    "japan": true,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "08fe8fceda49df40",
@@ -571,7 +592,7 @@
    "url": "https://www.jambase.com/article/my-chemical-romance-bob-dylan-cover-washington-dc",
    "title_original": "My Chemical Romance Busts Out Bob Dylan Cover In Washington D.C.",
    "source": "JamBase",
-   "image": "",
+   "image": "https://www.jambase.com/wp-content/uploads/2026/08/my-chemical-romance-live-2026-2-1480x832.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-08-19T16:44:00+00:00",
@@ -584,7 +605,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "6c4924307f0262ec",
@@ -601,6 +622,26 @@
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "5f4a00b2869c2ddc",
+   "url": "https://chorus.fm/news/the-linda-lindas-perform-on-kimmel-4",
+   "title_original": "The Linda Lindas Perform on Kimmel",
+   "source": "chorus.fm",
+   "image": "https://chorus.fm/wp-content/uploads/2021/05/the-linda-lindas.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-19T15:14:01+00:00",
+   "title_ja": "The Linda Lindasが米人気テレビ番組「Kimmel」でパフォーマンスを披露",
+   "summary_ja": "The Linda Lindasが、アメリカのテレビ番組「Jimmy Kimmel Live!」に出演し、パフォーマンスを披露しました。詳しい演奏曲などの詳細は明かされていませんが、彼女たちのテレビ出演でのパフォーマンスに注目が集まっています。",
+   "category": "その他",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
    ],
    "japan": false,
    "importance": 3,
