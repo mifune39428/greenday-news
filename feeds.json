@@ -1,0 +1,340 @@
+{
+  "_comment": "収集元のRSS。enabled を false にすると一時的に外せる。lang は原文の言語（en は日本語に直して載せる）。google_news: true のフィードは <source> から実際の媒体名を取り出し、見出し末尾の「 - 媒体名」を落とす。すべてのフィードに、バンド名を含む記事だけ拾うふるいが掛かる（filter: false で外せる）。Googleニュースの検索語に OR は使わない（語がばらけて無関係な記事が大量に混ざるため）。Offspring / Rancid は普通の英単語でもあるので band / punk を足して検索する。Kerrang! は直接のRSSが403なので site: 検索で拾っている。",
+  "feeds": [
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/search?q=%22Green%20Day%22%20band%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
+      "lang": "en",
+      "region": "global",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/search?q=%22Billie%20Joe%20Armstrong%22%20when%3A10d&hl=en-US&gl=US&ceid=US:en",
+      "lang": "en",
+      "region": "global",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/search?q=%22Green%20Day%22%20tour%20when%3A10d&hl=en-US&gl=US&ceid=US:en",
+      "lang": "en",
+      "region": "global",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/search?q=%22Blink-182%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
+      "lang": "en",
+      "region": "global",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/search?q=%22The%20Offspring%22%20band%20when%3A10d&hl=en-US&gl=US&ceid=US:en",
+      "lang": "en",
+      "region": "global",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/search?q=%22Rancid%22%20punk%20band%20when%3A14d&hl=en-US&gl=US&ceid=US:en",
+      "lang": "en",
+      "region": "global",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/search?q=%22Bad%20Religion%22%20band%20when%3A14d&hl=en-US&gl=US&ceid=US:en",
+      "lang": "en",
+      "region": "global",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/search?q=%22Sum%2041%22%20when%3A14d&hl=en-US&gl=US&ceid=US:en",
+      "lang": "en",
+      "region": "global",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/search?q=%22Weezer%22%20band%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
+      "lang": "en",
+      "region": "global",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/search?q=%22My%20Chemical%20Romance%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
+      "lang": "en",
+      "region": "global",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/search?q=%22Fall%20Out%20Boy%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
+      "lang": "en",
+      "region": "global",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/search?q=%22Paramore%22%20band%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
+      "lang": "en",
+      "region": "global",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/search?q=%22Dropkick%20Murphys%22%20when%3A14d&hl=en-US&gl=US&ceid=US:en",
+      "lang": "en",
+      "region": "global",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/search?q=%22The%20Linda%20Lindas%22%20when%3A14d&hl=en-US&gl=US&ceid=US:en",
+      "lang": "en",
+      "region": "global",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/rss/search?q=site%3Akerrang.com%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
+      "lang": "en",
+      "region": "global",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%87%E3%82%A4%20when%3A14d&hl=ja&gl=JP&ceid=JP:ja",
+      "lang": "ja",
+      "region": "jp",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%E3%83%93%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%88%E3%83%AD%E3%83%B3%E3%82%B0%20when%3A21d&hl=ja&gl=JP&ceid=JP:ja",
+      "lang": "ja",
+      "region": "jp",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%E3%83%96%E3%83%AA%E3%83%B3%E3%82%AF182%20when%3A21d&hl=ja&gl=JP&ceid=JP:ja",
+      "lang": "ja",
+      "region": "jp",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%E3%82%AA%E3%83%95%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%83%90%E3%83%B3%E3%83%89%20when%3A21d&hl=ja&gl=JP&ceid=JP:ja",
+      "lang": "ja",
+      "region": "jp",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "Google ニュース",
+      "url": "https://news.google.com/rss/search?q=%E3%83%91%E3%83%B3%E3%82%AF%20%E3%83%90%E3%83%B3%E3%83%89%20%E6%9D%A5%E6%97%A5%E5%85%AC%E6%BC%94%20when%3A10d&hl=ja&gl=JP&ceid=JP:ja",
+      "lang": "ja",
+      "region": "jp",
+      "google_news": true,
+      "enabled": true
+    },
+    {
+      "name": "NME",
+      "url": "https://www.nme.com/news/music/feed",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "Alternative Press",
+      "url": "https://www.altpress.com/feed/",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "Stereogum",
+      "url": "https://www.stereogum.com/feed/",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "Consequence",
+      "url": "https://consequence.net/feed/",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "BrooklynVegan",
+      "url": "https://www.brooklynvegan.com/feed/",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "Punknews.org",
+      "url": "https://static.punknews.org/feeds/punknews.rdf",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "Punknews.org",
+      "url": "https://static.punknews.org/feeds/punknews-reviews.rdf",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "Loudwire",
+      "url": "https://loudwire.com/feed/",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "Blabbermouth",
+      "url": "https://blabbermouth.net/feed",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-news/feed/",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "Billboard",
+      "url": "https://www.billboard.com/feed/",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "Pitchfork",
+      "url": "https://pitchfork.com/feed/feed-news/rss",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "SPIN",
+      "url": "https://www.spin.com/feed/",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "Revolver",
+      "url": "https://www.revolvermag.com/rss.xml",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "Dying Scene",
+      "url": "https://dyingscene.com/feed/",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "The PRP",
+      "url": "https://www.theprp.com/feed/",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "Guitar World",
+      "url": "https://www.guitarworld.com/feeds/all",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "Louder",
+      "url": "https://www.loudersound.com/feeds/all",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "IDIOTEQ",
+      "url": "https://idioteq.com/feed/",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "Substream",
+      "url": "https://substreammagazine.com/feed/",
+      "lang": "en",
+      "region": "global",
+      "enabled": true
+    },
+    {
+      "name": "音楽ナタリー",
+      "url": "https://natalie.mu/music/feed/news",
+      "lang": "ja",
+      "region": "jp",
+      "enabled": true
+    },
+    {
+      "name": "BARKS",
+      "url": "https://www.barks.jp/feed/",
+      "lang": "ja",
+      "region": "jp",
+      "enabled": true
+    },
+    {
+      "name": "NME Japan",
+      "url": "https://nme-jp.com/feed/",
+      "lang": "ja",
+      "region": "jp",
+      "enabled": true
+    },
+    {
+      "name": "uDiscoverMusic",
+      "url": "https://www.udiscovermusic.jp/feed",
+      "lang": "ja",
+      "region": "jp",
+      "enabled": true
+    },
+    {
+      "name": "rockin'on",
+      "url": "https://rockinon.com/news.rss",
+      "lang": "ja",
+      "region": "jp",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "グリーン・デイ ニュース",
+  "short_name": "グリーン・デイ",
+  "description": "Green Day と周辺バンドのニュースを、海外の記事も日本語の見出し・要約・解説で。6時間ごとに自動更新。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ececec",
+  "theme_color": "#d7263d",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>グリーン・デイ ニュース</title>
+<meta name="description" content="Green Day と Blink-182・The Offspring・Rancid など周辺バンドのニュースを海外メディアから自動で集め、日本語の見出し・要約・解説にしてまとめています。6時間ごとに更新。">
+<meta name="theme-color" content="#ececec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="グリーン・デイ">
+<meta property="og:title" content="グリーン・デイ ニュース">
+<meta property="og:description" content="Green Day と周辺バンドの最新ニュースを、海外の記事も日本語で。6時間ごとに自動更新。">
+<meta property="og:type" content="website">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<style>
+  /* 薄いグレーの紙の上に白いカードを置く、明るい配色ひとつだけ。
+     端末のダークモードでも同じ見え方にする（背景を薄いグレーで通す）。 */
+  :root {
+    color-scheme: only light;
+    --bg: #ececec;
+    --card: #ffffff;
+    --text: #17171a;
+    --muted: #6d6d73;
+    --line: rgba(0,0,0,.11);
+    --accent: #d7263d;
+    --ink: #1d1d20;
+    --chip: rgba(0,0,0,.055);
+    --chip-on: #1d1d20;
+    --chip-on-text: #ffffff;
+    --header: rgba(236,236,236,.9);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Hiragino Sans", "Noto Sans JP", sans-serif;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  a { color: inherit; text-decoration: none; }
+
+  header {
+    position: sticky; top: 0; z-index: 10;
+    background: var(--header);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+    border-bottom: 1px solid var(--line);
+    padding: max(env(safe-area-inset-top), 10px) 16px 0;
+  }
+  .bar { max-width: 760px; margin: 0 auto; display: flex; align-items: baseline; gap: 8px; }
+  /* ロゴは黒地に赤い名前。パンクのレコードジャケットの雰囲気に寄せる。 */
+  .logo {
+    flex: 0 0 auto; background: var(--ink); color: var(--accent);
+    font-size: 12px; font-weight: 800; letter-spacing: .08em;
+    padding: 3px 8px; border-radius: 3px; line-height: 1.3;
+    align-self: center;
+  }
+  h1 { font-size: 16px; font-weight: 700; letter-spacing: -.01em; margin: 0; }
+  .updated { font-size: 11px; color: var(--muted); margin-left: auto; white-space: nowrap; }
+  .filters {
+    max-width: 760px; margin: 0 auto;
+    display: flex; gap: 6px; overflow-x: auto; padding: 9px 0 0;
+    scrollbar-width: none;
+  }
+  .filters:last-of-type { padding-bottom: 10px; }
+  .filters::-webkit-scrollbar { display: none; }
+  .chip {
+    flex: 0 0 auto; border: 0; cursor: pointer;
+    background: var(--chip); color: var(--text);
+    font: inherit; font-size: 13px; line-height: 1.4;
+    padding: 6px 13px; border-radius: 999px;
+  }
+  .chip[aria-pressed="true"] { background: var(--chip-on); color: var(--chip-on-text); }
+
+  main { max-width: 760px; margin: 0 auto; padding: 16px 16px 56px; }
+  .search {
+    width: 100%; margin-bottom: 14px;
+    background: var(--card); color: var(--text);
+    border: 1px solid var(--line); border-radius: 10px;
+    padding: 11px 14px; font: inherit; font-size: 16px;
+  }
+  .search::placeholder { color: var(--muted); }
+
+  article {
+    background: var(--card); border-radius: 12px;
+    padding: 15px 17px; margin-bottom: 11px;
+    border: 1px solid var(--line);
+    transition: transform .15s ease;
+  }
+  article:active { transform: scale(.99); }
+  .row { display: flex; gap: 12px; align-items: flex-start; }
+  .row .body { flex: 1 1 auto; min-width: 0; }
+  .thumb {
+    flex: 0 0 100px; width: 100px; height: 100px;
+    object-fit: cover; border-radius: 8px;
+    background: var(--chip); display: block;
+  }
+  .hero {
+    /* 幅の広い画面で主役の画像が伸びすぎないように上限を付ける。 */
+    width: 100%; aspect-ratio: 16 / 9; max-height: 300px; object-fit: cover;
+    border-radius: 10px; background: var(--chip);
+    display: block; margin-bottom: 11px;
+  }
+  /* 画像が取れなかった記事のための代わりの絵。カードに穴を空けない。 */
+  .ph {
+    display: flex; align-items: center; justify-content: center;
+    background: linear-gradient(135deg, #26262b, #d7263d);
+    color: #fff; font-size: 34px; line-height: 1;
+  }
+  .hero.ph { font-size: 56px; }
+
+  .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; font-size: 11.5px; color: var(--muted); margin-bottom: 7px; }
+  .tag { background: var(--chip); border-radius: 4px; padding: 2px 7px; color: var(--text); }
+  .band { background: var(--ink); color: #fff; border-radius: 4px; padding: 2px 7px; font-weight: 700; letter-spacing: .01em; }
+  .badge { background: var(--accent); color: #fff; border-radius: 4px; padding: 2px 7px; font-weight: 600; }
+  .jp { border: 1px solid var(--accent); color: var(--accent); border-radius: 4px; padding: 1px 6px; font-weight: 600; }
+  .flag { font-size: 12px; }
+  h2 { font-size: 17px; font-weight: 700; margin: 0 0 6px; letter-spacing: -.01em; line-height: 1.45; }
+  p.summary { margin: 0 0 8px; font-size: 14px; color: var(--text); opacity: .85; }
+  .artists { display: flex; flex-wrap: wrap; gap: 5px; margin: 0 0 9px; }
+  .artist { font-size: 11px; color: var(--muted); background: var(--chip); border-radius: 999px; padding: 1px 8px; }
+  .src { font-size: 12.5px; color: var(--accent); font-weight: 600; }
+
+  .empty, .loading { text-align: center; color: var(--muted); padding: 48px 0; font-size: 14px; }
+  #more {
+    display: block; width: 100%; margin-top: 8px; padding: 13px;
+    background: var(--card); color: var(--accent); border: 1px solid var(--line);
+    border-radius: 10px; font: inherit; font-size: 15px; cursor: pointer;
+  }
+  footer {
+    max-width: 760px; margin: 0 auto; padding: 24px 16px 40px;
+    font-size: 11.5px; color: var(--muted); border-top: 1px solid var(--line);
+  }
+  footer p { margin: 0 0 7px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="bar">
+    <span class="logo">GREEN DAY</span>
+    <h1>＆周辺バンド ニュース</h1>
+    <span class="updated" id="updated"></span>
+  </div>
+  <div class="filters" id="scopeFilters"></div>
+  <div class="filters" id="bandFilters"></div>
+  <div class="filters" id="categoryFilters"></div>
+</header>
+
+<main>
+  <input class="search" id="search" type="search" placeholder="キーワードで絞り込む（例: ツアー、来日、Billie Joe）" autocomplete="off">
+  <div id="list"><p class="loading">読み込み中…</p></div>
+  <button id="more" hidden>もっと見る</button>
+</main>
+
+<footer>
+  <p>Green Day と、Blink-182・The Offspring・Rancid・Bad Religion をはじめとする周辺バンドのニュースを国内外から自動収集し、日本語の見出し・要約・解説を機械生成しています。いずれも原文の翻訳ではありません。正確な内容は必ず出典元の記事をご確認ください。原文そのものを日本語で読みたいときは、各記事の「日本語で原文を読む」からGoogle翻訳が開きます。</p>
+  <p>公演日程・チケットの発売日・リリース日は変わることがあります。参加や購入の前に、各バンドの公式サイトおよび主催者の告知をご確認ください。</p>
+  <p>サムネイルは各媒体が配信データ（RSS・OGP）で公開している画像を、出典と原文リンクを添えて表示しています。</p>
+  <p>このサイトは個人が運営する非公式のニュースまとめで、掲載している各アーティスト・レーベル・事務所とは関係ありません。記事および画像の著作権は各媒体に帰属します。掲載の停止をご希望の媒体様はリポジトリのIssueよりご連絡ください。</p>
+  <p id="sources"></p>
+</footer>
+
+<script>
+const PAGE_SIZE = 30;
+let all = [], filtered = [], shown = 0;
+let scope = "all", band = "all", category = "all", query = "";
+
+// 画像が取れなかった記事に置く代わりの絵。カテゴリごとに変える。
+const MARKS = {
+  "新曲・新作": "💿",
+  "ライブ・ツアー": "🎫",
+  "フェス出演": "🎪",
+  "メンバー・発言": "🎤",
+  "再結成・メンバー変更": "🤝",
+  "再発・記念盤": "📀",
+  "映像・映画・書籍": "🎬",
+  "チャート・受賞": "🏆",
+};
+
+const fmt = new Intl.DateTimeFormat("ja-JP", {
+  month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", timeZone: "Asia/Tokyo"
+});
+
+function relative(iso) {
+  const then = new Date(iso), diff = (Date.now() - then) / 1000;
+  if (diff < 3600) return `${Math.max(1, Math.floor(diff / 60))}分前`;
+  if (diff < 86400) return `${Math.floor(diff / 3600)}時間前`;
+  if (diff < 604800) return `${Math.floor(diff / 86400)}日前`;
+  return fmt.format(then);
+}
+
+// Google翻訳を通した原文ページ。1タップで日本語の全文が読める。
+function translated(url) {
+  return "https://translate.google.com/translate?sl=auto&tl=ja&u=" + encodeURIComponent(url);
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+function matchesScope(item) {
+  if (scope === "all") return true;
+  if (scope === "japan") return item.japan === true;
+  return item.region === scope;
+}
+
+function apply() {
+  const q = query.trim().toLowerCase();
+  filtered = all.filter(item => {
+    if (!matchesScope(item)) return false;
+    if (band !== "all" && (item.band || "その他") !== band) return false;
+    if (category !== "all" && item.category !== category) return false;
+    if (q) {
+      const hay = `${item.title_ja} ${item.summary_ja} ${item.title_original} ${item.source} ${item.band || ""} ${(item.artists || []).join(" ")}`.toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+  shown = 0;
+  document.getElementById("list").innerHTML = "";
+  render();
+}
+
+function render() {
+  const list = document.getElementById("list");
+  const slice = filtered.slice(shown, shown + PAGE_SIZE);
+  if (!filtered.length) {
+    list.innerHTML = '<p class="empty">該当する記事がありません</p>';
+    document.getElementById("more").hidden = true;
+    return;
+  }
+  list.insertAdjacentHTML("beforeend", slice.map((item, i) => {
+    // 先頭と「注目」の記事だけ大きい画像にして、一覧に緩急をつける。
+    const hero = shown + i === 0 || item.importance >= 4;
+    const meta = `
+        <div class="meta">
+          ${item.importance >= 4 ? '<span class="badge">注目</span>' : ""}
+          <span class="band">${escapeHtml(item.band || "その他")}</span>
+          <span class="tag">${escapeHtml(item.category)}</span>
+          ${item.japan ? '<span class="jp">🎌 日本</span>' : ""}
+          <span class="flag">${item.region === "jp" ? "🇯🇵" : "🌍"}</span>
+          <span>${escapeHtml(item.source)}</span>
+          <span>・${relative(item.published)}</span>
+        </div>`;
+    const title = `<h2>${escapeHtml(item.title_ja)}</h2>`;
+    // 画像が無い記事、読み込みに失敗した記事は同じ大きさの代替の絵に差し替える。
+    // 失敗したときの差し替えは下の error ハンドラが受け持つ（data-ph が代わりの絵）。
+    const mark = MARKS[item.category] || "🎸";
+    const img = cls => item.image
+      ? `<img class="${cls}" src="${escapeHtml(item.image)}" alt="" loading="lazy" decoding="async"
+             referrerpolicy="no-referrer" data-ph="${mark}">`
+      : `<div class="${cls} ph">${mark}</div>`;
+    const head = hero
+      ? `${img("hero")}${meta}${title}`
+      // 出典と時刻は幅いっぱいに置き、見出しだけサムネイルと並べる。
+      : `${meta}<div class="row"><div class="body">${title}</div>${img("thumb")}</div>`;
+    // 記事に出てくる他のバンド名。押すと検索に入る。
+    const artists = (item.artists || []).length
+      ? `<div class="artists">${item.artists.map(a => `<span class="artist">${escapeHtml(a)}</span>`).join("")}</div>`
+      : "";
+    // 解説があれば詳細ページへ。無い記事は（英語なら翻訳済みの）原文へ直接飛ばす。
+    const target = item.has_detail
+      ? { href: `a.html?id=${encodeURIComponent(item.id)}`, blank: false, label: "詳しく読む →" }
+      : (item.lang === "ja"
+          ? { href: item.url, blank: true, label: "元の記事を読む →" }
+          : { href: translated(item.url), blank: true, label: "日本語で原文を読む →" });
+    return `
+    <article>
+      <a href="${escapeHtml(target.href)}"${target.blank ? ' target="_blank" rel="noopener noreferrer"' : ""}>
+        ${head}
+        <p class="summary">${escapeHtml(item.summary_ja)}</p>
+        ${artists}
+        <span class="src">${target.label}</span>
+      </a>
+    </article>`;
+  }).join(""));
+  shown += slice.length;
+  document.getElementById("more").hidden = shown >= filtered.length;
+}
+
+// 該当0件のチップは押しても空になるだけなので、そもそも出さない。
+function buildChips(boxId, attr, current, defs) {
+  document.getElementById(boxId).innerHTML = defs
+    .filter(d => d.key === "all" || all.some(d.match))
+    .map(d => `<button class="chip" data-${attr}="${escapeHtml(d.key)}" aria-pressed="${d.key === current}">${d.label}</button>`)
+    .join("");
+}
+
+function buildAll(categories, bands) {
+  const usedCategories = new Set(all.map(i => i.category));
+  if (category !== "all" && !usedCategories.has(category)) category = "all";
+  buildChips("scopeFilters", "scope", scope, [
+    { key: "all", label: "すべて", match: () => true },
+    { key: "japan", label: "🎌 日本の話題", match: i => i.japan === true },
+    { key: "global", label: "🌍 海外メディア", match: i => i.region === "global" },
+    { key: "jp", label: "🇯🇵 国内メディア", match: i => i.region === "jp" },
+  ]);
+  buildChips("bandFilters", "band", band, [{ key: "all", label: "全バンド", match: () => true }]
+    .concat(bands.map(b => ({ key: b, label: b, match: i => (i.band || "その他") === b }))));
+  buildChips("categoryFilters", "category", category, [{ key: "all", label: "全カテゴリ", match: () => true }]
+    .concat(categories.map(c => ({ key: c, label: c, match: i => i.category === c }))));
+}
+
+// チップは読み込みのたびに作り直すので、クリックは親側で1度だけ受ける。
+function chipHandler(attr, setValue) {
+  return e => {
+    const btn = e.target.closest(`[data-${attr}]`);
+    if (!btn) return;
+    setValue(btn.dataset[attr]);
+    e.currentTarget.querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", String(c === btn)));
+    apply();
+  };
+}
+
+document.getElementById("scopeFilters").addEventListener("click", chipHandler("scope", v => { scope = v; }));
+document.getElementById("bandFilters").addEventListener("click", chipHandler("band", v => { band = v; }));
+document.getElementById("categoryFilters").addEventListener("click", chipHandler("category", v => { category = v; }));
+
+document.getElementById("more").addEventListener("click", render);
+
+// 画像のURLが切れていたら、同じ大きさの代わりの絵に置き換える（穴を空けない）。
+// 読み込めても極端に小さい画像は「いいね」ボタンなどの部品なので同じ扱いにする。
+// error / load は親まで上がってこないので、捕捉フェーズで受ける。
+function replaceWithPlaceholder(img) {
+  const box = document.createElement("div");
+  box.className = `${img.className} ph`;
+  box.textContent = img.dataset.ph || "🎸";
+  img.replaceWith(box);
+}
+
+const listBox = document.getElementById("list");
+listBox.addEventListener("error", e => {
+  if (e.target instanceof HTMLImageElement) replaceWithPlaceholder(e.target);
+}, true);
+listBox.addEventListener("load", e => {
+  const img = e.target;
+  if (img instanceof HTMLImageElement && img.naturalWidth && img.naturalWidth < 200) {
+    replaceWithPlaceholder(img);
+  }
+}, true);
+
+// バンド名のタグを押したら、その名前で絞り込む。
+listBox.addEventListener("click", e => {
+  const tag = e.target.closest(".artist");
+  if (!tag) return;
+  e.preventDefault();
+  const box = document.getElementById("search");
+  box.value = query = tag.textContent;
+  apply();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+});
+
+let timer;
+document.getElementById("search").addEventListener("input", e => {
+  clearTimeout(timer);
+  query = e.target.value;
+  timer = setTimeout(apply, 180);
+});
+
+async function load() {
+  try {
+    const res = await fetch(`articles.json?t=${Date.now()}`, { cache: "no-store" });
+    const data = await res.json();
+    all = data.items || [];
+    document.getElementById("updated").textContent = data.updated_at ? `更新 ${relative(data.updated_at)}` : "";
+    document.getElementById("sources").textContent = "収集元: " + (data.sources || []).join("、");
+    buildAll(data.categories || [], data.bands || []);
+    apply();
+  } catch (err) {
+    document.getElementById("list").innerHTML = '<p class="empty">記事を読み込めませんでした。時間をおいて再読み込みしてください。</p>';
+  }
+}
+
+load();
+// ホーム画面から復帰したときに最新へ追従する。
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "visible") load();
+});
+</script>
+</body>
+</html>
