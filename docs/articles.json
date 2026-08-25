@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T03:50:59.589224+09:00",
+ "updated_at": "2026-08-25T10:41:41.035840+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -22,6 +22,7 @@
  ],
  "sources": [
   "95.9 The Rat",
+  "AZ Big Media",
   "Boston's ROCK 92.9",
   "Central Oregon Daily",
   "Consequence",
@@ -40,12 +41,14 @@
   "Rolling Stone",
   "Rolling Stone Australia",
   "Santa Clarita Valley Signal",
+  "Stephen Thomas Erlewine | Substack",
   "That Eric Alper",
   "The Detroit News",
   "The Guardian",
   "The Line of Best Fit",
   "The Oakland Press",
   "The PRP",
+  "The Wenatchee World",
   "Tullahoma News",
   "antiMusic",
   "chorus.fm",
@@ -53,9 +56,49 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 35,
- "detail_count": 21,
+ "count": 38,
+ "detail_count": 24,
  "items": [
+  {
+   "id": "676b0134983299c9",
+   "url": "https://azbigmedia.com/lifestyle/see-my-chemical-romance-in-phoenix",
+   "title_original": "See My Chemical Romance in Phoenix",
+   "source": "AZ Big Media",
+   "image": "https://azbigmedia.com/wp-content/uploads/2026/08/My-Chemical-romance.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-24T21:00:00+00:00",
+   "title_ja": "My Chemical Romanceのフェニックス公演情報",
+   "summary_ja": "My Chemical Romanceのフェニックス公演に関する海外メディアの案内記事。詳細なライブ情報は本文を参照のこと。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "781409ef2fbb3298",
+   "url": "https://sterlewine.substack.com/p/weezer-weezer-gold-album",
+   "title_original": "Weezer, Weezer (Gold Album)",
+   "source": "Stephen Thomas Erlewine | Substack",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-24T20:17:24+00:00",
+   "title_ja": "Weezerの「Weezer (Gold Album)」に注目",
+   "summary_ja": "Weezerの作品『Weezer (Gold Album)』を取り上げた音楽批評コラム。詳細なアルバムの内容は触れられていない。",
+   "category": "新曲・新作",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "928f71ccbd9619e8",
    "url": "https://www.forbes.com/sites/hughmcintyre/2026/08/24/my-chemical-romance-surges-on-the-charts-as-another-tour-leg-begins",
@@ -74,7 +117,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "adc56f30cc0f5fdb",
@@ -94,7 +137,29 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "d1c6b9f2c8e03e62",
+   "url": "https://www.wenatcheeworld.com/go/music/3-2-1-new-music-monday-weezer-brandon-flowers-and-sam-smith/article_051df28e-4fbf-4950-8329-201c16047bb1.html",
+   "title_original": "3, 2, 1 New Music Monday: Weezer, Brandon Flowers and Sam Smith",
+   "source": "The Wenatchee World",
+   "image": "https://bloximages.newyork1.vip.townnews.com/wenatcheeworld.com/content/tncms/assets/v3/editorial/0/51/051df28e-4fbf-4950-8329-201c16047bb1/6a8c6ab333e09.preview.png?crop=1594%2C837%2C0%2C55&resize=1200%2C630&order=crop%2Cresize",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-24T16:00:00+00:00",
+   "title_ja": "WeezerやBrandon Flowersらの新曲を紹介",
+   "summary_ja": "月曜日の新譜紹介コーナーで、WeezerやBrandon Flowers、Sam Smithの新曲を取り上げている。",
+   "category": "新曲・新作",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "Brandon Flowers",
+    "Sam Smith"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "a6fa181990414353",
@@ -155,7 +220,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "80836364563f7092",
