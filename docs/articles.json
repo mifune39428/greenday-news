@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T21:59:51.874087+09:00",
+ "updated_at": "2026-08-26T03:49:12.263136+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -43,6 +43,7 @@
   "Rolling Stone",
   "Rolling Stone Australia",
   "Santa Clarita Valley Signal",
+  "Showbiz by PS",
   "SiriusXM",
   "Stephen Thomas Erlewine | Substack",
   "TVGuide.co.uk",
@@ -60,8 +61,8 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 41,
- "detail_count": 26,
+ "count": 42,
+ "detail_count": 27,
  "items": [
   {
    "id": "3d16e0f55c988666",
@@ -445,6 +446,26 @@
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "ec5234c32f96005f",
+   "url": "https://www.showbizbyps.com/music/weezer-weezer-gold-album-review",
+   "title_original": "Album Review: Weezer \"Weezer (Gold Album)\"",
+   "source": "Showbiz by PS",
+   "image": "http://static1.squarespace.com/static/66cdc9eb6f30f85816e87814/66cdcfe4c0d6056659cb3156/6a8861a6c75f68782e5f5be9/1787323312588/2026-08-21+17.32.51.jpg?format=1500w",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-21T14:33:10+00:00",
+   "title_ja": "Weezerのアルバム『Weezer (Gold Album)』レビュー",
+   "summary_ja": "Weezerの新作アルバム『Weezer (Gold Album)』の内容や魅力を掘り下げるアルバムレビュー記事。",
+   "category": "新曲・新作",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
    ],
    "japan": false,
    "importance": 3,
