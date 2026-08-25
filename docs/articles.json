@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T10:41:41.035840+09:00",
+ "updated_at": "2026-08-25T15:58:57.871728+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -16,6 +16,7 @@
   "Sum 41",
   "Weezer",
   "My Chemical Romance",
+  "Fall Out Boy",
   "Paramore",
   "Rise Against",
   "The Linda Lindas"
@@ -36,12 +37,15 @@
   "MediaPost",
   "NME",
   "Orlando Sentinel",
+  "Pioneer Press",
   "Pitchfork",
   "Rock Cellar Magazine",
   "Rolling Stone",
   "Rolling Stone Australia",
   "Santa Clarita Valley Signal",
+  "SiriusXM",
   "Stephen Thomas Erlewine | Substack",
+  "TVGuide.co.uk",
   "That Eric Alper",
   "The Detroit News",
   "The Guardian",
@@ -56,9 +60,49 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 38,
- "detail_count": 24,
+ "count": 41,
+ "detail_count": 26,
  "items": [
+  {
+   "id": "3d16e0f55c988666",
+   "url": "https://www.twincities.com/2026/08/24/concert-review-my-chemical-romance-target-field",
+   "title_original": "Concert review: My Chemical Romance create art rock spectacle at Target Field",
+   "source": "Pioneer Press",
+   "image": "https://www.twincities.com/wp-content/uploads/2026/08/STP-L-CHEMICAL-ROMANCE-0826-e1787630552859.jpg?w=5148&h=3432",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-25T04:00:24+00:00",
+   "title_ja": "My Chemical Romanceがターゲット・フィールド公演で魅せたアートロックのスペクタクル",
+   "summary_ja": "My Chemical Romanceがターゲット・フィールドで行ったライブのコンサートレビュー。圧倒的なアートロックの世界観で観客を魅了した。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "1938616f4186427f",
+   "url": "https://www.tvguide.co.uk/schedule/a2c9ca1f-bb64-5d40-bda3-a1b4d51573dc/fall-out-boy-fan-favourites",
+   "title_original": "Fall Out Boy : Fan Favourites on NOW Rock: full details and when it's on",
+   "source": "TVGuide.co.uk",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-25T01:55:54+00:00",
+   "title_ja": "NOW RockでFall Out Boyのファン人気曲特集が放送",
+   "summary_ja": "音楽番組NOW RockにてFall Out Boyのファン投票による人気曲特集が放送されることが決定し、その詳細な放送スケジュールが発表された。",
+   "category": "その他",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "676b0134983299c9",
    "url": "https://azbigmedia.com/lifestyle/see-my-chemical-romance-in-phoenix",
@@ -97,14 +141,14 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "928f71ccbd9619e8",
    "url": "https://www.forbes.com/sites/hughmcintyre/2026/08/24/my-chemical-romance-surges-on-the-charts-as-another-tour-leg-begins",
    "title_original": "My Chemical Romance Surges On The Charts As Another Tour Leg Begins",
    "source": "Forbes",
-   "image": "",
+   "image": "https://imageio.forbes.com/specials-images/imageserve/6a8c679b6a73385e750a32b4/0x0.jpg?format=jpg&crop=4992,2808,x0,y0,safe&height=900&width=1600&fit=bounds",
    "lang": "en",
    "region": "global",
    "published": "2026-08-24T18:00:53+00:00",
@@ -833,6 +877,26 @@
    ],
    "japan": false,
    "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "11c2718c26c12b7b",
+   "url": "https://www.siriusxm.com/blog/nimrods-movie-soundtrack-green-day-idiot-nation",
+   "title_original": "Go Behind the Scenes of ‘NIMRODS’ and Hear the Soundtrack on Green Day’s Idiot Nation",
+   "source": "SiriusXM",
+   "image": "https://blog-admin.siriusxm.com/wp-content/uploads/2026/08/Nimrods_1GreenDay_6x9.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-12T15:08:44+00:00",
+   "title_ja": "Green DayのIdiot NationでNimrodの裏側に迫る",
+   "summary_ja": "ファンクラブ向けプラットフォームIdiot Nationにて、アルバム『Nimrod』の制作裏話やサウンドトラックに迫る特集が展開されている。",
+   "category": "その他",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
    "has_detail": true
   }
  ]
