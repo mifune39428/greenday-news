@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26T03:49:12.263136+09:00",
+ "updated_at": "2026-08-26T10:47:09.596464+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -51,6 +51,7 @@
   "The Detroit News",
   "The Guardian",
   "The Line of Best Fit",
+  "The Mosh Network",
   "The Oakland Press",
   "The PRP",
   "The Wenatchee World",
@@ -61,9 +62,30 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 42,
- "detail_count": 27,
+ "count": 43,
+ "detail_count": 28,
  "items": [
+  {
+   "id": "4ddda51e84eedb8c",
+   "url": "https://themosh.net/the-used-fall-us-tour-my-chemical-romance",
+   "title_original": "The Used Announce Fall U.S. Tour, Set Hollywood Bowl Show With My Chemical Romance",
+   "source": "The Mosh Network",
+   "image": "http://themosh.net/wp-content/uploads/2025/06/Bert-McCracken-The-Used.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-25T19:31:16+00:00",
+   "title_ja": "The Usedが秋の全米ツアーを発表、MCRとの共演も決定",
+   "summary_ja": "The Usedが秋に全米ツアーの開催を発表し、ハリウッド・ボウル公演ではMy Chemical Romanceとの共演を行うことが明らかになった。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "The Used",
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "3d16e0f55c988666",
    "url": "https://www.twincities.com/2026/08/24/concert-review-my-chemical-romance-target-field",
