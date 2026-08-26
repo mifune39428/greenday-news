@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26T22:05:26.080762+09:00",
+ "updated_at": "2026-08-27T04:56:21.702357+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -22,6 +22,7 @@
   "The Linda Lindas"
  ],
  "sources": [
+  "13thfloor.co.nz",
   "95.9 The Rat",
   "AZ Big Media",
   "Boston's ROCK 92.9",
@@ -29,13 +30,16 @@
   "Consequence",
   "Daily Sabah",
   "Detroit Metro Times",
+  "Exclaim!",
   "Far Out Magazine",
   "Forbes",
   "Guitar.com",
   "JamBase",
   "JoBlo",
+  "LancasterOnline",
   "MediaPost",
   "NME",
+  "NPR",
   "Orlando Sentinel",
   "Pioneer Press",
   "Pitchfork",
@@ -62,9 +66,112 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 43,
- "detail_count": 28,
+ "count": 48,
+ "detail_count": 31,
  "items": [
+  {
+   "id": "44bd95df35911ec0",
+   "url": "https://13thfloor.co.nz/weezer-weezer-gold-album-reprise-13th-floor-album-review",
+   "title_original": "Weezer – Weezer (Gold Album) (Reprise) (13th Floor Album Review)",
+   "source": "13thfloor.co.nz",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-26T19:43:43+00:00",
+   "title_ja": "Weezerの「Gold Album」に関するアルバム・レビュー",
+   "summary_ja": "音楽メディア13th FloorによるWeezerの『Gold Album』のアルバム・レビュー記事。",
+   "category": "新曲・新作",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "2c9a73ba2ef411f8",
+   "url": "https://www.thatericalper.com/2026/08/26/the-used-plot-west-coast-fall-tour-before-my-chemical-romance-hollywood-bowl-date",
+   "title_original": "The Used Plot West Coast Fall Tour Before My Chemical Romance Hollywood Bowl Date",
+   "source": "That Eric Alper",
+   "image": "https://www.thatericalper.com/wp-content/uploads/2026/08/download-43-2.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-26T18:34:21+00:00",
+   "title_ja": "The Usedが西海岸ツアーの開催を発表",
+   "summary_ja": "The Usedが、My Chemical Romanceとのハリウッド・ボウル公演を前に、秋の西海岸ツアーの開催を発表した。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "The Used",
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "d3880e85f67ceed0",
+   "url": "https://exclaim.ca/music/article/the-linda-lindas-gotta-get-out-album-review",
+   "title_original": "Anyone Who Still Doesn't Think the Linda Lindas Are the Real Deal Has 'Gotta Get Out'",
+   "source": "Exclaim!",
+   "image": "https://assets.exclaim.ca/image/upload/v1787760244/the_linda_lindas_gotta_get_out_edit_fe3abb80bb.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-26T16:05:06.569000+00:00",
+   "title_ja": "The Linda Lindasの新曲について語るExclaim!の記事",
+   "summary_ja": "The Linda Lindasの実力や楽曲についてExclaim!が報じた記事。",
+   "category": "新曲・新作",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "6eddbb96dac72f39",
+   "url": "https://www.npr.org/2026/08/26/nx-s1-5944563/paramores-hayley-williams-talks-about-dolly-partons-influence-on-her-musically-and-personally",
+   "title_original": "Paramore's Hayley Williams talks about Dolly Parton's influence on her musically and personally",
+   "source": "NPR",
+   "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-26T15:06:51+00:00",
+   "title_ja": "ParamoreのHayley WilliamsがDolly Partonの影響を語る",
+   "summary_ja": "ParamoreのHayley Williamsが、音楽的および個人的にDolly Partonから受けた影響について語った。",
+   "category": "メンバー・発言",
+   "band": "Paramore",
+   "artists": [
+    "Hayley Williams",
+    "Dolly Parton",
+    "Paramore"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "15faaee14664bff5",
+   "url": "https://lancasteronline.com/calendar/?_evDiscoveryPath=%2Fevent%2F108649130n-the-linda-lindas-power-to-the-people-2026",
+   "title_original": "LNP | LancasterOnline Events - The Linda Lindas: Power To The People 2026",
+   "source": "LancasterOnline",
+   "image": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/custom/image/93da4272-2b56-11eb-811c-8b16acf833b2.jpg?resize=600%2C315",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-26T09:00:00+00:00",
+   "title_ja": "The Linda Lindasが2026年にイベント出演",
+   "summary_ja": "The Linda Lindasが出演する2026年のイベント情報が掲載されています。",
+   "category": "ライブ・ツアー",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "4ddda51e84eedb8c",
    "url": "https://themosh.net/the-used-fall-us-tour-my-chemical-romance",
