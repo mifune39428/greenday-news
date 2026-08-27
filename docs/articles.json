@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-27T17:50:27.696676+09:00",
+ "updated_at": "2026-08-28T07:09:03.807880+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -13,17 +13,20 @@
  ],
  "bands": [
   "Green Day",
+  "Blink-182",
   "Sum 41",
   "Weezer",
   "My Chemical Romance",
   "Fall Out Boy",
   "Paramore",
   "Rise Against",
-  "The Linda Lindas"
+  "The Linda Lindas",
+  "その他"
  ],
  "sources": [
   "13thfloor.co.nz",
   "95.9 The Rat",
+  "9News",
   "AZ Big Media",
   "Boston's ROCK 92.9",
   "Central Oregon Daily",
@@ -57,6 +60,7 @@
   "The Daily Iowan",
   "The Detroit News",
   "The Guardian",
+  "The Guardian Nigeria News",
   "The Line of Best Fit",
   "The Mosh Network",
   "The Oakland Press",
@@ -65,13 +69,114 @@
   "Tullahoma News",
   "antiMusic",
   "chorus.fm",
+  "floodmagazine.com",
   "parade.com",
   "wecb.fm",
   "チバテレ"
  ],
- "count": 51,
- "detail_count": 34,
+ "count": 56,
+ "detail_count": 37,
  "items": [
+  {
+   "id": "ee37b799c6a151b2",
+   "url": "https://www.9news.com/article/life/style/colorado-guide/my-chemical-romance-denver-concert/73-7238d368-a1f3-4cbe-87d1-06870d3c4458",
+   "title_original": "My Chemical Romance brings 'Black Parade' tour to Denver's Coors Field",
+   "source": "9News",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T20:51:00+00:00",
+   "title_ja": "My Chemical Romance、デンバー公演を開催",
+   "summary_ja": "My Chemical Romanceが、クアーズ・フィールドでの公演を含む『Black Parade』ツアーをデンバーで実施する。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "af0582a7486a8b2f",
+   "url": "https://www.thatericalper.com/2026/08/27/green-day-turn-top-of-the-pops-into-a-punk-show-with-nine-minute-jesus-of-suburbia",
+   "title_original": "Green Day Turn ‘Top Of The Pops’ Into A Punk Show With Nine-Minute “Jesus Of Suburbia”",
+   "source": "That Eric Alper",
+   "image": "https://www.thatericalper.com/wp-content/uploads/2026/08/download-71-3.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T19:40:47+00:00",
+   "title_ja": "Green Day、番組で9分間の熱演を披露",
+   "summary_ja": "Green Dayがテレビ番組『Top Of The Pops』に出演し、9分に及ぶ「Jesus Of Suburbia」を演奏してパンク・ショーへと変貌させた。",
+   "category": "その他",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "6fb403cf831b0de8",
+   "url": "https://faroutmagazine.co.uk/the-linda-lindas-gotta-get-out-album-review",
+   "title_original": "The Linda Lindas – ‘Gotta Get Out’ album review: Wise zingers from the LA youngsters",
+   "source": "Far Out Magazine",
+   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/08/The-Linda-Lindas-–-‘Gotta-Get-Out-2026-Far-Out-Magazine.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T17:41:16+00:00",
+   "title_ja": "The Linda Lindasの新アルバムをレビュー",
+   "summary_ja": "LAの若手バンドThe Linda Lindasの新作アルバム『Gotta Get Out』について、鋭いユーモアと成熟した音楽性を称賛するレビューが掲載された。",
+   "category": "新曲・新作",
+   "band": "その他",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "5d46f87adb68add0",
+   "url": "https://floodmagazine.com/230622/the-linda-lindas-gotta-get-out",
+   "title_original": "The Linda Lindas, “Gotta Get Out”",
+   "source": "floodmagazine.com",
+   "image": "https://api.floodmagazine.com/wp-content/uploads/2026/08/The-Linda-Lindas-Gotta-Get-Out.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T16:17:31+00:00",
+   "title_ja": "The Linda Lindasが新譜『Gotta Get Out』を発表",
+   "summary_ja": "LA出身の若手バンドThe Linda Lindasが、新作アルバム『Gotta Get Out』の情報を公開している。",
+   "category": "新曲・新作",
+   "band": "その他",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "81dc041a3eb67053",
+   "url": "https://guardian.ng/tv/blink-182-california-band-return-with-new-record-nine",
+   "title_original": "Blink 182: California band return with new record ‘Nine’",
+   "source": "The Guardian Nigeria News",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T15:45:46+00:00",
+   "title_ja": "Blink-182、アルバム『Nine』でシーンへ帰還",
+   "summary_ja": "カリフォルニア出身のバンドBlink-182が、新作レコード『Nine』をひっさげてシーンへと戻ってきたことを伝えている。",
+   "category": "新曲・新作",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "dbbc972ecad2852c",
    "url": "https://dailyiowan.com/2026/08/26/review-weezer-is-a-conventional-rock-album-with-a-few-upbeat-highlights",
