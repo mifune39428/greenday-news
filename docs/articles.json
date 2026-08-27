@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-27T04:56:21.702357+09:00",
+ "updated_at": "2026-08-27T17:50:27.696676+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -43,6 +43,7 @@
   "Orlando Sentinel",
   "Pioneer Press",
   "Pitchfork",
+  "Racket MN",
   "Rock Cellar Magazine",
   "Rolling Stone",
   "Rolling Stone Australia",
@@ -51,7 +52,9 @@
   "SiriusXM",
   "Stephen Thomas Erlewine | Substack",
   "TVGuide.co.uk",
+  "Tarrant County College",
   "That Eric Alper",
+  "The Daily Iowan",
   "The Detroit News",
   "The Guardian",
   "The Line of Best Fit",
@@ -66,9 +69,29 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 48,
- "detail_count": 31,
+ "count": 51,
+ "detail_count": 34,
  "items": [
+  {
+   "id": "dbbc972ecad2852c",
+   "url": "https://dailyiowan.com/2026/08/26/review-weezer-is-a-conventional-rock-album-with-a-few-upbeat-highlights",
+   "title_original": "Review | “Weezer” is a conventional rock album with a few upbeat highlights",
+   "source": "The Daily Iowan",
+   "image": "https://dailyiowan.com/wp-content/uploads/2025/09/Headphones.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T02:32:25+00:00",
+   "title_ja": "Weezerのセルフタイトル作『Weezer』 レビュー、アップビートな楽曲が光るロック盤",
+   "summary_ja": "アルバム『Weezer』のレビュー記事。全体としてはオーソドックスなロックアルバムでありながらも、要所に配置されたアップビートで魅力的なハイライト曲が作品を引き立てていると評価されている。",
+   "category": "新曲・新作",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "44bd95df35911ec0",
    "url": "https://13thfloor.co.nz/weezer-weezer-gold-album-reprise-13th-floor-album-review",
@@ -90,6 +113,26 @@
    "has_detail": true
   },
   {
+   "id": "7295b6a6e30edd1f",
+   "url": "https://collegian.tccd.edu/56151/entertainment/weezer-sounds-revitalized-on-gold-album",
+   "title_original": "Weezer sounds revitalized on ‘Gold Album’",
+   "source": "Tarrant County College",
+   "image": "https://collegian.tccd.edu/wp-content/uploads/2026/08/weezer-lead-review.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-26T18:49:28+00:00",
+   "title_ja": "Weezerが『Gold Album』で活気を取り戻したサウンドを披露",
+   "summary_ja": "Weezerのアルバム『Gold Album』に関する記事。今作においてバンドが再び活力を取り戻し、リフレッシュされた充実のサウンドを響かせていると高く評価されている。",
+   "category": "新曲・新作",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "2c9a73ba2ef411f8",
    "url": "https://www.thatericalper.com/2026/08/26/the-used-plot-west-coast-fall-tour-before-my-chemical-romance-hollywood-bowl-date",
    "title_original": "The Used Plot West Coast Fall Tour Before My Chemical Romance Hollywood Bowl Date",
@@ -104,6 +147,26 @@
    "band": "My Chemical Romance",
    "artists": [
     "The Used",
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "870fc4509766197c",
+   "url": "https://racketmn.com/my-chemical-romance-carry-on-carrying-on-their-black-parade-at-target-field-minneapolis-mn",
+   "title_original": "My Chemical Romance Carry on Carrying on Their Black Parade at Target Field",
+   "source": "Racket MN",
+   "image": "https://lede-admin.racketmn.com/wp-content/uploads/sites/37/2026/08/Screenshot-2026-08-26-at-10.14.11-AM.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-26T16:07:26+00:00",
+   "title_ja": "My Chemical RomanceがTarget Fieldで『The Black Parade』公演を開催",
+   "summary_ja": "My Chemical RomanceがTarget Fieldで開催したライブのレポート。名盤『The Black Parade』を掲げたパフォーマンスを披露し、精力的なステージを展開している様子が伝えられている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
     "My Chemical Romance"
    ],
    "japan": false,
@@ -150,7 +213,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "15faaee14664bff5",
@@ -170,7 +233,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4ddda51e84eedb8c",
