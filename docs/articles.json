@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-28T07:09:03.807880+09:00",
+ "updated_at": "2026-08-28T20:03:13.557855+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -39,8 +39,11 @@
   "Guitar.com",
   "JamBase",
   "JoBlo",
+  "Knotfest",
+  "Lambgoat",
   "LancasterOnline",
   "MediaPost",
+  "Metalhead Zone",
   "NME",
   "NPR",
   "Orlando Sentinel",
@@ -50,6 +53,7 @@
   "Rock Cellar Magazine",
   "Rolling Stone",
   "Rolling Stone Australia",
+  "RouteNote",
   "Santa Clarita Valley Signal",
   "Showbiz by PS",
   "SiriusXM",
@@ -63,9 +67,11 @@
   "The Guardian Nigeria News",
   "The Line of Best Fit",
   "The Mosh Network",
+  "The Music Universe",
   "The Oakland Press",
   "The PRP",
   "The Wenatchee World",
+  "Tinnitist",
   "Tullahoma News",
   "antiMusic",
   "chorus.fm",
@@ -74,9 +80,91 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 56,
- "detail_count": 37,
+ "count": 62,
+ "detail_count": 43,
  "items": [
+  {
+   "id": "f86e5ece8beaed04",
+   "url": "https://lambgoat.com/news/54546/metallica-megadeth-fall-out-boy-and-more-added-to-stage-tour-track-list-of-playable-songs",
+   "title_original": "Metallica, Megadeth, Fall Out Boy and more added to 'Stage Tour' track list of playable songs",
+   "source": "Lambgoat",
+   "image": "https://lambgoat.com/cdn/2026/stage-tour-26-20260827224144.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-28T05:55:00+00:00",
+   "title_ja": "音楽ゲーム『Stage Tour』の収録曲にFall Out BoyやMetallicaらが追加",
+   "summary_ja": "音楽ゲーム『Stage Tour』のプレイ可能曲のトラックリストに、Fall Out BoyやMetallica、Megadethなどの楽曲が追加されることが決定した。",
+   "category": "その他",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy",
+    "Metallica",
+    "Megadeth"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "c804285b245a1fa1",
+   "url": "https://tinnitist.com/2026/08/27/albums-of-the-week-the-linda-lindas-gotta-get-out",
+   "title_original": "Albums Of The Week: The Linda Lindas | Gotta Get Out",
+   "source": "Tinnitist",
+   "image": "https://tinnitist.com/wp-content/uploads/2026/08/Linda-Lindas-Gotta-Get-Out.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-28T04:51:10+00:00",
+   "title_ja": "The Linda Lindasの『Gotta Get Out』が今週の注目アルバムに選出",
+   "summary_ja": "音楽メディアTinnitistの「今週のアルバム」コーナーにおいて、パンクロックバンドThe Linda Lindasの作品『Gotta Get Out』が注目の作品として紹介された。",
+   "category": "新曲・新作",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "5259354251641eae",
+   "url": "https://themusicuniverse.com/the-linda-lindas-share-everybody-told-me-video",
+   "title_original": "The Linda Lindas share ‘Everybody Told Me’ video",
+   "source": "The Music Universe",
+   "image": "https://themusicuniverse.com/wp-content/uploads/2026/08/lindalindas.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-28T04:43:56+00:00",
+   "title_ja": "The Linda Lindasが「Everybody Told Me」のMVを公開",
+   "summary_ja": "The Linda Lindasが、楽曲「Everybody Told Me」のミュージックビデオを新たに公開したことが明らかとなった。ファンに向けてオフィシャル映像が配信されている。",
+   "category": "映像・映画・書籍",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "31f5b7b32bbc1dab",
+   "url": "https://metalheadzone.com/weezer-weezer-album-review",
+   "title_original": "Weezer – Weezer (Album Review)",
+   "source": "Metalhead Zone",
+   "image": "https://metalheadzone.com/wp-content/uploads/2026/08/weezer-album-cover.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T22:14:45+00:00",
+   "title_ja": "Weezerのセルフタイトル・アルバム『Weezer』の作品レビューが掲載",
+   "summary_ja": "Metalhead Zoneにおいて、Weezerのセルフタイトル・アルバム『Weezer』に関する作品レビュー記事が公開された。バンドの名盤として改めてその魅力が紹介されている。",
+   "category": "その他",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "ee37b799c6a151b2",
    "url": "https://www.9news.com/article/life/style/colorado-guide/my-chemical-romance-denver-concert/73-7238d368-a1f3-4cbe-87d1-06870d3c4458",
@@ -95,7 +183,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "af0582a7486a8b2f",
@@ -138,6 +226,29 @@
    "has_detail": true
   },
   {
+   "id": "4772eb3493fcb0f2",
+   "url": "https://knotfest.com/blogs/news/stage-tour-to-feature-songs-from-metallica-slipknot-ghost-blink-182-and-more",
+   "title_original": "'Stage Tour' to Feature Songs from Metallica, Slipknot, Ghost, Blink-182 and More",
+   "source": "Knotfest",
+   "image": "http://knotfest.com/cdn/shop/articles/Untitled-1_7add7b33-2ef4-4803-9dbe-18fa1104b5a6_copy.jpg?v=1787863710",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T16:48:27+00:00",
+   "title_ja": "音楽ゲーム『Stage Tour』にBlink-182やMetallicaらの楽曲が収録決定",
+   "summary_ja": "Knotfestによると、音楽ゲーム『Stage Tour』の収録楽曲にBlink-182やMetallica、Slipknot、Ghostなどの楽曲が含まれることが決定した。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Metallica",
+    "Slipknot",
+    "Ghost"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
    "id": "5d46f87adb68add0",
    "url": "https://floodmagazine.com/230622/the-linda-lindas-gotta-get-out",
    "title_original": "The Linda Lindas, “Gotta Get Out”",
@@ -162,7 +273,7 @@
    "url": "https://guardian.ng/tv/blink-182-california-band-return-with-new-record-nine",
    "title_original": "Blink 182: California band return with new record ‘Nine’",
    "source": "The Guardian Nigeria News",
-   "image": "",
+   "image": "https://s3.eu-west-1.amazonaws.com/tv.guardian.ng/2024/06/Blink-182-California-band-return-with-new-record-Nine.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-08-27T15:45:46+00:00",
@@ -175,7 +286,30 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "139df0fd593f455d",
+   "url": "https://routenote.com/radar/louder-than-life-2026-lineup-my-chemical-romance-iron-maiden-tool-and-limp-bizkit",
+   "title_original": "Louder Than Life 2026 Lineup: My Chemical Romance, Iron Maiden, Tool and Limp Bizkit",
+   "source": "RouteNote",
+   "image": "https://routenote.com/radar/wp-content/uploads/2026/08/Louder-Than-Life-2026.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T09:00:29+00:00",
+   "title_ja": "Louder Than Life 2026にMy Chemical Romanceが出演へ",
+   "summary_ja": "フェス「Louder Than Life 2026」の出演ラインナップが発表され、My Chemical Romance、Iron Maiden、Tool、Limp Bizkitらの出演が明らかになった。",
+   "category": "フェス出演",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Iron Maiden",
+    "Tool",
+    "Limp Bizkit"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "dbbc972ecad2852c",
