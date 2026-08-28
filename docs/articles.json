@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-28T20:03:13.557855+09:00",
+ "updated_at": "2026-08-29T07:08:33.944796+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -14,6 +14,7 @@
  "bands": [
   "Green Day",
   "Blink-182",
+  "The Offspring",
   "Sum 41",
   "Weezer",
   "My Chemical Romance",
@@ -37,6 +38,7 @@
   "Far Out Magazine",
   "Forbes",
   "Guitar.com",
+  "Idaho Press",
   "JamBase",
   "JoBlo",
   "Knotfest",
@@ -45,6 +47,7 @@
   "MediaPost",
   "Metalhead Zone",
   "NME",
+  "NME Japan",
   "NPR",
   "Orlando Sentinel",
   "Pioneer Press",
@@ -80,9 +83,51 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 62,
- "detail_count": 43,
+ "count": 65,
+ "detail_count": 46,
  "items": [
+  {
+   "id": "2ff97e218ddf3451",
+   "url": "https://consequence.net/2026/08/the-offspring-cover-ramones-i-wanna-be-sedated",
+   "title_original": "The Offspring Unleash Cover of Ramones Classic “I Wanna Be Sedated”: Stream",
+   "source": "Consequence",
+   "image": "https://consequence.net/wp-content/uploads/2026/08/The-Offspring.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-28T20:00:43+00:00",
+   "title_ja": "The Offspringがラモーンズをカヴァー",
+   "summary_ja": "The Offspringがラモーンズの名曲「I Wanna Be Sedated」のカヴァー音源を公開した。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Ramones"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "86bf00106504e4a7",
+   "url": "https://nme-jp.com/news/171740",
+   "title_original": "オフスプリング、ラモーンズの“I Wanna Be Sedated”をカヴァーした音源が公開",
+   "source": "NME Japan",
+   "image": "https://nme-jp.com/nmesite/wp-content/uploads/2024/12/the-offspring-dexter-holland-pg-bauer-griffin-1-1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-28T10:30:28+00:00",
+   "title_ja": "オフスプリング、ラモーンズのカヴァー公開",
+   "summary_ja": "The Offspringによるラモーンズの「I Wanna Be Sedated」のカヴァー音源が公開された。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Ramones"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "f86e5ece8beaed04",
    "url": "https://lambgoat.com/news/54546/metallica-megadeth-fall-out-boy-and-more-added-to-stage-tour-track-list-of-playable-songs",
@@ -184,6 +229,26 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "3caa4bd73b03b35c",
+   "url": "https://www.idahopress.com/boiseweekly/music/music_reviews/music-review-weezers-self-titled-gold-album-delivers-faithful-nasal-power-pop/article_e076e8aa-ee88-5388-b826-8a03cb9bea49.html",
+   "title_original": "Music Review: Weezer's self-titled 'Gold Album' delivers faithful, nasal power pop",
+   "source": "Idaho Press",
+   "image": "https://bloximages.chicago2.vip.townnews.com/idahopress.com/content/tncms/assets/v3/editorial/6/14/6144757a-2c1d-4497-b887-2392a36267f7/6a8b3d1f503b7.image.jpg?crop=401%2C401%2C0%2C48&resize=200%2C200&order=crop%2Cresize",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T19:55:00+00:00",
+   "title_ja": "Weezerのセルフタイトル作をレビュー",
+   "summary_ja": "Weezerのセルフタイトル作『Gold Album』について、忠実で鼻にかかったパワーポップであると評されている。",
+   "category": "新曲・新作",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "af0582a7486a8b2f",
