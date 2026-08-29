@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-29T15:48:29.612882+09:00",
+ "updated_at": "2026-08-30T01:36:24.745916+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -28,6 +28,7 @@
   "13thfloor.co.nz",
   "95.9 The Rat",
   "9News",
+  "AD HOC NEWS",
   "AZ Big Media",
   "Boston's ROCK 92.9",
   "Central Oregon Daily",
@@ -42,6 +43,7 @@
   "JamBase",
   "JoBlo",
   "Knotfest",
+  "LAist",
   "Lambgoat",
   "LancasterOnline",
   "MediaPost",
@@ -65,6 +67,7 @@
   "Tarrant County College",
   "That Eric Alper",
   "The Daily Iowan",
+  "The Day",
   "The Detroit News",
   "The Guardian",
   "The Guardian Nigeria News",
@@ -83,9 +86,50 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 65,
- "detail_count": 46,
+ "count": 74,
+ "detail_count": 55,
  "items": [
+  {
+   "id": "f60660db870f0fad",
+   "url": "https://laist.com/brief/news/los-angeles-activities/linda-lindas-new-album-gotta-get-out",
+   "title_original": "The Linda Lindas",
+   "source": "LAist",
+   "image": "https://scpr.brightspotcdn.com/dims4/default/1e877e5/2147483647/strip/true/crop/4480x2520+0+194/resize/1200x675!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F04%2F77%2F47db95f14c4da5fd86b7bbae2126%2Fthe-linda-lindas-tour-photo-by-jaxon-whittington.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-29T12:59:34+00:00",
+   "title_ja": "The Linda Lindasが新作に向けて動き出す",
+   "summary_ja": "LAistが報じたThe Linda Lindasに関する記事。今後の活動や新作に向けた動向に注目が集まっている。",
+   "category": "新曲・新作",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "846077d4af3f2512",
+   "url": "https://theday.com/news/914545/blink-182s-travis-barker-almost-died-a-new-documentary-celebrates-his-life-before-and-after",
+   "title_original": "Blink-182's Travis Barker almost died. A new documentary celebrates his life before and after",
+   "source": "The Day",
+   "image": "http://d3gouztkx1c1lh.cloudfront.net/360_TheDay_Live/0/0/0/1/149/692/1149692_1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-29T12:00:00+00:00",
+   "title_ja": "Blink-182のTravis Barkerに迫るドキュメンタリー",
+   "summary_ja": "Blink-182のドラマーであるTravis Barkerの生死の危機を乗り越えた人生と、その前後の軌跡を祝う新しいドキュメンタリーが公開される。",
+   "category": "映像・映画・書籍",
+   "band": "Blink-182",
+   "artists": [
+    "Travis Barker",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "2ff97e218ddf3451",
    "url": "https://consequence.net/2026/08/the-offspring-cover-ramones-i-wanna-be-sedated",
@@ -520,6 +564,46 @@
    "detail_tries": 2
   },
   {
+   "id": "03f6b127122169d4",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/weezer-gold-album-and-the-gathering-world-tour/70004646",
+   "title_original": "Weezer - Gold Album and The Gathering world tour",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403767_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-26T14:41:10+00:00",
+   "title_ja": "Weezerがゴールドアルバムと世界ツアーを発表",
+   "summary_ja": "Weezerがゴールドアルバムのリリースと「The Gathering」ワールドツアーの開催を発表しました。",
+   "category": "新曲・新作",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "2f69c22bd55ac618",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/paramore-brand-new-eyes-returns-to-german-charts/70003761",
+   "title_original": "Paramore, Brand New Eyes returns to German charts",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403771_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-26T11:34:43+00:00",
+   "title_ja": "Paramoreの『Brand New Eyes』がドイツチャートに再浮上",
+   "summary_ja": "Paramoreのアルバム『Brand New Eyes』が、再びドイツのチャートにランクインを果たしました。",
+   "category": "チャート・受賞",
+   "band": "Paramore",
+   "artists": [
+    "Paramore"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "15faaee14664bff5",
    "url": "https://lancasteronline.com/calendar/?_evDiscoveryPath=%2Fevent%2F108649130n-the-linda-lindas-power-to-the-people-2026",
    "title_original": "LNP | LancasterOnline Events - The Linda Lindas: Power To The People 2026",
@@ -540,6 +624,26 @@
    "detail_tries": 2
   },
   {
+   "id": "c75b042812aa89d6",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/green-day-saviors-charts-and-2026-live-momentum/70002991",
+   "title_original": "Green Day - Saviors charts and 2026 live momentum",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403773_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-26T08:36:20+00:00",
+   "title_ja": "Green Day、Saviorsのチャート好調と2026年ツアーの勢い",
+   "summary_ja": "Green Dayのアルバム『Saviors』がチャートで好調を維持し、2026年のライブ活動も大きな盛り上がりを見せています。",
+   "category": "チャート・受賞",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "4ddda51e84eedb8c",
    "url": "https://themosh.net/the-used-fall-us-tour-my-chemical-romance",
    "title_original": "The Used Announce Fall U.S. Tour, Set Hollywood Bowl Show With My Chemical Romance",
@@ -558,6 +662,66 @@
    ],
    "japan": false,
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "30b437fcdae1ba2e",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/blink-182-working-on-new-album-as-2027-berlin-show-set/70000847",
+   "title_original": "Blink-182 working on new album as 2027 Berlin show set",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403803_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-25T18:04:25+00:00",
+   "title_ja": "Blink-182が新作アルバムの制作を開始、2027年ベルリン公演も決定",
+   "summary_ja": "Blink-182が新しいアルバムの制作に取り組んでおり、同時に2027年のベルリン公演の開催も発表されました。",
+   "category": "新曲・新作",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "66cfdd5308bfd28b",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/green-day-extend-saviors-tour-with-2026-german-stadium-and-arena-dates/69999314",
+   "title_original": "Green Day extend Saviors tour with 2026 German stadium and arena dates",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403776_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-25T13:05:39+00:00",
+   "title_ja": "Green Day、2026年のドイツ公演日程を追加発表",
+   "summary_ja": "Green Dayは「Saviors Tour」の一環として、2026年にドイツのスタジアムおよびアリーナ公演を追加することを発表しました。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "33bc233ce6d19022",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/fall-out-boy-streaming-catalog-tops-14-4-billion-spotify-plays/69997785",
+   "title_original": "Fall Out Boy streaming catalog tops 14.4 billion Spotify plays",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403836_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-25T07:48:39+00:00",
+   "title_ja": "Fall Out Boyの全カタログ、Spotify再生数が140億回を突破",
+   "summary_ja": "Fall Out BoyのSpotifyにおける全カタログの総再生回数が14.4億回を突破したことが明らかになった。長年にわたる楽曲が世界中のファンに聴かれ続けている。",
+   "category": "チャート・受賞",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -639,6 +803,26 @@
    "japan": false,
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "bb8db85dbdb10bfc",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/green-day-chart-momentum-in-germany-with-saviors/69995367",
+   "title_original": "Green Day chart momentum in Germany with Saviors",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403839_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-24T18:57:34+00:00",
+   "title_ja": "Green Day、アルバム『Saviors』がドイツでチャート躍進",
+   "summary_ja": "Green Dayの最新アルバム『Saviors』が、ドイツの音楽チャートで引き続き強い勢いを見せている。現地での根強い人気とセールスの好調さがうかがえる結果となっている。",
+   "category": "チャート・受賞",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "928f71ccbd9619e8",
