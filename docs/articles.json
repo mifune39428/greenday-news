@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-30T14:01:09.490609+09:00",
+ "updated_at": "2026-08-30T20:44:14.883745+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -51,7 +51,9 @@
   "NME",
   "NME Japan",
   "NPR",
+  "Oh No They Didn't! — LiveJournal",
   "Orlando Sentinel",
+  "PUNKLOID",
   "Pioneer Press",
   "Pitchfork",
   "Racket MN",
@@ -86,9 +88,30 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 75,
- "detail_count": 55,
+ "count": 77,
+ "detail_count": 56,
  "items": [
+  {
+   "id": "e9a8caa4a82257b3",
+   "url": "https://www.punkloid.com/news/the-offspring-ramones-i-wanna-be-sedated",
+   "title_original": "The Offspring、Ramones「I Wanna Be Sedated」を再カバー ライブで演奏してきた名曲を新たにスタジオ録音",
+   "source": "PUNKLOID",
+   "image": "https://www.punkloid.com/wp-content/uploads/2026/08/The-Offspring-Ramones-classic-I-Wanna-Be-Sedated-1024x576.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-30T09:53:02+00:00",
+   "title_ja": "The OffspringがRamonesの「I Wanna Be Sedated」をスタジオ録音でカバー",
+   "summary_ja": "The Offspringが、これまでライブで演奏してきたRamonesの名曲「I Wanna Be Sedated」を新たにスタジオ録音してカバーしました。ライブでの定番曲が公式のスタジオ音源として公開されています。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Ramones"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "3ba968f48de68486",
    "url": "https://parade.com/news/1978-rock-song-named-one-of-the-greatest-of-all-time-revived-by-the-offspring",
@@ -107,7 +130,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f60660db870f0fad",
@@ -149,6 +172,26 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "0314e6ce80dc1111",
+   "url": "https://ohnotheydidnt.livejournal.com/132788436.html",
+   "title_original": "The Linda Lindas' new album Gotta Get Out is here!",
+   "source": "Oh No They Didn't! — LiveJournal",
+   "image": "https://l-files.livejournal.net/og_image/3616053/518704?v=1787933087",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-29T03:45:00+00:00",
+   "title_ja": "The Linda Lindasのニューアルバム『Gotta Get Out』がリリース",
+   "summary_ja": "The Linda Lindasのニューアルバム『Gotta Get Out』がリリースされました。バンドの最新作となる本作がついにリスナーのもとへ届けられました。",
+   "category": "新曲・新作",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 5,
+   "detail_tries": 1
   },
   {
    "id": "2ff97e218ddf3451",
