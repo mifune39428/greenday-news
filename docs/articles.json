@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-30T20:44:14.883745+09:00",
+ "updated_at": "2026-08-31T01:31:35.374221+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -88,9 +88,32 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 77,
- "detail_count": 56,
+ "count": 78,
+ "detail_count": 57,
  "items": [
+  {
+   "id": "574c262bb308b62c",
+   "url": "https://routenote.com/radar/aftershock-2026-lineup-my-chemical-romance-tool-limp-bizkit-and-pierce-the-veil",
+   "title_original": "Aftershock 2026 Lineup: My Chemical Romance, Tool, Limp Bizkit and Pierce The Veil",
+   "source": "RouteNote",
+   "image": "https://routenote.com/radar/wp-content/uploads/2026/08/aftershock-festival.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-30T10:15:23+00:00",
+   "title_ja": "Aftershock 2026のラインナップにMy Chemical Romanceらが決定",
+   "summary_ja": "2026年開催の音楽フェス「Aftershock」の出演アーティストが発表され、My Chemical Romanceをはじめ、Tool、Limp Bizkit、Pierce The Veilらがヘッドライナーや主要アクトとして名を連ねた。",
+   "category": "フェス出演",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Tool",
+    "Limp Bizkit",
+    "Pierce The Veil"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "e9a8caa4a82257b3",
    "url": "https://www.punkloid.com/news/the-offspring-ramones-i-wanna-be-sedated",
@@ -191,7 +214,7 @@
    ],
    "japan": false,
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2ff97e218ddf3451",
