@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-31T01:31:35.374221+09:00",
+ "updated_at": "2026-08-31T05:54:04.841282+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -51,6 +51,7 @@
   "NME",
   "NME Japan",
   "NPR",
+  "NextMosh",
   "Oh No They Didn't! — LiveJournal",
   "Orlando Sentinel",
   "PUNKLOID",
@@ -84,13 +85,35 @@
   "antiMusic",
   "chorus.fm",
   "floodmagazine.com",
+  "mxdwn Music",
   "parade.com",
   "wecb.fm",
   "チバテレ"
  ],
- "count": 78,
- "detail_count": 57,
+ "count": 80,
+ "detail_count": 58,
  "items": [
+  {
+   "id": "b105cd0051ec58a7",
+   "url": "https://nextmosh.com/the-offspring-release-cover-of-ramones-i-wanna-be-sedated",
+   "title_original": "The Offspring release cover of Ramones’ ‘I Wanna Be Sedated’",
+   "source": "NextMosh",
+   "image": "https://nextmosh.com/wp-content/uploads/2026/08/The_Offspring_2025.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-30T14:47:11+00:00",
+   "title_ja": "The OffspringがRamonesの名曲カバーをリリース",
+   "summary_ja": "The OffspringがRamonesの「I Wanna Be Sedated」のカバー楽曲を新たにリリースした。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Ramones"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "574c262bb308b62c",
    "url": "https://routenote.com/radar/aftershock-2026-lineup-my-chemical-romance-tool-limp-bizkit-and-pierce-the-veil",
@@ -154,6 +177,26 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "9e4cbfa6fec9a392",
+   "url": "https://music.mxdwn.com/2026/08/29/news/the-linda-lindas-release-music-video-for-everybody-told-me",
+   "title_original": "The Linda Lindas Release Music Video For “Everybody Told Me”",
+   "source": "mxdwn Music",
+   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2024/10/LindaLindas_20241011_11.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-29T19:13:10+00:00",
+   "title_ja": "The Linda Lindasが新曲のミュージックビデオを公開",
+   "summary_ja": "The Linda Lindasが「Everybody Told Me」のミュージックビデオを新たに公開した。",
+   "category": "新曲・新作",
+   "band": "その他",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "f60660db870f0fad",
