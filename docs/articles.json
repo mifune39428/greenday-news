@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-30T05:49:18.250214+09:00",
+ "updated_at": "2026-08-30T14:01:09.490609+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -86,9 +86,29 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 74,
+ "count": 75,
  "detail_count": 55,
  "items": [
+  {
+   "id": "3ba968f48de68486",
+   "url": "https://parade.com/news/1978-rock-song-named-one-of-the-greatest-of-all-time-revived-by-the-offspring",
+   "title_original": "1978 Rock Song, Named One of the ‘Greatest of All Time,’ Revived by the Offspring",
+   "source": "parade.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-29T20:50:21+00:00",
+   "title_ja": "The Offspringが1978年の名曲ロックナンバーをカバー",
+   "summary_ja": "The Offspringが、史上最高の名曲の一つと称される1978年のロック楽曲を新たに蘇らせました。バンドによるカバーの動向として注目を集めています。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "f60660db870f0fad",
    "url": "https://laist.com/brief/news/los-angeles-activities/linda-lindas-new-album-gotta-get-out",
