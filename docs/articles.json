@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-31T14:08:23.753256+09:00",
+ "updated_at": "2026-08-31T22:23:48.061966+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -28,8 +28,10 @@
   "13thfloor.co.nz",
   "95.9 The Rat",
   "9News",
+  "ABC News & Headlines – Australian Broadcasting Corporation",
   "AD HOC NEWS",
   "AZ Big Media",
+  "BLABBERMOUTH.NET",
   "Boston's ROCK 92.9",
   "Central Oregon Daily",
   "Consequence",
@@ -85,14 +87,103 @@
   "antiMusic",
   "chorus.fm",
   "floodmagazine.com",
+  "lmusic.tokyo",
   "mxdwn Music",
   "parade.com",
   "wecb.fm",
+  "شبكة تواصل الإخبارية",
   "チバテレ"
  ],
- "count": 80,
- "detail_count": 58,
+ "count": 84,
+ "detail_count": 61,
  "items": [
+  {
+   "id": "71617e54a358156f",
+   "url": "https://twaslnews1.twaslnews.com/4520126",
+   "title_original": "Watch Green Day’s Billie Joe Armstrong, Blink-182’s Travis Barker and more lead all-star Ramones tribute band The Cretin Family for official 50th anniversary show",
+   "source": "شبكة تواصل الإخبارية",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-31T09:12:44+00:00",
+   "title_ja": "Billie Joe ArmstrongらがRamones50周年記念公演で特別バンドを結成し演奏",
+   "summary_ja": "Green DayのBillie Joe ArmstrongやBlink-182のTravis Barkerらが、Ramonesの公式50周年記念公演のために特別バンド「The Cretin Family」を結成して出演。そのライブパフォーマンスの映像が公開された。",
+   "category": "映像・映画・書籍",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Travis Barker",
+    "The Cretin Family",
+    "Ramones"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "b888507efdf45e30",
+   "url": "https://blabbermouth.net/news/watch-billie-joe-armstrong-travis-barker-tim-armstrong-and-cj-ramone-perform-at-official-ramones-50th-anniversary-tribute",
+   "title_original": "Watch: BILLIE JOE ARMSTRONG, TRAVIS BARKER, TIM ARMSTRONG And CJ RAMONE Perform At Official RAMONES 50th-Anniversary Tribute",
+   "source": "BLABBERMOUTH.NET",
+   "image": "https://assets.blabbermouth.net/media/cretinfamilyaug2026_638.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-31T08:32:41+00:00",
+   "title_ja": "Billie Joe ArmstrongやTravis BarkerらがRamones50周年トリビュートで共演",
+   "summary_ja": "Ramonesの結成50周年を記念した公式トリビュート公演が開催され、Green DayのBillie Joe Armstrong、Blink-182のTravis Barker、RancidのTim Armstrong、CJ Ramoneらが共演した。そのパフォーマンス映像が公開されている。",
+   "category": "映像・映画・書籍",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Travis Barker",
+    "Tim Armstrong",
+    "CJ Ramone"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "64f9a24ea94ba348",
+   "url": "https://www.abc.net.au/rage/guest/my-chemical-romance-guest-program-rage-2006-/107099754",
+   "title_original": "My Chemical Romance guest program rage (2006)",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "image": "https://live-production.wcms.abc-cdn.net.au/736033361843d9159ec6948c2dd4112e?impolicy=wcms_crop_resize&cropH=1048&cropW=1864&xPos=28&yPos=32&width=862&height=485&imformat=generic",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-31T06:30:00+00:00",
+   "title_ja": "My Chemical Romanceが2006年に出演した豪音楽番組「rage」の話題",
+   "summary_ja": "My Chemical Romanceが2006年にゲストプログラマーとして出演した、オーストラリアの音楽番組「rage」に関するアーカイブ情報。当時のメンバーによる番組の選曲や出演時の様子が紹介されている。",
+   "category": "映像・映画・書籍",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 1,
+   "has_detail": true
+  },
+  {
+   "id": "8d62c23c97feb4a8",
+   "url": "https://lmusic.tokyo/news/313184",
+   "title_original": "Tré Cool、Glastonbury Festivalに出演したいかどうかについて語る",
+   "source": "lmusic.tokyo",
+   "image": "https://lmusic.tokyo/wp-content/uploads/2026/08/Tre-Cool.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-31T05:50:18+00:00",
+   "title_ja": "Tré Cool、Glastonbury Festivalへの出演意欲について語る",
+   "summary_ja": "Green DayのドラマーであるTré Coolが、イギリスを代表する音楽フェスティバル「Glastonbury Festival」に出演したいかどうかについて、自身の考えや思いを語った。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Tré Cool",
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "b105cd0051ec58a7",
    "url": "https://nextmosh.com/the-offspring-release-cover-of-ramones-i-wanna-be-sedated",
