@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02T01:27:16.105839+09:00",
+ "updated_at": "2026-09-02T05:55:03.293658+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -15,6 +15,7 @@
   "Green Day",
   "Blink-182",
   "The Offspring",
+  "Bad Religion",
   "Sum 41",
   "Weezer",
   "My Chemical Romance",
@@ -92,6 +93,7 @@
   "antiMusic",
   "chorus.fm",
   "clashmusic.com",
+  "cultfollowing.co.uk",
   "floodmagazine.com",
   "lmusic.tokyo",
   "mxdwn Music",
@@ -100,9 +102,74 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 96,
- "detail_count": 70,
+ "count": 100,
+ "detail_count": 74,
  "items": [
+  {
+   "id": "845a315a7b329734",
+   "url": "https://consequence.net/2026/09/fake-names-new-album-single",
+   "title_original": "Supergroup Fake Names (Refused, Bad Religion) Announce New Album, Unleash “Until It’s Normal”: Stream",
+   "source": "Consequence",
+   "image": "https://consequence.net/wp-content/uploads/2026/09/fake-names-promo-photo.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-01T19:26:53+00:00",
+   "title_ja": "Fake Namesが新作アルバムより新曲を配信",
+   "summary_ja": "RefusedやBad Religionのメンバーらによるスーパーグループ、Fake Namesがニューアルバムのリリースを発表し、先行トラック「Until It’s Normal」を公開した。",
+   "category": "新曲・新作",
+   "band": "Bad Religion",
+   "artists": [
+    "Fake Names",
+    "Refused",
+    "Bad Religion"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "740a5f4f3cb01c14",
+   "url": "https://cultfollowing.co.uk/2026/09/01/hayley-williams-fans-heartbroken-as-paramore-singer-announces-just-three-uk-shows-abysmal",
+   "title_original": "Hayley Williams fans heartbroken as Paramore singer announces just three UK shows: 'Abysmal'",
+   "source": "cultfollowing.co.uk",
+   "image": "https://cultfollowing.co.uk/wp-content/uploads/2026/09/Hayley-Williams-2027-Tour.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-01T19:16:16+00:00",
+   "title_ja": "ParamoreのHayley Williamsが英国で3公演を発表",
+   "summary_ja": "ParamoreのボーカリストであるHayley Williamsが、イギリスでわずか3公演となる限定ライブの開催を発表し、ファンから驚きと悲しみの声が上がっている。",
+   "category": "ライブ・ツアー",
+   "band": "Paramore",
+   "artists": [
+    "Hayley Williams",
+    "Paramore"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "49314f41f4d6e071",
+   "url": "https://www.theprp.com/2026/09/01/news/fake-names-bad-religion-ex-refused-etc-stream-until-its-normal-from-their-upcoming-third-album-punk-ruins",
+   "title_original": "Fake Names (Bad Religion, Ex-Refused, Etc.) Stream \"Until It's Normal\" From Their Upcoming Third Album \"Punk Ruins\"",
+   "source": "The PRP",
+   "image": "https://www.theprp.com/app/uploads/2026/09/fakenameslarge2026-1200x675.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-01T18:01:23+00:00",
+   "title_ja": "Fake Names、サードアルバムから新曲を公開",
+   "summary_ja": "Bad Religionや元Refusedのメンバーらが参加するスーパーグループ、Fake Namesが、新作アルバム『Punk Ruins』に先駆け「Until It’s Normal」の音源を公開した。",
+   "category": "新曲・新作",
+   "band": "Bad Religion",
+   "artists": [
+    "Fake Names",
+    "Bad Religion",
+    "Refused"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "bc2907212239647a",
    "url": "https://www.clashmusic.com/features/going-for-gold-peeling-back-the-enamel-with-weezer",
@@ -124,6 +191,27 @@
    "has_detail": true
   },
   {
+   "id": "e652b0eceb37846b",
+   "url": "https://www.yahoo.com/entertainment/music/articles/joseph-trohman-fall-boy-turns-145522508.html",
+   "title_original": "Joseph Trohman From Fall Out Boy Turns 42",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/eb325d95d90c24bb5afb4f1c76a739ed7a38f0cb0ae7af2d8e9342f627bab7cf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2F35c80ff1a75394a2bbd173443f850fce.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-01T14:55:22+00:00",
+   "title_ja": "Fall Out BoyのJoseph Trohmanが42歳の誕生日を迎える",
+   "summary_ja": "Fall Out BoyのギタリストであるJoseph Trohmanが42歳の誕生日を迎えたことを祝う記事。",
+   "category": "その他",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Joseph Trohman",
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 1,
+   "has_detail": true
+  },
+  {
    "id": "9010a95a9601aabb",
    "url": "https://parade.com/news/legendary-rock-guitarist-from-fall-out-boy-turns-42",
    "title_original": "Legendary Rock Guitarist From Fall Out Boy Turns 42",
@@ -141,7 +229,7 @@
    ],
    "japan": false,
    "importance": 1,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0c65818d7b8a0a1e",
