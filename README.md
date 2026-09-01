@@ -191,3 +191,5 @@ Gistの同期はトークンを貼った端末で有効になり、**そのあ�
 **検証の落とし穴:** Claude_Browser のプレビュー面は `document.visibilityState` が常に `hidden` なので、
 `visibilitychange` 経由の同期は動かない。読み込み時の同期が走ったかは
 `performance.getEntriesByType("resource")` で `api.github.com` への通信を見て確かめる。
+
+<!-- 競合時の再挑戦を確認するための変更 2026-09-01 14:10:43 -->
