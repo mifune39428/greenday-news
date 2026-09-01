@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-01T14:09:21.119401+09:00",
+ "updated_at": "2026-09-01T20:30:05.399377+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -49,7 +49,7 @@
   "LAist",
   "Lambgoat",
   "LancasterOnline",
-  "Louder",
+  "MUSIC LIFE CLUB",
   "MediaPost",
   "Metalhead Zone",
   "NME",
@@ -99,8 +99,49 @@
   "チバテレ"
  ],
  "count": 92,
- "detail_count": 66,
+ "detail_count": 67,
  "items": [
+  {
+   "id": "937a7b43ee48bc62",
+   "url": "https://www.musiclifeclub.com/news/20260901T_08.html",
+   "title_original": "グリーン・デイのビリー・ジョー、オールスター・バンドでのラモーンズ50周年トリビュート・ライヴで19曲を披露",
+   "source": "MUSIC LIFE CLUB",
+   "image": "https://www.musiclifeclub.com/global-image/page/95169-ogp-20260901175429.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-01T09:04:21+00:00",
+   "title_ja": "グリーン・デイのビリー・ジョー、ラモーンズ50周年トリビュートで19曲披露",
+   "summary_ja": "グリーン・デイのBillie Joe Armstrongが、オールスター・バンドのメンバーとしてラモーンズの結成50周年を祝うトリビュート・ライヴに参加し、全19曲を披露した。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Ramones"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "0987fbaa84604dd3",
+   "url": "https://lmusic.tokyo/news/313257",
+   "title_original": "Mike Dirnt、使用してきた楽器や機材をオンラインに出品することに",
+   "source": "lmusic.tokyo",
+   "image": "https://lmusic.tokyo/wp-content/uploads/2021/07/Mike-Dirnt.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-01T05:50:08+00:00",
+   "title_ja": "マイク・ディワント、長年愛用してきた機材をオンラインで出品へ",
+   "summary_ja": "Green DayのベーシストであるMike Dirntが、これまでのキャリアで使用してきた自身の楽器や機材をオンラインストアに出品することを明らかにした。",
+   "category": "その他",
+   "band": "Green Day",
+   "artists": [
+    "Mike Dirnt"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "6fcf023003012b21",
    "url": "https://nme-jp.com/news/171810",
@@ -144,52 +185,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "3ed03031ca615b00",
-   "url": "https://www.loudersound.com/bands-artists/watch-billy-idol-join-members-of-green-day-and-blink-182-in-star-studded-performance-at-ramones-50th-anniversary-celebration",
-   "title_original": "Watch Billy Idol join members of Green Day and Blink-182 in star-studded performance at Ramones 50th anniversary celebration",
-   "source": "Louder",
-   "image": "https://cdn.mos.cms.futurecdn.net/ugXTJSJTQyKXuMNu644qtX-1600-80.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-31T20:00:00+00:00",
-   "title_ja": "Billy Idol、Green DayやBlink-182のメンバーと共演",
-   "summary_ja": "Ramonesの結成50周年を記念する豪華なトリビュートライブに、Billy IdolをはじめGreen DayやBlink-182のメンバーらが集結し、ステージで共演を果たした。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Billy Idol",
-    "Green Day",
-    "Blink-182",
-    "Ramones"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "3e33c709787e7476",
-   "url": "https://consequence.net/2026/08/cretin-family-ramones-50th-anniversary-celebration",
-   "title_original": "Billie Joe Armstrong, Tim Armstrong, Travis Barker, CJ Ramone Rock Ramones Classics at 50th Anniversary Bash",
-   "source": "Consequence",
-   "image": "https://consequence.net/wp-content/uploads/2026/08/Cretin-Family.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-31T18:50:14+00:00",
-   "title_ja": "Billie Joeら豪華メンバーがRamonesトリビュートで共演",
-   "summary_ja": "Ramonesの50周年記念ライブが開催され、Billie Joe Armstrong、Tim Armstrong、Travis Barker、CJ Ramoneら豪華な面々がステージに立ち、名曲の数々を披露した。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong",
-    "Tim Armstrong",
-    "Travis Barker",
-    "CJ Ramone"
-   ],
-   "japan": false,
-   "importance": 4,
    "has_detail": true
   },
   {
