@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-01T07:43:21.341689+09:00",
+ "updated_at": "2026-09-01T14:06:03.008847+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -98,9 +98,54 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 90,
- "detail_count": 64,
+ "count": 92,
+ "detail_count": 66,
  "items": [
+  {
+   "id": "6fcf023003012b21",
+   "url": "https://nme-jp.com/news/171810",
+   "title_original": "グリーン・デイのビリー・ジョー＆トラヴィス・バーカーら、ラモーンズのトリビュート・ライヴを行う",
+   "source": "NME Japan",
+   "image": "https://nme-jp.com/nmesite/wp-content/uploads/2026/09/Tim-Armstrong-Travis-Barker-Billie-Joe-Armstrong-and-C.-J.-Ramone.-CREDIT_-Gilbert-Flores_Variety-via-Getty-Images-1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-01T02:59:15+00:00",
+   "title_ja": "Green DayのBillie JoeやTravis BarkerらがRamonesトリビュートを開催",
+   "summary_ja": "Green DayのBillie Joe ArmstrongやBlink-182のTravis Barkerらが集結し、ロックバンドRamonesのトリビュートライブを開催することが明らかになった。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Green Day",
+    "Billie Joe Armstrong",
+    "Travis Barker",
+    "Ramones"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "4eed1a9af8594515",
+   "url": "https://www.thatericalper.com/2026/08/31/on-the-steps-returns-to-sydney-opera-house-with-rise-against-wolf-alice-james-blake-and-more",
+   "title_original": "On The Steps Returns To Sydney Opera House With Rise Against, Wolf Alice, James Blake And More",
+   "source": "That Eric Alper",
+   "image": "https://www.thatericalper.com/wp-content/uploads/2026/08/download-2026-08-31T212349.990.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-01T01:24:06+00:00",
+   "title_ja": "シドニー歌劇場の屋外公演「On The Steps」にRise Against出演決定",
+   "summary_ja": "シドニー・オペラハウスで開催されるコンサートシリーズ「On The Steps」が再び開催され、Rise AgainstやWolf Alice、James Blakeらが出演することが発表された。",
+   "category": "フェス出演",
+   "band": "Rise Against",
+   "artists": [
+    "Rise Against",
+    "Wolf Alice",
+    "James Blake"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "3ed03031ca615b00",
    "url": "https://www.loudersound.com/bands-artists/watch-billy-idol-join-members-of-green-day-and-blink-182-in-star-studded-performance-at-ramones-50th-anniversary-celebration",
@@ -122,7 +167,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3e33c709787e7476",
@@ -165,7 +210,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "80b51fea1b4a54ac",
@@ -205,7 +250,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a10448e0371a1354",
@@ -271,7 +316,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "64f9a24ea94ba348",
