@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-01T20:30:05.399377+09:00",
+ "updated_at": "2026-09-02T01:27:16.105839+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -71,6 +71,7 @@
   "Showbiz by PS",
   "SiriusXM",
   "Stephen Thomas Erlewine | Substack",
+  "Stereoboard.com",
   "TVGuide.co.uk",
   "Tarrant County College",
   "That Eric Alper",
@@ -90,6 +91,7 @@
   "Yahoo",
   "antiMusic",
   "chorus.fm",
+  "clashmusic.com",
   "floodmagazine.com",
   "lmusic.tokyo",
   "mxdwn Music",
@@ -98,9 +100,92 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 92,
- "detail_count": 67,
+ "count": 96,
+ "detail_count": 70,
  "items": [
+  {
+   "id": "bc2907212239647a",
+   "url": "https://www.clashmusic.com/features/going-for-gold-peeling-back-the-enamel-with-weezer",
+   "title_original": "Going For Gold: Peeling Back The Enamel With Weezer",
+   "source": "clashmusic.com",
+   "image": "https://www.clashmusic.com/wp-content/uploads/2026/09/LeadPressPhoto_BrendanWalter-scaled.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-01T15:42:48+00:00",
+   "title_ja": "Weezerの魅力や軌跡に深く迫る特集記事が海外メディアで公開",
+   "summary_ja": "オルタナティブ・ロック・シーンを代表するバンド、Weezerの魅力やこれまでの軌跡に深く迫る特集記事が海外メディアで公開されました。彼らの音楽的な歩みを振り返る内容となっています。",
+   "category": "その他",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "9010a95a9601aabb",
+   "url": "https://parade.com/news/legendary-rock-guitarist-from-fall-out-boy-turns-42",
+   "title_original": "Legendary Rock Guitarist From Fall Out Boy Turns 42",
+   "source": "parade.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-01T14:55:22+00:00",
+   "title_ja": "Fall Out Boyのギタリストが42歳の誕生日を迎える",
+   "summary_ja": "Fall Out Boy ofのギタリストが42歳の誕生日を迎えました。これまでの輝かしいキャリアやバンドにおける多大な功績を称え、彼の誕生日を祝福する記事が海外メディアにて公開されています。",
+   "category": "メンバー・発言",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 1,
+   "detail_tries": 1
+  },
+  {
+   "id": "0c65818d7b8a0a1e",
+   "url": "https://www.stereoboard.com/content/view/252754/9",
+   "title_original": "Paramore's Hayley Williams Announces UK And European Leg Of The Hayley Williams Show Tour For 2027",
+   "source": "Stereoboard.com",
+   "image": "https://www.stereoboard.com/images/artistimages/hayley-williams.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-01T14:34:27+00:00",
+   "title_ja": "ParamoreのHayley Williams、2027年の欧州ツアー開催を発表",
+   "summary_ja": "ParamoreのHayley Williamsが、ソロツアー「The Hayley Williams Show Tour」のイギリスおよびヨーロッパ公演を2027年に開催することを発表しました。",
+   "category": "ライブ・ツアー",
+   "band": "Paramore",
+   "artists": [
+    "Paramore",
+    "Hayley Williams"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "573ba5dc898f3d92",
+   "url": "https://blabbermouth.net/news/fake-names-featuring-members-of-bad-religion-and-refused-announces-new-album-punk-ruins",
+   "title_original": "FAKE NAMES, Featuring Members Of BAD RELIGION And REFUSED, Announces New Album 'Punk Ruins'",
+   "source": "BLABBERMOUTH.NET",
+   "image": "https://assets.blabbermouth.net/media/fakenamespresssept2026_638.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-01T11:51:38+00:00",
+   "title_ja": "Bad ReligionメンバーらによるFake Namesが新アルバム発表",
+   "summary_ja": "Bad ReligionやRefused ofのメンバーらによるパンク・スーパーグループ、Fake Namesがニューアルバム『Punk Ruins』のリリースを発表しました。シーンの実力派たちが集うバンドの新作に期待が寄せられています。",
+   "category": "新曲・新作",
+   "band": "その他",
+   "artists": [
+    "Fake Names",
+    "Bad Religion",
+    "Refused"
+   ],
+   "japan": false,
+   "importance": 5,
+   "has_detail": true
+  },
   {
    "id": "937a7b43ee48bc62",
    "url": "https://www.musiclifeclub.com/news/20260901T_08.html",
@@ -270,26 +355,25 @@
    "has_detail": true
   },
   {
-   "id": "b888507efdf45e30",
-   "url": "https://blabbermouth.net/news/watch-billie-joe-armstrong-travis-barker-tim-armstrong-and-cj-ramone-perform-at-official-ramones-50th-anniversary-tribute",
-   "title_original": "Watch: BILLIE JOE ARMSTRONG, TRAVIS BARKER, TIM ARMSTRONG And CJ RAMONE Perform At Official RAMONES 50th-Anniversary Tribute",
-   "source": "BLABBERMOUTH.NET",
-   "image": "https://assets.blabbermouth.net/media/cretinfamilyaug2026_638.jpg",
+   "id": "9a3337bd3aeb7aa3",
+   "url": "https://www.nme.com/news/music/green-days-billie-joe-armstrong-blink-182s-travis-barker-lead-ramones-tribute-band-the-cretin-family-3965978",
+   "title_original": "Watch Green Day's Billie Joe Armstrong, Blink-182's Travis Barker and more lead all-star Ramones tribute band The Cretin Family for official 50th anniversary show",
+   "source": "NME",
+   "image": "https://www.nme.com/wp-content/uploads/2026/08/Tim-Armstrong-Travis-Barker-Billie-Joe-Armstrong-and-C.-J.-Ramone.-CREDIT_-Gilbert-Flores_Variety-via-Getty-Images.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-08-31T08:32:41+00:00",
-   "title_ja": "Billie Joe ArmstrongやTravis BarkerらがRamones50周年トリビュートで共演",
-   "summary_ja": "Ramonesの結成50周年を記念した公式トリビュート公演が開催され、Green DayのBillie Joe Armstrong、Blink-182のTravis Barker、RancidのTim Armstrong、CJ Ramoneらが共演した。そのパフォーマンス映像が公開されている。",
-   "category": "映像・映画・書籍",
+   "published": "2026-08-31T09:11:31+00:00",
+   "title_ja": "Ramonesトリビュートバンドで豪華共演が実現",
+   "summary_ja": "Ramonesの公式50周年記念ライブで、Green DayのBillie Joe ArmstrongやBlink-182のTravis Barkerらが参加したトリビュートバンドThe Cretin Familyがステージを率いた。",
+   "category": "ライブ・ツアー",
    "band": "Green Day",
    "artists": [
     "Billie Joe Armstrong",
     "Travis Barker",
-    "Tim Armstrong",
-    "CJ Ramone"
+    "The Cretin Family"
    ],
    "japan": false,
-   "importance": 3,
+   "importance": 4,
    "has_detail": true
   },
   {
