@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-03T01:25:29.916753+09:00",
+ "updated_at": "2026-09-03T05:54:27.421131+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -101,13 +101,34 @@
   "lmusic.tokyo",
   "mxdwn Music",
   "parade.com",
+  "sacbee.com",
   "t.co",
   "wecb.fm",
   "チバテレ"
  ],
- "count": 106,
- "detail_count": 79,
+ "count": 109,
+ "detail_count": 81,
  "items": [
+  {
+   "id": "5327d05119a422a5",
+   "url": "https://www.sacbee.com/entertainment/article317101647.html",
+   "title_original": "Grammy Award-winning band Weezer kicks off tour at Sacramento’s Golden 1 Center",
+   "source": "sacbee.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T17:31:00+00:00",
+   "title_ja": "Weezerがサクラメント公演でツアー開幕",
+   "summary_ja": "グラミー賞受賞バンドのWeezerが、サクラメントのゴールデン1・センターで新たなツアーをスタートさせた。（抜粋なし）",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "85cdca15bbb071d9",
    "url": "https://wmmr.com/2026/09/02/billy-idol-blink-182-green-day-and-more-pay-tribute-to-the-ramones",
@@ -172,6 +193,26 @@
    "has_detail": true
   },
   {
+   "id": "1b479adc24f14659",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/the-offspring-rock-im-park-2026-set-confirmed-in-nuremberg/70044017",
+   "title_original": "The Offspring - Rock im Park 2026 set confirmed in Nuremberg",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403858_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T13:48:29+00:00",
+   "title_ja": "The OffspringのRock im Park 2026出演が決定",
+   "summary_ja": "ニュルンベルクで開催される「Rock im Park 2026」にThe Offspringが出演することが正式に発表された。（抜粋なし）",
+   "category": "フェス出演",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "672524a03aab16cb",
    "url": "https://exclaim.ca/music/article/vancouver-s-can-t-miss-concerts-in-september-2026-including-tame-impala-blood-orange-and-weezer",
    "title_original": "Vancouver's Can't-Miss Concerts in September 2026, Including Tame Impala, Blood Orange and Weezer",
@@ -188,6 +229,26 @@
     "Weezer",
     "Tame Impala",
     "Blood Orange"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "534999f4e59bc251",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/fall-out-boy-streaming-milestones-and-german-chart-legacy/70043099",
+   "title_original": "Fall Out Boy streaming milestones and German chart legacy",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403826_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T11:52:26+00:00",
+   "title_ja": "Fall Out Boyのストリーミング実績とドイツのチャート成績",
+   "summary_ja": "Fall Out Boyのこれまでのストリーミングでのマイルストーンや、ドイツ国内の音楽チャートにおける足跡についての記事。（抜粋なし）",
+   "category": "チャート・受賞",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
    ],
    "japan": false,
    "importance": 2,
@@ -241,7 +302,7 @@
    "url": "https://www.nettosgameroom.com/2026/09/every-song-being-removed-from-rock-band.html",
    "title_original": "Every Song Being Removed From Rock Band 4 in September 2026, Including: Alice in Chains, Bob Marley, Pearl Jam, My Chemical Romance, Snoop Dogg and More",
    "source": "Netto's Game Room",
-   "image": "",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqcPh2Td_g9-0yVVYbCAtz2TAgR72ykXQ3xLXB5HhHnHOuCdKjrJ1SmK0sbeakBrVHT5vHhs7_DAj0KnLjpXWYc9L5fvJTZ9byIul5dgULu3dGt7oOhMv2yS1_9lukKLbA91su2Snyo0lytJb_BSr_mRu3f2-orjr-3jazoibbG3f79eTn1f-haeXWjdo/w640-h360/rb4.png",
    "lang": "en",
    "region": "global",
    "published": "2026-09-01T19:06:00+00:00",
