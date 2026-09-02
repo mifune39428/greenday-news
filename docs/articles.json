@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02T13:06:22.163978+09:00",
+ "updated_at": "2026-09-02T20:04:48.019985+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -57,6 +57,7 @@
   "NME",
   "NME Japan",
   "NPR",
+  "Netto's Game Room",
   "NextMosh",
   "Oh No They Didn't! — LiveJournal",
   "Orlando Sentinel",
@@ -103,7 +104,7 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 101,
+ "count": 102,
  "detail_count": 75,
  "items": [
   {
@@ -148,6 +149,29 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "6d68cc15685ff106",
+   "url": "https://www.nettosgameroom.com/2026/09/every-song-being-removed-from-rock-band.html",
+   "title_original": "Every Song Being Removed From Rock Band 4 in September 2026, Including: Alice in Chains, Bob Marley, Pearl Jam, My Chemical Romance, Snoop Dogg and More",
+   "source": "Netto's Game Room",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-01T19:06:00+00:00",
+   "title_ja": "ゲーム『Rock Band 4』から My Chemical Romance らの楽曲が削除へ",
+   "summary_ja": "2026年9月に音楽ゲーム『Rock Band 4』から削除される楽曲リストが公開されました。対象には My Chemical Romance をはじめ、Alice in Chains や Pearl Jam などの人気アーティストの楽曲が含まれています。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Alice in Chains",
+    "Pearl Jam",
+    "Bob Marley"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "49314f41f4d6e071",
