@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02T20:04:48.019985+09:00",
+ "updated_at": "2026-09-03T01:25:29.916753+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -28,6 +28,7 @@
  ],
  "sources": [
   "13thfloor.co.nz",
+  "93.3 WMMR",
   "95.9 The Rat",
   "9News",
   "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -104,9 +105,94 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 102,
- "detail_count": 75,
+ "count": 106,
+ "detail_count": 79,
  "items": [
+  {
+   "id": "85cdca15bbb071d9",
+   "url": "https://wmmr.com/2026/09/02/billy-idol-blink-182-green-day-and-more-pay-tribute-to-the-ramones",
+   "title_original": "Billy Idol, Blink-182, Green Day, and More Pay Tribute to The Ramones",
+   "source": "93.3 WMMR",
+   "image": "https://wmmr.com/uploads/2026/09/GettyImages-2292334040.jpg?auto=webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T15:14:40+00:00",
+   "title_ja": "Billy IdolやGreen DayらがThe Ramonesにトリビュート",
+   "summary_ja": "Billy IdolやBlink-182、Green Dayをはじめとする名だたるアーティストたちが、伝説的なパンクバンドThe Ramonesへ捧げるトリビュート企画に参加していることが明らかになった。",
+   "category": "その他",
+   "band": "Green Day",
+   "artists": [
+    "Green Day",
+    "Blink-182",
+    "Billy Idol",
+    "The Ramones"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c6544c514b4c6c3a",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/green-day-extend-saviors-era-with-2026-german-shows/70044407",
+   "title_original": "Green Day extend Saviors era with 2026 German shows",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403767_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T14:37:12+00:00",
+   "title_ja": "Green Day、Saviors期を延長し2026年のドイツ公演を発表",
+   "summary_ja": "Green Dayは最新アルバム『Saviors』に伴うツアー期間を延長し、2026年にドイツでのライブを開催することを決定した。ファン待望の追加公演として大きな注目を集めている。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "f7ca8e2bf202aff7",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/weezer-the-gathering-2026-2027-world-tour-and-gold-album/70044369",
+   "title_original": "Weezer - The Gathering 2026-2027 world tour and Gold Album",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403810_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T14:32:31+00:00",
+   "title_ja": "Weezerがワールドツアー「The Gathering」と新作を発表",
+   "summary_ja": "Weezerが2026年から2027年にかけて開催する大規模な世界ツアー「The Gathering」のスケジュールと、新たな「Gold Album」に関する情報を発表した。",
+   "category": "新曲・新作",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "672524a03aab16cb",
+   "url": "https://exclaim.ca/music/article/vancouver-s-can-t-miss-concerts-in-september-2026-including-tame-impala-blood-orange-and-weezer",
+   "title_original": "Vancouver's Can't-Miss Concerts in September 2026, Including Tame Impala, Blood Orange and Weezer",
+   "source": "Exclaim!",
+   "image": "https://assets.exclaim.ca/image/upload/v1785080688/20260725_tame_impala_toronto_scotiabank_arena_isabel_glasgow_2_d2d48676d9.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T13:15:00+00:00",
+   "title_ja": "バンクーバーの9月公演情報、Weezerらの出演が決定",
+   "summary_ja": "2026年9月にカナダのバンクーバーで開催される注目のコンサート情報が発表され、WeezerをはじめTame ImpalaやBlood Orangeらの出演が決定した。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "Tame Impala",
+    "Blood Orange"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "845a315a7b329734",
    "url": "https://consequence.net/2026/09/fake-names-new-album-single",
@@ -171,7 +257,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "49314f41f4d6e071",
