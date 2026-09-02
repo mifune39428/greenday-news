@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02T05:55:03.293658+09:00",
+ "updated_at": "2026-09-02T13:06:22.163978+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -34,6 +34,7 @@
   "AD HOC NEWS",
   "AZ Big Media",
   "BLABBERMOUTH.NET",
+  "Bass Magazine",
   "Boston's ROCK 92.9",
   "Central Oregon Daily",
   "Consequence",
@@ -102,8 +103,8 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 100,
- "detail_count": 74,
+ "count": 101,
+ "detail_count": 75,
  "items": [
   {
    "id": "845a315a7b329734",
@@ -165,6 +166,26 @@
     "Fake Names",
     "Bad Religion",
     "Refused"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "427a78e06af7b7f5",
+   "url": "https://bassmagazine.com/watch-green-days-full-performance-at-the-2026-bass-magazine-awards",
+   "title_original": "Watch Green Day’s Full Performance at the 2026 Bass Magazine Awards",
+   "source": "Bass Magazine",
+   "image": "https://i0.wp.com/bassmagazine.com/wp-content/uploads/2026/09/maxresdefault.jpg?fit=1280%2C720&ssl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-01T16:51:22+00:00",
+   "title_ja": "Green DayのBass Magazine Awards 2026でのフルステージ映像が公開",
+   "summary_ja": "Bass Magazine Awards 2026に出演したGreen Dayのパフォーマンス映像が公開された。受賞イベントで行われた迫力のフルステージの模様を、ファンは動画で楽しむことができる。（97文字）",
+   "category": "映像・映画・書籍",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
    ],
    "japan": false,
    "importance": 3,
