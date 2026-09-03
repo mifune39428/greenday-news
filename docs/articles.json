@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-03T20:01:53.950413+09:00",
+ "updated_at": "2026-09-04T01:15:44.430534+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -76,6 +76,7 @@
   "Santa Clarita Valley Signal",
   "Showbiz by PS",
   "SiriusXM",
+  "Sortir à Paris",
   "Stephen Thomas Erlewine | Substack",
   "Stereoboard.com",
   "TVGuide.co.uk",
@@ -108,11 +109,53 @@
   "sacbee.com",
   "t.co",
   "wecb.fm",
-  "チバテレ"
+  "チバテレ",
+  "激ロック"
  ],
- "count": 118,
- "detail_count": 89,
+ "count": 123,
+ "detail_count": 93,
  "items": [
+  {
+   "id": "4167887009e8ca74",
+   "url": "https://chorus.fm/news/blink-182-x-pac-man-2-0",
+   "title_original": "Blink-182 x Pac-Man 2.0",
+   "source": "chorus.fm",
+   "image": "https://chorus.fm/wp-content/uploads/2026/07/Blink-182-hug-1504x840.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-03T14:55:53+00:00",
+   "title_ja": "Blink-182とPac-Manが再びコラボレーション",
+   "summary_ja": "Blink-182と有名ゲーム「Pac-Man」のコラボレーション企画の第2弾となる「Blink-182 x Pac-Man 2.0」が発表された。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "08515bca043729e7",
+   "url": "https://gekirock.com/news/2026/09/the_offspring_ramones_i_wanna_be_sedated.php",
+   "title_original": "THE OFFSPRING、RAMONESのカバー「I Wanna Be Sedated」リリース＆MV公開！「The Kids Aren't Alright」日本語リリック・ビデオも！",
+   "source": "激ロック",
+   "image": "https://gekirock.com/news/2026/09/03/images/FullbandDSC01331_DaveedBenito-EXCLUSIVE.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-03T09:00:00+00:00",
+   "title_ja": "The OffspringがRamonesカバーとMVを公開",
+   "summary_ja": "The OffspringがRamonesの楽曲「I Wanna Be Sedated」のカバー音源をリリースし、ミュージックビデオを公開した。「The Kids Aren't Alright」の日本語リリックビデオも同時に発表されている。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Ramones"
+   ],
+   "japan": true,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "dbf305155b82a7f9",
    "url": "https://www.ad-hoc-news.de/unterhaltung/musik/paramore-and-hayley-williams-summer-2026-europe-tour-and-berlin-solo/70047432",
@@ -132,6 +175,46 @@
    ],
    "japan": false,
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "ced26dd4fb22447c",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/blink-182-berlin-2027-show-and-european-dates-confirmed/70047400",
+   "title_original": "Blink-182 - Berlin 2027 show and European dates confirmed",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403842_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-03T06:07:10+00:00",
+   "title_ja": "Blink-182、2027年のベルリン公演を含む欧州ツアーを発表",
+   "summary_ja": "Blink-182が2027年のベルリン公演および新たなヨーロッパツアーの日程を発表した。",
+   "category": "ライブ・ツアー",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "3859bc24091fc5a1",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/the-offspring-supercharged-worldwide-in-26-tour-continues-into-autumn/70047125",
+   "title_original": "The Offspring - SUPERCHARGED Worldwide in ’26 tour continues into autumn",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403786_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-03T05:26:55+00:00",
+   "title_ja": "The Offspring、「SUPERCHARGED」秋のワールドツアーへ",
+   "summary_ja": "The Offspringによる「SUPERCHARGED Worldwide in ’26」ツアーが、秋のシーズンに向けて継続して開催されることが確認された。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -236,7 +319,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4f081995845488c3",
@@ -596,6 +679,27 @@
    "japan": false,
    "importance": 1,
    "detail_tries": 2
+  },
+  {
+   "id": "1bc697a3840a164b",
+   "url": "https://www.sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/351482-hayley-williams-paramore-s-frontwoman-in-concert-at-the-zenith-in-paris-in-june-2027",
+   "title_original": "Hayley Williams, Paramore's frontwoman, makes a solo return with a show slated for Paris in 2027.",
+   "source": "Sortir à Paris",
+   "image": "https://cdn.sortiraparis.com/images/80/100773/962275-visuels-salles-de-spectacle-et-theatres-zenith-paris.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-01T14:48:16+00:00",
+   "title_ja": "ParamoreのHayley Williamsがソロ復帰、2027年にパリ公演を開催へ",
+   "summary_ja": "ParamoreのフロントウーマンであるHayley Williamsがソロ活動で復帰を果たし、2027年にフランス・パリで公演を開催することが判明した。",
+   "category": "ライブ・ツアー",
+   "band": "Paramore",
+   "artists": [
+    "Hayley Williams",
+    "Paramore"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "0c65818d7b8a0a1e",
