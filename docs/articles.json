@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-03T13:05:05.360950+09:00",
+ "updated_at": "2026-09-03T20:01:53.950413+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -45,6 +45,7 @@
   "Far Out Magazine",
   "Forbes",
   "Guitar.com",
+  "Hoodline",
   "Idaho Press",
   "JamBase",
   "JoBlo",
@@ -90,6 +91,7 @@
   "The Music Universe",
   "The Oakland Press",
   "The PRP",
+  "The Week",
   "The Wenatchee World",
   "Tinnitist",
   "Tullahoma News",
@@ -108,9 +110,70 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 114,
- "detail_count": 86,
+ "count": 118,
+ "detail_count": 89,
  "items": [
+  {
+   "id": "dbf305155b82a7f9",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/paramore-and-hayley-williams-summer-2026-europe-tour-and-berlin-solo/70047432",
+   "title_original": "Paramore and Hayley Williams - Summer 2026 Europe tour and Berlin solo date",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403790_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-03T06:12:13+00:00",
+   "title_ja": "Paramoreが2026年夏のヨーロッパツアーとベルリン公演を発表",
+   "summary_ja": "ParamoreとHayley Williamsが、2026年夏に予定しているヨーロッパツアーおよびベルリンでの単独公演を発表した。",
+   "category": "ライブ・ツアー",
+   "band": "Paramore",
+   "artists": [
+    "Paramore",
+    "Hayley Williams"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "408efaf338e00963",
+   "url": "https://hoodline.com/2026/09/weezer-kicks-off-32-city-tour-at-sacramento-s-golden-1-center-monday",
+   "title_original": "Weezer Kicks Off 32-City Tour at Sacramento's Golden 1 Center Monday",
+   "source": "Hoodline",
+   "image": "https://img.hoodline.com/2026/9/weezer-kicks-off-32-city-tour-at-sacramentos-golden-1-center-monday-3.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-03T05:07:19+00:00",
+   "title_ja": "Weezerがサクラメントで全32都市を巡るツアーの幕を開ける",
+   "summary_ja": "WeezerがサクラメントのGolden 1 Center公演を皮切りに、全32都市を回る大規模なツアーを開始した。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "ba46c5f6c0c4b4ff",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/fall-out-boy-and-so-much-for-2our-dust-s-record-store-day-success/70046738",
+   "title_original": "Fall Out Boy and So Much For (2our) Dust’s Record Store Day success",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403776_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-03T04:27:52+00:00",
+   "title_ja": "Fall Out Boyの作品がレコードストアデイで好調な売上を記録",
+   "summary_ja": "Fall Out Boyの「So Much For (2our) Dust」関連のリリースが、レコードストアデイにおいて大きな成功を収めた。",
+   "category": "チャート・受賞",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "78ae2ed2d7baf488",
    "url": "https://preludepress.com/featured/2026/09/02/my-chemical-romance-denver-review-2026",
@@ -152,6 +215,28 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "ab4297775a64d9aa",
+   "url": "https://theweek.com/culture-life/music/the-cramps-weezer-jon-batiste",
+   "title_original": "Music reviews: The Cramps, Weezer, and Jon Batiste",
+   "source": "The Week",
+   "image": "https://cdn.mos.cms.futurecdn.net/N4qwXHE2kQPZLWRdYGEWV9-2000-80.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T20:42:07+00:00",
+   "title_ja": "The CrampsやWeezerらの新作アルバムをメディアがレビュー",
+   "summary_ja": "The CrampsやWeezer、Jon Batisteといったアーティストたちの音楽作品やアルバムについて、最新のレビューが公開された。",
+   "category": "新曲・新作",
+   "band": "Weezer",
+   "artists": [
+    "The Cramps",
+    "Weezer",
+    "Jon Batiste"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "4f081995845488c3",
