@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-04T01:15:44.430534+09:00",
+ "updated_at": "2026-09-04T05:52:53.436707+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -70,6 +70,7 @@
   "Racket MN",
   "Revolver Magazine",
   "Rock Cellar Magazine",
+  "Rock Sound",
   "Rolling Stone",
   "Rolling Stone Australia",
   "RouteNote",
@@ -92,7 +93,6 @@
   "The Music Universe",
   "The Oakland Press",
   "The PRP",
-  "The Week",
   "The Wenatchee World",
   "Tinnitist",
   "Tullahoma News",
@@ -104,6 +104,7 @@
   "cultfollowing.co.uk",
   "floodmagazine.com",
   "lmusic.tokyo",
+  "music.mxdwn.com",
   "mxdwn Music",
   "parade.com",
   "sacbee.com",
@@ -112,8 +113,8 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 123,
- "detail_count": 93,
+ "count": 125,
+ "detail_count": 95,
  "items": [
   {
    "id": "4167887009e8ca74",
@@ -133,7 +134,27 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "d98b7eb0c30a4e1a",
+   "url": "https://rocksound.tv/features/interview-the-linda-lindas-on-freedom-frustration-new-album-gotta-get-out",
+   "title_original": "INTERVIEW: The Linda Lindas On Freedom, Frustration & New Album ‘GOTTA GET OUT’",
+   "source": "Rock Sound",
+   "image": "https://spaces.rocksound.tv/uploads/2026/09/thelindalindas_2026new.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-03T13:06:45+00:00",
+   "title_ja": "The Linda Lindasが新作アルバムについて語る",
+   "summary_ja": "The Linda Lindasが新作アルバム『GOTTA GET OUT』や自由、フラストレーションについて語ったインタビュー。",
+   "category": "メンバー・発言",
+   "band": "その他",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "08515bca043729e7",
@@ -300,26 +321,26 @@
    "has_detail": true
   },
   {
-   "id": "ab4297775a64d9aa",
-   "url": "https://theweek.com/culture-life/music/the-cramps-weezer-jon-batiste",
-   "title_original": "Music reviews: The Cramps, Weezer, and Jon Batiste",
-   "source": "The Week",
-   "image": "https://cdn.mos.cms.futurecdn.net/N4qwXHE2kQPZLWRdYGEWV9-2000-80.jpg",
+   "id": "1bcd99f5404d490e",
+   "url": "https://consequence.net/2026/09/weezer-the-gathering-tour-how-to-get-last-minute-tickets",
+   "title_original": "Weezer to Launch \"The Gathering\" Tour\" with The Shins and Silversun Pickups",
+   "source": "Consequence",
+   "image": "https://consequence.net/wp-content/uploads/2026/09/weezer-the-gathering-tour-last-minute-tickets-how-to-buy-.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-09-02T20:42:07+00:00",
-   "title_ja": "The CrampsやWeezerらの新作アルバムをメディアがレビュー",
-   "summary_ja": "The CrampsやWeezer、Jon Batisteといったアーティストたちの音楽作品やアルバムについて、最新のレビューが公開された。",
-   "category": "新曲・新作",
+   "published": "2026-09-02T21:02:17+00:00",
+   "title_ja": "WeezerがThe Shinsらと全米ツアー開催を発表",
+   "summary_ja": "WeezerがThe ShinsやSilversun Pickupsを迎えた「The Gathering」ツアーの開催を発表した。詳細は今後明らかになる予定。",
+   "category": "ライブ・ツアー",
    "band": "Weezer",
    "artists": [
-    "The Cramps",
     "Weezer",
-    "Jon Batiste"
+    "The Shins",
+    "Silversun Pickups"
    ],
    "japan": false,
-   "importance": 2,
-   "detail_tries": 2
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "4f081995845488c3",
@@ -510,6 +531,29 @@
    "japan": false,
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "c5ed87ed426777d9",
+   "url": "https://music.mxdwn.com/2026/09/01/news/fake-names-featuring-members-of-refused-bad-religion-off-more-announce-new-album-punk-ruins-for-october-2026-release-share-new-single-video-until-its-normal",
+   "title_original": "Fake Names Featuring Members Of Refused, Bad Religion, OFF & More Announce New Album Punk Ruins For Oc...",
+   "source": "music.mxdwn.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T01:08:40+00:00",
+   "title_ja": "Fake Namesが新作アルバム『Punk Ruins』を発表",
+   "summary_ja": "RefusedやBad Religion、OFF!のメンバーが参加するスーパーグループFake Namesが、ニューアルバム『Punk Ruins』のリリースを発表した。",
+   "category": "新曲・新作",
+   "band": "Bad Religion",
+   "artists": [
+    "Fake Names",
+    "Refused",
+    "Bad Religion",
+    "OFF!"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "845a315a7b329734",
