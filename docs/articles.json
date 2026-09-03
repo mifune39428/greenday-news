@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-03T05:54:27.421131+09:00",
+ "updated_at": "2026-09-03T13:05:05.360950+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -65,6 +65,7 @@
   "PUNKLOID",
   "Pioneer Press",
   "Pitchfork",
+  "Prelude Press",
   "Racket MN",
   "Revolver Magazine",
   "Rock Cellar Magazine",
@@ -92,6 +93,7 @@
   "The Wenatchee World",
   "Tinnitist",
   "Tullahoma News",
+  "WDHA FM",
   "Yahoo",
   "antiMusic",
   "chorus.fm",
@@ -106,9 +108,73 @@
   "wecb.fm",
   "チバテレ"
  ],
- "count": 109,
- "detail_count": 81,
+ "count": 114,
+ "detail_count": 86,
  "items": [
+  {
+   "id": "78ae2ed2d7baf488",
+   "url": "https://preludepress.com/featured/2026/09/02/my-chemical-romance-denver-review-2026",
+   "title_original": "My Chemical Romance Denver Review",
+   "source": "Prelude Press",
+   "image": "https://preludepress.com/wp-content/uploads/2026/09/My-Chemical-Romance-Denver-Bryce-Hall-2026.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-03T00:11:57+00:00",
+   "title_ja": "My Chemical Romanceのデンバー公演レビュー",
+   "summary_ja": "My Chemical Romanceがデンバーで行ったライブの模様を伝えるレビュー記事。現時点では見出しのみ公開されており、詳細な内容は記載されていません。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f39093bfb8632d83",
+   "url": "https://lambgoat.com/news/54631/fake-names-ex-refused-bad-religion-reveal-details-for-lp3-share-lead-single-until-its-normal",
+   "title_original": "Fake Names (ex-Refused, Bad Religion) reveal details for LP3, share lead single \"Until It's Normal\"",
+   "source": "Lambgoat",
+   "image": "https://lambgoat.com/cdn/2026/fake-names-26-20260902155231.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T22:53:00+00:00",
+   "title_ja": "Fake Namesが新作アルバムのリリースを発表",
+   "summary_ja": "RefusedやBad Religionのメンバーが在籍するFake Namesが、サードアルバムの詳細を明かし、先行シングル「Until It's Normal」を公開しました。",
+   "category": "新曲・新作",
+   "band": "Bad Religion",
+   "artists": [
+    "Fake Names",
+    "Refused",
+    "Bad Religion"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "4f081995845488c3",
+   "url": "https://rockcellarmagazine.com/ramones-tribute-concert-los-angeles-cretin-family-billie-joe-armstrong-travis-barker-watch",
+   "title_original": "Ramones Toasted in LA by Billie Joe Armstrong, Travis Barker & More as Cretin Family",
+   "source": "Rock Cellar Magazine",
+   "image": "https://rockcellarmagazine.com/wp-content/uploads/2026/09/ramones-hollywood-forever-tribute-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T18:10:24+00:00",
+   "title_ja": "Billie Joe ArmstrongらがロサンゼルスでRamonesをトリビュート",
+   "summary_ja": "Billie Joe ArmstrongやTravis Barkerらがロサンゼルスに集まり、Cretin FamilyとしてRamonesをトリビュートするステージを披露した。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Travis Barker",
+    "Ramones"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "5327d05119a422a5",
    "url": "https://www.sacbee.com/entertainment/article317101647.html",
@@ -127,7 +193,30 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "8eb7e927e15ceb80",
+   "url": "https://www.yahoo.com/entertainment/music/articles/green-day-rancid-blink-182-161820591.html",
+   "title_original": "Green Day, Rancid, and Blink-182 members celebrate the Ramones’ 50th anniversary with a set at a cemetery",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/1e562ff3d8c9a29f30d37f452bad793f1854845991a9f002d0f29e108672c725/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fguitar_world_625%2F601b4bf1f86f8a4bf0ff1d3d7aae56fb.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T16:18:20+00:00",
+   "title_ja": "Green DayらのメンバーがRamones結成50周年を墓地で祝福",
+   "summary_ja": "Green DayやRancid、Blink-182のメンバーらが墓地での特別なセット出演を通じて、Ramonesの結成50周年を盛大に祝った。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Green Day",
+    "Rancid",
+    "Blink-182",
+    "Ramones"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "85cdca15bbb071d9",
@@ -2349,6 +2438,26 @@
    "band": "Green Day",
    "artists": [
     "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "945b1bfb3095bd0c",
+   "url": "https://wdhafm.com/2026/08/10/my-chemical-romance-citi-field-080926",
+   "title_original": "My Chemical Romance at Citi Field on Sunday, August 9th, 2026",
+   "source": "WDHA FM",
+   "image": "https://wdhafm.com/uploads/2026/09/Bryce-Hall-MCR_NYC_PRESS-24.png?auto=webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-10T16:00:00+00:00",
+   "title_ja": "My Chemical Romanceが2026年8月にCiti Fieldで公演開催",
+   "summary_ja": "My Chemical Romanceが2026年8月9日の日曜日に、Citi Fieldにてコンサートを行う予定であると伝えられている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
    ],
    "japan": false,
    "importance": 3,
