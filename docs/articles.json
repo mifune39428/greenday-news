@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-04T13:08:36.526367+09:00",
+ "updated_at": "2026-09-04T20:02:58.502452+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -58,6 +58,7 @@
   "Metalhead Zone",
   "NME",
   "NME Japan",
+  "NOW Toronto",
   "NPR",
   "Netto's Game Room",
   "NextMosh",
@@ -110,12 +111,13 @@
   "mxdwn Music",
   "parade.com",
   "t.co",
+  "tcnjsignalnews.com",
   "wecb.fm",
   "チバテレ",
   "激ロック"
  ],
- "count": 128,
- "detail_count": 98,
+ "count": 130,
+ "detail_count": 99,
  "items": [
   {
    "id": "ed11c8e9495a9d11",
@@ -168,6 +170,26 @@
    "published": "2026-09-04T01:02:17.547000+00:00",
    "title_ja": "My Chemical Romanceのターゲット・フィールド公演ライブレポ",
    "summary_ja": "ターゲット・フィールドで開催されたMy Chemical Romanceのコンサートの様子を伝えるライブレビュー記事。会場での熱狂的なパフォーマンスや現地の雰囲気をレポートしている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "5bd521a6ef9a7902",
+   "url": "https://www.tcnjsignalnews.com/article/2026/09/welcome-to-the-black-parade-my-chemical-romance-takes-over-citi-field",
+   "title_original": "‘Welcome to the Black Parade’: My Chemical Romance takes over Citi Field",
+   "source": "tcnjsignalnews.com",
+   "image": "https://snworksceo.imgix.net/njs/953a2b25-5cd4-4079-9b1c-1b2b46f18d2e.sized-1000x1000.png?w=800&h=600",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-04T00:53:00+00:00",
+   "title_ja": "My Chemical RomanceがCiti Field公演を開催",
+   "summary_ja": "My Chemical Romanceがシティ・フィールドで大規模なライブパフォーマンスを実施したことを報じる記事。",
    "category": "ライブ・ツアー",
    "band": "My Chemical Romance",
    "artists": [
@@ -2695,6 +2717,26 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "e0e95504f6f480f8",
+   "url": "https://nowtoronto.com/movies/movies-reviews/green-day-nimrods-movie-theatres-review",
+   "title_original": "Review: Nimrods is as chaotic and fun as a Green Day concert",
+   "source": "NOW Toronto",
+   "image": "https://nowtoronto.com/wp-content/uploads/2026/08/Nimrods-movie-review.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-18T14:33:03+00:00",
+   "title_ja": "舞台Nimrodsのライブ感をGreen Dayの公演に例えてレビュー",
+   "summary_ja": "Nimrodsの公演について、Green Dayのライブのようにカオスで楽しいエネルギーに満ちていると称賛するレビュー記事。",
+   "category": "その他",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 2,
    "has_detail": true
   },
   {
