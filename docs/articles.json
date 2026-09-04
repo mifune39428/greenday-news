@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-04T05:52:53.436707+09:00",
+ "updated_at": "2026-09-04T13:08:36.526367+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -70,6 +70,7 @@
   "Racket MN",
   "Revolver Magazine",
   "Rock Cellar Magazine",
+  "Rock DNA Magazine",
   "Rock Sound",
   "Rolling Stone",
   "Rolling Stone Australia",
@@ -98,6 +99,7 @@
   "Tullahoma News",
   "WDHA FM",
   "Yahoo",
+  "Yahoo!ニュース",
   "antiMusic",
   "chorus.fm",
   "clashmusic.com",
@@ -107,15 +109,74 @@
   "music.mxdwn.com",
   "mxdwn Music",
   "parade.com",
-  "sacbee.com",
   "t.co",
   "wecb.fm",
   "チバテレ",
   "激ロック"
  ],
- "count": 125,
- "detail_count": 95,
+ "count": 128,
+ "detail_count": 98,
  "items": [
+  {
+   "id": "ed11c8e9495a9d11",
+   "url": "https://pitchfork.com/reviews/albums/the-linda-lindas-gotta-get-out",
+   "title_original": "The Linda Lindas: GOTTA GET OUT Album Review",
+   "source": "Pitchfork",
+   "image": "https://media.pitchfork.com/photos/6a906016bce3e78385e06d5d/16:9/w_1280,c_limit/The%20Linda%20Lindas%20Gotta%20Get%20Out.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-04T04:00:00+00:00",
+   "title_ja": "The Linda Lindasの新譜『GOTTA GET OUT』レビュー",
+   "summary_ja": "The Linda Lindasの新作アルバム『GOTTA GET OUT』に関する海外メディアのアルバムレビュー記事が公開された。作品の音楽性や聴きどころについて評価している。",
+   "category": "新曲・新作",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c21918ff68580f67",
+   "url": "https://news.yahoo.co.jp/articles/0fd4f405d055a580db4537614ccad289be494293",
+   "title_original": "オフスプリング「The Kids Aren't Alright」日本語リリック・ビデオ公開、ストリート・ピアノ共演動画が話題に",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00165183-exp-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T02:35:07+00:00",
+   "title_ja": "The Offspringの名曲日本語リリック・ビデオ公開",
+   "summary_ja": "The Offspringの代表曲「The Kids Aren't Alright」の日本語リリック・ビデオが公開され、ストリートピアノとの共演動画もあわせて大きな話題を集めている。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": true,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "6fc6ae3121291c4b",
+   "url": "https://www.rockdnamag.com/post/concert-review-my-chemical-romance-at-target-field",
+   "title_original": "Concert Review: My Chemical Romance at Target Field",
+   "source": "Rock DNA Magazine",
+   "image": "https://static.wixstatic.com/media/edf980_0a52bfaca2b243c9ba5ac0a11c476d9c~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_85,usm_0.66_1.00_0.01/edf980_0a52bfaca2b243c9ba5ac0a11c476d9c~mv2.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-04T01:02:17.547000+00:00",
+   "title_ja": "My Chemical Romanceのターゲット・フィールド公演ライブレポ",
+   "summary_ja": "ターゲット・フィールドで開催されたMy Chemical Romanceのコンサートの様子を伝えるライブレビュー記事。会場での熱狂的なパフォーマンスや現地の雰囲気をレポートしている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "4167887009e8ca74",
    "url": "https://chorus.fm/news/blink-182-x-pac-man-2-0",
@@ -174,6 +235,26 @@
     "Ramones"
    ],
    "japan": true,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "9332dc5b11c9727e",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/weezer-the-gathering-arena-tour-starts-in-sacramento/70047501",
+   "title_original": "Weezer - The Gathering arena tour starts in Sacramento",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403809_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-03T06:22:51+00:00",
+   "title_ja": "Weezerのアリーナツアー「The Gathering」がサクラメントで開幕",
+   "summary_ja": "Weezerによる新たなアリーナツアー「The Gathering」が、サクラメント公演を皮切りについにスタートした。ツアー初日の盛り上がりや今後の展開に注目が集まっている。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
    "importance": 4,
    "has_detail": true
   },
@@ -365,26 +446,6 @@
    "has_detail": true
   },
   {
-   "id": "5327d05119a422a5",
-   "url": "https://www.sacbee.com/entertainment/article317101647.html",
-   "title_original": "Grammy Award-winning band Weezer kicks off tour at Sacramento’s Golden 1 Center",
-   "source": "sacbee.com",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T17:31:00+00:00",
-   "title_ja": "Weezerがサクラメント公演でツアー開幕",
-   "summary_ja": "グラミー賞受賞バンドのWeezerが、サクラメントのゴールデン1・センターで新たなツアーをスタートさせた。（抜粋なし）",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
    "id": "8eb7e927e15ceb80",
    "url": "https://www.yahoo.com/entertainment/music/articles/green-day-rancid-blink-182-161820591.html",
    "title_original": "Green Day, Rancid, and Blink-182 members celebrate the Ramones’ 50th anniversary with a set at a cemetery",
@@ -553,7 +614,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "845a315a7b329734",
