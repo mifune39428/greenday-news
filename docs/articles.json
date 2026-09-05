@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T05:39:36.706132+09:00",
+ "updated_at": "2026-09-05T13:04:55.543339+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -98,6 +98,7 @@
   "The Wenatchee World",
   "Tinnitist",
   "Tullahoma News",
+  "Ultimate Guitar",
   "WDHA FM",
   "Yahoo",
   "Yahoo!ニュース",
@@ -116,9 +117,29 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 130,
+ "count": 131,
  "detail_count": 99,
  "items": [
+  {
+   "id": "b657af26d5a019f4",
+   "url": "https://www.ultimate-guitar.com/news/tab_spotlight/the-real-challenge-of-the-offsprings-come-out-and-play-is-palm-muting-one-shared-amp-means-nowhere-to-hide",
+   "title_original": "The Real Challenge of The Offspring's 'Come Out and Play' Is Palm Muting: One Shared Amp Means Nowhere to Hide",
+   "source": "Ultimate Guitar",
+   "image": "https://www.ultimate-guitar.com/static/article/news/2/187922_0_wide_ver1788556416.jpg@1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-04T21:13:36+00:00",
+   "title_ja": "The Offspringの名曲「Come Out and Play」の演奏上の難所",
+   "summary_ja": "The Offspringの代表曲「Come Out and Play」における、ブリッジミュートをはじめとしたギター演奏の難しさや、アンプを共有する環境ならではの緊張感について語られています。",
+   "category": "その他",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "ed11c8e9495a9d11",
    "url": "https://pitchfork.com/reviews/albums/the-linda-lindas-gotta-get-out",
