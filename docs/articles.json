@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-07T00:19:57.447215+09:00",
+ "updated_at": "2026-09-07T05:17:25.595191+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -28,7 +28,6 @@
  ],
  "sources": [
   "13thfloor.co.nz",
-  "93.3 WMMR",
   "95.9 The Rat",
   "9News",
   "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -57,6 +56,7 @@
   "MUSIC LIFE CLUB",
   "MediaPost",
   "Metalhead Zone",
+  "MondoSonoro",
   "NME",
   "NME Japan",
   "NOW Toronto",
@@ -104,6 +104,7 @@
   "Wikimetal",
   "Yahoo",
   "Yahoo!ニュース",
+  "ad-hoc-news.de",
   "antiMusic",
   "broadwayworld.com",
   "chorus.fm",
@@ -120,9 +121,31 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 135,
- "detail_count": 102,
+ "count": 137,
+ "detail_count": 101,
  "items": [
+  {
+   "id": "b76dac23350b66fb",
+   "url": "https://www.ultimate-guitar.com/articles/features/an-obscure-lynyrd-skynyrd-song-angered-billie-joe-armstrong-he-wrote-american-idiot-as-a-response-187916",
+   "title_original": "An Obscure Lynyrd Skynyrd Song Angered Billie Joe Armstrong. He Wrote 'American Idiot' as a Response",
+   "source": "Ultimate Guitar",
+   "image": "https://www.ultimate-guitar.com/static/article/news/6/187916_0_wide_ver1788710425.jpg@1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-06T16:00:25+00:00",
+   "title_ja": "Billie Joe Armstrongが語る『American Idiot』誕生の裏側",
+   "summary_ja": "Billie Joe Armstrongが怒りを感じたLynyrd Skynyrdの楽曲への反発として『American Idiot』を書いたことが明らかになった。名作アルバム誕生の興味深い背景を振り返る記事。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Green Day",
+    "Billie Joe Armstrong",
+    "Lynyrd Skynyrd"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "4c7bde397925e9e2",
    "url": "https://www.broadwayworld.com/new-hampshire/article/Review-GREEN-DAYS-AMERICAN-IDIOT-at-Seacoast-Repertory-Theatre-20260905",
@@ -466,6 +489,26 @@
    "has_detail": true
   },
   {
+   "id": "6b5474b96134bf22",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/green-day-extend-saviors-tour-with-2026-german-dates/70046996",
+   "title_original": "Green Day extend Saviors tour with 2026 German dates",
+   "source": "ad-hoc-news.de",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-03T05:05:58+00:00",
+   "title_ja": "Green Day、2026年のドイツ公演日程を追加発表",
+   "summary_ja": "現在開催中の「Saviors」ツアーについて、Green Dayが2026年のドイツでの追加公演日程を発表した。欧州での大規模なライブ継続が決定している。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "ba46c5f6c0c4b4ff",
    "url": "https://www.ad-hoc-news.de/unterhaltung/musik/fall-out-boy-and-so-much-for-2our-dust-s-record-store-day-success/70046738",
    "title_original": "Fall Out Boy and So Much For (2our) Dust’s Record Store Day success",
@@ -589,29 +632,6 @@
     "Rancid",
     "Blink-182",
     "Ramones"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "85cdca15bbb071d9",
-   "url": "https://wmmr.com/2026/09/02/billy-idol-blink-182-green-day-and-more-pay-tribute-to-the-ramones",
-   "title_original": "Billy Idol, Blink-182, Green Day, and More Pay Tribute to The Ramones",
-   "source": "93.3 WMMR",
-   "image": "https://wmmr.com/uploads/2026/09/GettyImages-2292334040.jpg?auto=webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T15:14:40+00:00",
-   "title_ja": "Billy IdolやGreen DayらがThe Ramonesにトリビュート",
-   "summary_ja": "Billy IdolやBlink-182、Green Dayをはじめとする名だたるアーティストたちが、伝説的なパンクバンドThe Ramonesへ捧げるトリビュート企画に参加していることが明らかになった。",
-   "category": "その他",
-   "band": "Green Day",
-   "artists": [
-    "Green Day",
-    "Blink-182",
-    "Billy Idol",
-    "The Ramones"
    ],
    "japan": false,
    "importance": 3,
@@ -2842,6 +2862,26 @@
    "japan": false,
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "c1ccd8595606b692",
+   "url": "https://www.mondosonoro.com/item/green-day-singles-box-7-cd-set-music-col",
+   "title_original": "GREEN DAY Singles Box 7 CD Set Music Collection Working Condition Pre-Owned RARE",
+   "source": "MondoSonoro",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-17T15:56:41+00:00",
+   "title_ja": "Green DayのシングルCD7枚組ボックスセットが出品中",
+   "summary_ja": "Green Dayのシングルコレクションを収めた7枚組CDボックスセットの中古品が、コレクターズアイテムとして市場に登場している。",
+   "category": "その他",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 1,
+   "detail_tries": 1
   },
   {
    "id": "cfd533251929f7c4",
