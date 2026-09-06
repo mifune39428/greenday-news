@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-06T05:13:18.604754+09:00",
+ "updated_at": "2026-09-06T13:12:21.219398+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -37,6 +37,7 @@
   "BLABBERMOUTH.NET",
   "Bass Magazine",
   "Boston's ROCK 92.9",
+  "Britannica",
   "Central Oregon Daily",
   "Consequence",
   "Daily Sabah",
@@ -104,6 +105,7 @@
   "Yahoo",
   "Yahoo!ニュース",
   "antiMusic",
+  "broadwayworld.com",
   "chorus.fm",
   "clashmusic.com",
   "cultfollowing.co.uk",
@@ -118,9 +120,29 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 133,
- "detail_count": 101,
+ "count": 135,
+ "detail_count": 102,
  "items": [
+  {
+   "id": "4c7bde397925e9e2",
+   "url": "https://www.broadwayworld.com/new-hampshire/article/Review-GREEN-DAYS-AMERICAN-IDIOT-at-Seacoast-Repertory-Theatre-20260905",
+   "title_original": "Review: GREEN DAY'S AMERICAN IDIOT at Seacoast Repertory Theatre",
+   "source": "broadwayworld.com",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/Review-GREEN-DAY-S-AMERICAN-IDIOT-at-Seacoast-Repertory-Theatre-1788645208.jpg?width=1200&format=jpeg&quality=80",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-05T23:22:43+00:00",
+   "title_ja": "Green Dayのミュージカル『American Idiot』公演のレビュー",
+   "summary_ja": "シーコースト・レパートリー・シアターにて上演されたGreen Dayのアルバムを原作としたミュージカル『American Idiot』の劇評が公開された。",
+   "category": "映像・映画・書籍",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "840e57d5893fb273",
    "url": "https://www.wikimetal.com.br/en/rise-against-rock-in-rio-instruments-borrowed-from-other-bands/amp",
@@ -180,6 +202,26 @@
    "japan": false,
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "27e737be8aed308b",
+   "url": "https://www.britannica.com/biography/Travis-Barker",
+   "title_original": "Travis Barker | Biography, Blink-182, 2008 Plane Crash, Marriage, Kourtney Kardashian, & Facts",
+   "source": "Britannica",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-04T05:00:00+00:00",
+   "title_ja": "Blink-182のTravis Barkerの生涯とキャリアの解説",
+   "summary_ja": "Blink-182のドラマーであるTravis Barkerの生い立ち、バンドの経歴、飛行機事故や結婚などの人生の足跡を振り返る伝記記事。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Travis Barker"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "ed11c8e9495a9d11",
