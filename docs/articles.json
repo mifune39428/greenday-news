@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-07T05:17:25.595191+09:00",
+ "updated_at": "2026-09-07T13:11:35.393950+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -122,7 +122,7 @@
   "激ロック"
  ],
  "count": 137,
- "detail_count": 101,
+ "detail_count": 102,
  "items": [
   {
    "id": "b76dac23350b66fb",
@@ -144,7 +144,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4c7bde397925e9e2",
@@ -493,7 +493,7 @@
    "url": "https://www.ad-hoc-news.de/unterhaltung/musik/green-day-extend-saviors-tour-with-2026-german-dates/70046996",
    "title_original": "Green Day extend Saviors tour with 2026 German dates",
    "source": "ad-hoc-news.de",
-   "image": "",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403828_1920_1080.webp",
    "lang": "en",
    "region": "global",
    "published": "2026-09-03T05:05:58+00:00",
@@ -506,7 +506,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "ba46c5f6c0c4b4ff",
@@ -2881,7 +2881,7 @@
    ],
    "japan": false,
    "importance": 1,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "cfd533251929f7c4",
