@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-07T21:12:53.145670+09:00",
+ "updated_at": "2026-09-08T06:24:26.784043+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -28,6 +28,7 @@
  ],
  "sources": [
   "13thfloor.co.nz",
+  "411Mania",
   "95.9 The Rat",
   "9News",
   "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -43,6 +44,8 @@
   "Detroit Metro Times",
   "Exclaim!",
   "Far Out Magazine",
+  "Fightful",
+  "Filmaffinity",
   "Forbes",
   "Guitar.com",
   "Hoodline",
@@ -121,9 +124,72 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 137,
- "detail_count": 102,
+ "count": 142,
+ "detail_count": 104,
  "items": [
+  {
+   "id": "56d28a99ae41e4dc",
+   "url": "https://411mania.com/wrestling/my-chemical-romance-dedicate-song-the-butcher-concert",
+   "title_original": "My Chemical Romance Dedicate Song To The Butcher During Concert",
+   "source": "411Mania",
+   "image": "https://411mania.com/wp-content/uploads/2026/09/The-Butcher-Andy-Williams.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-07T20:30:52+00:00",
+   "title_ja": "My Chemical Romanceがライブでアンディ・ウィリアムズに曲を捧げる",
+   "summary_ja": "コンサートの中で、My Chemical Romanceがアンディ・“ザ・ブッチャー”・ウィリアムズに楽曲を捧げたことが各メディアで報じられた。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Andy Williams"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c922fafeacaf5903",
+   "url": "https://www.fightful.com/wrestling/my-chemical-romance-dedicates-song-to-the-butcher-andy-williams-at-concert",
+   "title_original": "My Chemical Romance Dedicates Song To ‘The Butcher’ Andy Williams At Concert",
+   "source": "Fightful",
+   "image": "https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/09/07153243/HRi0-xdWIAMl5lr.jpeg?v=20260907193419",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-07T19:34:19+00:00",
+   "title_ja": "MCRがフェニックス公演でアンディ・ウィリアムズに曲を献呈",
+   "summary_ja": "My Chemical Romanceがコンサートのパフォーマンス中に、アンディ・“ザ・ブッチャー”・ウィリアムズへ向けて曲を捧げたことが明らかになった。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Andy Williams"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "ee74d157417240f4",
+   "url": "https://lambgoat.com/news/54680/my-chemical-romances-phoenix-az-show-featured-a-live-debut-and-a-tribute-to-andy-williams",
+   "title_original": "My Chemical Romance's Phoenix, AZ show featured a live debut and a tribute to Andy Williams",
+   "source": "Lambgoat",
+   "image": "https://lambgoat.com/cdn/2025/my-chemical-romance-20250707143752.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-07T15:20:00+00:00",
+   "title_ja": "My Chemical Romance、アリゾナ公演でライブ初演とトリビュートを披露",
+   "summary_ja": "My Chemical Romanceがアリゾナ州フェニックスで開催した公演において、楽曲のライブ初演とアンディ・ウィリアムズへのトリビュートを行ったことが報じられています。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Andy Williams"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "b76dac23350b66fb",
    "url": "https://www.ultimate-guitar.com/articles/features/an-obscure-lynyrd-skynyrd-song-angered-billie-joe-armstrong-he-wrote-american-idiot-as-a-response-187916",
@@ -145,6 +211,26 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "8f9b9cbf5bee5d86",
+   "url": "https://www.filmaffinity.com/us/evideos.php?movie_id=235227",
+   "title_original": "Videos - Weezer: C.E.O. (Music Video) (2026)",
+   "source": "Filmaffinity",
+   "image": "https://pics.filmaffinity.com/weezer_c_e_o-631490481-large.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-06T12:39:18+00:00",
+   "title_ja": "Weezerが2026年新作ミュージックビデオ「C.E.O.」を公開",
+   "summary_ja": "Weezerが2026年に公開した新しいミュージックビデオ「C.E.O.」の映像作品についての情報が掲載されています。",
+   "category": "映像・映画・書籍",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "4c7bde397925e9e2",
@@ -2862,6 +2948,26 @@
    "japan": false,
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "e267f2d28f41de06",
+   "url": "https://www.mondosonoro.com/item/green-day-dookie-gold-stamp-promo-cd-n",
+   "title_original": "GREEN DAY - Dookie GOLD STAMP PROMO CD never played (with Ernie photo) 1994",
+   "source": "MondoSonoro",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-17T15:56:48+00:00",
+   "title_ja": "1994年製Green Day『Dookie』のゴールドスタンプ付きプロモCDが出品",
+   "summary_ja": "1994年にリリースされたGreen Dayの名盤『Dookie』について、アーニーの写真が付属した未再生のゴールドスタンプ付きプロモCDが紹介されています。",
+   "category": "再発・記念盤",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "c1ccd8595606b692",
