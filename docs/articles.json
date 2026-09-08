@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-09T01:28:28.973867+09:00",
+ "updated_at": "2026-09-09T06:00:51.412222+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -60,6 +60,7 @@
   "Lambgoat",
   "LancasterOnline",
   "MUSIC LIFE CLUB",
+  "Media Play News",
   "MediaPost",
   "Metalhead Zone",
   "MondoSonoro",
@@ -130,9 +131,49 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 147,
- "detail_count": 105,
+ "count": 149,
+ "detail_count": 107,
  "items": [
+  {
+   "id": "ae770885dae24ff4",
+   "url": "https://www.broadwayworld.com/bwwtv/article/NIMRODS-GREEN-DAY-Comedy-to-Arrive-on-Digital-in-September-20260908",
+   "title_original": "NIMRODS, GREEN DAY Comedy, to Arrive on Digital in September",
+   "source": "broadwayworld.com",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/NIMRODS-GREEN-DAY-Comedy-to-Arrive-on-Digital-in-September-1788889976.jpg?width=1200&format=jpeg&quality=80",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-08T19:15:07+00:00",
+   "title_ja": "グリーン・デイのコメディ映画『Nimrods』が9月に配信へ",
+   "summary_ja": "グリーン・デイに関連するコメディ作品『Nimrods』が、9月にデジタル配信されることが明らかになった。（83文字）",
+   "category": "映像・映画・書籍",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "9efbe772ae81c481",
+   "url": "https://www.mediaplaynews.com/green-day-comedy-nimrods-available-digitally-sept-15",
+   "title_original": "Green Day Comedy ‘Nimrods’ Available Digitally Sept. 15",
+   "source": "Media Play News",
+   "image": "https://cdn.mediaplaynews.com/wp-content/uploads/2026/09/Nimrods-drive.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-08T18:29:19+00:00",
+   "title_ja": "コメディ映画『Nimrods』が9月15日にデジタル配信開始",
+   "summary_ja": "グリーン・デイをフィーチャーしたコメディ作品『Nimrods』が、9月15日よりデジタルプラットフォームで配信される予定。（90文字）",
+   "category": "映像・映画・書籍",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "7578b7404ab5f90b",
    "url": "https://www.kerrang.com/the-linda-lindas-its-so-important-to-speak-up-for-what-you-believe-in-because-then-other-people-feel-less-alone",
@@ -151,7 +192,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b587d9c9f3a287d6",
@@ -171,7 +212,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "329e8ac2c9bfaf27",
@@ -296,7 +337,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b76dac23350b66fb",
