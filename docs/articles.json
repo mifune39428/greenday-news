@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-08T13:12:40.441081+09:00",
+ "updated_at": "2026-09-08T20:02:44.035821+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -47,6 +47,7 @@
   "Fightful",
   "Filmaffinity",
   "Forbes",
+  "Guitar World",
   "Guitar.com",
   "Happy Mag",
   "Hoodline",
@@ -126,9 +127,31 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 143,
+ "count": 144,
  "detail_count": 105,
  "items": [
+  {
+   "id": "329e8ac2c9bfaf27",
+   "url": "https://www.guitarworld.com/artists/guitarists/brian-bell-weezer-gold-album-interview",
+   "title_original": "“There was this D-Day where everybody in rock music got dropped except for us and Beck. I felt the immediate hatred in town”: Weezer’s Brian Bell on polarizing fans (and the band), proving the critics wrong, and making the Gold Album",
+   "source": "Guitar World",
+   "image": "https://cdn.mos.cms.futurecdn.net/T8E4X7XjZ8MKaYUXn6E8Lk-2000-80.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-08T10:22:11+00:00",
+   "title_ja": "WeezerのBrian Bellが語るバンドのキャリアと批判への向き合い方",
+   "summary_ja": "WeezerのBrian Bellがインタビューに応じ、かつて多くのロックバンドが契約を解除される中で生き残った当時の心境や、ファンの賛否両論に直面した経験について振り返っている。",
+   "category": "メンバー・発言",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "Brian Bell",
+    "Beck"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "f0580576736e4208",
    "url": "https://www.splicetoday.com/music/green-day-live-at-santa-rosa-high-school-1991",
@@ -147,7 +170,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "974a33c57377089b",
@@ -3008,7 +3031,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "cfd533251929f7c4",
