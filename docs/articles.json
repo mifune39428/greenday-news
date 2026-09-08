@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-08T20:02:44.035821+09:00",
+ "updated_at": "2026-09-09T01:28:28.973867+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -54,6 +54,7 @@
   "Idaho Press",
   "JamBase",
   "JoBlo",
+  "Kerrang!",
   "Knotfest",
   "LAist",
   "Lambgoat",
@@ -71,6 +72,7 @@
   "Oh No They Didn't! — LiveJournal",
   "Orlando Sentinel",
   "PUNKLOID",
+  "People.com",
   "Pioneer Press",
   "Pitchfork",
   "Prelude Press",
@@ -123,13 +125,54 @@
   "parade.com",
   "t.co",
   "tcnjsignalnews.com",
+  "themusicman.uk",
   "wecb.fm",
   "チバテレ",
   "激ロック"
  ],
- "count": 144,
+ "count": 147,
  "detail_count": 105,
  "items": [
+  {
+   "id": "7578b7404ab5f90b",
+   "url": "https://www.kerrang.com/the-linda-lindas-its-so-important-to-speak-up-for-what-you-believe-in-because-then-other-people-feel-less-alone",
+   "title_original": "The Linda Lindas: “It’s so important to speak up for what you believe in because then other people feel less alone”",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/2026/09/LINDA-LINDAS-HEADER-2026-CREDIT.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1788883461&s=69d86f4c92fd9813f262d6f544fbe4b7",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-08T16:18:00+00:00",
+   "title_ja": "The Linda Lindasが信念を発信することの大切さを語る",
+   "summary_ja": "The Linda Lindasが自身の信念について声を上げることの重要性を語った。自らが思いを発信することで、同じように悩む他の人々が一人ではないと感じられるようになるとその真意を明かしている。",
+   "category": "メンバー・発言",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "b587d9c9f3a287d6",
+   "url": "https://people.com/my-chemical-romance-fans-wed-during-concert-in-san-diego-exclusive-12110238",
+   "title_original": "My Chemical Romance Fans Wed During Concert in San Diego (Exclusive)",
+   "source": "People.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-08T15:06:00+00:00",
+   "title_ja": "My Chemical Romanceのサンディエゴ公演中にファンが結婚",
+   "summary_ja": "My Chemical Romanceがサンディエゴで行ったコンサートの会場内で、ファンのカップルが結婚式を執り行った。ライブの最中に特別な瞬間が訪れ、周囲のファンからも祝福を受けた。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "329e8ac2c9bfaf27",
    "url": "https://www.guitarworld.com/artists/guitarists/brian-bell-weezer-gold-album-interview",
@@ -150,7 +193,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f0580576736e4208",
@@ -233,6 +276,27 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "396c89995097e65d",
+   "url": "https://www.themusicman.uk/the-offsprings-orchestral-masterpiece",
+   "title_original": "The Offspring booked an entire orchestra to transform their pop punk classic into a cinematic experience and even haters are calling it a ‘masterpiece’, especially once Brian May hits the stage…",
+   "source": "themusicman.uk",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-07T17:26:34+00:00",
+   "title_ja": "The Offspringがオーケストラ共演を披露しBrian Mayも登壇",
+   "summary_ja": "The Offspringがオーケストラを迎えて代表曲をアレンジし、映画のような壮大な演奏を披露した。さらにBrian Mayがステージに登場し、圧巻のパフォーマンスで絶賛を浴びている。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Brian May"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "b76dac23350b66fb",
