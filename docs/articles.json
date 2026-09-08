@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-08T06:24:26.784043+09:00",
+ "updated_at": "2026-09-08T13:12:40.441081+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -48,6 +48,7 @@
   "Filmaffinity",
   "Forbes",
   "Guitar.com",
+  "Happy Mag",
   "Hoodline",
   "Idaho Press",
   "JamBase",
@@ -84,6 +85,7 @@
   "Showbiz by PS",
   "SiriusXM",
   "Sortir à Paris",
+  "Splice Today",
   "Stephen Thomas Erlewine | Substack",
   "Stereoboard.com",
   "TVGuide.co.uk",
@@ -124,9 +126,49 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 142,
- "detail_count": 104,
+ "count": 143,
+ "detail_count": 105,
  "items": [
+  {
+   "id": "f0580576736e4208",
+   "url": "https://www.splicetoday.com/music/green-day-live-at-santa-rosa-high-school-1991",
+   "title_original": "Green Day - Live at Santa Rosa High School (1991)",
+   "source": "Splice Today",
+   "image": "https://img.youtube.com/vi/8IGGK6pIu7Q/hqdefault.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-08T04:01:56+00:00",
+   "title_ja": "Green Dayの1991年サンタローザ高校ライブ映像",
+   "summary_ja": "1991年にGreen Dayがサンタローザ高校で行った貴重なライブの様子をとらえた映像が話題となっている。初期の勢い溢れるパフォーマンスを確認できるアーカイブ作品だ。",
+   "category": "映像・映画・書籍",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "974a33c57377089b",
+   "url": "https://happymag.tv/my-chemical-romance-the-light-behind-your-eyes-live",
+   "title_original": "My Chemical Romance finally play ‘The Light Behind Your Eyes’ live -",
+   "source": "Happy Mag",
+   "image": "https://happymag.tv/wp-content/uploads/2026/09/my-chemical-romance.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-07T22:31:21+00:00",
+   "title_ja": "My Chemical Romanceがついに『The Light Behind Your Eyes』をライブ初披露",
+   "summary_ja": "My Chemical Romanceがライブで『The Light Behind Your Eyes』を初めて演奏した。ファン待望の楽曲の初披露となり、大きな盛り上がりを見せたステージとなった。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "56d28a99ae41e4dc",
    "url": "https://411mania.com/wrestling/my-chemical-romance-dedicate-song-the-butcher-concert",
@@ -170,27 +212,6 @@
    "has_detail": true
   },
   {
-   "id": "ee74d157417240f4",
-   "url": "https://lambgoat.com/news/54680/my-chemical-romances-phoenix-az-show-featured-a-live-debut-and-a-tribute-to-andy-williams",
-   "title_original": "My Chemical Romance's Phoenix, AZ show featured a live debut and a tribute to Andy Williams",
-   "source": "Lambgoat",
-   "image": "https://lambgoat.com/cdn/2025/my-chemical-romance-20250707143752.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-07T15:20:00+00:00",
-   "title_ja": "My Chemical Romance、アリゾナ公演でライブ初演とトリビュートを披露",
-   "summary_ja": "My Chemical Romanceがアリゾナ州フェニックスで開催した公演において、楽曲のライブ初演とアンディ・ウィリアムズへのトリビュートを行ったことが報じられています。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "Andy Williams"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 1
-  },
-  {
    "id": "b76dac23350b66fb",
    "url": "https://www.ultimate-guitar.com/articles/features/an-obscure-lynyrd-skynyrd-song-angered-billie-joe-armstrong-he-wrote-american-idiot-as-a-response-187916",
    "title_original": "An Obscure Lynyrd Skynyrd Song Angered Billie Joe Armstrong. He Wrote 'American Idiot' as a Response",
@@ -230,7 +251,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4c7bde397925e9e2",
@@ -2967,27 +2988,27 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
-   "id": "c1ccd8595606b692",
-   "url": "https://www.mondosonoro.com/item/green-day-singles-box-7-cd-set-music-col",
-   "title_original": "GREEN DAY Singles Box 7 CD Set Music Collection Working Condition Pre-Owned RARE",
+   "id": "88c8b2475da65959",
+   "url": "https://www.mondosonoro.com/item/green-day-4-cd-lot-1-039-smoothed-out-2",
+   "title_original": "Green Day 4-CD Lot - 1,039/Smoothed Out Slappy Hours, Kerplunk!, Dookie, Warning",
    "source": "MondoSonoro",
    "image": "",
    "lang": "en",
    "region": "global",
-   "published": "2026-08-17T15:56:41+00:00",
-   "title_ja": "Green DayのシングルCD7枚組ボックスセットが出品中",
-   "summary_ja": "Green Dayのシングルコレクションを収めた7枚組CDボックスセットの中古品が、コレクターズアイテムとして市場に登場している。",
-   "category": "その他",
+   "published": "2026-08-17T15:56:19+00:00",
+   "title_ja": "Green Dayの初期4作品をまとめたCDセットが登場",
+   "summary_ja": "『1,039/Smoothed Out Slappy Hours』や『Kerplunk!』、『Dookie』、『Warning』の4枚のCDをセットにした商品が注目を集めている。バンドの歴史を辿る名盤の数々をまとめて楽しめる。",
+   "category": "再発・記念盤",
    "band": "Green Day",
    "artists": [
     "Green Day"
    ],
    "japan": false,
-   "importance": 1,
-   "detail_tries": 2
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "cfd533251929f7c4",
