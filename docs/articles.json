@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-09T13:19:10.477753+09:00",
+ "updated_at": "2026-09-09T20:07:44.136732+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -134,7 +134,7 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 153,
+ "count": 154,
  "detail_count": 110,
  "items": [
   {
@@ -158,6 +158,26 @@
    "has_detail": true
   },
   {
+   "id": "eeaa2b1c94597509",
+   "url": "https://music.mxdwn.com/2026/09/08/news/my-chemical-romance-plays-the-light-behind-your-eyes-live-for-the-first-time-and-dedicate-boy-division-to-andy-williams-of-everytime-i-die",
+   "title_original": "My Chemical Romance Plays “The Light Behind Your Eyes” Live For The First Time and Dedicate “Boy Divi...",
+   "source": "mxdwn Music",
+   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2025/07/my-chemical-romance_owen-ela_07272025-3.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-09T01:52:33+00:00",
+   "title_ja": "My Chemical Romanceが初披露曲を演奏",
+   "summary_ja": "My Chemical Romanceがライブで「The Light Behind Your Eyes」を初めて演奏し、ファンを沸かせた。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "3eff148a6d09df04",
    "url": "https://www.loudersound.com/bands-artists/the-story-of-weezer-frontman-rivers-cuoms-high-school-prog-metal-band-avant-garde",
    "title_original": "\"By 12th grade, people gave us a certain amount of respect. But we were never rock stars, just the weird guys who did music.\" The story of Weezer frontman Rivers Cuomo's high school prog metal band Avant Garde",
@@ -176,7 +196,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e7db71da9bf50068",
