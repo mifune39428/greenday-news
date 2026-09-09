@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-09T20:07:44.136732+09:00",
+ "updated_at": "2026-09-10T01:25:04.955169+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -34,8 +34,10 @@
   "ABC News & Headlines – Australian Broadcasting Corporation",
   "AD HOC NEWS",
   "AZ Big Media",
+  "Arab News",
   "BLABBERMOUTH.NET",
   "Bass Magazine",
+  "Billboard",
   "Boston's ROCK 92.9",
   "Britannica",
   "Central Oregon Daily",
@@ -63,6 +65,7 @@
   "MUSIC LIFE CLUB",
   "Media Play News",
   "MediaPost",
+  "Metal Injection",
   "Metalhead Zone",
   "Mikiki by TOWER RECORDS",
   "MondoSonoro",
@@ -134,9 +137,72 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 154,
- "detail_count": 110,
+ "count": 159,
+ "detail_count": 112,
  "items": [
+  {
+   "id": "fc8f216e1c29a682",
+   "url": "https://metalinjection.net/news/photos-an-unexpected-perfect-pairing-my-chemical-romance-babymetal-in-san-diego",
+   "title_original": "PHOTOS: An Unexpected, Perfect Pairing – MY CHEMICAL ROMANCE & BABYMETAL In San Diego",
+   "source": "Metal Injection",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-09T15:03:42+00:00",
+   "title_ja": "MY CHEMICAL ROMANCEとBABYMETALのサンディエゴ公演",
+   "summary_ja": "サンディエゴで行われたMY CHEMICAL ROMANCEとBABYMETALの共演ライブの模様を捉えた写真が公開された。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "BABYMETAL"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "882f79cf3e155f15",
+   "url": "https://www.jambase.com/article/weezer-gathering-tour-opener-sacramento-rarities-setlist",
+   "title_original": "Weezer Dusts Off Rarities At The Gathering Tour Opener In Sacramento",
+   "source": "JamBase",
+   "image": "https://www.jambase.com/wp-content/uploads/2026/09/weezer-gathering-tour-sacramento-setlist-videos-1480x832.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-09T14:56:37+00:00",
+   "title_ja": "Weezerがサクラメントのツアー初日でレア曲を披露",
+   "summary_ja": "Weezerがサクラメントで開催された「The Gathering」ツアーの初日公演にて、普段あまり演奏されないレアな楽曲を披露した。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "6d1d81d5081e710e",
+   "url": "https://consequence.net/2026/09/weezer-the-gathering-tour-kickoff-setlist-videos",
+   "title_original": "Weezer Kick Off “The Gathering” Tour with The Shins and Silversun Pickups: Setlist + Videos",
+   "source": "Consequence",
+   "image": "https://consequence.net/wp-content/uploads/2026/09/Weezer-The-Gathering-Kick-Off-Show-Sacramento-Setlist-Videos.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-09T14:41:36+00:00",
+   "title_ja": "WeezerがThe Shinsらと新ツアーを開幕",
+   "summary_ja": "WeezerがThe ShinsやSilversun Pickupsを迎えた「The Gathering」ツアーをスタートさせ、当日のセットリストや映像が公開された。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "The Shins",
+    "Silversun Pickups"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "e662c7033ee04d66",
    "url": "https://mikiki.tokyo.jp/articles/-/45986",
@@ -175,7 +241,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3eff148a6d09df04",
@@ -487,6 +553,26 @@
    "detail_tries": 2
   },
   {
+   "id": "1673734a6e4ca769",
+   "url": "https://www.billboard.com/music/rock/blink-182-take-off-your-pants-and-jacket-teaser-1236267844",
+   "title_original": "Blink-182 Appear to Be Planning Something for the 25th Anniversary of ‘Take Off Your Pants and Jacket’",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-06T07:00:00+00:00",
+   "title_ja": "Blink-182が「Take Off Your Pants and Jacket」25周年で計画中か",
+   "summary_ja": "Blink-182が名盤「Take Off Your Pants and Jacket」のリリース25周年へ向けて、何らかの企画を準備している模様だ。",
+   "category": "再発・記念盤",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "4c7bde397925e9e2",
    "url": "https://www.broadwayworld.com/new-hampshire/article/Review-GREEN-DAYS-AMERICAN-IDIOT-at-Seacoast-Repertory-Theatre-20260905",
    "title_original": "Review: GREEN DAY'S AMERICAN IDIOT at Seacoast Repertory Theatre",
@@ -565,6 +651,26 @@
    "japan": false,
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "ce150fc843e72e04",
+   "url": "https://www.arabnews.com/entertainment/green-day-announce-dubai-gig-2505446",
+   "title_original": "Green Day announce Dubai gig",
+   "source": "Arab News",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-04T20:07:50+00:00",
+   "title_ja": "Green Dayがドバイでのライブ開催を発表",
+   "summary_ja": "Green Dayがドバイ公演の開催を新たにアナウンスした。現地でのパフォーマンスにファンの期待が高まっている。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "27e737be8aed308b",
