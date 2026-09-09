@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-09T06:00:51.412222+09:00",
+ "updated_at": "2026-09-09T13:19:10.477753+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -59,10 +59,12 @@
   "LAist",
   "Lambgoat",
   "LancasterOnline",
+  "Louder",
   "MUSIC LIFE CLUB",
   "Media Play News",
   "MediaPost",
   "Metalhead Zone",
+  "Mikiki by TOWER RECORDS",
   "MondoSonoro",
   "NME",
   "NME Japan",
@@ -95,6 +97,7 @@
   "TVGuide.co.uk",
   "Tarrant County College",
   "That Eric Alper",
+  "The Daily Aztec",
   "The Daily Iowan",
   "The Day",
   "The Detroit News",
@@ -131,9 +134,70 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 149,
- "detail_count": 107,
+ "count": 153,
+ "detail_count": 110,
  "items": [
+  {
+   "id": "e662c7033ee04d66",
+   "url": "https://mikiki.tokyo.jp/articles/-/45986",
+   "title_original": "ザ・リンダ・リンダズ（The Linda Lindas）が〈Z世代のパンクバンド〉から脱皮! メジャー初作『GOTTA GET OUT』に聴く現在地",
+   "source": "Mikiki by TOWER RECORDS",
+   "image": "https://mikiki.ismcdn.jp/mwimgs/e/4/-/img_e4d338fc4f6f03146974438dfa13b3e9356335.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-09T02:45:00+00:00",
+   "title_ja": "The Linda Lindasがメジャー初作『GOTTA GET OUT』で魅せる現在地",
+   "summary_ja": "Z世代のパンクバンドとして注目を集めるThe Linda Lindasが、メジャー初アルバム『GOTTA GET OUT』を通してバンドとしての新たなステージへと進化を遂げた姿に迫る。",
+   "category": "新曲・新作",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "3eff148a6d09df04",
+   "url": "https://www.loudersound.com/bands-artists/the-story-of-weezer-frontman-rivers-cuoms-high-school-prog-metal-band-avant-garde",
+   "title_original": "\"By 12th grade, people gave us a certain amount of respect. But we were never rock stars, just the weird guys who did music.\" The story of Weezer frontman Rivers Cuomo's high school prog metal band Avant Garde",
+   "source": "Louder",
+   "image": "https://cdn.mos.cms.futurecdn.net/3f48HmLXTMRTeky74DRjCK-1280-80.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-09T01:00:00+00:00",
+   "title_ja": "WeezerのRivers Cuomoが語る高校時代のプログレッシブ・メタルバンド",
+   "summary_ja": "WeezerのフロントマンであるRivers Cuomoが、高校時代に組んでいたプログレッシブ・メタルバンド「Avant Garde」の知られざる歴史を振り返る。",
+   "category": "メンバー・発言",
+   "band": "Weezer",
+   "artists": [
+    "Rivers Cuomo",
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "e7db71da9bf50068",
+   "url": "https://thedailyaztec.com/128631/showcase/the-world-is-ugly-my-chemical-romances-theatrical-tour-portrays-an-authoritarian-dystopia",
+   "title_original": "‘The World Is Ugly’: My Chemical Romance’s theatrical tour portrays an authoritarian dystopia",
+   "source": "The Daily Aztec",
+   "image": "https://thedailyaztec.com/wp-content/uploads/2026/09/IMG_7006-e1788907087897.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-09T00:26:09+00:00",
+   "title_ja": "My Chemical Romanceの演劇的なツアーが描くディストピア",
+   "summary_ja": "My Chemical Romanceが展開する劇的な演出のツアーについて、権威主義的なディストピアの世界観をどのように表現しているのか報じている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "ae770885dae24ff4",
    "url": "https://www.broadwayworld.com/bwwtv/article/NIMRODS-GREEN-DAY-Comedy-to-Arrive-on-Digital-in-September-20260908",
@@ -277,6 +341,27 @@
    "has_detail": true
   },
   {
+   "id": "f25e1cdefe023cd6",
+   "url": "https://www.yahoo.com/entertainment/music/articles/weezers-buddy-holly-celebrates-32-203748474.html",
+   "title_original": "Weezer's 'Buddy Holly' Celebrates 32 Years and Ranks Among Rolling Stone's Greatest Songs",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/4aac94faac8dd4f51cd41b59fada378782bbc67b0f66ff937340c3fd4fdd22df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2F0b00319edcf0672ce947434b5f872a81.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-07T20:37:48+00:00",
+   "title_ja": "Weezerの「Buddy Holly」がリリースから32年を迎え高く評価",
+   "summary_ja": "Weezerの代表曲「Buddy Holly」が発表から32周年を迎え、ローリング・ストーン誌の歴代最高楽曲ランキングにも選出されるなど今なお愛され続けている。",
+   "category": "チャート・受賞",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "Rivers Cuomo"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "56d28a99ae41e4dc",
    "url": "https://411mania.com/wrestling/my-chemical-romance-dedicate-song-the-butcher-concert",
    "title_original": "My Chemical Romance Dedicate Song To The Butcher During Concert",
@@ -323,7 +408,7 @@
    "url": "https://www.themusicman.uk/the-offsprings-orchestral-masterpiece",
    "title_original": "The Offspring booked an entire orchestra to transform their pop punk classic into a cinematic experience and even haters are calling it a ‘masterpiece’, especially once Brian May hits the stage…",
    "source": "themusicman.uk",
-   "image": "",
+   "image": "https://www.themusicman.uk/wp-content/uploads/2026/09/TheOffspringGoneAway.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-09-07T17:26:34+00:00",
