@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-10T01:25:04.955169+09:00",
+ "updated_at": "2026-09-10T05:49:21.617244+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -130,6 +130,7 @@
   "music.mxdwn.com",
   "mxdwn Music",
   "parade.com",
+  "sentinel-echo.com",
   "t.co",
   "tcnjsignalnews.com",
   "themusicman.uk",
@@ -137,9 +138,52 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 159,
+ "count": 161,
  "detail_count": 112,
  "items": [
+  {
+   "id": "dac57afca98fcb46",
+   "url": "https://chorus.fm/news/my-chemical-romance-announce-new-the-black-parade-pressing",
+   "title_original": "My Chemical Romance Announce New ‘The Black Parade’ Pressing",
+   "source": "chorus.fm",
+   "image": "https://chorus.fm/wp-content/uploads/2016/04/mcr.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-09T16:58:33+00:00",
+   "title_ja": "My Chemical Romance、『The Black Parade』新作LPを発表",
+   "summary_ja": "My Chemical Romanceの名盤『The Black Parade』の新たなアナログ盤プレスが発表され、ファンの間で注目を集めている。",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "74933bf2da5c4869",
+   "url": "https://www.sentinel-echo.com/kentucky/louder-than-life-2026-iron-maiden-my-chemical-romance-tool-and-limp-bizkit-set-to/article_c434129f-00f8-5266-a306-2135009c1af3.html",
+   "title_original": "LOUDER THAN LIFE 2026: Iron Maiden, My Chemical Romance, TOOL and Limp Bizkit set to headline massive festival line-up",
+   "source": "sentinel-echo.com",
+   "image": "https://bloximages.chicago2.vip.townnews.com/sentinel-echo.com/content/tncms/assets/v3/editorial/a/6d/a6d292ca-b1fa-56ce-a8e4-7961a733e5cb/6a7cc092f057b.image.png?crop=1154%2C606%2C0%2C417",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-09T16:36:00+00:00",
+   "title_ja": "LOUDER THAN LIFE 2026、ヘッドライナーにMCRら決定",
+   "summary_ja": "大型ロックフェス「LOUDER THAN LIFE 2026」のヘッドライナーとして、My Chemical Romanceらの出演が発表された。",
+   "category": "フェス出演",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Iron Maiden",
+    "TOOL",
+    "Limp Bizkit"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "fc8f216e1c29a682",
    "url": "https://metalinjection.net/news/photos-an-unexpected-perfect-pairing-my-chemical-romance-babymetal-in-san-diego",
@@ -159,7 +203,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "882f79cf3e155f15",
@@ -570,7 +614,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4c7bde397925e9e2",
@@ -670,7 +714,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "27e737be8aed308b",
