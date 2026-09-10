@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-10T13:16:08.741328+09:00",
+ "updated_at": "2026-09-10T20:04:15.550568+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -66,7 +66,6 @@
   "MUSIC LIFE CLUB",
   "Media Play News",
   "MediaPost",
-  "Metal Injection",
   "Metalhead Zone",
   "Mikiki by TOWER RECORDS",
   "MondoSonoro",
@@ -128,6 +127,7 @@
   "clashmusic.com",
   "cultfollowing.co.uk",
   "floodmagazine.com",
+  "lambgoat.com",
   "lmusic.tokyo",
   "music.mxdwn.com",
   "mxdwn Music",
@@ -140,9 +140,30 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 162,
- "detail_count": 114,
+ "count": 164,
+ "detail_count": 116,
  "items": [
+  {
+   "id": "f85a1826adf8594d",
+   "url": "https://guitar.com/features/interviews/the-linda-lindas-interview-gotta-get-out",
+   "title_original": "“We’ll never stop doing what we do”: The Linda Lindas on the power of community, working with Hayley Williams, and becoming toneheads",
+   "source": "Guitar.com",
+   "image": "https://guitar.com/wp-content/uploads/2026/09/The-Linda-Lindas-hero-credit-press@2000x1500-1068x801.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-10T08:00:38+00:00",
+   "title_ja": "The Linda Lindasが語る、繋がりと機材へのこだわり",
+   "summary_ja": "コミュニティの力やHayley Williamsとの共演、機材へのこだわりについてThe Linda Lindasが語っています。",
+   "category": "メンバー・発言",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas",
+    "Hayley Williams"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "7bea43303ca3cb3b",
    "url": "https://www.dcourier.com/news/emo-icons-collide-at-chase-field-jimmy-eat-world-and-my-chemical-romance-deliver-a/article_fd5bf4e3-95a2-4f20-a352-158f9e91cd76.html",
@@ -162,6 +183,26 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "00a7dfd31316e58f",
+   "url": "https://lambgoat.com/news/54749/my-chemical-romance-announce-20th-anniversary-edition-of-the-black-parade",
+   "title_original": "MY CHEMICAL ROMANCE announce 20th anniversary edition of “The Black Parade”",
+   "source": "lambgoat.com",
+   "image": "https://lambgoat.com/cdn/2025/my-chemical-romance-20250707143752.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-10T00:40:00+00:00",
+   "title_ja": "My Chemical Romance、名盤の20周年記念盤をリリースへ",
+   "summary_ja": "My Chemical Romanceが『The Black Parade』の20周年記念エディションの発売を明らかにしました。",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -206,27 +247,6 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "fc8f216e1c29a682",
-   "url": "https://metalinjection.net/news/photos-an-unexpected-perfect-pairing-my-chemical-romance-babymetal-in-san-diego",
-   "title_original": "PHOTOS: An Unexpected, Perfect Pairing – MY CHEMICAL ROMANCE & BABYMETAL In San Diego",
-   "source": "Metal Injection",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-09T15:03:42+00:00",
-   "title_ja": "MY CHEMICAL ROMANCEとBABYMETALのサンディエゴ公演",
-   "summary_ja": "サンディエゴで行われたMY CHEMICAL ROMANCEとBABYMETALの共演ライブの模様を捉えた写真が公開された。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "BABYMETAL"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
   },
   {
    "id": "882f79cf3e155f15",
@@ -576,6 +596,26 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "0d9c3fe5d4bd0390",
+   "url": "https://www.billboard.com/music/concerts/my-chemical-romance-london-wembley-stadium-set-list-1236290430",
+   "title_original": "My Chemical Romance Takes Over London’s Wembley Stadium: Check Out the Full Set List",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-07T07:00:00+00:00",
+   "title_ja": "My Chemical Romance、ロンドンのウェンブリー・スタジアム公演を開催",
+   "summary_ja": "My Chemical Romanceがロンドンのウェンブリー・スタジアムで行ったライブのセットリストが公開されました。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "b76dac23350b66fb",
