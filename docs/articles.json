@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-10T20:04:15.550568+09:00",
+ "updated_at": "2026-09-11T01:14:34.336299+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -41,6 +41,7 @@
   "Billboard",
   "Boston's ROCK 92.9",
   "Britannica",
+  "CelebrityAccess",
   "Central Oregon Daily",
   "Consequence",
   "Daily Sabah",
@@ -57,6 +58,7 @@
   "Idaho Press",
   "JamBase",
   "JoBlo",
+  "Just Jared",
   "Kerrang!",
   "Knotfest",
   "LAist",
@@ -140,9 +142,49 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 164,
- "detail_count": 116,
+ "count": 166,
+ "detail_count": 118,
  "items": [
+  {
+   "id": "b8526049d67d3b97",
+   "url": "https://celebrityaccess.com/2026/09/10/weezer-launches-massive-weezer-the-gathering-north-american-tour",
+   "title_original": "Weezer Launches Massive ‘Weezer: The Gathering’ North American Tour’",
+   "source": "CelebrityAccess",
+   "image": "https://celebrityaccess.com/wp-content/uploads/2026/09/WEEZER-GATHERING_CreditBrendan-Walters.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-10T15:48:27+00:00",
+   "title_ja": "Weezer、北米で大規模な「Weezer: The Gathering」ツアーを開始",
+   "summary_ja": "Weezerが北米を巡る大規模なヘッドラインツアー「Weezer: The Gathering」を新たにスタートさせた。各地の会場で精力的なライブパフォーマンスを展開している。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "27d1af211de30bc4",
+   "url": "https://www.justjared.com/2026/09/10/weezer-the-gathering-tour-set-list-2026",
+   "title_original": "Weezer’s ‘The Gathering Tour’ Setlist 2026 Revealed After Opening Night",
+   "source": "Just Jared",
+   "image": "https://www.justjared.com/wp-content/uploads/2026/09/weezer-gathering-tour-set-list.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-10T15:03:56+00:00",
+   "title_ja": "Weezer、初日公演で「The Gathering Tour」のセットリストが判明",
+   "summary_ja": "Weezerの新ツアー「The Gathering Tour」が開幕し、初日公演のセットリストが明らかになった。ファン必見の楽曲が多数披露されたステージとなっている。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "f85a1826adf8594d",
    "url": "https://guitar.com/features/interviews/the-linda-lindas-interview-gotta-get-out",
@@ -615,7 +657,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b76dac23350b66fb",
