@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-11T01:14:34.336299+09:00",
+ "updated_at": "2026-09-11T05:44:03.720226+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -93,6 +93,7 @@
   "Rolling Stone",
   "Rolling Stone Australia",
   "RouteNote",
+  "San Antonio Express-News",
   "Santa Clarita Valley Signal",
   "Showbiz by PS",
   "SiriusXM",
@@ -142,9 +143,49 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 166,
- "detail_count": 118,
+ "count": 169,
+ "detail_count": 119,
  "items": [
+  {
+   "id": "820329e4fb89a403",
+   "url": "https://www.expressnews.com/entertainment/article/my-chemical-romance-san-antonio-concert-22422243.php",
+   "title_original": "What to know about the My Chemical Romance concert",
+   "source": "San Antonio Express-News",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-10T18:40:08+00:00",
+   "title_ja": "My Chemical Romanceのコンサート公演ガイド",
+   "summary_ja": "My Chemical Romanceのコンサートに向けた事前情報や知っておくべきポイントをまとめた記事。会場周辺の動向などが伝えられている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "814390c02706cc70",
+   "url": "https://www.nme.com/news/music/my-chemical-romance-expanded-20th-anniversary-black-parade-reissue-bonus-tracks-3968126",
+   "title_original": "My Chemical Romance announce expanded 20th anniversary 'The Black Parade' reissue with 'The Sharpest Lives (Live from Hoboken)'",
+   "source": "NME",
+   "image": "https://www.nme.com/wp-content/uploads/2026/09/my-chemical-romance@2000x1270.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-10T16:09:54+00:00",
+   "title_ja": "MCRが20周年記念盤にライブ音源を追加して発売",
+   "summary_ja": "My Chemical Romanceが『The Black Parade』20周年記念リイシュー盤の発売を発表。ライブ音源「The Sharpest Lives (Live from Hoboken)」などが追加される。",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "b8526049d67d3b97",
    "url": "https://celebrityaccess.com/2026/09/10/weezer-launches-massive-weezer-the-gathering-north-american-tour",
@@ -184,6 +225,26 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "b2c20d402eaed741",
+   "url": "https://www.kerrang.com/thank-you-for-marching-with-us-my-chemical-romance-announce-the-black-parade-expanded-20th-anniversary-reissue",
+   "title_original": "“Thank you for marching with us”: My Chemical Romance announce The…",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/2026/09/my-chemical-romancebryce-hall-1.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1789053212&s=bd6aa9324effd8dfc6d1365acffe3bf0",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-10T15:02:00+00:00",
+   "title_ja": "My Chemical Romanceがファンへ感謝のメッセージ",
+   "summary_ja": "My Chemical Romanceがファンに向けて「一緒にパレードを歩んでくれてありがとう」と感謝の言葉を伝えた。",
+   "category": "メンバー・発言",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "f85a1826adf8594d",
