@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-10T05:49:21.617244+09:00",
+ "updated_at": "2026-09-10T13:16:08.741328+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -22,6 +22,7 @@
   "Fall Out Boy",
   "Paramore",
   "Descendents",
+  "Jimmy Eat World",
   "Rise Against",
   "The Linda Lindas",
   "その他"
@@ -82,6 +83,7 @@
   "Pioneer Press",
   "Pitchfork",
   "Prelude Press",
+  "Prescott Daily Courier",
   "Racket MN",
   "Revolver Magazine",
   "Rock Cellar Magazine",
@@ -138,9 +140,30 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 161,
- "detail_count": 112,
+ "count": 162,
+ "detail_count": 114,
  "items": [
+  {
+   "id": "7bea43303ca3cb3b",
+   "url": "https://www.dcourier.com/news/emo-icons-collide-at-chase-field-jimmy-eat-world-and-my-chemical-romance-deliver-a/article_fd5bf4e3-95a2-4f20-a352-158f9e91cd76.html",
+   "title_original": "Emo icons collide at Chase Field: Jimmy Eat World and My Chemical Romance deliver a night to remember in Phoenix",
+   "source": "Prescott Daily Courier",
+   "image": "https://bloximages.chicago2.vip.townnews.com/dcourier.com/content/tncms/assets/v3/editorial/f/d5/fd5bf4e3-95a2-4f20-a352-158f9e91cd76/6aa092688eea0.preview.jpg?crop=1367%2C718%2C0%2C371&resize=1200%2C630&order=crop%2Cresize",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-10T01:15:00+00:00",
+   "title_ja": "Jimmy Eat WorldとMy Chemical Romanceがフェニックスで共演",
+   "summary_ja": "エモを代表するJimmy Eat WorldとMy Chemical Romanceが、チェイス・フィールドで記憶に残る素晴らしいライブをフェニックスで披露した。",
+   "category": "ライブ・ツアー",
+   "band": "Jimmy Eat World",
+   "artists": [
+    "Jimmy Eat World",
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "dac57afca98fcb46",
    "url": "https://chorus.fm/news/my-chemical-romance-announce-new-the-black-parade-pressing",
@@ -159,7 +182,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "74933bf2da5c4869",
@@ -182,7 +205,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "fc8f216e1c29a682",
