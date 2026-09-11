@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-11T05:44:03.720226+09:00",
+ "updated_at": "2026-09-11T13:15:38.699894+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -80,7 +80,6 @@
   "Oh No They Didn't! — LiveJournal",
   "Orlando Sentinel",
   "PUNKLOID",
-  "People.com",
   "Pioneer Press",
   "Pitchfork",
   "Prelude Press",
@@ -135,6 +134,7 @@
   "music.mxdwn.com",
   "mxdwn Music",
   "parade.com",
+  "phoenix.org",
   "sentinel-echo.com",
   "t.co",
   "tcnjsignalnews.com",
@@ -143,9 +143,30 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 169,
- "detail_count": 119,
+ "count": 170,
+ "detail_count": 120,
  "items": [
+  {
+   "id": "fd5fb8abc95af118",
+   "url": "https://lmusic.tokyo/news/314035",
+   "title_original": "Billie Joe Armstrongら、Ramonesのトリビュート・ライヴを行う",
+   "source": "lmusic.tokyo",
+   "image": "https://lmusic.tokyo/wp-content/uploads/2026/09/Green-Day.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-11T03:50:15+00:00",
+   "title_ja": "Billie Joe ArmstrongらがRamonesのトリビュート公演を開催",
+   "summary_ja": "Green DayのBillie Joe Armstrongらが、伝説的パンクバンドRamonesの楽曲を演奏するトリビュート・ライヴを行うことが明らかになった。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Ramones"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "820329e4fb89a403",
    "url": "https://www.expressnews.com/entertainment/article/my-chemical-romance-san-antonio-concert-22422243.php",
@@ -164,7 +185,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "814390c02706cc70",
@@ -244,7 +265,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f85a1826adf8594d",
@@ -475,6 +496,27 @@
    "has_detail": true
   },
   {
+   "id": "bf49b27c75d6eb27",
+   "url": "https://www.phoenix.org/entertainer/music/review-my-chemical-romance-with-jimmy-eat-world-at-chase-field-sept-6-2026/article_9963847f-c5e2-4aa6-b816-b5de5ae446cc.html",
+   "title_original": "Review: My Chemical Romance with Jimmy Eat World at Chase Field, Sept. 6, 2026",
+   "source": "phoenix.org",
+   "image": "https://bloximages.chicago2.vip.townnews.com/phoenix.org/content/tncms/assets/v3/editorial/4/74/474b15ac-03b1-489e-964a-e53e49753282/6aa088c1ba373.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-08T22:17:00+00:00",
+   "title_ja": "My Chemical Romance、チェイス・フィールド公演のライブ・レビュー",
+   "summary_ja": "Jimmy Eat Worldを迎えて開催された、My Chemical Romanceのチェイス・フィールドでのライブ公演の模様を振り返る。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Jimmy Eat World"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "ae770885dae24ff4",
    "url": "https://www.broadwayworld.com/bwwtv/article/NIMRODS-GREEN-DAY-Comedy-to-Arrive-on-Digital-in-September-20260908",
    "title_original": "NIMRODS, GREEN DAY Comedy, to Arrive on Digital in September",
@@ -532,26 +574,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "b587d9c9f3a287d6",
-   "url": "https://people.com/my-chemical-romance-fans-wed-during-concert-in-san-diego-exclusive-12110238",
-   "title_original": "My Chemical Romance Fans Wed During Concert in San Diego (Exclusive)",
-   "source": "People.com",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-08T15:06:00+00:00",
-   "title_ja": "My Chemical Romanceのサンディエゴ公演中にファンが結婚",
-   "summary_ja": "My Chemical Romanceがサンディエゴで行ったコンサートの会場内で、ファンのカップルが結婚式を執り行った。ライブの最中に特別な瞬間が訪れ、周囲のファンからも祝福を受けた。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 2,
    "detail_tries": 2
   },
   {
