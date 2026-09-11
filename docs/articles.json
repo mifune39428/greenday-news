@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-11T13:15:38.699894+09:00",
+ "updated_at": "2026-09-11T20:02:36.538364+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -129,6 +129,7 @@
   "clashmusic.com",
   "cultfollowing.co.uk",
   "floodmagazine.com",
+  "happymag.tv",
   "lambgoat.com",
   "lmusic.tokyo",
   "music.mxdwn.com",
@@ -143,9 +144,29 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 170,
- "detail_count": 120,
+ "count": 171,
+ "detail_count": 121,
  "items": [
+  {
+   "id": "d588ebb0fcaeda76",
+   "url": "https://happymag.tv/weezer-the-gathering-tour-setlist-2026",
+   "title_original": "Here is the setlist for Weezer's 'The Gathering' tour 2026 -",
+   "source": "happymag.tv",
+   "image": "https://happymag.tv/wp-content/uploads/2026/09/weezer.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-11T05:35:48+00:00",
+   "title_ja": "Weezerの2026年ツアー『The Gathering』セットリスト",
+   "summary_ja": "2026年に開催されているWeezerの『The Gathering』ツアーにおける、実際のセットリストの情報を公開。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "fd5fb8abc95af118",
    "url": "https://lmusic.tokyo/news/314035",
@@ -514,7 +535,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ae770885dae24ff4",
