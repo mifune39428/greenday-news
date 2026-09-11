@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-12T01:18:28.451864+09:00",
+ "updated_at": "2026-09-12T05:50:21.716698+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -30,6 +30,7 @@
  "sources": [
   "13thfloor.co.nz",
   "411Mania",
+  "95.9 The RAT",
   "95.9 The Rat",
   "9News",
   "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -43,6 +44,7 @@
   "Britannica",
   "CelebrityAccess",
   "Central Oregon Daily",
+  "City of San Antonio (.gov)",
   "Consequence",
   "Daily Sabah",
   "Detroit Metro Times",
@@ -84,6 +86,7 @@
   "Pitchfork",
   "Prelude Press",
   "Prescott Daily Courier",
+  "Punknews.org",
   "Racket MN",
   "Revolver Magazine",
   "Rock Cellar Magazine",
@@ -92,7 +95,6 @@
   "Rolling Stone",
   "Rolling Stone Australia",
   "RouteNote",
-  "San Antonio Express-News",
   "Santa Clarita Valley Signal",
   "Showbiz by PS",
   "SiriusXM",
@@ -103,6 +105,7 @@
   "TVGuide.co.uk",
   "Tarrant County College",
   "That Eric Alper",
+  "The Business Journals",
   "The Daily Aztec",
   "The Daily Iowan",
   "The Day",
@@ -131,6 +134,7 @@
   "cultfollowing.co.uk",
   "floodmagazine.com",
   "happymag.tv",
+  "kens5.com",
   "lambgoat.com",
   "lmusic.tokyo",
   "music.mxdwn.com",
@@ -146,9 +150,109 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 172,
- "detail_count": 121,
+ "count": 176,
+ "detail_count": 124,
  "items": [
+  {
+   "id": "3cc5894b4a047047",
+   "url": "https://www.bizjournals.com/sanfrancisco/news/2026/09/11/studio-880-oakland-green-day-sale-jingletown.html",
+   "title_original": "Oakland music studio where Green Day recorded 'American Idiot' hits market for $3.9 million",
+   "source": "The Business Journals",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-11T18:51:00+00:00",
+   "title_ja": "Green Dayのアルバムを録音したオークランドのスタジオが売却へ",
+   "summary_ja": "Green Dayの『American Idiot』などが録音されたオークランドの音楽スタジオが、390万ドルで市場に出された。",
+   "category": "その他",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "30ae30df782b9683",
+   "url": "https://www.sa.gov/Directory/News-Releases/Know-Before-You-Go-My-Chemical-Romance-at-the-Alamodome-September-12",
+   "title_original": "Know Before You Go: My Chemical Romance at the Alamodome September 12",
+   "source": "City of San Antonio (.gov)",
+   "image": "https://www.sa.gov/files/ocwebsite/Main/HeroImage/sa.gov-default.jpg?w=1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-11T18:11:22+00:00",
+   "title_ja": "My Chemical Romanceのサンアントニオ公演に向けた案内",
+   "summary_ja": "アラモドームで開催されるMy Chemical Romanceの公演に向け、来場者向けの事前案内が発表されている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "c66d352e822533f0",
+   "url": "https://www.kens5.com/article/entertainment/music/nearly-50k-fans-expected-at-my-chemical-romance-concert-at-alamodome-saturday/273-8f827eb6-7438-4976-aff1-e985dff644e5",
+   "title_original": "Nearly 50k fans expected at My Chemical Romance concert at Alamodome Saturday",
+   "source": "kens5.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-11T17:03:00+00:00",
+   "title_ja": "My Chemical Romanceのライブに約5万人のファン動員を予想",
+   "summary_ja": "アラモドームで行われるMy Chemical Romanceのコンサートには、約5万人のファンが集まると予想されている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "d9a51020f70353fd",
+   "url": "https://rockcellarmagazine.com/weezer-concert-review-san-francisco-the-gathering-tour-tiktok-2026",
+   "title_original": "Weezer Brings the People Together on 'The Gathering' Tour (Review)",
+   "source": "Rock Cellar Magazine",
+   "image": "https://rockcellarmagazine.com/wp-content/uploads/2026/09/weezer-chase-center-.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-11T16:04:29+00:00",
+   "title_ja": "Weezerの『The Gathering』ツアー公演レビュー",
+   "summary_ja": "Weezerが展開している『The Gathering』ツアーの公演について、その内容を振り返るレビュー記事が公開された。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "3b77cc977f1af4dd",
+   "url": "https://www.punknews.org/article/89075/my-chemical-romance-announce-20th-anniversary-black-parade-reissue",
+   "title_original": "My Chemical Romance announce 20th anniversary 'Black Parade' reissue",
+   "source": "Punknews.org",
+   "image": "https://static.punknews.org/images/bands/mychemicalromance-1789132098.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-11T13:30:01+00:00",
+   "title_ja": "My Chemical Romance、『The Black Parade』20周年記念盤を発表",
+   "summary_ja": "My Chemical Romanceが名盤『The Black Parade』の発売20周年を記念したリイシュー盤のリリースを発表した。",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "d588ebb0fcaeda76",
    "url": "https://happymag.tv/weezer-the-gathering-tour-setlist-2026",
@@ -187,7 +291,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "fd5fb8abc95af118",
@@ -211,24 +315,24 @@
    "has_detail": true
   },
   {
-   "id": "820329e4fb89a403",
-   "url": "https://www.expressnews.com/entertainment/article/my-chemical-romance-san-antonio-concert-22422243.php",
-   "title_original": "What to know about the My Chemical Romance concert",
-   "source": "San Antonio Express-News",
-   "image": "",
+   "id": "0c773057e69361d7",
+   "url": "https://wrat.com/2026/09/10/my-chemical-romance-performs-the-light-behind-your-eyes-for-first-time-honors-late-wrestler",
+   "title_original": "My Chemical Romance Performs 'The Light Behind Your Eyes' for First Time, Honors Late Wrestler",
+   "source": "95.9 The RAT",
+   "image": "https://wrat.com/uploads/2026/09/GettyImages-1931670135-e1789061611543.jpg?auto=webp",
    "lang": "en",
    "region": "global",
-   "published": "2026-09-10T18:40:08+00:00",
-   "title_ja": "My Chemical Romanceのコンサート公演ガイド",
-   "summary_ja": "My Chemical Romanceのコンサートに向けた事前情報や知っておくべきポイントをまとめた記事。会場周辺の動向などが伝えられている。",
+   "published": "2026-09-10T17:35:17+00:00",
+   "title_ja": "My Chemical Romance、ライブで初演奏と故人への追悼",
+   "summary_ja": "My Chemical Romanceがライブで「The Light Behind Your Eyes」を初演奏し、亡くなったプロレスラーへの追悼を行った。",
    "category": "ライブ・ツアー",
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
    ],
    "japan": false,
-   "importance": 2,
-   "detail_tries": 2
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "814390c02706cc70",
@@ -291,26 +395,6 @@
    "has_detail": true
   },
   {
-   "id": "b2c20d402eaed741",
-   "url": "https://www.kerrang.com/thank-you-for-marching-with-us-my-chemical-romance-announce-the-black-parade-expanded-20th-anniversary-reissue",
-   "title_original": "“Thank you for marching with us”: My Chemical Romance announce The…",
-   "source": "Kerrang!",
-   "image": "https://transforms.kerrang.com/production/images/2026/09/my-chemical-romancebryce-hall-1.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1789053212&s=bd6aa9324effd8dfc6d1365acffe3bf0",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-10T15:02:00+00:00",
-   "title_ja": "My Chemical Romanceがファンへ感謝のメッセージ",
-   "summary_ja": "My Chemical Romanceがファンに向けて「一緒にパレードを歩んでくれてありがとう」と感謝の言葉を伝えた。",
-   "category": "メンバー・発言",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
    "id": "a581c5251ade275b",
    "url": "https://theriffreport.co.uk/10/09/2026/%F0%9F%96%A4-my-chemical-romance-announce-20th-anniversary-edition-of-the-black-parade-welcome-back-to-the-black-parade",
    "title_original": "My Chemical Romance Announce 20th Anniversary Edition Of The Black Parade – Welcome Back To The Black Parade",
@@ -328,7 +412,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f85a1826adf8594d",
