@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-11T20:02:36.538364+09:00",
+ "updated_at": "2026-09-12T01:18:28.451864+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -124,6 +124,7 @@
   "Yahoo!ニュース",
   "ad-hoc-news.de",
   "antiMusic",
+  "article.auone.jp",
   "broadwayworld.com",
   "chorus.fm",
   "clashmusic.com",
@@ -140,11 +141,12 @@
   "t.co",
   "tcnjsignalnews.com",
   "themusicman.uk",
+  "theriffreport.co.uk",
   "wecb.fm",
   "チバテレ",
   "激ロック"
  ],
- "count": 171,
+ "count": 172,
  "detail_count": 121,
  "items": [
   {
@@ -166,6 +168,26 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "85a3a5ac377361e8",
+   "url": "https://article.auone.jp/article/906231f6-8286-438c-805a-5d43550e6e1a",
+   "title_original": "中古300円で買ったGreen Dayの『Dookie』⇒ 歌詞カードを開いたら…〝お宝発見〟30年前のライブチケットに「タイムスリップ感が味わえる」と反響続々",
+   "source": "article.auone.jp",
+   "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/11/https___news_jp_i_1470978281147531361.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-11T04:45:10+00:00",
+   "title_ja": "Green Dayの名盤『Dookie』の中古盤から30年前のライブ券を発見",
+   "summary_ja": "中古で購入したGreen Dayのアルバム『Dookie』の歌詞カードから、30年前のライブチケットが見つかり、当時の雰囲気が味わえるとSNSで話題を集めている。",
+   "category": "その他",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "fd5fb8abc95af118",
@@ -289,6 +311,26 @@
    "detail_tries": 2
   },
   {
+   "id": "a581c5251ade275b",
+   "url": "https://theriffreport.co.uk/10/09/2026/%F0%9F%96%A4-my-chemical-romance-announce-20th-anniversary-edition-of-the-black-parade-welcome-back-to-the-black-parade",
+   "title_original": "My Chemical Romance Announce 20th Anniversary Edition Of The Black Parade – Welcome Back To The Black Parade",
+   "source": "theriffreport.co.uk",
+   "image": "https://theriffreport.co.uk/wp-content/uploads/2026/09/6e074a15-b19b-4a96-a9fd-66b45f1c38b7-1.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-10T12:04:11+00:00",
+   "title_ja": "My Chemical Romance、20周年記念エディションを発表",
+   "summary_ja": "My Chemical Romanceが『The Black Parade』の20周年記念エディションとなる特別盤のリリースを発表した。",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "f85a1826adf8594d",
    "url": "https://guitar.com/features/interviews/the-linda-lindas-interview-gotta-get-out",
    "title_original": "“We’ll never stop doing what we do”: The Linda Lindas on the power of community, working with Hayley Williams, and becoming toneheads",
@@ -349,26 +391,6 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "dac57afca98fcb46",
-   "url": "https://chorus.fm/news/my-chemical-romance-announce-new-the-black-parade-pressing",
-   "title_original": "My Chemical Romance Announce New ‘The Black Parade’ Pressing",
-   "source": "chorus.fm",
-   "image": "https://chorus.fm/wp-content/uploads/2016/04/mcr.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-09T16:58:33+00:00",
-   "title_ja": "My Chemical Romance、『The Black Parade』新作LPを発表",
-   "summary_ja": "My Chemical Romanceの名盤『The Black Parade』の新たなアナログ盤プレスが発表され、ファンの間で注目を集めている。",
-   "category": "再発・記念盤",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
   },
   {
    "id": "74933bf2da5c4869",
