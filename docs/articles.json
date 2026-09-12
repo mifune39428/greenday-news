@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-12T05:50:21.716698+09:00",
+ "updated_at": "2026-09-12T13:14:29.279029+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -44,10 +44,10 @@
   "Britannica",
   "CelebrityAccess",
   "Central Oregon Daily",
-  "City of San Antonio (.gov)",
   "Consequence",
   "Daily Sabah",
   "Detroit Metro Times",
+  "Eponymous Review",
   "Exclaim!",
   "Far Out Magazine",
   "Fightful",
@@ -150,9 +150,49 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 176,
- "detail_count": 124,
+ "count": 178,
+ "detail_count": 126,
  "items": [
+  {
+   "id": "7e18eae7d7620996",
+   "url": "https://www.ultimate-guitar.com/news/tab_spotlight/the-polka-lesson-hidden-in-my-chemical-romances-mama",
+   "title_original": "The Polka Lesson Hidden In My Chemical Romance's 'Mama'",
+   "source": "Ultimate Guitar",
+   "image": "https://www.ultimate-guitar.com/static/article/news/7/188117_0_wide_ver1789165332.jpg@1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-11T22:21:27+00:00",
+   "title_ja": "My Chemical Romanceの楽曲「Mama」に隠されたポルカの要素を解説",
+   "summary_ja": "My Chemical Romanceの楽曲「Mama」に隠されたポルカ音楽の要素やアレンジ手法について分析・解説された記事。同曲が持つ独特なサウンド展開や音楽的なアプローチに焦点を当てている。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "440f701353d3d755",
+   "url": "https://www.eponymousreview.com/15955/photos-my-chemical-romance-phoenix",
+   "title_original": "Photos: My Chemical Romance Bring Heat to Chase Field in Phoenix",
+   "source": "Eponymous Review",
+   "image": "https://i0.wp.com/www.eponymousreview.com/wp-content/uploads/2026/09/DSCF5851-Enhanced-NR.jpg?fit=1600%2C1200&ssl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-11T19:24:57+00:00",
+   "title_ja": "My Chemical Romanceのフェニックス公演のライブ写真が公開",
+   "summary_ja": "My Chemical Romanceがアリゾナ州フェニックスのチェイス・フィールドで行ったライブの模様を収めた写真が公開された。熱狂に包まれた会場の雰囲気を捉えたパフォーマンスショットが多数掲載されている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "3cc5894b4a047047",
    "url": "https://www.bizjournals.com/sanfrancisco/news/2026/09/11/studio-880-oakland-green-day-sale-jingletown.html",
@@ -171,27 +211,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
-  },
-  {
-   "id": "30ae30df782b9683",
-   "url": "https://www.sa.gov/Directory/News-Releases/Know-Before-You-Go-My-Chemical-Romance-at-the-Alamodome-September-12",
-   "title_original": "Know Before You Go: My Chemical Romance at the Alamodome September 12",
-   "source": "City of San Antonio (.gov)",
-   "image": "https://www.sa.gov/files/ocwebsite/Main/HeroImage/sa.gov-default.jpg?w=1200",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-11T18:11:22+00:00",
-   "title_ja": "My Chemical Romanceのサンアントニオ公演に向けた案内",
-   "summary_ja": "アラモドームで開催されるMy Chemical Romanceの公演に向け、来場者向けの事前案内が発表されている。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c66d352e822533f0",
@@ -211,7 +231,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d9a51020f70353fd",
@@ -702,6 +722,27 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "7e4e47c9f21d6da8",
+   "url": "https://www.yahoo.com/entertainment/music/articles/weezer-brian-bell-polarizing-fans-102211515.html",
+   "title_original": "Weezer’s Brian Bell on polarizing fans (and the band), proving the critics wrong, and making the Gold Album",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/3a1f85a54e2c4a689f653bb277925b9526b797f4e07fafad374926cb6c5a040d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fguitar_world_625%2F2f151a99ecdb715f6bedca8a3ff4f216.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-08T10:22:11+00:00",
+   "title_ja": "WeezerのBrian Bell、ファンや批評家、ゴールド盤を語る",
+   "summary_ja": "WeezerのギタリストであるBrian Bellがインタビューに応じ、ファンの意見の二極化やバンドへの評価、批評家たちの誤りを証明すること、そしてゴールド・アルバムの制作について語りました。メンバー自身の視点からバンドの歩みを振り返る内容となっています。",
+   "category": "メンバー・発言",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "Brian Bell"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "329e8ac2c9bfaf27",
