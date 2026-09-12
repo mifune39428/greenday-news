@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-13T00:24:21.309451+09:00",
+ "updated_at": "2026-09-13T05:26:35.211506+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -149,9 +149,30 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 178,
+ "count": 179,
  "detail_count": 126,
  "items": [
+  {
+   "id": "28536c0dab268439",
+   "url": "https://www.loudersound.com/music/albums/how-my-chemical-romance-took-over-the-world-with-the-black-parade",
+   "title_original": "\"Overcoming darkness is a beautiful thing\": How My Chemical Romance battled ghosts, addiction, the Daily Mail and Kasabian to take over the world with The Black Parade",
+   "source": "Louder",
+   "image": "https://cdn.mos.cms.futurecdn.net/qhPFsdAzET87E6ybsTxrJb-1280-80.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-12T20:00:00+00:00",
+   "title_ja": "My Chemical Romanceが明かす名盤の裏側",
+   "summary_ja": "My Chemical Romanceが『The Black Parade』を引っ提げ世界制覇を成し遂げた道のりを回顧。数々の困難を乗り越えて名盤が生まれた背景に迫る。",
+   "category": "メンバー・発言",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Kasabian"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "7e18eae7d7620996",
    "url": "https://www.ultimate-guitar.com/news/tab_spotlight/the-polka-lesson-hidden-in-my-chemical-romances-mama",
