@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-12T13:14:29.279029+09:00",
+ "updated_at": "2026-09-12T19:31:44.550726+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -30,7 +30,6 @@
  "sources": [
   "13thfloor.co.nz",
   "411Mania",
-  "95.9 The RAT",
   "95.9 The Rat",
   "9News",
   "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -171,7 +170,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "440f701353d3d755",
@@ -335,23 +334,23 @@
    "has_detail": true
   },
   {
-   "id": "0c773057e69361d7",
-   "url": "https://wrat.com/2026/09/10/my-chemical-romance-performs-the-light-behind-your-eyes-for-first-time-honors-late-wrestler",
-   "title_original": "My Chemical Romance Performs 'The Light Behind Your Eyes' for First Time, Honors Late Wrestler",
-   "source": "95.9 The RAT",
-   "image": "https://wrat.com/uploads/2026/09/GettyImages-1931670135-e1789061611543.jpg?auto=webp",
+   "id": "7dfa89c1255355a2",
+   "url": "https://www.antimusic.com/p/26/r0910my_chemical_romance_expanding_the_black_parade_for_20th_anniversary.shtml",
+   "title_original": "My Chemical Romance Expanding 'The Black Parade' For 20th Anniversary",
+   "source": "antiMusic",
+   "image": "https://www.antimusic.com/news/photos/26/09/10/my-chemical-romance.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-09-10T17:35:17+00:00",
-   "title_ja": "My Chemical Romance、ライブで初演奏と故人への追悼",
-   "summary_ja": "My Chemical Romanceがライブで「The Light Behind Your Eyes」を初演奏し、亡くなったプロレスラーへの追悼を行った。",
-   "category": "ライブ・ツアー",
+   "published": "2026-09-10T21:06:56+00:00",
+   "title_ja": "My Chemical Romanceが名作を拡大リイシュー",
+   "summary_ja": "My Chemical Romanceの名盤『The Black Parade』が発売20周年を記念して拡大盤としてリリースされることが明らかになった。",
+   "category": "再発・記念盤",
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
    ],
    "japan": false,
-   "importance": 3,
+   "importance": 4,
    "has_detail": true
   },
   {
