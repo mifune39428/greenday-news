@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-14T01:02:59.976959+09:00",
+ "updated_at": "2026-09-14T05:37:57.477436+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -30,6 +30,7 @@
  "sources": [
   "13thfloor.co.nz",
   "411Mania",
+  "92.9 WBUF",
   "95.9 The Rat",
   "9News",
   "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -43,6 +44,7 @@
   "Britannica",
   "CelebrityAccess",
   "Central Oregon Daily",
+  "Chaoszine",
   "Consequence",
   "Daily Sabah",
   "Detroit Metro Times",
@@ -81,6 +83,7 @@
   "Oh No They Didn't! — LiveJournal",
   "Orlando Sentinel",
   "PUNKLOID",
+  "Paste Magazine",
   "Pioneer Press",
   "Pitchfork",
   "Prelude Press",
@@ -114,6 +117,7 @@
   "The Line of Best Fit",
   "The Mosh Network",
   "The Music Universe",
+  "The Needle Drop",
   "The Oakland Press",
   "The PRP",
   "The Wenatchee World",
@@ -133,7 +137,6 @@
   "cultfollowing.co.uk",
   "floodmagazine.com",
   "happymag.tv",
-  "kens5.com",
   "lambgoat.com",
   "lmusic.tokyo",
   "music.mxdwn.com",
@@ -141,7 +144,6 @@
   "nme.com",
   "parade.com",
   "phoenix.org",
-  "sacurrent.com",
   "sentinel-echo.com",
   "t.co",
   "tcnjsignalnews.com",
@@ -152,28 +154,71 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 182,
- "detail_count": 128,
+ "count": 184,
+ "detail_count": 130,
  "items": [
   {
-   "id": "1509c5de383ff237",
-   "url": "https://www.sacurrent.com/music/my-chemical-romances-black-parade-conquered-san-antonio",
-   "title_original": "My Chemical Romance’s Black Parade conquered San Antonio",
-   "source": "sacurrent.com",
-   "image": "https://www.sacurrent.com/wp-content/uploads/2026/09/JJM_MarsVolta-5.jpg",
+   "id": "7a611d33d216a207",
+   "url": "https://theneedledrop.com/news/gerard-way-says-my-chemical-romance-fans-deserve-another-record",
+   "title_original": "Gerard Way says My Chemical Romance fans \"deserve another record\"",
+   "source": "The Needle Drop",
+   "image": "https://theneedledrop.com/content/images/2026/09/MCR_Chi-8268.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-09-13T15:26:08+00:00",
-   "title_ja": "My Chemical Romanceがサンアントニオ公演を完遂",
-   "summary_ja": "My Chemical Romanceがサンアントニオでの公演を成功させ、観客を熱狂させた。",
-   "category": "ライブ・ツアー",
+   "published": "2026-09-13T18:38:19+00:00",
+   "title_ja": "Gerard Wayがファンは新作に値すると言及",
+   "summary_ja": "My Chemical RomanceのGerard Wayが、ファンは新しいアルバムに値すると語ったことが伝えられている。バンドの今後の動向について期待が高まる発言となっている。",
+   "category": "メンバー・発言",
    "band": "My Chemical Romance",
    "artists": [
+    "Gerard Way",
     "My Chemical Romance"
    ],
    "japan": false,
-   "importance": 3,
+   "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "0c696356f8b9f649",
+   "url": "https://chaoszine.net/my-chemical-romance-perform-with-king-diamond-and-tease-a-new-album",
+   "title_original": "My Chemical Romance perform with King Diamond and tease a new album",
+   "source": "Chaoszine",
+   "image": "https://chaoszine.net/wp-content/uploads/2026/09/my-chemical-romance.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-13T18:17:27+00:00",
+   "title_ja": "My Chemical RomanceがKing Diamondと共演し新作を匂わせる",
+   "summary_ja": "My Chemical RomanceがKing Diamondをステージに迎えて共演し、新しいアルバムの存在をにおわせる演出を行った。ファンやメディアの間で大きな話題となっている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "King Diamond"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "aca75b403f23af64",
+   "url": "https://www.pastemagazine.com/music/my-chemical-romance/gerard-way-confirms-new-my-chemical-romance-album-is-in-the-works",
+   "title_original": "Gerard Way confirms new My Chemical Romance album is in the works",
+   "source": "Paste Magazine",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-13T17:46:00+00:00",
+   "title_ja": "Gerard WayがMy Chemical Romanceの新作制作を肯定",
+   "summary_ja": "Gerard Wayが、My Chemical Romanceの新しいアルバムが現在制作に向けて進行中であることを認めた。長年待望されていた新作の動きとして注目を集めている。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "Gerard Way",
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 5,
+   "detail_tries": 1
   },
   {
    "id": "849a84e402744e5a",
@@ -193,7 +238,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "634cfe2ef402008c",
@@ -213,7 +258,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "185a13ac50f2eb31",
@@ -254,7 +299,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4f1cb4a11623acda",
@@ -297,24 +342,25 @@
    "detail_tries": 2
   },
   {
-   "id": "c66d352e822533f0",
-   "url": "https://www.kens5.com/article/entertainment/music/nearly-50k-fans-expected-at-my-chemical-romance-concert-at-alamodome-saturday/273-8f827eb6-7438-4976-aff1-e985dff644e5",
-   "title_original": "Nearly 50k fans expected at My Chemical Romance concert at Alamodome Saturday",
-   "source": "kens5.com",
-   "image": "",
+   "id": "cd0098ae58741c64",
+   "url": "https://wbuf.com/ixp/366/p/gerard-way-911-my-chemical-romance",
+   "title_original": "How Gerard Way's Commute on 9/11 Became the Spark for My Chemical Romance",
+   "source": "92.9 WBUF",
+   "image": "https://townsquare.media/site/366/files/2026/09/attachment-social-image-366-2026-09-11-12-13-00.jpg?w=1200&q=75&format=natural",
    "lang": "en",
    "region": "global",
-   "published": "2026-09-11T17:03:00+00:00",
-   "title_ja": "My Chemical Romanceのライブに約5万人のファン動員を予想",
-   "summary_ja": "アラモドームで行われるMy Chemical Romanceのコンサートには、約5万人のファンが集まると予想されている。",
-   "category": "ライブ・ツアー",
+   "published": "2026-09-11T17:59:57+00:00",
+   "title_ja": "9/11の通勤体験がMy Chemical Romance結成のきっかけに",
+   "summary_ja": "Gerard Wayが同時多発テロ事件当日の通勤中に経験した出来事が、バンドを結成するきっかけとなった背景が語られている。",
+   "category": "メンバー・発言",
    "band": "My Chemical Romance",
    "artists": [
+    "Gerard Way",
     "My Chemical Romance"
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 2
+   "has_detail": true
   },
   {
    "id": "d9a51020f70353fd",
