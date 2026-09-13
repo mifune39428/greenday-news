@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-13T13:27:04.226059+09:00",
+ "updated_at": "2026-09-13T20:34:41.025104+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -72,6 +72,7 @@
   "Metalhead Zone",
   "Mikiki by TOWER RECORDS",
   "MondoSonoro",
+  "Music Industry Weekly",
   "NME",
   "NME Japan",
   "NOW Toronto",
@@ -149,9 +150,29 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 179,
+ "count": 180,
  "detail_count": 127,
  "items": [
+  {
+   "id": "ccac871c1710c443",
+   "url": "https://musicindustryweekly.com/my-chemical-romance-hint-at-new-album-on-final-tour-date",
+   "title_original": "My Chemical Romance Hint at New Album on Final Tour Date",
+   "source": "Music Industry Weekly",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-13T11:20:14+00:00",
+   "title_ja": "My Chemical Romance、ツアー最終日に新作アルバムのリリースを示唆",
+   "summary_ja": "My Chemical Romanceがツアーの最終日公演にて、新しいアルバムの存在を示唆した。ツアー締めくくりのステージにおいて、ファンに向けて新作リリースを期待させるようなヒントを残した。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "28536c0dab268439",
    "url": "https://www.loudersound.com/music/albums/how-my-chemical-romance-took-over-the-world-with-the-black-parade",
