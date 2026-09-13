@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-13T05:26:35.211506+09:00",
+ "updated_at": "2026-09-13T13:27:04.226059+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -150,7 +150,7 @@
   "激ロック"
  ],
  "count": 179,
- "detail_count": 126,
+ "detail_count": 127,
  "items": [
   {
    "id": "28536c0dab268439",
@@ -171,27 +171,27 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
-   "id": "7e18eae7d7620996",
-   "url": "https://www.ultimate-guitar.com/news/tab_spotlight/the-polka-lesson-hidden-in-my-chemical-romances-mama",
-   "title_original": "The Polka Lesson Hidden In My Chemical Romance's 'Mama'",
-   "source": "Ultimate Guitar",
-   "image": "https://www.ultimate-guitar.com/static/article/news/7/188117_0_wide_ver1789165332.jpg@1200",
+   "id": "4f1cb4a11623acda",
+   "url": "https://lambgoat.com/news/54810/my-chemical-romance-reveal-more-details-for-20th-anniversary-edition-of-the-black-parade",
+   "title_original": "My Chemical Romance reveal more details for 20th anniversary edition of “The Black Parade”",
+   "source": "Lambgoat",
+   "image": "https://lambgoat.com/cdn/2026/mcr-black-parade-20260911164956.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-09-11T22:21:27+00:00",
-   "title_ja": "My Chemical Romanceの楽曲「Mama」に隠されたポルカの要素を解説",
-   "summary_ja": "My Chemical Romanceの楽曲「Mama」に隠されたポルカ音楽の要素やアレンジ手法について分析・解説された記事。同曲が持つ独特なサウンド展開や音楽的なアプローチに焦点を当てている。",
-   "category": "その他",
+   "published": "2026-09-12T09:30:00+00:00",
+   "title_ja": "MCR、『The Black Parade』20周年盤の詳細を発表",
+   "summary_ja": "My Chemical Romanceが名盤『The Black Parade』の20周年記念エディションに関するさらなる詳細を明らかにした。",
+   "category": "再発・記念盤",
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
    ],
    "japan": false,
-   "importance": 2,
-   "detail_tries": 2
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "440f701353d3d755",
