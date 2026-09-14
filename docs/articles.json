@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-14T13:33:32.378866+09:00",
+ "updated_at": "2026-09-14T21:28:49.591736+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -44,7 +44,6 @@
   "Britannica",
   "CelebrityAccess",
   "Central Oregon Daily",
-  "Chaoszine",
   "Consequence",
   "Daily Sabah",
   "Detroit Metro Times",
@@ -101,6 +100,7 @@
   "Showbiz by PS",
   "SiriusXM",
   "Sortir à Paris",
+  "Spectrum Culture",
   "Splice Today",
   "Stephen Thomas Erlewine | Substack",
   "Stereoboard.com",
@@ -124,6 +124,7 @@
   "Tinnitist",
   "Tullahoma News",
   "Ultimate Guitar",
+  "Vulture",
   "WDHA FM",
   "Wikimetal",
   "Yahoo",
@@ -155,9 +156,50 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 185,
- "detail_count": 130,
+ "count": 186,
+ "detail_count": 131,
  "items": [
+  {
+   "id": "bb4b4a158424c706",
+   "url": "https://spectrumculture.com/2026/09/13/concert-review-weezer-3",
+   "title_original": "Concert Review: Weezer",
+   "source": "Spectrum Culture",
+   "image": "https://spectrumculture.com/wp-content/uploads/2026/09/3f23be10-9cef-4f7f-9cc5-5ee6c4d1e3d7-e1789336154538.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-14T05:05:22+00:00",
+   "title_ja": "Weezerの最新コンサートの模様を伝える海外レビュー",
+   "summary_ja": "Weezerによる白熱したライブステージの様子が海外の音楽メディアによって詳細にレビューされています。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "cbdac3c38393a7a0",
+   "url": "https://www.vulture.com/article/my-chemical-romance-new-album.html",
+   "title_original": "Gerard Way Teases First New My Chemical Romance Album in 16 Years",
+   "source": "Vulture",
+   "image": "https://pyxis.nymag.com/v1/imgs/55d/24e/db4d604603e9188a8a8de5713d8309efc6-my-chem.2x.rsocial.w600.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-14T01:20:21.953000+00:00",
+   "title_ja": "Gerard Wayが16年ぶりとなる新作の可能性をほのめかす",
+   "summary_ja": "My Chemical RomanceのGerard Wayが、実に16年ぶりとなるニューアルバムのリリースを示唆する発言を行いました。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Gerard Way"
+   ],
+   "japan": false,
+   "importance": 5,
+   "has_detail": true
+  },
   {
    "id": "7a611d33d216a207",
    "url": "https://theneedledrop.com/news/gerard-way-says-my-chemical-romance-fans-deserve-another-record",
@@ -174,27 +216,6 @@
    "artists": [
     "Gerard Way",
     "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "0c696356f8b9f649",
-   "url": "https://chaoszine.net/my-chemical-romance-perform-with-king-diamond-and-tease-a-new-album",
-   "title_original": "My Chemical Romance perform with King Diamond and tease a new album",
-   "source": "Chaoszine",
-   "image": "https://chaoszine.net/wp-content/uploads/2026/09/my-chemical-romance.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-13T18:17:27+00:00",
-   "title_ja": "My Chemical RomanceがKing Diamondと共演し新作を匂わせる",
-   "summary_ja": "My Chemical RomanceがKing Diamondをステージに迎えて共演し、新しいアルバムの存在をにおわせる演出を行った。ファンやメディアの間で大きな話題となっている。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "King Diamond"
    ],
    "japan": false,
    "importance": 4,
@@ -300,7 +321,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d1cce88b8413b997",
