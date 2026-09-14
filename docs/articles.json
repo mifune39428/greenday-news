@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-14T05:37:57.477436+09:00",
+ "updated_at": "2026-09-14T13:33:32.378866+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -147,6 +147,7 @@
   "sentinel-echo.com",
   "t.co",
   "tcnjsignalnews.com",
+  "themusic.com.au",
   "themusicman.uk",
   "theriffreport.co.uk",
   "vijesti.me",
@@ -154,7 +155,7 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 184,
+ "count": 185,
  "detail_count": 130,
  "items": [
   {
@@ -218,7 +219,7 @@
    ],
    "japan": false,
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "849a84e402744e5a",
@@ -279,6 +280,27 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "cd174bf4f5029fb5",
+   "url": "https://themusic.com.au/news/sum-41-drummer-frank-zummo-performs-sydney-school-students/S8nxX15BQEM/14-09-26",
+   "title_original": "Sum 41 Drummer Frank Zummo Performs With Sydney School Students",
+   "source": "themusic.com.au",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-13T06:57:00+00:00",
+   "title_ja": "Sum 41のドラマーがシドニーの学生と共演",
+   "summary_ja": "Sum 41のドラマーであるFrank Zummoが、シドニーの学校を訪れて生徒たちと一緒にパフォーマンスを披露した。",
+   "category": "その他",
+   "band": "Sum 41",
+   "artists": [
+    "Frank Zummo",
+    "Sum 41"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "d1cce88b8413b997",
