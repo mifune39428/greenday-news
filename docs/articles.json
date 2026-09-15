@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-15T20:32:17.476673+09:00",
+ "updated_at": "2026-09-16T01:46:03.454641+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -99,6 +99,7 @@
   "Rolling Stone",
   "Rolling Stone Australia",
   "RouteNote",
+  "Sada Elbalad english",
   "Santa Clarita Valley Signal",
   "Showbiz by PS",
   "SiriusXM",
@@ -122,7 +123,6 @@
   "The Line of Best Fit",
   "The Mosh Network",
   "The Music Universe",
-  "The Needle Drop",
   "The Oakland Press",
   "The PRP",
   "The Real Deal",
@@ -142,6 +142,7 @@
   "chorus.fm",
   "clashmusic.com",
   "cultfollowing.co.uk",
+  "dailycal.org",
   "floodmagazine.com",
   "happymag.tv",
   "hoodline.com",
@@ -163,9 +164,95 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 195,
- "detail_count": 135,
+ "count": 199,
+ "detail_count": 139,
  "items": [
+  {
+   "id": "2db48f8051c62d41",
+   "url": "https://www.nme.com/news/music/blink-182-bring-me-the-horizon-billy-talent-turnstile-top-rock-am-ring-and-rock-im-park-2027-line-ups-3969044",
+   "title_original": "Blink-182, Bring Me The Horizon, Billy Talent, Turnstile top Rock Am Ring and Rock Im Park 2027 line-ups",
+   "source": "NME",
+   "image": "https://www.nme.com/wp-content/uploads/2026/09/blink-182-bmth-turnstile@2000x1270.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-15T15:44:49+00:00",
+   "title_ja": "Blink-182らがRock Am Ring 2027のヘッドライナーに決定",
+   "summary_ja": "ドイツの大型ロックフェス「Rock Am Ring」および「Rock Im Park」の2027年出演ラインナップが発表され、Blink-182らがヘッドライナーを務めることが明らかになった。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Bring Me The Horizon",
+    "Billy Talent",
+    "Turnstile"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "a6d0d07441f89057",
+   "url": "https://guitar.com/news/gear-news/billie-joe-armstrong-on-the-secrets-of-his-guitar-blue",
+   "title_original": "“There's a couple of ex-girlfriends' pictures inside”: Billie Joe Armstrong reveals the secrets of his most iconic guitar",
+   "source": "Guitar.com",
+   "image": "https://guitar.com/wp-content/uploads/2026/09/BJA-hero-new@2000x1500-1068x801.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-15T15:07:34+00:00",
+   "title_ja": "Billie Joe Armstrongが愛用ギターの秘密を明かす",
+   "summary_ja": "Green DayのBillie Joe Armstrongが、自身の最も象徴的なギターに隠された元恋人の写真といったユニークな秘密について語った。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "395c2dcd26dc6cc6",
+   "url": "https://www.dailycal.org/arts/music/concerts/weezer-s-latest-tour-brings-old-favorites-new-tricks/article_e4aab094-da84-4f34-b90e-3940fb70e004.html",
+   "title_original": "Weezer’s latest tour brings old favorites, new tricks",
+   "source": "dailycal.org",
+   "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/d/33/d33c3924-f5fd-4446-ad8e-334f85791a57/6aa889d40d01e.image.png?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-15T15:00:00+00:00",
+   "title_ja": "Weezerの最新ツアーが示す新旧交ぜたステージの魅力",
+   "summary_ja": "Weezerの最新ツアーについて、おなじみの名曲から新しいアプローチまでを盛り込んだステージングの模様が伝えられている。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "4d84bcc0b8f25370",
+   "url": "https://www.lambgoat.com/news/54848/blink-182-bring-me-the-horizon-turnstile-etc-set-for-2027-rock-am-ring-rock-im-park-festivals",
+   "title_original": "Blink-182, Bring Me The Horizon, Turnstile, etc. set for 2027 Rock am Ring & Rock im Park festivals",
+   "source": "Lambgoat",
+   "image": "https://lambgoat.com/cdn/2026/rock-am-ring-rock-im-park-20260915070252.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-15T14:08:00+00:00",
+   "title_ja": "Blink-182らが2027年のRock am Ringに出演決定",
+   "summary_ja": "ドイツで開催される大規模ロックフェス「Rock am Ring」および「Rock im Park」の2027年公演に、Blink-182らの出演が決定した。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Bring Me The Horizon",
+    "Turnstile"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "e833d17adf530d8a",
    "url": "https://loudwire.com/my-chemical-romance-draag-explained",
@@ -331,6 +418,26 @@
    "has_detail": true
   },
   {
+   "id": "6d21f69cf7b99d51",
+   "url": "https://see.news/my-chemical-romance-tease-new-album-you-guys-deserve-another-record",
+   "title_original": "My Chemical Romance Tease New Album: 'You Guys Deserve Another Record'",
+   "source": "Sada Elbalad english",
+   "image": "https://i2.wp.com/see.news/images/2026/09/gerard-way-1789381802-0.jpg?resize=920%2C550&ssl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-14T13:30:08+00:00",
+   "title_ja": "My Chemical Romanceが新アルバムを予告「君たちには新しい作品が必要だ」",
+   "summary_ja": "My Chemical Romanceがファンに向けて新たなアルバムのリリースをにおわせ、「君たちにはもう一枚のレコードが必要だ」と語った。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 5,
+   "has_detail": true
+  },
+  {
    "id": "aeba4b4b27257262",
    "url": "https://www.pastemagazine.com/music/weezer/weezer-digital-cover-story-september-2026",
    "title_original": "Weezer has outlived the jokes",
@@ -349,6 +456,27 @@
    "japan": false,
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "9d4655968823e27f",
+   "url": "https://music.mxdwn.com/2026/09/13/news/my-chemical-romance-invite-king-diamond-onstage-for-performance-of-mama-tease-potential-new-album/amp",
+   "title_original": "My Chemical Romance Invite King Diamond Onstage For Performance Of “Mama,” Tease Potential New Album",
+   "source": "mxdwn Music",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-14T06:54:17+00:00",
+   "title_ja": "My Chemical RomanceがライブでKing Diamondと共演し新作を匂わせる",
+   "summary_ja": "My Chemical RomanceがステージにKing Diamondを招いて「Mama」を共演し、あわせて新たなアルバムの可能性についても言及した。（114文字）",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "King Diamond"
+   ],
+   "japan": false,
+   "importance": 5,
+   "detail_tries": 1
   },
   {
    "id": "bb4b4a158424c706",
@@ -390,48 +518,6 @@
    "japan": false,
    "importance": 5,
    "has_detail": true
-  },
-  {
-   "id": "7a611d33d216a207",
-   "url": "https://theneedledrop.com/news/gerard-way-says-my-chemical-romance-fans-deserve-another-record",
-   "title_original": "Gerard Way says My Chemical Romance fans \"deserve another record\"",
-   "source": "The Needle Drop",
-   "image": "https://theneedledrop.com/content/images/2026/09/MCR_Chi-8268.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-13T18:38:19+00:00",
-   "title_ja": "Gerard Wayがファンは新作に値すると言及",
-   "summary_ja": "My Chemical RomanceのGerard Wayが、ファンは新しいアルバムに値すると語ったことが伝えられている。バンドの今後の動向について期待が高まる発言となっている。",
-   "category": "メンバー・発言",
-   "band": "My Chemical Romance",
-   "artists": [
-    "Gerard Way",
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "aca75b403f23af64",
-   "url": "https://www.pastemagazine.com/music/my-chemical-romance/gerard-way-confirms-new-my-chemical-romance-album-is-in-the-works",
-   "title_original": "Gerard Way confirms new My Chemical Romance album is in the works",
-   "source": "Paste Magazine",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-13T17:46:00+00:00",
-   "title_ja": "Gerard WayがMy Chemical Romanceの新作制作を肯定",
-   "summary_ja": "Gerard Wayが、My Chemical Romanceの新しいアルバムが現在制作に向けて進行中であることを認めた。長年待望されていた新作の動きとして注目を集めている。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "Gerard Way",
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 5,
-   "detail_tries": 2
   },
   {
    "id": "849a84e402744e5a",
