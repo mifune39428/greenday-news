@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-16T01:46:03.454641+09:00",
+ "updated_at": "2026-09-16T06:09:22.209648+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -67,7 +67,6 @@
   "Lambgoat",
   "LancasterOnline",
   "Louder",
-  "Loudwire",
   "MUSIC LIFE CLUB",
   "Media Play News",
   "MediaPost",
@@ -100,6 +99,7 @@
   "Rolling Stone Australia",
   "RouteNote",
   "Sada Elbalad english",
+  "San Francisco Chronicle",
   "Santa Clarita Valley Signal",
   "Showbiz by PS",
   "SiriusXM",
@@ -111,6 +111,7 @@
   "Stereogum",
   "TPI Media Group",
   "TVGuide.co.uk",
+  "TacomaWeekly",
   "Tarrant County College",
   "That Eric Alper",
   "The Business Journals",
@@ -126,6 +127,7 @@
   "The Oakland Press",
   "The PRP",
   "The Real Deal",
+  "The Showbiz Journal",
   "The Wenatchee World",
   "Tinnitist",
   "Tullahoma News",
@@ -164,9 +166,50 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 199,
- "detail_count": 139,
+ "count": 201,
+ "detail_count": 140,
  "items": [
+  {
+   "id": "49f4367f1f96c467",
+   "url": "https://www.sfchronicle.com/entertainment/article/green-day-oakland-studio-880-22433293.php",
+   "title_original": "Green Day’s former Oakland studio hits the market for nearly $4 million",
+   "source": "San Francisco Chronicle",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-15T19:02:56+00:00",
+   "title_ja": "Green Dayが過去に使用したオークランドの音楽スタジオが売りに出される",
+   "summary_ja": "Green Dayがかつて所有・使用していたカリフォルニア州オークランドのスタジオが、約400万ドルで売りに出されていることが明らかになった。バンドゆかりの拠点が不動産市場に登場したとして話題を集めている。",
+   "category": "その他",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "12265f362a766909",
+   "url": "https://tacomaweekly.com/bleachers-forever-with-the-linda-lindas-p12655-216.htm",
+   "title_original": "Bleachers Forever with The Linda Lindas",
+   "source": "TacomaWeekly",
+   "image": "https://tacomaweekly.com/events-2026-09-15-18-57-03-218.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-15T18:58:56+00:00",
+   "title_ja": "BleachersとThe Linda Lindasによるツアーイベントの開催情報が公開",
+   "summary_ja": "BleachersとThe Linda Lindasの共演によるライブ企画「Bleachers Forever with The Linda Lindas」に関する情報が報じられた。注目の若手パンクバンドの出演に期待が集まる。",
+   "category": "ライブ・ツアー",
+   "band": "The Linda Lindas",
+   "artists": [
+    "Bleachers",
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "2db48f8051c62d41",
    "url": "https://www.nme.com/news/music/blink-182-bring-me-the-horizon-billy-talent-turnstile-top-rock-am-ring-and-rock-im-park-2027-line-ups-3969044",
@@ -254,23 +297,24 @@
    "has_detail": true
   },
   {
-   "id": "e833d17adf530d8a",
-   "url": "https://loudwire.com/my-chemical-romance-draag-explained",
-   "title_original": "Everything You Need to Know About My Chemical Romance’s Fictional World, Draag",
-   "source": "Loudwire",
-   "image": "https://townsquare.media/site/366/files/2025/09/attachment-featured-images-2025-09-11t162416-333.jpg?w=1200&q=75&format=natural",
+   "id": "95624eb61d33526b",
+   "url": "https://theshowbizjournal.com/music/my-chemical-romance-new-album-gerard-way/7817",
+   "title_original": "My Chemical Romance New Album Plans Get Gerard Way Update",
+   "source": "The Showbiz Journal",
+   "image": "https://theshowbizjournal.com/wp-content/uploads/2026/09/My_Chemical_Romance_@_Wembley_Stadium_11_July_2026_B-Stage_15.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-09-14T20:33:29+00:00",
-   "title_ja": "My Chemical Romanceの架空の世界Draagの全容",
-   "summary_ja": "My Chemical Romanceが築き上げる独自の架空の世界、Draagについて知っておくべき情報を解説しています。",
-   "category": "映像・映画・書籍",
+   "published": "2026-09-15T01:17:07+00:00",
+   "title_ja": "Gerard WayがMy Chemical Romanceの新作アルバム計画について言及",
+   "summary_ja": "My Chemical RomanceのフロントマンであるGerard Wayが、バンドの新作アルバムに関する計画について最新情報を明かした。今後の作品リリースに向けた具体的な動向が期待される。",
+   "category": "メンバー・発言",
    "band": "My Chemical Romance",
    "artists": [
-    "My Chemical Romance"
+    "My Chemical Romance",
+    "Gerard Way"
    ],
    "japan": false,
-   "importance": 3,
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -476,7 +520,7 @@
    ],
    "japan": false,
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "bb4b4a158424c706",
