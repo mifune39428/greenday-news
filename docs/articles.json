@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-17T01:38:47.333442+09:00",
+ "updated_at": "2026-09-17T06:10:35.671800+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -82,6 +82,7 @@
   "NextMosh",
   "Oh No They Didn't! — LiveJournal",
   "Orlando Sentinel",
+  "Our Culture Mag",
   "PUNKLOID",
   "Paste Magazine",
   "People.com",
@@ -119,6 +120,7 @@
   "The Daily Iowan",
   "The Day",
   "The Detroit News",
+  "The Georgia Straight",
   "The Guardian",
   "The Guardian Nigeria News",
   "The Line of Best Fit",
@@ -170,9 +172,75 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 207,
- "detail_count": 145,
+ "count": 212,
+ "detail_count": 150,
  "items": [
+  {
+   "id": "e3dfb02fb22d0f46",
+   "url": "https://www.antimusic.com/p/26/r0916the_offspring_pennywise_circle_jerks_and_more_play_mike_roche_tsol_benefit.shtml",
+   "title_original": "The Offspring, Pennywise, Circle Jerks, and More Play Mike Roche (T.S.O.L.) Benefit",
+   "source": "antiMusic",
+   "image": "https://www.antimusic.com/news/photos/26/09/16/tsol.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-16T21:00:40+00:00",
+   "title_ja": "The OffspringやPennywiseらが参加するT.S.O.L.のMike Roche支援ライブ",
+   "summary_ja": "The OffspringやPennywise、Circle Jerksらが、T.S.O.L.のベーシストであるMike Rocheを支援するためのチャリティライブに出演する。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Pennywise",
+    "Circle Jerks",
+    "Mike Roche"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "9d9978afedf93a10",
+   "url": "https://www.straight.com/music/photos-weezer-gathers-old-fans-and-new-at-rogers-arena",
+   "title_original": "Photos: Weezer gathers old fans and new at Rogers Arena",
+   "source": "The Georgia Straight",
+   "image": "https://www.straight.com/files/v3/styles/gs_feature/public/images/26/09/dsc02740.jpg?itok=asp8Q4Qs",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-16T19:30:10+00:00",
+   "title_ja": "Weezerがロジャース・アリーナで見せた新旧ファンを魅了するステージ",
+   "summary_ja": "Weezerがロジャース・アリーナで開催したコンサートのライブ写真が公開され、長年のファンから新しいファンまで多くの観客を集めて会場を盛り上げた様子が伝えられている。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "fe04d883a50fd08b",
+   "url": "https://consequence.net/2026/09/the-offspring-pennywise-circle-jerks-benefit-t-s-o-l-mike-roche",
+   "title_original": "The Offspring, Pennywise, Circle Jerks to Play Benefit for T.S.O.L. Bassist Mike Roche",
+   "source": "Consequence",
+   "image": "https://consequence.net/wp-content/uploads/2026/09/The-Offspring-with-Mike-Roche-poster-inset.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-16T17:37:55+00:00",
+   "title_ja": "The OffspringらがT.S.O.L.のMike Roche支援チャリティ公演に出演",
+   "summary_ja": "T.S.O.L.のベーシストであるMike Rocheを支援するため、The Offspring、Pennywise、Circle Jerksらがチャリティ・コンサートに出演することが決定した。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Pennywise",
+    "Circle Jerks",
+    "Mike Roche"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "c0a9fe16cb8bad44",
    "url": "https://themusicuniverse.com/the-offspring-pennywise-circle-jerks-adolescents-team-for-mike-roche-benefit-concert",
@@ -191,6 +259,46 @@
     "Pennywise",
     "Circle Jerks",
     "Adolescents"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "ad16abdb860a6b5d",
+   "url": "https://ourculturemag.com/2026/09/16/my-chemical-romances-new-album-everything-we-know-so-far",
+   "title_original": "My Chemical Romance’s New Album: Everything We Know So Far",
+   "source": "Our Culture Mag",
+   "image": "https://ourculturemag.com/wp-content/uploads/K1600_MCR-new-Bryce-Hall-e1789568866182.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-16T14:29:50+00:00",
+   "title_ja": "My Chemical Romanceの新アルバムに関する現在の情報まとめ",
+   "summary_ja": "My Chemical Romanceの新作アルバムに関して、これまでに判明している情報や噂などを整理して詳細に解説している。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "b0395d1bda4b3fa7",
+   "url": "https://theday.com/news/916495/review-weezers-self-titled-gold-album-delivers-nasal-power-pop-for-bands-faithful",
+   "title_original": "Review: Weezer's self-titled 'Gold Album' delivers nasal power pop for band's faithful",
+   "source": "The Day",
+   "image": "http://d3gouztkx1c1lh.cloudfront.net/360_TheDay_Live/0/0/0/1/154/357/1154357_1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-16T11:45:00+00:00",
+   "title_ja": "Weezerのセルフタイトル作『Gold Album』レビュー",
+   "summary_ja": "Weezerのセルフタイトルアルバム『Gold Album』について、ファンに向けた鼻にかかったパワーポップを届けていると評されている。",
+   "category": "新曲・新作",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
    ],
    "japan": false,
    "importance": 3,
