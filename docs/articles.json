@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-16T13:29:21.414099+09:00",
+ "updated_at": "2026-09-16T20:18:42.113320+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -168,7 +168,7 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 203,
+ "count": 204,
  "detail_count": 142,
  "items": [
   {
@@ -542,6 +542,27 @@
    "japan": false,
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "9f14c2adb325fc0d",
+   "url": "https://theriffreport.co.uk/%F0%9F%8E%B8-fall-out-boys-joe-trohman-to-miss-2025-touring-im-not-okay-i-promise-%F0%9F%98%AD%F0%9F%A4%98",
+   "title_original": "🎸 FALL OUT BOY’S JOE TROHMAN TO MISS 2025 TOURING – “I’M NOT OKAY, I PROMISE” 😭🤘",
+   "source": "theriffreport.co.uk",
+   "image": "https://theriffreport.co.uk/wp-content/uploads/2025/07/Joe-Trohman-Steps-Back-from-Tour-1.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-14T07:00:00+00:00",
+   "title_ja": "Fall Out BoyのJoe Trohmanが2025年のツアーを欠場",
+   "summary_ja": "Fall Out BoyのギタリストであるJoe Trohmanが、2025年のツアーを欠場することを自身のSNSで発表した。体調面や精神的な健康を最優先にするための判断としてファンに報告されている。",
+   "category": "メンバー・発言",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Joe Trohman",
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "9d4655968823e27f",
