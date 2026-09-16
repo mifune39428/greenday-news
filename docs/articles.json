@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-16T06:09:22.209648+09:00",
+ "updated_at": "2026-09-16T13:29:21.414099+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -150,11 +150,13 @@
   "hoodline.com",
   "lambgoat.com",
   "lmusic.tokyo",
+  "loudwire.com",
   "music.mxdwn.com",
   "mxdwn Music",
   "nme.com",
   "parade.com",
   "phoenix.org",
+  "pressdemocrat.com",
   "sentinel-echo.com",
   "t.co",
   "tcnjsignalnews.com",
@@ -166,9 +168,49 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 201,
- "detail_count": 140,
+ "count": 203,
+ "detail_count": 142,
  "items": [
+  {
+   "id": "350501c876958044",
+   "url": "https://www.pressdemocrat.com/2026/09/15/vintage-1991-video-of-green-day-rocking-a-santa-rosa-high-school-lunchtime-set-resurfaces",
+   "title_original": "Vintage 1991 video of Green Day rocking a Santa Rosa High School lunchtime set resurfaces",
+   "source": "pressdemocrat.com",
+   "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/09/TPD-L-GreenDaySRHS-091526-01.jpg?w=1920&h=1080",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-15T21:36:42+00:00",
+   "title_ja": "1991年に高校のランチタイムで行ったGreen Dayの貴重なライブ映像が発掘",
+   "summary_ja": "1991年にGreen Dayがサンタローザ高校の昼休みに行ったライブの古い映像が、新たにネット上で再浮上し話題を集めている。当時の若さ溢れる演奏姿が捉えられた貴重なアーカイブ映像となっている。",
+   "category": "映像・映画・書籍",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "d2d5ade8d5e9bf14",
+   "url": "https://loudwire.com/my-chemical-romance-tour-questions-2026",
+   "title_original": "3 Lingering Questions My Chemical Romance Need to Answer After Their ‘Black Parade’ North American Tour",
+   "source": "loudwire.com",
+   "image": "https://townsquare.media/site/366/files/2026/09/attachment-social-image-366-2026-09-15-15-52-59.jpg?w=1200&q=75&format=natural",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-15T21:07:44+00:00",
+   "title_ja": "My Chemical Romanceの北米ツアー後に残された3つの疑問",
+   "summary_ja": "『The Black Parade』北米ツアーを終えたMy Chemical Romanceが、今後ファンや音楽シーンに向けて答えるべき3つの重要な疑問について音楽メディアが考察を行っている。今後の動向に注目が集まる。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "49f4367f1f96c467",
    "url": "https://www.sfchronicle.com/entertainment/article/green-day-oakland-studio-880-22433293.php",
@@ -187,7 +229,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "12265f362a766909",
@@ -506,7 +548,7 @@
    "url": "https://music.mxdwn.com/2026/09/13/news/my-chemical-romance-invite-king-diamond-onstage-for-performance-of-mama-tease-potential-new-album/amp",
    "title_original": "My Chemical Romance Invite King Diamond Onstage For Performance Of “Mama,” Tease Potential New Album",
    "source": "mxdwn Music",
-   "image": "",
+   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2025/07/my-chemical-romance_owen-ela_07272025-2.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-09-14T06:54:17+00:00",
