@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-17T20:27:05.864089+09:00",
+ "updated_at": "2026-09-18T01:45:43.117545+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -140,8 +140,11 @@
   "Ultimate Guitar",
   "Vulture",
   "WDHA FM",
+  "WEBN",
+  "WKFR",
   "Wikimetal",
   "Yahoo",
+  "Yahoo Lifestyle Australia",
   "Yahoo!ニュース",
   "ad-hoc-news.de",
   "antiMusic",
@@ -165,6 +168,7 @@
   "parade.com",
   "phoenix.org",
   "pressdemocrat.com",
+  "punknews.org",
   "sentinel-echo.com",
   "t.co",
   "tcnjsignalnews.com",
@@ -176,9 +180,134 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 216,
- "detail_count": 152,
+ "count": 222,
+ "detail_count": 155,
  "items": [
+  {
+   "id": "96373a7563b89929",
+   "url": "https://webn.iheart.com/content/2026-09-17-jimmy-eat-world-cancel-festival-shows-after-jim-adkins-suffers-detached-retina",
+   "title_original": "Jimmy Eat World Cancel Festival Shows After Jim Adkins Suffers Detached Retina",
+   "source": "WEBN",
+   "image": "https://i.iheart.com/v3/re/assets.getty/6aabffaa02d5126562678ad2?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-17T15:50:00+00:00",
+   "title_ja": "Jimmy Eat Worldが網膜剥離のためフェス出演をキャンセル",
+   "summary_ja": "Jimmy Eat Worldのジム・アドキンスが網膜剥離を患ったため、予定されていたフェスへの出演をキャンセルしたことが報じられている。",
+   "category": "ライブ・ツアー",
+   "band": "Jimmy Eat World",
+   "artists": [
+    "Jimmy Eat World",
+    "Jim Adkins"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c9f217990b38d662",
+   "url": "https://www.punknews.org/article/89119/the-linda-lindas-release-video-for-gotta-get-out",
+   "title_original": "The Linda Lindas release video for \"Gotta Get Out\"",
+   "source": "punknews.org",
+   "image": "https://static.punknews.org/images/bands/thelindalindas-1781198748.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-17T15:00:01+00:00",
+   "title_ja": "The Linda Lindasが新曲「Gotta Get Out」のMVを公開",
+   "summary_ja": "The Linda Lindasが新たなミュージックビデオとして「Gotta Get Out」を公開した。",
+   "category": "新曲・新作",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "b43acf3f5537cfc9",
+   "url": "https://au.lifestyle.yahoo.com/dive-bar-clarifies-chemical-romance-141200382.html",
+   "title_original": "'Dive bar' clarifies My Chemical Romance gig mix-up",
+   "source": "Yahoo Lifestyle Australia",
+   "image": "https://s.yimg.com/lo/mysterio/api/215861683982b5a6bf620411344d2db69c79c1c1d9bc44d58b9d8ff9061d5d95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F3e41440efe332e8faa2ecaf411b10301.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-17T14:12:00+00:00",
+   "title_ja": "My Chemical Romanceの公演を巡る勘違いについて小規模なバーが説明",
+   "summary_ja": "My Chemical Romanceの公演に関する情報の行き違いについて、地元のあるバーがその混乱の経緯を説明した。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "58c64dd5a5c4bc4c",
+   "url": "https://www.yahoo.com/entertainment/music/articles/billie-joe-armstrong-first-ever-134021563.html",
+   "title_original": "Billie Joe Armstrong on how his first-ever guitar defined Green Day's sound",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/abfab79d41807f9a397d7a7a634c59f20b300379cc82c97ddf21b3b3d76d0bfb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fguitar_world_625%2F5cb105ff332e91e427718120f361e19e.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-17T13:40:21+00:00",
+   "title_ja": "Billie Joe Armstrongが最初のギターとバンドの音作りについて語る",
+   "summary_ja": "Green DayのBillie Joe Armstrongが、自身にとって初めてのギターがどのようにバンドのサウンドを形作ったのかについて語っている。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "630c57d4ba9e372b",
+   "url": "https://www.guitarworld.com/artists/guitarists/billie-joe-armstrong-on-his-first-ever-guitar-that-defined-green-days-sound",
+   "title_original": "“I've had this guitar since I was 12 years old. My mom bought it for me off my guitar teacher”: Billie Joe Armstrong on how his first-ever guitar defined Green Day's sound",
+   "source": "Guitar World",
+   "image": "https://cdn.mos.cms.futurecdn.net/yojmynzkQeNREorxJU2zaJ-2000-80.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-17T13:40:21+00:00",
+   "title_ja": "Billie Joe Armstrongが12歳の頃から愛用する最初のギターについて明かす",
+   "summary_ja": "Green DayのBillie Joe Armstrongが、12歳の時に母親がギター講師から買ってくれたという最初のギターの思い出や、サウンドへの影響について明かした。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "af86f056bee376a8",
+   "url": "https://wkfr.com/michigan-fall-2026-concert-schedule",
+   "title_original": "Little Caesars Arena In Detroit Hosts Weezer, The Shins, And Silversun Pickups On September 23",
+   "source": "WKFR",
+   "image": "https://townsquare.media/site/689/files/2026/09/attachment-gettyimages-2283788821.jpg?w=1200&q=75&format=natural",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-17T12:59:47+00:00",
+   "title_ja": "Weezerがデトロイト公演を開催",
+   "summary_ja": "WeezerがデトロイトのLittle Caesars Arenaにて、The ShinsやSilversun Pickupsを迎えたコンサートを開催する予定です。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "The Shins",
+    "Silversun Pickups"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "af3ee56cacf4039e",
    "url": "https://parade.com/news/weezer-pinkerton-album-30th-anniversary-fans-reactions",
@@ -197,7 +326,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ddbd7c5311fcb659",
