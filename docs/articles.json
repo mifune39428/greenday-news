@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-18T01:45:43.117545+09:00",
+ "updated_at": "2026-09-18T06:12:41.899748+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -222,7 +222,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b43acf3f5537cfc9",
@@ -284,7 +284,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "af86f056bee376a8",
@@ -306,7 +306,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "af3ee56cacf4039e",
