@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-17T13:34:56.722910+09:00",
+ "updated_at": "2026-09-17T20:27:05.864089+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -21,6 +21,7 @@
   "My Chemical Romance",
   "Fall Out Boy",
   "Paramore",
+  "Alkaline Trio",
   "Descendents",
   "Jimmy Eat World",
   "Rise Against",
@@ -56,6 +57,7 @@
   "Guitar World",
   "Guitar.com",
   "Happy Mag",
+  "Hit Parader",
   "Hoodline",
   "Idaho Press",
   "JamBase",
@@ -143,6 +145,7 @@
   "Yahoo!ニュース",
   "ad-hoc-news.de",
   "antiMusic",
+  "aol.com",
   "article.auone.jp",
   "broadwayworld.com",
   "chorus.fm",
@@ -173,9 +176,29 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 213,
- "detail_count": 150,
+ "count": 216,
+ "detail_count": 152,
  "items": [
+  {
+   "id": "af3ee56cacf4039e",
+   "url": "https://parade.com/news/weezer-pinkerton-album-30th-anniversary-fans-reactions",
+   "title_original": "Weezer’s Divisive Cult-Classic Album Turns 30",
+   "source": "parade.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-17T04:32:39+00:00",
+   "title_ja": "Weezerの賛否両論を呼んだカルト名盤が発売30周年を迎える",
+   "summary_ja": "Weezerの初期の作品群の中でも、ファンの間で賛否両論を呼びながらもカルト的な人気を誇る名作アルバムがリリースから30周年の節目を迎えた。",
+   "category": "再発・記念盤",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "ddbd7c5311fcb659",
    "url": "https://www.audacy.com/1077theend/events/come-to-our-endsession-with-the-linda-lindas",
@@ -194,7 +217,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e3dfb02fb22d0f46",
@@ -237,6 +260,27 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "9b2c75eca6d203fc",
+   "url": "https://hitparader.com/news/alkaline-trio-rise-against-pay-homage-to-each-other-on-new-split-single-release",
+   "title_original": "Alkaline Trio + Rise Against Pay Homage To Each Other On New Split Single Release",
+   "source": "Hit Parader",
+   "image": "https://hitparader.com/wp-content/uploads/sites/2/2026/09/Unknown-1-e1789580283567.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-16T17:56:15+00:00",
+   "title_ja": "Alkaline TrioとRise Againstがスプリット盤をリリース",
+   "summary_ja": "Alkaline TrioとRise Againstが互いの楽曲をカバーし合う新しいスプリットシングルを発表しました。パンクシーンを代表する両バンドによる注目のコラボレーションとなっています。",
+   "category": "新曲・新作",
+   "band": "Alkaline Trio",
+   "artists": [
+    "Alkaline Trio",
+    "Rise Against"
+   ],
+   "japan": false,
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -283,6 +327,26 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "bd5de75d76309911",
+   "url": "https://www.aol.com/articles/chemical-romance-just-announced-massive-160252824.html",
+   "title_original": "My Chemical Romance Just Announced a Massive New Stadium Tour, and It’s Officially Been 20 Years Since the Black Parade Album That Started It All",
+   "source": "aol.com",
+   "image": "https://hermes.media.static.aol.com/media/2026/09/16/2c3ed89f-dd99-334a-8d00-67264a9f8f69/ca8c9e9b-c9e7-42c9-bc27-43335eeb0c34.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-16T16:02:52.824130+00:00",
+   "title_ja": "My Chemical Romanceが大規模なスタジアムツアーを発表",
+   "summary_ja": "My Chemical Romanceが大規模な新スタジアムツアーの開催を発表しました。名盤『The Black Parade』のリリースから20周年という記念すべき節目を迎えます。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 5,
    "has_detail": true
   },
   {
