@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-18T13:20:07.253811+09:00",
+ "updated_at": "2026-09-18T20:00:29.294244+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -91,6 +91,7 @@
   "People.com",
   "Pioneer Press",
   "Pitchfork",
+  "Porterville Recorder",
   "Prelude Press",
   "Prescott Daily Courier",
   "Punknews.org",
@@ -119,6 +120,7 @@
   "Tarrant County College",
   "That Eric Alper",
   "The Business Journals",
+  "The Courier-Journal",
   "The Daily Aztec",
   "The Daily Iowan",
   "The Day",
@@ -181,9 +183,29 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 223,
- "detail_count": 156,
+ "count": 226,
+ "detail_count": 158,
  "items": [
+  {
+   "id": "e18add9174ac8a17",
+   "url": "https://www.courier-journal.com/story/entertainment/music/2026/09/18/louder-than-life-2026-friday-schedule-lineup-louisville/91243329007",
+   "title_original": "Louder Than Life Friday lineup, schedule features My Chemical Romance",
+   "source": "The Courier-Journal",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-18T09:01:00+00:00",
+   "title_ja": "Louder Than Lifeの金曜日にMy Chemical Romanceが出演",
+   "summary_ja": "音楽フェス「Louder Than Life」の金曜日公演の出演者ラインナップとスケジュールが発表され、My Chemical Romanceがフィーチャーされている。",
+   "category": "フェス出演",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "7311140c55be5dcc",
    "url": "https://www.backseatmafia.com/news-paramores-hayley-williams-confirms-intimate-australian-headline-return",
@@ -200,6 +222,50 @@
    "artists": [
     "Paramore",
     "Hayley Williams"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "344b2a0c856e43d0",
+   "url": "https://www.recorderonline.com/features/entertainment_news/the-offspring-to-lead-benefit-concert-for-t-s-o-l-founding-bassist-mike-roche/article_1c67b69a-18f1-5103-bae2-798465dba72e.html",
+   "title_original": "The Offspring to lead benefit concert for T.S.O.L. founding bassist Mike Roche",
+   "source": "Porterville Recorder",
+   "image": "https://bloximages.newyork1.vip.townnews.com/recorderonline.com/content/tncms/assets/v3/editorial/f/4d/f4da1342-dabc-52b8-83de-98e9988c3f60/6aac5696a7113.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-17T19:51:00+00:00",
+   "title_ja": "The OffspringがT.S.O.L.のベイスター支援ライブに出演",
+   "summary_ja": "T.S.O.L.の創設メンバーであるベーシスト、Mike Rocheを支援するため、The Offspringがチャリティコンサートのヘッドライナーを務める。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Mike Roche"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "2bfea05271cce36a",
+   "url": "https://www.thatericalper.com/2026/09/17/the-offspring-pennywise-and-circle-jerks-lead-mike-roche-benefit-concert",
+   "title_original": "The Offspring, Pennywise And Circle Jerks Lead Mike Roche Benefit Concert",
+   "source": "That Eric Alper",
+   "image": "https://www.thatericalper.com/wp-content/uploads/2026/09/download-2026-09-17T151555.057.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-17T19:16:07+00:00",
+   "title_ja": "The OffspringやPennywiseがベネフィット公演を開催",
+   "summary_ja": "T.S.O.L.の創設メンバーであるMike Rocheを支援するチャリティコンサートを、The OffspringやPennywise、Circle Jerksらが率いることが報じられている。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Pennywise",
+    "Circle Jerks",
+    "Mike Roche"
    ],
    "japan": false,
    "importance": 3,
