@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-18T06:12:41.899748+09:00",
+ "updated_at": "2026-09-18T13:20:07.253811+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -150,6 +150,7 @@
   "antiMusic",
   "aol.com",
   "article.auone.jp",
+  "backseatmafia.com",
   "broadwayworld.com",
   "chorus.fm",
   "clashmusic.com",
@@ -180,9 +181,30 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 222,
- "detail_count": 155,
+ "count": 223,
+ "detail_count": 156,
  "items": [
+  {
+   "id": "7311140c55be5dcc",
+   "url": "https://www.backseatmafia.com/news-paramores-hayley-williams-confirms-intimate-australian-headline-return",
+   "title_original": "News: Paramore’s Hayley Williams confirms intimate Australian headline return",
+   "source": "backseatmafia.com",
+   "image": "https://www.backseatmafia.com/wp-content/uploads/2026/09/unnamed-65.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-17T22:04:57+00:00",
+   "title_ja": "ParamoreのHayley Williamsがオーストラリアで公演へ",
+   "summary_ja": "ParamoreのHayley Williamsが、オーストラリアでの小規模なヘッドライン公演の開催を正式に確認しました。",
+   "category": "ライブ・ツアー",
+   "band": "Paramore",
+   "artists": [
+    "Paramore",
+    "Hayley Williams"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "96373a7563b89929",
    "url": "https://webn.iheart.com/content/2026-09-17-jimmy-eat-world-cancel-festival-shows-after-jim-adkins-suffers-detached-retina",
