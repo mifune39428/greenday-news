@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-18T20:00:29.294244+09:00",
+ "updated_at": "2026-09-19T01:14:32.210523+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -49,6 +49,7 @@
   "Consequence",
   "Daily Sabah",
   "Detroit Metro Times",
+  "East Bay Times",
   "Exclaim!",
   "Far Out Magazine",
   "Fightful",
@@ -104,7 +105,6 @@
   "Rolling Stone Australia",
   "RouteNote",
   "Sada Elbalad english",
-  "San Francisco Chronicle",
   "Santa Clarita Valley Signal",
   "Showbiz by PS",
   "SiriusXM",
@@ -184,7 +184,7 @@
   "激ロック"
  ],
  "count": 226,
- "detail_count": 158,
+ "detail_count": 159,
  "items": [
   {
    "id": "e18add9174ac8a17",
@@ -204,7 +204,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7311140c55be5dcc",
@@ -627,6 +627,26 @@
    "has_detail": true
   },
   {
+   "id": "86ba91ca5e54669c",
+   "url": "https://www.eastbaytimes.com/2026/09/15/vintage-1991-video-of-green-day-rocking-a-santa-rosa-high-school-lunchtime-set-resurfaces",
+   "title_original": "Fans are still loving Green Day’s 1991 Santa Rosa High School concert video",
+   "source": "East Bay Times",
+   "image": "https://www.eastbaytimes.com/wp-content/uploads/2026/09/TPD-L-GreenDaySRHS-091526-01.jpg?w=1920&h=1080",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-15T21:36:42+00:00",
+   "title_ja": "Green Dayの1991年サンタローザ高校ライブ映像にファン歓喜",
+   "summary_ja": "1991年にGreen Dayがサンタローザ高校で行った当時のライブパフォーマンスの映像が、今なおファンから根強い人気を集めている。",
+   "category": "映像・映画・書籍",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
    "id": "350501c876958044",
    "url": "https://www.pressdemocrat.com/2026/09/15/vintage-1991-video-of-green-day-rocking-a-santa-rosa-high-school-lunchtime-set-resurfaces",
    "title_original": "Vintage 1991 video of Green Day rocking a Santa Rosa High School lunchtime set resurfaces",
@@ -665,26 +685,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "49f4367f1f96c467",
-   "url": "https://www.sfchronicle.com/entertainment/article/green-day-oakland-studio-880-22433293.php",
-   "title_original": "Green Day’s former Oakland studio hits the market for nearly $4 million",
-   "source": "San Francisco Chronicle",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-15T19:02:56+00:00",
-   "title_ja": "Green Dayが過去に使用したオークランドの音楽スタジオが売りに出される",
-   "summary_ja": "Green Dayがかつて所有・使用していたカリフォルニア州オークランドのスタジオが、約400万ドルで売りに出されていることが明らかになった。バンドゆかりの拠点が不動産市場に登場したとして話題を集めている。",
-   "category": "その他",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
   },
   {
    "id": "12265f362a766909",
