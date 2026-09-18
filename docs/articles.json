@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T01:14:32.210523+09:00",
+ "updated_at": "2026-09-19T05:46:02.750869+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -23,6 +23,7 @@
   "Paramore",
   "Alkaline Trio",
   "Descendents",
+  "Dropkick Murphys",
   "Jimmy Eat World",
   "Rise Against",
   "The Linda Lindas",
@@ -183,9 +184,32 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 226,
- "detail_count": 159,
+ "count": 227,
+ "detail_count": 160,
  "items": [
+  {
+   "id": "9dd5259a6cda954d",
+   "url": "https://consequence.net/2026/09/dropkick-murphys-ken-casey-ed-sheeran-macklemore-situation",
+   "title_original": "Dropkick Murphys' Ken Casey on Ed Sheeran-Macklemore Situation: You Should \"Live or Die\" With Your Support Act",
+   "source": "Consequence",
+   "image": "https://consequence.net/wp-content/uploads/2026/09/Ken-Casey.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-18T20:23:49+00:00",
+   "title_ja": "Dropkick MurphysのKen Caseyが前座との関係を語る",
+   "summary_ja": "Dropkick MurphysのKen Caseyが、前座を務めるアーティストとのあり方や支援の重要性について自身の見解を明かした。",
+   "category": "メンバー・発言",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys",
+    "Ken Casey",
+    "Ed Sheeran",
+    "Macklemore"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "e18add9174ac8a17",
    "url": "https://www.courier-journal.com/story/entertainment/music/2026/09/18/louder-than-life-2026-friday-schedule-lineup-louisville/91243329007",
