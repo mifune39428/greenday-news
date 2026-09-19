@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T05:46:02.750869+09:00",
+ "updated_at": "2026-09-19T13:16:54.632333+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -61,6 +61,7 @@
   "Happy Mag",
   "Hit Parader",
   "Hoodline",
+  "IMDb",
   "Idaho Press",
   "JamBase",
   "JoBlo",
@@ -141,6 +142,7 @@
   "Tinnitist",
   "Tullahoma News",
   "Ultimate Guitar",
+  "VICE",
   "Vulture",
   "WDHA FM",
   "WEBN",
@@ -184,9 +186,51 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 227,
- "detail_count": 160,
+ "count": 229,
+ "detail_count": 161,
  "items": [
+  {
+   "id": "77edc98ce383bd2c",
+   "url": "https://www.imdb.com/news/ni66023051",
+   "title_original": "Dropkick Murphys’ Ken Casey Says Ed Sheeran ‘Took the Knee’ With Macklemore: ‘Doesn’t Sit Right With Me’",
+   "source": "IMDb",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-19T01:34:14+00:00",
+   "title_ja": "Dropkick MurphysのKen Casey、Ed Sheeranを批判",
+   "summary_ja": "Dropkick MurphysのKen Caseyが、Ed Sheeranの行動について納得がいかないと語ったことが報じられています。",
+   "category": "メンバー・発言",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys",
+    "Ed Sheeran",
+    "Macklemore"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "7fd2b27800e29bf0",
+   "url": "https://www.vice.com/en/article/the-green-day-album-that-got-them-banned-from-the-punk-club-that-made-them-famous",
+   "title_original": "The Green Day Album That Got Them Banned From the Punk Club That Made Them Famous",
+   "source": "VICE",
+   "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/09/Web_Photo_Editor-2026-09-18T154201.740.jpg?w=1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-18T20:56:02+00:00",
+   "title_ja": "Green Dayが出入禁止になったアルバムの話題",
+   "summary_ja": "Green Dayを有名にしたパンクのライブハウスから、かつて出入禁止処分を受けるきっかけとなったアルバムにまつわるエピソードを紹介しています。",
+   "category": "その他",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "9dd5259a6cda954d",
    "url": "https://consequence.net/2026/09/dropkick-murphys-ken-casey-ed-sheeran-macklemore-situation",
