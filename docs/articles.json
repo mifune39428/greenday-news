@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T19:43:54.826418+09:00",
+ "updated_at": "2026-09-20T00:45:29.090591+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -72,6 +72,7 @@
   "LAist",
   "Lambgoat",
   "LancasterOnline",
+  "Lexington Herald Leader",
   "Louder",
   "MUSIC LIFE CLUB",
   "Media Play News",
@@ -188,9 +189,29 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 231,
+ "count": 232,
  "detail_count": 163,
  "items": [
+  {
+   "id": "f4973936b2f3ba57",
+   "url": "https://www.kentucky.com/news/state/kentucky/article317305147.html",
+   "title_original": "What did My Chemical Romance play at Louder Than Life? See the setlist",
+   "source": "Lexington Herald Leader",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-19T12:13:00+00:00",
+   "title_ja": "My Chemical RomanceがLouder Than Lifeのセットリストを公開",
+   "summary_ja": "My Chemical RomanceがLouder Than Lifeフェスで披露したセットリストが明らかになった。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "523a560a0ae603f9",
    "url": "https://www.iheart.com/alternate/amp/2026-09-18-watch-weezer-reveal-surprise-guest-during-nostalgic-vegas-arena-set",
