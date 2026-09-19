@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T00:45:29.090591+09:00",
+ "updated_at": "2026-09-20T05:26:43.603379+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -189,9 +189,55 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 232,
- "detail_count": 163,
+ "count": 234,
+ "detail_count": 164,
  "items": [
+  {
+   "id": "0485372783cfbc74",
+   "url": "https://www.billboard.com/music/music-news/dropkick-murphys-ken-casey-ed-sheeran-macklemore-loop-tour-1236343940",
+   "title_original": "Dropkick Murphys’ Ken Casey Criticizes Ed Sheeran Over His Treatment of Macklemore: ‘Doesn’t Sit Right’",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-19T17:28:54+00:00",
+   "title_ja": "Ken CaseyがEd SheeranのMacklemoreへの扱いを批判",
+   "summary_ja": "Dropkick MurphysのKen Caseyが、Ed SheeranによるMacklemoreへの対応方法について納得がいかないと強く批判しました。",
+   "category": "メンバー・発言",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys",
+    "Ken Casey",
+    "Ed Sheeran",
+    "Macklemore"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "2438aa2bb274f3d1",
+   "url": "https://faroutmagazine.co.uk/dropkick-murphys-ken-casey-lambasts-ed-sheerans-treatment-of-macklemore",
+   "title_original": "Dropkick Murphys’ Ken Casey lambasts Ed Sheeran’s treatment of Macklemore",
+   "source": "Far Out Magazine",
+   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2025/03/Ken-Casey-Dropkick-Murphys-2025-Far-Out-Magazine.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-19T16:21:18+00:00",
+   "title_ja": "Ken CaseyがEd Sheeranの態度を厳しく非難",
+   "summary_ja": "Dropkick MurphysのKen Caseyが、Macklemoreに対するEd Sheeranの振る舞いについて公に批判の声を上げました。",
+   "category": "メンバー・発言",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys",
+    "Ken Casey",
+    "Ed Sheeran",
+    "Macklemore"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "f4973936b2f3ba57",
    "url": "https://www.kentucky.com/news/state/kentucky/article317305147.html",
@@ -210,7 +256,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "523a560a0ae603f9",
