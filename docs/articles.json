@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T13:16:54.632333+09:00",
+ "updated_at": "2026-09-19T19:43:54.826418+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -144,6 +144,7 @@
   "Ultimate Guitar",
   "VICE",
   "Vulture",
+  "WBEZ Chicago",
   "WDHA FM",
   "WEBN",
   "WKFR",
@@ -164,6 +165,7 @@
   "floodmagazine.com",
   "happymag.tv",
   "hoodline.com",
+  "iHeart",
   "knotfest.com",
   "lambgoat.com",
   "lmusic.tokyo",
@@ -186,9 +188,29 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 229,
- "detail_count": 161,
+ "count": 231,
+ "detail_count": 163,
  "items": [
+  {
+   "id": "523a560a0ae603f9",
+   "url": "https://www.iheart.com/alternate/amp/2026-09-18-watch-weezer-reveal-surprise-guest-during-nostalgic-vegas-arena-set",
+   "title_original": "Watch Weezer Reveal Surprise Guest During Nostalgic Vegas Arena Set",
+   "source": "iHeart",
+   "image": "https://i.iheart.com/v3/re/new_assets/6aae103ec1a9d81a25a951b1?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-19T04:47:00+00:00",
+   "title_ja": "Weezerがラスベガス公演でサプライズゲストを登場",
+   "summary_ja": "Weezerがラスベガスのアリーナ公演にて、サプライズゲストをステージに迎えてパフォーマンスを披露した。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "77edc98ce383bd2c",
    "url": "https://www.imdb.com/news/ni66023051",
@@ -209,7 +231,29 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "34760c44aaaf66e0",
+   "url": "https://www.wbez.org/music/2026/09/18/riot-fest-2026-violet-grohl-twenty-one-pilots-rise-against-weather-douglass-park-chicago-music",
+   "title_original": "Riot Fest 2026 kicks off with rising stars Violet Grohl, the Paradox and return of local punks Rise Against",
+   "source": "WBEZ Chicago",
+   "image": "https://cst.brightspotcdn.com/dims4/default/3607aae/2147483647/strip/true/crop/6122x3495+0+294/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F16%2F91%2Fbe8859644e0484280646748abd12%2Friotfestday1photos-260919-40.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-18T23:06:03.898000+00:00",
+   "title_ja": "Riot Fest 2026が開幕、Rise Againstらが出演",
+   "summary_ja": "Riot Fest 2026が初日を迎え、注目を集める若手アーティストやベテランのRise Againstらが出演して盛り上がりを見せた。",
+   "category": "フェス出演",
+   "band": "Rise Against",
+   "artists": [
+    "Rise Against",
+    "Violet Grohl",
+    "the Paradox"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "7fd2b27800e29bf0",
