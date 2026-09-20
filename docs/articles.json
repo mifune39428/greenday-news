@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T20:06:49.927329+09:00",
+ "updated_at": "2026-09-21T00:53:39.272650+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -78,6 +78,7 @@
   "Media Play News",
   "MediaPost",
   "Metal Injection",
+  "Metal Insider",
   "Metalhead Zone",
   "Mikiki by TOWER RECORDS",
   "MondoSonoro",
@@ -157,6 +158,7 @@
   "antiMusic",
   "aol.com",
   "article.auone.jp",
+  "azat.tv",
   "backseatmafia.com",
   "broadwayworld.com",
   "chorus.fm",
@@ -189,9 +191,32 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 238,
- "detail_count": 166,
+ "count": 241,
+ "detail_count": 168,
  "items": [
+  {
+   "id": "51311f6e38dc309b",
+   "url": "https://www.punkloid.com/news/ganbare-mike-roche-t-s-o-l",
+   "title_original": "パーキンソン病/認知症を患う Mike Roche (T.S.O.L.) を支援するベネフィット公演開催決定！The Offspring、Pennywise、Circle Jerksら集結",
+   "source": "PUNKLOID",
+   "image": "https://www.punkloid.com/wp-content/uploads/2026/09/tsol-mike-820x1024.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-20T06:27:40+00:00",
+   "title_ja": "The OffspringやPennywiseが参加する支援ライブ開催",
+   "summary_ja": "闘病中のT.S.O.L.のMike Rocheを支援するため、The OffspringやPennywiseらが集結しベネフィット公演を行うことが決まった。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "Mike Roche",
+    "The Offspring",
+    "Pennywise",
+    "Circle Jerks"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "2b51e7f1f45e7f2a",
    "url": "https://faroutmagazine.co.uk/the-musician-billie-joe-armstrong-knew-would-endure",
@@ -237,6 +262,26 @@
    "detail_tries": 2
   },
   {
+   "id": "1c63fb3740232bb3",
+   "url": "https://azat.tv/en/weezer-gathering-tour-chase-center-generational-impact",
+   "title_original": "Weezer’s ‘Gathering Tour’ Bridges Generational Divide at Chase Center",
+   "source": "azat.tv",
+   "image": "https://azat.tv/wp-content/uploads/2026/09/weezer-fans-chase-center.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-19T17:00:00+00:00",
+   "title_ja": "Weezerがチェイス・センターで世代を超えた公演を開催",
+   "summary_ja": "Weezerが「Gathering Tour」の一環としてチェイス・センターでライブを行い、幅広い世代のファンを魅了した。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "2438aa2bb274f3d1",
    "url": "https://faroutmagazine.co.uk/dropkick-murphys-ken-casey-lambasts-ed-sheerans-treatment-of-macklemore",
    "title_original": "Dropkick Murphys’ Ken Casey lambasts Ed Sheeran’s treatment of Macklemore",
@@ -277,7 +322,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f4973936b2f3ba57",
@@ -492,6 +537,29 @@
    "has_detail": true
   },
   {
+   "id": "ff2adb994bb4337c",
+   "url": "https://metalinsider.net/news/the-offspring-pennywise-circle-jerks-more-to-perform-at-t-s-o-l-s-mike-roche-benefit",
+   "title_original": "The Offspring, Pennywise, Circle Jerks & more to perform at T.S.O.L.’s Mike Roche benefit",
+   "source": "Metal Insider",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-17T17:18:51+00:00",
+   "title_ja": "T.S.O.L.のMike Roche支援ライブにThe Offspringら出演",
+   "summary_ja": "病気療養中のT.S.O.L.のMike Rocheをサポートするため、The OffspringやPennywiseらがベネフィット公演に出演する。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Pennywise",
+    "Circle Jerks",
+    "Mike Roche"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "96373a7563b89929",
    "url": "https://webn.iheart.com/content/2026-09-17-jimmy-eat-world-cancel-festival-shows-after-jim-adkins-suffers-detached-retina",
    "title_original": "Jimmy Eat World Cancel Festival Shows After Jim Adkins Suffers Detached Retina",
@@ -637,7 +705,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "af3ee56cacf4039e",
