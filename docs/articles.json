@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T05:26:43.603379+09:00",
+ "updated_at": "2026-09-20T13:35:25.603495+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -189,9 +189,30 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 234,
- "detail_count": 164,
+ "count": 235,
+ "detail_count": 165,
  "items": [
+  {
+   "id": "2b51e7f1f45e7f2a",
+   "url": "https://faroutmagazine.co.uk/the-musician-billie-joe-armstrong-knew-would-endure",
+   "title_original": "The legend Billie Joe Armstrong said will never be forgotten",
+   "source": "Far Out Magazine",
+   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2024/01/Billie-Joe-Armstrong-Green-Day-Musician-Far-Out-Magazine-F.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-20T03:00:00+00:00",
+   "title_ja": "Billie Joe Armstrongの伝説は決して忘れられない",
+   "summary_ja": "Billie Joe Armstrongが残す伝説や音楽シーンへの影響について、色褪せることのないその存在感を改めて称える記事。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "0485372783cfbc74",
    "url": "https://www.billboard.com/music/music-news/dropkick-murphys-ken-casey-ed-sheeran-macklemore-loop-tour-1236343940",
@@ -213,7 +234,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2438aa2bb274f3d1",
