@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T13:35:25.603495+09:00",
+ "updated_at": "2026-09-20T20:06:49.927329+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -189,8 +189,8 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 235,
- "detail_count": 165,
+ "count": 238,
+ "detail_count": 166,
  "items": [
   {
    "id": "2b51e7f1f45e7f2a",
@@ -258,6 +258,26 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "950cf7bbd49364da",
+   "url": "https://www.yahoo.com/news/slideshows/chemical-romance-performs-louder-life-161853294.html",
+   "title_original": "My Chemical Romance performs at Louder Than Life 2026. See photos",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/1aaba998ef68ff814162a282ee2d056dfe928c83f2053825c9510e15583036da/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_courier_journal_slideshows_664%2F366146b4dbb1394f803aa3af16071b1b.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-19T16:18:53+00:00",
+   "title_ja": "My Chemical RomanceのLouder Than Life 2026ライブ写真",
+   "summary_ja": "My Chemical RomanceがLouder Than Life 2026フェスティバルで行ったライブの模様を捉えた写真が公開された。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "f4973936b2f3ba57",
@@ -597,6 +617,29 @@
    "detail_tries": 2
   },
   {
+   "id": "a6ef85a2021bd430",
+   "url": "https://music.mxdwn.com/2026/09/17/news/roger-waters-massive-attack-dropkick-murphys-more-call-out-ed-sheeran-after-macklemores-removal-from-loop-tour",
+   "title_original": "Roger Waters, Massive Attack, Dropkick Murphys & More Call Out Ed Sheeran After Macklemore’s Rem...",
+   "source": "mxdwn Music",
+   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2013/03/macklemore-and-ryan-lewis5.JPG",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-17T07:12:57+00:00",
+   "title_ja": "Dropkick MurphysらがEd Sheeranに言及",
+   "summary_ja": "Dropkick MurphysやRoger Waters、Massive Attackらが、Macklemoreを巡る動きに関連してEd Sheeranへ意見を表明した。",
+   "category": "メンバー・発言",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys",
+    "Roger Waters",
+    "Massive Attack",
+    "Ed Sheeran"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "af3ee56cacf4039e",
    "url": "https://parade.com/news/weezer-pinkerton-album-30th-anniversary-fans-reactions",
    "title_original": "Weezer’s Divisive Cult-Classic Album Turns 30",
@@ -784,6 +827,29 @@
    ],
    "japan": false,
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "80c244f28ea6b45b",
+   "url": "https://blabbermouth.net/news/the-offspring-pennywise-circle-jerks-and-adolescents-to-perform-at-benefit-for-t-s-o-l-s-mike-roche",
+   "title_original": "THE OFFSPRING, PENNYWISE, CIRCLE JERKS And ADOLESCENTS To PERFORM AT Benefit For T.S.O.L.'s MIKE ROCHE",
+   "source": "BLABBERMOUTH.NET",
+   "image": "https://assets.blabbermouth.net/media/tsolfundraisersept2026_638.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-16T12:45:47+00:00",
+   "title_ja": "The Offspring、チャリティライブ出演へ",
+   "summary_ja": "The Offspring、Pennywise、Circle Jerks、Adolescentsが、T.S.O.L.のMike Roche支援チャリティライブに出演する。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Pennywise",
+    "Circle Jerks",
+    "Adolescents"
+   ],
+   "japan": false,
+   "importance": 3,
    "has_detail": true
   },
   {
