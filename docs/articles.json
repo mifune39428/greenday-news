@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-21T00:53:39.272650+09:00",
+ "updated_at": "2026-09-21T05:39:08.982200+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -26,6 +26,7 @@
   "Dropkick Murphys",
   "Jimmy Eat World",
   "Rise Against",
+  "New Found Glory",
   "The Linda Lindas",
   "その他"
  ],
@@ -107,7 +108,9 @@
   "Rock Sound",
   "Rolling Stone",
   "Rolling Stone Australia",
+  "Rolling Stone Japan(ローリングストーン ジャパン）",
   "RouteNote",
+  "SSBCrack",
   "Sada Elbalad english",
   "Santa Clarita Valley Signal",
   "Showbiz by PS",
@@ -118,6 +121,7 @@
   "Stephen Thomas Erlewine | Substack",
   "Stereoboard.com",
   "Stereogum",
+  "SuaraGarut.ID",
   "TPI Media Group",
   "TVGuide.co.uk",
   "TacomaWeekly",
@@ -191,9 +195,70 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 241,
- "detail_count": 168,
+ "count": 244,
+ "detail_count": 169,
  "items": [
+  {
+   "id": "dd11cb1f851bc233",
+   "url": "https://rollingstonejapan.com/articles/detail/45473",
+   "title_original": "ニュー・ファウンド・グローリーのギタリスト、チャド・ギルバートが45歳で死去",
+   "source": "Rolling Stone Japan(ローリングストーン ジャパン）",
+   "image": "https://images.rollingstonejapan.com/articles/45000/45473/OG/9b848abe5c62e941c2b7e2e6765c359a.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-21T04:16:00+00:00",
+   "title_ja": "New Found Gloryのギタリスト、Chad Gilbertが45歳で死去",
+   "summary_ja": "日本の音楽メディアであるRolling Stone Japanにおいても、New Found GloryのギタリストであるChad Gilbertが45歳で死去したことが報じられた。",
+   "category": "その他",
+   "band": "New Found Glory",
+   "artists": [
+    "Chad Gilbert",
+    "New Found Glory"
+   ],
+   "japan": false,
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
+   "id": "997ed95d444e2e0a",
+   "url": "https://suaragarut.id/en/green-day-navigates-ban-legacy",
+   "title_original": "Green Day Navigates Ban and Legacy After Mainstream Breakout",
+   "source": "SuaraGarut.ID",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-20T20:19:00+00:00",
+   "title_ja": "メジャーでのブレイク後にバンドへの禁止令やレガシーと向き合うGreen Day",
+   "summary_ja": "Green Dayがメジャーでのブレイク後に、様々な禁止措置やバンドのレガシーとどのように向き合ってきたかについて報じられている。彼らのこれまでの歩みを振り返る内容となっている。",
+   "category": "その他",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "8b4958a06c46d8d5",
+   "url": "https://news.ssbcrack.com/billie-joe-armstrong-on-the-importance-of-controversy-in-music-success",
+   "title_original": "Billie Joe Armstrong on the Importance of Controversy in Music Success",
+   "source": "SSBCrack",
+   "image": "https://news.ssbcrack.com/wp-content/uploads/2026/09/Billie-Joe-Armstrong-on-the-Importance-of-Controversy-in-Music.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-20T20:16:52+00:00",
+   "title_ja": "Billie Joe Armstrongが語る、音楽の成功と「物議を醸すこと」の重要性",
+   "summary_ja": "Billie Joe Armstrongが、音楽における成功と「物議を醸すこと」の重要性について語った。彼は音楽シーンにおいて議論を引き起こすことがいかに大切であるかを示している。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "51311f6e38dc309b",
    "url": "https://www.punkloid.com/news/ganbare-mike-roche-t-s-o-l",
@@ -557,7 +622,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "96373a7563b89929",
