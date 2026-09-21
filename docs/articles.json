@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-21T13:34:04.812112+09:00",
+ "updated_at": "2026-09-21T21:35:07.750638+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -52,6 +52,7 @@
   "Daily Sabah",
   "Detroit Metro Times",
   "East Bay Times",
+  "El-Balad.com",
   "Exclaim!",
   "Far Out Magazine",
   "Fightful",
@@ -78,6 +79,7 @@
   "MUSIC LIFE CLUB",
   "Media Play News",
   "MediaPost",
+  "Men's Journal",
   "Metal Injection",
   "Metal Insider",
   "Metalhead Zone",
@@ -121,7 +123,6 @@
   "Stephen Thomas Erlewine | Substack",
   "Stereoboard.com",
   "Stereogum",
-  "SuaraGarut.ID",
   "TPI Media Group",
   "TVGuide.co.uk",
   "TacomaWeekly",
@@ -136,6 +137,7 @@
   "The Georgia Straight",
   "The Guardian",
   "The Guardian Nigeria News",
+  "The Independent",
   "The Line of Best Fit",
   "The Mosh Network",
   "The Music Universe",
@@ -157,6 +159,7 @@
   "Wikimetal",
   "Yahoo",
   "Yahoo Lifestyle Australia",
+  "Yahoo News Canada",
   "Yahoo!ニュース",
   "ad-hoc-news.de",
   "antiMusic",
@@ -195,9 +198,29 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 244,
- "detail_count": 169,
+ "count": 250,
+ "detail_count": 173,
  "items": [
+  {
+   "id": "424eae76d471a72e",
+   "url": "https://ca.news.yahoo.com/green-day-made-politics-central-120000046.html",
+   "title_original": "Green Day Made Politics Central To A Comeback That Changed Its Career",
+   "source": "Yahoo News Canada",
+   "image": "https://s.yimg.com/lo/mysterio/api/95e07d471d8b9c7f0aa91b5d787e23a4beda670760201900ea13463ff301ec57/lightyear_networkapi/resizefill_w958_h639%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F241b5dcd1a17c11ee262a9ff1e1bc329.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T12:00:00+00:00",
+   "title_ja": "Green Dayの政治的姿勢がキャリアの復活に果たした役割",
+   "summary_ja": "政治的なメッセージを前面に出したGreen Dayのカムバックが、バンドのキャリアにどのような変化をもたらしたのかを振り返る。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "dd11cb1f851bc233",
    "url": "https://rollingstonejapan.com/articles/detail/45473",
@@ -220,24 +243,110 @@
    "detail_tries": 2
   },
   {
-   "id": "997ed95d444e2e0a",
-   "url": "https://suaragarut.id/en/green-day-navigates-ban-legacy",
-   "title_original": "Green Day Navigates Ban and Legacy After Mainstream Breakout",
-   "source": "SuaraGarut.ID",
+   "id": "b7233374dead3d60",
+   "url": "https://www.twincities.com/2026/09/20/concert-review-weezer-undone-by-awful-sound-at-grand-casino-arena",
+   "title_original": "Concert review: Weezer undone by awful sound at Grand Casino Arena",
+   "source": "Pioneer Press",
+   "image": "https://www.twincities.com/wp-content/uploads/2026/09/STP-L-WEEZER-0922_01.jpg?w=5474&h=3649",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T03:55:56+00:00",
+   "title_ja": "Weezerのコンサート、音響の悪さが災いし不評を買う",
+   "summary_ja": "Weezerがグランド・カジノ・アリーナで行ったコンサートのライブレビュー。ひどい音響のために演奏が台無しになってしまった様子が伝えられている。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "9beed4407dbb3d87",
+   "url": "https://www.kerrang.com/the-best-friend-to-every-person-he-met-rock-world-pays-tribute-to-new-found-glorys-chad-gilbert",
+   "title_original": "“The best friend to every person he met”: Rock world pays tribute to New Found Glory’s Chad Gilbert",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/New-Found-Glory-November-2025-promo.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1762262856&s=7a194c5d7d337c182991f675de6932b0",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T00:00:00+00:00",
+   "title_ja": "New Found GloryのChad Gilbertをロック界が追悼",
+   "summary_ja": "逝去したNew Found Gloryのギタリスト、Chad Gilbertに向けて、音楽界の仲間たちから数多くの追悼コメントが寄せられている。",
+   "category": "メンバー・発言",
+   "band": "New Found Glory",
+   "artists": [
+    "Chad Gilbert",
+    "New Found Glory"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "610beace725d24b4",
+   "url": "https://www.mensjournal.com/entertainment/mark-hoppus-of-blink-182-pays-tribute-to-chad-gilbert-rest-easy-now-my-friend",
+   "title_original": "Mark Hoppus of blink-182 Pays Tribute to Chad Gilbert: ‘Rest Easy Now, My Friend’",
+   "source": "Men's Journal",
    "image": "",
    "lang": "en",
    "region": "global",
-   "published": "2026-09-20T20:19:00+00:00",
-   "title_ja": "メジャーでのブレイク後にバンドへの禁止令やレガシーと向き合うGreen Day",
-   "summary_ja": "Green Dayがメジャーでのブレイク後に、様々な禁止措置やバンドのレガシーとどのように向き合ってきたかについて報じられている。彼らのこれまでの歩みを振り返る内容となっている。",
-   "category": "その他",
-   "band": "Green Day",
+   "published": "2026-09-20T21:52:51+00:00",
+   "title_ja": "Blink-182のMark HoppusがChad Gilbertを追悼",
+   "summary_ja": "New Found Gloryのギタリスト、Chad Gilbertの訃報を受け、Blink-182のMark HoppusがSNSを通じて追悼の意を表明した。",
+   "category": "メンバー・発言",
+   "band": "Blink-182",
    "artists": [
-    "Green Day"
+    "Mark Hoppus",
+    "Chad Gilbert",
+    "Blink-182",
+    "New Found Glory"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "ee79fce8c1e76dd5",
+   "url": "https://www.thatericalper.com/2026/09/20/the-linda-lindas-and-mack-keane-join-urban-outfitters-free-campus-concert-tour",
+   "title_original": "The Linda Lindas And Mack Keane Join Urban Outfitters’ Free Campus Concert Tour",
+   "source": "That Eric Alper",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-20T21:37:39+00:00",
+   "title_ja": "The Linda LindasがUrban Outfittersの学園ツアーに参加",
+   "summary_ja": "The Linda Lindasが、Mack Keaneと共にUrban Outfittersが主催する無料のキャンパス・コンサート・ツアーに出演することが発表された。",
+   "category": "ライブ・ツアー",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas",
+    "Mack Keane"
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 2
+   "detail_tries": 1
+  },
+  {
+   "id": "bb7550e64b899d53",
+   "url": "https://www.independent.co.uk/arts-entertainment/music/news/chad-gilbert-death-age-cause-cancer-b3053226.html",
+   "title_original": "New Found Glory guitarist Chad Gilbert dies aged 45 after brain cancer diagnosis",
+   "source": "The Independent",
+   "image": "https://static.the-independent.com/2026/09/20/20/126142867..?trim=4,0,1662,0&width=1200&height=800&crop=1200:800",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-20T20:22:13+00:00",
+   "title_ja": "NFGのギタリストChad Gilbertが脳腫瘍との闘病の末に死去",
+   "summary_ja": "脳腫瘍の診断を受けて闘病を続けていたNew Found Gloryのギタリスト、Chad Gilbertが45歳で亡くなったことが伝えられました。",
+   "category": "メンバー・発言",
+   "band": "New Found Glory",
+   "artists": [
+    "Chad Gilbert",
+    "New Found Glory"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "8b4958a06c46d8d5",
@@ -254,6 +363,27 @@
    "band": "Green Day",
    "artists": [
     "Billie Joe Armstrong"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "e6753423a287f587",
+   "url": "https://www.el-balad.com/17052877",
+   "title_original": "Billie Joe Armstrong Says Green Day’s Argument Keeps Joe Armstrong Relevant",
+   "source": "El-Balad.com",
+   "image": "https://www.el-balad.com/uploads/2026/09/21/joe-armstrong-3bf0c734_1200w.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-20T20:14:31+00:00",
+   "title_ja": "Billie Joe Armstrongがバンド内の議論について語る",
+   "summary_ja": "Green DayのBillie Joe Armstrongが、バンド内で続く議論や意見の衝突が自身をアーティストとして保ち続けていると語っています。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Green Day"
    ],
    "japan": false,
    "importance": 3,
