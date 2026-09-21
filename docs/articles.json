@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-21T21:35:07.750638+09:00",
+ "updated_at": "2026-09-22T06:54:19.598460+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -71,6 +71,7 @@
   "KCRW",
   "Kerrang!",
   "Knotfest",
+  "LADbible",
   "LAist",
   "Lambgoat",
   "LancasterOnline",
@@ -137,7 +138,6 @@
   "The Georgia Straight",
   "The Guardian",
   "The Guardian Nigeria News",
-  "The Independent",
   "The Line of Best Fit",
   "The Mosh Network",
   "The Music Universe",
@@ -174,6 +174,7 @@
   "dailycal.org",
   "floodmagazine.com",
   "happymag.tv",
+  "hercampus.com",
   "hoodline.com",
   "iHeart",
   "knotfest.com",
@@ -198,9 +199,49 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 250,
- "detail_count": 173,
+ "count": 252,
+ "detail_count": 176,
  "items": [
+  {
+   "id": "6fd2480fa0da2826",
+   "url": "https://www.pastemagazine.com/music/weezer/the-gold-album-is-weezers-best-case-scenario",
+   "title_original": "Review: The 'Gold Album' is Weezer’s best-case scenario",
+   "source": "Paste Magazine",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T15:33:46+00:00",
+   "title_ja": "Weezerの新作『Gold Album』のアルバムレビュー",
+   "summary_ja": "Weezerの新たなアルバム『Gold Album』について、バンドの魅力が存分に発揮されたベストケースの仕上がりであると高く評価するレビュー記事。",
+   "category": "新曲・新作",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "eab8dca982903d5c",
+   "url": "https://www.hercampus.com/school/unco/the-end-of-my-chemical-romance-s-american-tour",
+   "title_original": "The End of My Chemical Romance … ‘s American Tour",
+   "source": "hercampus.com",
+   "image": "https://cdn.hercampus.com/SH6M70M3/as/cfmgtmxgs4rj9kwqcbw9k6f/leviguzmanzdsoe8za6hsunsplashjpg_by_Levi_Guzman?width=1200&height=630&fit=crop&",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T14:00:00+00:00",
+   "title_ja": "My Chemical Romanceのアメリカツアーが完結へ",
+   "summary_ja": "熱狂的な支持を集めるMy Chemical Romanceによる大規模なアメリカツアーが、いよいよ終幕を迎えることを伝えるレポート記事。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "424eae76d471a72e",
    "url": "https://ca.news.yahoo.com/green-day-made-politics-central-120000046.html",
@@ -219,6 +260,27 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "512227d3c19471a0",
+   "url": "https://guitar.com/news/music-news/chad-gilbert-new-found-glory-tributes",
+   "title_original": "“The most positive and creative force in any room he walked into”: Pop-punk’s elite pay tribute to Chad Gilbert, founding New Found Glory guitarist who has died at 45",
+   "source": "Guitar.com",
+   "image": "https://guitar.com/wp-content/uploads/2026/09/Chad-Gilbert-hero@2000x1500-1068x801.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T10:19:16+00:00",
+   "title_ja": "ポップパンク界の仲間たちが逝去したChad Gilbertを追悼",
+   "summary_ja": "45歳で亡くなったNew Found Gloryの創設ギタリストに向け、シーンの仲間たちから数々の追悼メッセージが寄せられている。",
+   "category": "メンバー・発言",
+   "band": "New Found Glory",
+   "artists": [
+    "Chad Gilbert",
+    "New Found Glory"
+   ],
+   "japan": false,
+   "importance": 5,
    "has_detail": true
   },
   {
@@ -263,16 +325,16 @@
    "has_detail": true
   },
   {
-   "id": "9beed4407dbb3d87",
-   "url": "https://www.kerrang.com/the-best-friend-to-every-person-he-met-rock-world-pays-tribute-to-new-found-glorys-chad-gilbert",
-   "title_original": "“The best friend to every person he met”: Rock world pays tribute to New Found Glory’s Chad Gilbert",
-   "source": "Kerrang!",
-   "image": "https://transforms.kerrang.com/production/images/New-Found-Glory-November-2025-promo.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1762262856&s=7a194c5d7d337c182991f675de6932b0",
+   "id": "677972933f1362f2",
+   "url": "https://www.ladbible.com/entertainment/music/chad-gilbert-dead-new-found-glory-aged-45-105268-20260920",
+   "title_original": "'Godfather of Pop-Punk' Chad Gilbert of New Found Glory dead aged 45",
+   "source": "LADbible",
+   "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt7b449c9a68b8bd52/6ab05d87bca8116c3a6bb6a6/GettyImages-105314096.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-09-21T00:00:00+00:00",
-   "title_ja": "New Found GloryのChad Gilbertをロック界が追悼",
-   "summary_ja": "逝去したNew Found Gloryのギタリスト、Chad Gilbertに向けて、音楽界の仲間たちから数多くの追悼コメントが寄せられている。",
+   "published": "2026-09-20T22:37:13.585000+00:00",
+   "title_ja": "ポップパンクの重要人物、Chad Gilbertが45歳で死去",
+   "summary_ja": "ポップパンクの重鎮として知られるNew Found Gloryのギタリスト、Chad Gilbertが45歳で生涯を閉じた。長年にわたり音楽シーンに多大な影響を与えた彼の訃報に悲しみが広がっている。",
    "category": "メンバー・発言",
    "band": "New Found Glory",
    "artists": [
@@ -280,8 +342,8 @@
     "New Found Glory"
    ],
    "japan": false,
-   "importance": 4,
-   "detail_tries": 1
+   "importance": 5,
+   "has_detail": true
   },
   {
    "id": "610beace725d24b4",
@@ -304,14 +366,14 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ee79fce8c1e76dd5",
    "url": "https://www.thatericalper.com/2026/09/20/the-linda-lindas-and-mack-keane-join-urban-outfitters-free-campus-concert-tour",
    "title_original": "The Linda Lindas And Mack Keane Join Urban Outfitters’ Free Campus Concert Tour",
    "source": "That Eric Alper",
-   "image": "",
+   "image": "https://www.thatericalper.com/wp-content/uploads/2026/09/download-2026-09-20T173715.329.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-09-20T21:37:39+00:00",
@@ -325,27 +387,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
-  },
-  {
-   "id": "bb7550e64b899d53",
-   "url": "https://www.independent.co.uk/arts-entertainment/music/news/chad-gilbert-death-age-cause-cancer-b3053226.html",
-   "title_original": "New Found Glory guitarist Chad Gilbert dies aged 45 after brain cancer diagnosis",
-   "source": "The Independent",
-   "image": "https://static.the-independent.com/2026/09/20/20/126142867..?trim=4,0,1662,0&width=1200&height=800&crop=1200:800",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-20T20:22:13+00:00",
-   "title_ja": "NFGのギタリストChad Gilbertが脳腫瘍との闘病の末に死去",
-   "summary_ja": "脳腫瘍の診断を受けて闘病を続けていたNew Found Gloryのギタリスト、Chad Gilbertが45歳で亡くなったことが伝えられました。",
-   "category": "メンバー・発言",
-   "band": "New Found Glory",
-   "artists": [
-    "Chad Gilbert",
-    "New Found Glory"
-   ],
-   "japan": false,
-   "importance": 4,
    "has_detail": true
   },
   {
