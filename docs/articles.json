@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-22T20:22:35.109062+09:00",
+ "updated_at": "2026-09-23T01:44:30.854220+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -106,6 +106,7 @@
   "Prelude Press",
   "Prescott Daily Courier",
   "Punknews.org",
+  "RTTNews",
   "Racket MN",
   "Revolver Magazine",
   "Rock Cellar Magazine",
@@ -201,9 +202,50 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 258,
- "detail_count": 181,
+ "count": 262,
+ "detail_count": 183,
  "items": [
+  {
+   "id": "d83963512a6f37dc",
+   "url": "https://www.forbes.com/sites/hughmcintyre/2026/09/22/paramores-longest-running-hit-brings-the-band-to-a-chart-milestone",
+   "title_original": "Paramore’s Longest-Running Hit Brings The Band To A Chart Milestone",
+   "source": "Forbes",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-22T14:15:00+00:00",
+   "title_ja": "Paramoreがチャートで新たな記録を達成",
+   "summary_ja": "Paramoreの長期にわたり愛され続けるヒット曲が、バンドにとって重要なチャートのマイルストーンに到達した。",
+   "category": "チャート・受賞",
+   "band": "Paramore",
+   "artists": [
+    "Paramore"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "af571c717cffe6d2",
+   "url": "https://www.ultimate-guitar.com/articles/features/rivers-cuomo-thought-pinkerton-was-weezers-magnum-opus-before-it-got-destroyed-30-years-later-its-considered-a-classic-188603",
+   "title_original": "Rivers Cuomo Thought 'Pinkerton' Was Weezer's Magnum Opus Before It 'Got Destroyed.' 30 Years Later, It's Considered a Classic",
+   "source": "Ultimate Guitar",
+   "image": "https://www.ultimate-guitar.com/static/article/news/3/188603_0_wide_ver1790092493.jpg@1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-22T10:56:46+00:00",
+   "title_ja": "WeezerのRivers CuomoがPinkertonを語る",
+   "summary_ja": "WeezerのRivers Cuomoが、かつて酷評された名盤『Pinkerton』の30年を経ての再評価について振り返っている。",
+   "category": "メンバー・発言",
+   "band": "Weezer",
+   "artists": [
+    "Rivers Cuomo",
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "9478f2f91416f416",
    "url": "https://duclarion.com/2026/09/denver-native-pop-punk-band-capture-this-is-opening-for-the-linda-lindas",
@@ -266,6 +308,28 @@
    "detail_tries": 2
   },
   {
+   "id": "b99954f65344047f",
+   "url": "https://www.rttnews.com/amp/3692386/the-offspring-pennywise-more-to-play-mike-roche-benefit-show.aspx",
+   "title_original": "The Offspring, Pennywise & More To Play Mike Roche Benefit Show",
+   "source": "RTTNews",
+   "image": "https://cdn.rttnews.com/articleimages/ustopstories/2025/october/offspring-10102025-lt.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T19:02:10+00:00",
+   "title_ja": "The OffspringやPennywiseがチャリティ公演に出演",
+   "summary_ja": "Mike Rocheを支援するため、The OffspringやPennywiseらが集結し、チャリティライブを開催することが発表された。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Pennywise",
+    "Mike Roche"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "3be70a62468aa102",
    "url": "https://www.thatericalper.com/2026/09/21/chad-gilbert-new-found-glory-guitarist-and-genre-defining-producer-dies-at-45",
    "title_original": "Chad Gilbert, New Found Glory Guitarist and Genre-Defining Producer, Dies at 45",
@@ -306,6 +370,27 @@
    ],
    "japan": false,
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "8a0128b0c92221d4",
+   "url": "https://rockcellarmagazine.com/chad-gilbert-dies-new-found-glory-guitarist-pop-punk-obituary",
+   "title_original": "New Found Glory Guitarist Chad Gilbert Dies at 45 -- and the Scene Loses an Icon",
+   "source": "Rock Cellar Magazine",
+   "image": "https://rockcellarmagazine.com/wp-content/uploads/2023/02/DSC0830.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T16:59:40+00:00",
+   "title_ja": "NFGのChad Gilbertが45歳で死去",
+   "summary_ja": "ポップパンクシーンのアイコンであり、New Found Gloryのギタリストを務めたChad Gilbertが45歳で死去した。",
+   "category": "メンバー・発言",
+   "band": "New Found Glory",
+   "artists": [
+    "Chad Gilbert",
+    "New Found Glory"
+   ],
+   "japan": false,
+   "importance": 5,
    "has_detail": true
   },
   {
