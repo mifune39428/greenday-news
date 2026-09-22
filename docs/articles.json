@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-22T06:54:19.598460+09:00",
+ "updated_at": "2026-09-22T13:29:32.496326+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -199,9 +199,72 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 252,
- "detail_count": 176,
+ "count": 256,
+ "detail_count": 179,
  "items": [
+  {
+   "id": "49b9fc1af01f85df",
+   "url": "https://www.imdb.com/fr/news/ni66026586",
+   "title_original": "Spidey and the Avengers Halloween special has a Fall Out Boy villain",
+   "source": "IMDb",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T23:24:49+00:00",
+   "title_ja": "Fall Out Boyのメンバーが悪役でハロウィン特番に登場",
+   "summary_ja": "アニメシリーズ『Spidey and the Avengers』のハロウィン特別番組に、Fall Out Boyのメンバーが悪役として登場することが明らかになった。ファン注目のユニークなコラボレーションとなっている。",
+   "category": "映像・映画・書籍",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "3be70a62468aa102",
+   "url": "https://www.thatericalper.com/2026/09/21/chad-gilbert-new-found-glory-guitarist-and-genre-defining-producer-dies-at-45",
+   "title_original": "Chad Gilbert, New Found Glory Guitarist and Genre-Defining Producer, Dies at 45",
+   "source": "That Eric Alper",
+   "image": "https://www.thatericalper.com/wp-content/uploads/2026/09/download-2026-09-21T145900.417.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T18:59:14+00:00",
+   "title_ja": "NFGのギタリスト兼名プロデューサーChad Gilbertが急逝",
+   "summary_ja": "New Found Gloryのギタリストであり、ジャンルを定義づける名プロデューサーとしても活躍したChad Gilbertが45歳で亡くなった。ポップパンクの歴史に深く名を刻んだ彼の早すぎる死を多くの関係者が悼んでいる。",
+   "category": "メンバー・発言",
+   "band": "New Found Glory",
+   "artists": [
+    "Chad Gilbert",
+    "New Found Glory"
+   ],
+   "japan": false,
+   "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "60dc4dbff29ab3f5",
+   "url": "https://www.rollingstone.com/music/music-features/mark-hoppus-blink-182-chad-gilbert-new-found-glory-tribute-1235629441",
+   "title_original": "Mark Hoppus Remembers New Found Glory's Chad Gilbert: 'I Miss You Already, Little Brother'",
+   "source": "Rolling Stone",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T18:47:05+00:00",
+   "title_ja": "マーク・ホップラスが故Chad Gilbertを追悼",
+   "summary_ja": "New Found GloryのChad Gilbertの訃報を受け、Blink-182のマーク・ホップラスがSNS等で追悼のコメントを発表した。「もう寂しいよ、弟分」と故人との深い親交と突然の別れを惜しんでいる。",
+   "category": "メンバー・発言",
+   "band": "Blink-182",
+   "artists": [
+    "Mark Hoppus",
+    "Chad Gilbert",
+    "New Found Glory"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "6fd2480fa0da2826",
    "url": "https://www.pastemagazine.com/music/weezer/the-gold-album-is-weezers-best-case-scenario",
@@ -220,7 +283,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "eab8dca982903d5c",
@@ -281,6 +344,26 @@
    ],
    "japan": false,
    "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "bf02ca41d84256ab",
+   "url": "https://azat.tv/en/weezer-sound-issues-grand-casino-arena",
+   "title_original": "Weezer Concert Marred by Technical Sound Failures at Grand Casino Arena",
+   "source": "azat.tv",
+   "image": "https://azat.tv/wp-content/uploads/2026/09/weezer-live-concert-performance.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T08:45:00+00:00",
+   "title_ja": "Weezerのコンサートで音響トラブルが発生",
+   "summary_ja": "Grand Casino Arenaで行われたWeezerのコンサートにおいて、技術的な音響の不具合が発生したと報じられている。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
    "has_detail": true
   },
   {
