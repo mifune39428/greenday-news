@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-22T13:29:32.496326+09:00",
+ "updated_at": "2026-09-22T20:22:35.109062+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -49,10 +49,12 @@
   "CelebrityAccess",
   "Central Oregon Daily",
   "Consequence",
+  "DU Clarion",
   "Daily Sabah",
   "Detroit Metro Times",
   "East Bay Times",
   "El-Balad.com",
+  "Evrim Ağacı",
   "Exclaim!",
   "Far Out Magazine",
   "Fightful",
@@ -199,9 +201,50 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 256,
- "detail_count": 179,
+ "count": 258,
+ "detail_count": 181,
  "items": [
+  {
+   "id": "9478f2f91416f416",
+   "url": "https://duclarion.com/2026/09/denver-native-pop-punk-band-capture-this-is-opening-for-the-linda-lindas",
+   "title_original": "Denver-native pop punk band Capture This is opening for The Linda Lindas",
+   "source": "DU Clarion",
+   "image": "https://duclarion.com/wp-content/uploads/2026/09/Screenshot-2026-09-21-at-6.39.48-PM.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-22T07:23:55+00:00",
+   "title_ja": "The Linda LindasのライブでCapture Thisが出演",
+   "summary_ja": "デンバー出身のポップパンクバンドであるCapture Thisが、The Linda Lindasの公演でオープニングアクトを務めることが報じられている。",
+   "category": "ライブ・ツアー",
+   "band": "The Linda Lindas",
+   "artists": [
+    "Capture This",
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "837b5ac88007ed0e",
+   "url": "https://evrimagaci.org/gpt/green-days-american-idiot-turns-setback-into-triumph-545820",
+   "title_original": "Green Day’s American Idiot Turns Setback Into Triumph",
+   "source": "Evrim Ağacı",
+   "image": "https://thumbor.evrimagaci.org/VIqaIB8L-E9_pl0mELJXjvDQHtM=/1200x0/filters:quality(85)/tpg/sources/1420b4b6-3fc5-4bb9-97ce-fba2f145b66a.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-22T04:00:40+00:00",
+   "title_ja": "Green Dayの『American Idiot』がもたらした栄光",
+   "summary_ja": "Green Dayの代表作である『American Idiot』が、困難な状況をいかにして大きな成功へと変えたのかについて振り返る記事。",
+   "category": "再発・記念盤",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "49b9fc1af01f85df",
    "url": "https://www.imdb.com/fr/news/ni66026586",
@@ -220,7 +263,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3be70a62468aa102",
