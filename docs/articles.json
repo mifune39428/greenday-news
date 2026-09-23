@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T06:09:40.721856+09:00",
+ "updated_at": "2026-09-23T13:26:10.895354+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -43,6 +43,7 @@
   "Audacy",
   "BLABBERMOUTH.NET",
   "Bass Magazine",
+  "Beaver County Times",
   "Billboard",
   "Boston's ROCK 92.9",
   "Britannica",
@@ -60,6 +61,7 @@
   "Fightful",
   "Filmaffinity",
   "Forbes",
+  "Glide Magazine",
   "Guitar World",
   "Guitar.com",
   "Happy Mag",
@@ -206,9 +208,54 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 267,
- "detail_count": 186,
+ "count": 270,
+ "detail_count": 189,
  "items": [
+  {
+   "id": "0ff5c3aa296e355b",
+   "url": "https://www.rockdnamag.com/post/riot-fest-2026-day-two-review-tool-bad-religion-the-chats",
+   "title_original": "Riot Fest 2026 Day Two Review: Tool, Bad Religion, The Chats & More",
+   "source": "Rock DNA Magazine",
+   "image": "https://static.wixstatic.com/media/edf980_510563a5d3f94159adec10a700baddd9~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/edf980_510563a5d3f94159adec10a700baddd9~mv2.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T00:32:05+00:00",
+   "title_ja": "Riot Fest 2026の2日目ライブレポート",
+   "summary_ja": "2026年9月に開催されたRiot Festの2日目について、ToolやBad Religionらのステージを振り返るレビュー記事が公開された。",
+   "category": "ライブ・ツアー",
+   "band": "Bad Religion",
+   "artists": [
+    "Tool",
+    "Bad Religion",
+    "The Chats"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "0a13145c3b2da875",
+   "url": "https://glidemagazine.com/330519/the-war-on-drugs-the-offspring-the-strokes-fontaines-d-c-power-up-sea-hear-now-festival-festival-review-photos",
+   "title_original": "The War on Drugs, The Offspring, The Strokes, Fontaines D.C., Power Up Sea.Hear.Now Festival (FESTIVAL REVIEW/PHOTOS)",
+   "source": "Glide Magazine",
+   "image": "https://cdn.glidemagazine.com/wp-content/uploads/2026/09/22173803/War-on-Drugs22.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-22T22:07:14+00:00",
+   "title_ja": "Sea.Hear.Nowフェスのライブレビュー",
+   "summary_ja": "The OffspringやThe Strokesらが出演したSea.Hear.Nowフェスの模様を伝えるライブレビューと写真レポートが公開された。",
+   "category": "フェス出演",
+   "band": "The Offspring",
+   "artists": [
+    "The War on Drugs",
+    "The Offspring",
+    "The Strokes",
+    "Fontaines D.C."
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "c9f338dcad365af1",
    "url": "https://www.musicconnection.com/the-linda-lindas-sign-with-reprise-warner-records",
@@ -234,7 +281,7 @@
    "url": "https://www.themirror.com/entertainment/celebrity-news/hayley-williams-ice-palestine-concert-2035407",
    "title_original": "Paramore's Hayley Williams shouts 'F--- ICE' and 'Free Palestine' at concert",
    "source": "The Mirror US",
-   "image": "",
+   "image": "https://i2-prod.themirror.com/article2035406.ece/ALTERNATES/s1200d/0_2018-Bonnaroo-Music-Arts-Festival-Day-2.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-09-22T18:50:00+00:00",
@@ -248,7 +295,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "b63a9c25b472467f",
@@ -269,7 +316,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f7a5b733d3ed6511",
@@ -291,6 +338,26 @@
    "japan": false,
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "4a7c9fe8ad35a1fc",
+   "url": "https://www.timesonline.com/things-to-do/events/?_evDiscoveryPath=%2Fevent%2F1538643s-the-linda-lindas",
+   "title_original": "The Times Events - The Linda Lindas",
+   "source": "Beaver County Times",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-22T16:18:27+00:00",
+   "title_ja": "The Linda Lindasの地域イベント情報",
+   "summary_ja": "The Linda Lindasに関する地域イベントや公演のスケジュールを取り上げた告知記事が掲載された。",
+   "category": "ライブ・ツアー",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "d83963512a6f37dc",
