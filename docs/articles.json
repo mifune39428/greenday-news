@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24T01:40:16.185394+09:00",
+ "updated_at": "2026-09-24T06:23:31.012559+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -47,6 +47,7 @@
   "Billboard",
   "Boston's ROCK 92.9",
   "Britannica",
+  "California.com",
   "CelebrityAccess",
   "Central Oregon Daily",
   "Consequence",
@@ -54,6 +55,7 @@
   "Daily Sabah",
   "Detroit Metro Times",
   "East Bay Times",
+  "Eponymous Review",
   "Evrim Ağacı",
   "Exclaim!",
   "Far Out Magazine",
@@ -104,6 +106,7 @@
   "People.com",
   "Pioneer Press",
   "Pitchfork",
+  "PlayDayOne",
   "Porterville Recorder",
   "Prelude Press",
   "Prescott Daily Courier",
@@ -165,6 +168,7 @@
   "WEBN",
   "WKFR",
   "Wikimetal",
+  "Worthplaying",
   "Yahoo",
   "Yahoo Lifestyle Australia",
   "Yahoo News Canada",
@@ -190,6 +194,7 @@
   "lambgoat.com",
   "lmusic.tokyo",
   "loudwire.com",
+  "lpm.org",
   "music.mxdwn.com",
   "mxdwn Music",
   "nettosgameroom.com",
@@ -211,9 +216,140 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 273,
- "detail_count": 191,
+ "count": 280,
+ "detail_count": 196,
  "items": [
+  {
+   "id": "dc740a3a83f2971e",
+   "url": "https://www.lpm.org/music/2026-09-23/weezers-patrick-wilson-we-finally-got-our-mission-statement-together",
+   "title_original": "Weezer's Patrick Wilson: “We finally got our mission statement together”",
+   "source": "lpm.org",
+   "image": "https://npr.brightspotcdn.com/dims4/default/c82dcd2/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2F94%2F623e083344f7977f131b2bcec294%2Fweezer-one-brendan-walter.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T20:44:58.946000+00:00",
+   "title_ja": "Weezerのパトリック・ウィルソンがバンドの方向性について語る",
+   "summary_ja": "Weezerのパトリック・ウィルソンが、バンドの確固たるミッションや方向性がようやくまとまったと語っている。現在のバンドのスタンスや今後の活動に対する姿勢が注目される内容となっている。",
+   "category": "メンバー・発言",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "Patrick Wilson"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "1845a488b2b8aa84",
+   "url": "https://www.nme.com/news/music/hayley-williams-tribute-late-ex-husband-chad-gilbert-new-found-glory-3970494",
+   "title_original": "Hayley Williams pays tribute to late ex-husband, New Found Glory guitarist Chad Gilbert: “His influence and attitude guided the genre forward”",
+   "source": "nme.com",
+   "image": "https://www.nme.com/wp-content/uploads/2026/09/hayley_williams_chad_gilbert.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T20:35:55+00:00",
+   "title_ja": "Hayley Williamsが元夫で故チャド・ギルバートを追悼",
+   "summary_ja": "ParamoreのHayley Williamsが、元夫でありNew Found Gloryのギタリストであった故チャド・ギルバートを追悼した。彼の音楽的な影響や姿勢がジャンル全体を前進させたとその功績を称えている。",
+   "category": "メンバー・発言",
+   "band": "Paramore",
+   "artists": [
+    "Hayley Williams",
+    "Chad Gilbert",
+    "New Found Glory",
+    "Paramore"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f4f258f62a2730c3",
+   "url": "https://www.california.com/green-day-frontman-set-to-play-free-show-in-his-hometown",
+   "title_original": "Green Day Frontman Set to Play Free Show in His Hometown",
+   "source": "California.com",
+   "image": "https://media.california.com/media/_versions/articles/shutterstock_2004628220__5659x3765___v1222x580.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T17:44:34+00:00",
+   "title_ja": "Green Dayのフロントマンが地元で無料ライブを開催へ",
+   "summary_ja": "Green DayのフロントマンであるBillie Joe Armstrongが、自身の故郷でフリーライブを行うことが決定した。地元ファンに向けた特別なステージとして、大きな注目を集めている。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "94824c2ec7235bea",
+   "url": "https://playday.one/2026/09/23/stage-tour-setlist-reveal-11-brings-alter-bridge-kasabian-sum-41",
+   "title_original": "‘Stage Tour’ Setlist Reveal #11 Brings Alter Bridge, Kasabian, & Sum 41",
+   "source": "PlayDayOne",
+   "image": "https://playday.one/wp-content/uploads/2026/08/ss_386d8f7ab546de8b486841e961684161dba6aef2.1920x1080.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T17:42:22+00:00",
+   "title_ja": "ゲーム内ツアーのセットリスト第11弾にSum 41らが登場",
+   "summary_ja": "音楽ゲームのステージツアー企画におけるセットリストの第11弾が発表され、Sum 41、Alter Bridge、Kasabianの楽曲がラインナップに追加された。ゲーム内での展開にファンからの関心が寄せられている。",
+   "category": "その他",
+   "band": "Sum 41",
+   "artists": [
+    "Sum 41",
+    "Alter Bridge",
+    "Kasabian"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "fcc855cc96b6c4b0",
+   "url": "https://worthplaying.com/article/2026/9/23/news/151055-stage-tour-setlist-reveal-11-adds-alter-bridge-kasabian-sum-41-tracks",
+   "title_original": "'Stage Tour' Setlist Reveal #11 Adds Alter Bridge, Kasabian & Sum 41 Tracks",
+   "source": "Worthplaying",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T17:13:00+00:00",
+   "title_ja": "Sum 41の楽曲が『Stage Tour』に追加決定",
+   "summary_ja": "音楽ゲーム『Stage Tour』のセットリスト第11弾が発表され、Sum 41、Alter Bridge、Kasabianの楽曲が新たに追加されることが明らかになった。",
+   "category": "その他",
+   "band": "Sum 41",
+   "artists": [
+    "Sum 41",
+    "Alter Bridge",
+    "Kasabian"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "fff8249c0b65f745",
+   "url": "https://www.nettosgameroom.com/2026/09/stage-tour-reveals-three-additional.html",
+   "title_original": "Stage Tour Reveals Three Additional Songs in Setlist Announcement 11 From Sum 41, Alter Bridge, and Kasabian",
+   "source": "Netto's Game Room",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9MYP_0BErl0KfrnAIJXr6pd5xKU944pOhlHS3YFvJfOC9ABRyz3N1LSYwA_YYrJwdh_OnfmpKryJdWIEbZBLQOEiJa3C319XgYCeQmJX9VesFV_k-O-6WiPu2FCmb1MSbp7iZqpuaTtaFpFkTEzu6lTL08u_heftuANAU4BkUiuc8_cEuQy5IPrqL6IE/w640-h366/stagetour.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T16:57:00+00:00",
+   "title_ja": "『Stage Tour』セットリスト第11弾にSum 41ら登場",
+   "summary_ja": "ゲーム『Stage Tour』の新たなセットリスト発表にて、Sum 41をはじめ、Alter BridgeやKasabianの3曲が追加されることが告知された。",
+   "category": "その他",
+   "band": "Sum 41",
+   "artists": [
+    "Sum 41",
+    "Alter Bridge",
+    "Kasabian"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "9907d0f75aed5682",
    "url": "https://www.noise11.com/news/weezer-pinkerton-30th-anniversary-20260924",
@@ -226,6 +362,26 @@
    "title_ja": "Weezerのアルバム『Pinkerton』が発売30周年を迎える",
    "summary_ja": "Weezerの名盤『Pinkerton』がリリースから30周年の節目を迎えた。バンドのキャリアにおいて重要な位置を占める歴史的なアルバムの記念日である。",
    "category": "再発・記念盤",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "cbfcebdd8d4e7751",
+   "url": "https://www.eponymousreview.com/16272/photos-weezer-the-gathering-chicago",
+   "title_original": "Photos: Weezer Hosts The Gathering To End All Gatherings in Chicago",
+   "source": "Eponymous Review",
+   "image": "https://i0.wp.com/www.eponymousreview.com/wp-content/uploads/2026/09/Weezer-feat.jpeg?fit=1200%2C650&ssl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T14:36:33+00:00",
+   "title_ja": "Weezerがシカゴで開催したイベントのライブ写真が公開",
+   "summary_ja": "Weezerがシカゴにて主催したイベント「The Gathering To End All Gatherings」のライブ写真が公開された。当日のステージの熱気やパフォーマンスの様子がビジュアルで伝えられている。",
+   "category": "ライブ・ツアー",
    "band": "Weezer",
    "artists": [
     "Weezer"
