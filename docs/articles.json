@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T20:18:10.507800+09:00",
+ "updated_at": "2026-09-24T01:40:16.185394+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -155,6 +155,7 @@
   "The Sun Malaysia",
   "The Wenatchee World",
   "Tinnitist",
+  "TribLIVE.com",
   "Tullahoma News",
   "Ultimate Guitar",
   "VICE",
@@ -193,6 +194,7 @@
   "mxdwn Music",
   "nettosgameroom.com",
   "nme.com",
+  "noise11.com",
   "parade.com",
   "phoenix.org",
   "pressdemocrat.com",
@@ -209,9 +211,50 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 271,
- "detail_count": 189,
+ "count": 273,
+ "detail_count": 191,
  "items": [
+  {
+   "id": "9907d0f75aed5682",
+   "url": "https://www.noise11.com/news/weezer-pinkerton-30th-anniversary-20260924",
+   "title_original": "Weezer Pinkerton Turns 30",
+   "source": "noise11.com",
+   "image": "https://i0.wp.com/www.noise11.com/wp/wp-content/uploads/2026/09/Weezer-Pinkerton.jpeg?fit=220%2C220&ssl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T15:00:52+00:00",
+   "title_ja": "Weezerのアルバム『Pinkerton』が発売30周年を迎える",
+   "summary_ja": "Weezerの名盤『Pinkerton』がリリースから30周年の節目を迎えた。バンドのキャリアにおいて重要な位置を占める歴史的なアルバムの記念日である。",
+   "category": "再発・記念盤",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "e937ef9da8ad6b51",
+   "url": "https://community.triblive.com/news/4146078",
+   "title_original": "TribLive Q&A: The Linda Lindas on new album, Hayley Williams and more ahead of Pittsburgh show",
+   "source": "TribLIVE.com",
+   "image": "https://storage.googleapis.com/ownlocal-adforge-production/articles/external/1200/e0e96e29-b9fe-400c-b7cb-db4d62faa8e5.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T11:55:03+00:00",
+   "title_ja": "The Linda Lindasが新作やHayley Williamsについて語る",
+   "summary_ja": "ピッツバーグ公演を控えるThe Linda Lindasが、新作アルバムの制作やParamoreのHayley Williamsとの関係性についてインタビューで明かした。",
+   "category": "メンバー・発言",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas",
+    "Hayley Williams"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "0ff5c3aa296e355b",
    "url": "https://www.rockdnamag.com/post/riot-fest-2026-day-two-review-tool-bad-religion-the-chats",
@@ -670,7 +713,7 @@
    ],
    "japan": true,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "512227d3c19471a0",
