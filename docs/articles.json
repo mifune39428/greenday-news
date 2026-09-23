@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T13:26:10.895354+09:00",
+ "updated_at": "2026-09-23T20:18:10.507800+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -54,7 +54,6 @@
   "Daily Sabah",
   "Detroit Metro Times",
   "East Bay Times",
-  "El-Balad.com",
   "Evrim Ağacı",
   "Exclaim!",
   "Far Out Magazine",
@@ -123,6 +122,7 @@
   "Sada Elbalad english",
   "Santa Clarita Valley Signal",
   "Showbiz by PS",
+  "Sinar Daily",
   "SiriusXM",
   "Sortir à Paris",
   "Spectrum Culture",
@@ -169,6 +169,7 @@
   "Yahoo News Canada",
   "Yahoo!ニュース",
   "ad-hoc-news.de",
+  "amass",
   "antiMusic",
   "aol.com",
   "article.auone.jp",
@@ -208,7 +209,7 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 270,
+ "count": 271,
  "detail_count": 189,
  "items": [
   {
@@ -357,7 +358,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d83963512a6f37dc",
@@ -422,6 +423,27 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "07c716e153da2af3",
+   "url": "https://www.sinardaily.my/article/741063/focus/world/new-found-glorys-chad-gilbert-dies-at-45-leaving-behind-a-pop-punk-legacy",
+   "title_original": "New Found Glory’s Chad Gilbert dies at 45, leaving behind a pop-punk legacy",
+   "source": "Sinar Daily",
+   "image": "https://www.sinarharian.com.my/sinarenglish/uploads/images/2026/09/22/3654907.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-22T09:48:00+00:00",
+   "title_ja": "New Found Gloryのチャド・ギルバートが45歳で死去",
+   "summary_ja": "ポップパンクシーンを牽引したバンド、New Found Gloryの創設メンバーであるチャド・ギルバートが45歳でこの世を去りました。",
+   "category": "メンバー・発言",
+   "band": "New Found Glory",
+   "artists": [
+    "Chad Gilbert",
+    "New Found Glory"
+   ],
+   "japan": false,
+   "importance": 5,
+   "has_detail": true
   },
   {
    "id": "9478f2f91416f416",
@@ -631,6 +653,26 @@
    "has_detail": true
   },
   {
+   "id": "e07e69a2bc09f1f9",
+   "url": "https://amass.jp/191958",
+   "title_original": "グリーン・デイが最も検索された質問の数々に回答 日本語字幕付き映像公開",
+   "source": "amass",
+   "image": "https://amassing2.sakura.ne.jp/image/jacket/large/2026b/143066.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-21T11:57:00+00:00",
+   "title_ja": "Green Dayがネットで最も検索された質問に回答する日本語字幕付き映像が公開",
+   "summary_ja": "Green Dayがインターネット上で最も検索されている自身に関する数々の質問に対し、メンバー自らが直接回答する企画映像の日本語字幕付きバージョンが新たに公開された。",
+   "category": "映像・映画・書籍",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": true,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "512227d3c19471a0",
    "url": "https://guitar.com/news/music-news/chad-gilbert-new-found-glory-tributes",
    "title_original": "“The most positive and creative force in any room he walked into”: Pop-punk’s elite pay tribute to Chad Gilbert, founding New Found Glory guitarist who has died at 45",
@@ -792,27 +834,6 @@
    "band": "Green Day",
    "artists": [
     "Billie Joe Armstrong"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e6753423a287f587",
-   "url": "https://www.el-balad.com/17052877",
-   "title_original": "Billie Joe Armstrong Says Green Day’s Argument Keeps Joe Armstrong Relevant",
-   "source": "El-Balad.com",
-   "image": "https://www.el-balad.com/uploads/2026/09/21/joe-armstrong-3bf0c734_1200w.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-20T20:14:31+00:00",
-   "title_ja": "Billie Joe Armstrongがバンド内の議論について語る",
-   "summary_ja": "Green DayのBillie Joe Armstrongが、バンド内で続く議論や意見の衝突が自身をアーティストとして保ち続けていると語っています。",
-   "category": "メンバー・発言",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong",
-    "Green Day"
    ],
    "japan": false,
    "importance": 3,
