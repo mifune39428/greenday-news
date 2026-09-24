@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24T13:23:23.459261+09:00",
+ "updated_at": "2026-09-24T20:31:47.436627+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -81,6 +81,7 @@
   "Lambgoat",
   "LancasterOnline",
   "Lexington Herald Leader",
+  "Los Angeles Times",
   "Louder",
   "MUSIC LIFE CLUB",
   "Media Play News",
@@ -186,6 +187,7 @@
   "clashmusic.com",
   "cultfollowing.co.uk",
   "dailycal.org",
+  "femalefirst.co.uk",
   "floodmagazine.com",
   "happymag.tv",
   "hercampus.com",
@@ -213,14 +215,99 @@
   "themusic.com.au",
   "themusicman.uk",
   "theriffreport.co.uk",
+  "ubspectrum.com",
   "vijesti.me",
   "wecb.fm",
   "チバテレ",
   "激ロック"
  ],
- "count": 283,
- "detail_count": 198,
+ "count": 288,
+ "detail_count": 200,
  "items": [
+  {
+   "id": "0beaecd08d7d07fd",
+   "url": "https://www.kerrang.com/new-found-glory-to-continue-with-disney-epcot-shows-to-honour-massive-disney-fan-chad-gilbert",
+   "title_original": "New Found Glory to continue with Disney Epcot shows to honour “massive Disney fan” Chad Gilbert",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/New-Found-Glory-Kerrang-February-2026-credit-Angelea-Yoder-header.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1789931233&s=e2e8439137fe6cce79152657a8524031",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T10:01:00+00:00",
+   "title_ja": "New Found GloryがDisney Epcot公演の継続を発表",
+   "summary_ja": "New Found Gloryが、メンバーのChad Gilbertを称えるためDisney Epcotでの公演を継続すると発表した。",
+   "category": "ライブ・ツアー",
+   "band": "New Found Glory",
+   "artists": [
+    "New Found Glory",
+    "Chad Gilbert"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "2166707d6d704180",
+   "url": "https://www.femalefirst.co.uk/music/musicnews/hayley-williams-pays-tribute-husband-chad-gilbert-after-new-found-glory-guitarists-death-1451084.html",
+   "title_original": "Hayley Williams pays tribute to ex-husband Chad Gilbert after New Found Glory guitarist's death",
+   "source": "femalefirst.co.uk",
+   "image": "https://www.femalefirst.co.uk/image-library/partners/bang/land/500/h/hayley-williams-will-surprise-fans-on-her-next-tour-aW1hZ2Vz.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T07:00:08+00:00",
+   "title_ja": "Hayley Williamsが元夫でNew Found Gloryのギタリストを追悼",
+   "summary_ja": "New Found GloryのギタリストであるChad Gilbertの逝去に際し、元妻であるParamoreのHayley Williamsが追悼の意を表しました。",
+   "category": "メンバー・発言",
+   "band": "New Found Glory",
+   "artists": [
+    "Hayley Williams",
+    "Chad Gilbert",
+    "New Found Glory"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "846efff3577c677e",
+   "url": "https://www.detroitnews.com/story/entertainment/music/2026/09/24/weezers-little-caesars-arena-house-party-celebrates-the-good-life/91888464007",
+   "title_original": "Weezer throws a house party for Generations X through Z in Detroit",
+   "source": "The Detroit News",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T06:28:00+00:00",
+   "title_ja": "Weezerがデトロイトで幅広い世代に向けたライブを開催",
+   "summary_ja": "Weezerがデトロイト公演を行い、世代を超えたファンを巻き込んでまるでホームパーティのような盛り上がりを見せました。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "caa56a1686c4ad79",
+   "url": "https://www.ubspectrum.com/article/2026/09/in-memoriam-chad-gilbert-of-new-found-glory",
+   "title_original": "In memoriam: Chad Gilbert of New Found Glory",
+   "source": "ubspectrum.com",
+   "image": "https://snworksceo.imgix.net/bts/da0e1cbc-02a8-4fe2-83f0-35acc9051034.sized-1000x1000.jpeg?w=800&h=600",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T03:49:00+00:00",
+   "title_ja": "New Found GloryのChad Gilbertをしのぶ追悼記事",
+   "summary_ja": "逝去したNew Found Gloryのギタリスト、Chad Gilbertのこれまでの音楽的な足跡と功績を振り返る追悼記事が掲載されました。",
+   "category": "メンバー・発言",
+   "band": "New Found Glory",
+   "artists": [
+    "Chad Gilbert",
+    "New Found Glory"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "fed2c1b54e0b853d",
    "url": "https://uk.news.yahoo.com/paramore-hayley-williams-pays-tribute-013000625.html",
@@ -242,6 +329,27 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "9fe74a8d697ab1e6",
+   "url": "https://www.latimes.com/entertainment-arts/story/2026-09-23/paramores-hayley-williams-speaks-out-after-ex-chad-gilberts-death",
+   "title_original": "Paramore’s Hayley Williams breaks silence following ex-husband Chad Gilbert’s death",
+   "source": "Los Angeles Times",
+   "image": "https://ca-times.brightspotcdn.com/dims4/default/fdec5ef/2147483647/strip/true/crop/3664x1924+0+260/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9e%2Fbd%2Fa77af36a4b2da092a0808e47a255%2F2218807615.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T01:25:52.680000+00:00",
+   "title_ja": "ParamoreのHayley Williamsが元夫の訃報について声明を発表",
+   "summary_ja": "ParamoreのHayley Williamsが、元夫でありNew Found GloryのギタリストであるChad Gilbertの死去を受けて心境を語った。",
+   "category": "メンバー・発言",
+   "band": "Paramore",
+   "artists": [
+    "Hayley Williams",
+    "Chad Gilbert"
+   ],
+   "japan": false,
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -524,7 +632,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c9f338dcad365af1",
