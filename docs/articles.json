@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24T06:23:31.012559+09:00",
+ "updated_at": "2026-09-24T13:23:23.459261+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -172,6 +172,7 @@
   "Yahoo",
   "Yahoo Lifestyle Australia",
   "Yahoo News Canada",
+  "Yahoo News UK",
   "Yahoo!ニュース",
   "ad-hoc-news.de",
   "amass",
@@ -190,6 +191,7 @@
   "hercampus.com",
   "hoodline.com",
   "iHeart",
+  "inkl",
   "knotfest.com",
   "lambgoat.com",
   "lmusic.tokyo",
@@ -216,9 +218,32 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 280,
- "detail_count": 196,
+ "count": 283,
+ "detail_count": 198,
  "items": [
+  {
+   "id": "fed2c1b54e0b853d",
+   "url": "https://uk.news.yahoo.com/paramore-hayley-williams-pays-tribute-013000625.html",
+   "title_original": "Paramore’s Hayley Williams Pays Tribute To Ex-Husband Chad Gilbert After His Death",
+   "source": "Yahoo News UK",
+   "image": "https://s.yimg.com/lo/mysterio/api/a994ba123978fcaaccbc43374ab2389f300540362d575f4fcdd5c6e2c1f71f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Ffd84eabf523b4e2782f6f5dc4c21cec4.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T01:30:00+00:00",
+   "title_ja": "Paramoreのヘイリー・ウィリアムス、元夫チャド・ギルバートの訃報に追悼のコメント",
+   "summary_ja": "Paramoreのフロントマンであるヘイリー・ウィリアムスが、元夫でNew Found Gloryのギタリストであるチャド・ギルバートの訃報を受けて追悼のメッセージを捧げた。元夫の死に際し、悲しみの思いとともに追悼の意を示している。",
+   "category": "メンバー・発言",
+   "band": "Paramore",
+   "artists": [
+    "Paramore",
+    "Hayley Williams",
+    "Chad Gilbert",
+    "New Found Glory"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "dc740a3a83f2971e",
    "url": "https://www.lpm.org/music/2026-09-23/weezers-patrick-wilson-we-finally-got-our-mission-statement-together",
@@ -282,7 +307,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "94824c2ec7235bea",
@@ -348,7 +373,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9907d0f75aed5682",
@@ -412,6 +437,28 @@
    "has_detail": true
   },
   {
+   "id": "7bea38a1e881af5c",
+   "url": "https://www.inkl.com/news/paramore-singer-hayley-williams-yells-f-ice-during-new-hampshire-concert-after-macklemore-drama",
+   "title_original": "Paramore Singer Hayley Williams Yells 'F*** ICE' During New Hampshire Concert After Macklemore Drama",
+   "source": "inkl",
+   "image": "https://images.inkl.com/s3/article/lead_image/23862897/hayley-williams.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T11:32:37+00:00",
+   "title_ja": "Paramoreのヘイリー・ウィリアムス、ニューハンプシャー公演中にICE批判の発言",
+   "summary_ja": "Paramoreのヘイリー・ウィリアムスが、ニューハンプシャー州で開催されたライブのステージ上において、米移民・関税執行局（ICE）に対する強烈な批判の言葉を叫んだ。マックルモアを巡る騒動を受けた発言とみられている。",
+   "category": "メンバー・発言",
+   "band": "Paramore",
+   "artists": [
+    "Paramore",
+    "Hayley Williams",
+    "Macklemore"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "0ff5c3aa296e355b",
    "url": "https://www.rockdnamag.com/post/riot-fest-2026-day-two-review-tool-bad-religion-the-chats",
    "title_original": "Riot Fest 2026 Day Two Review: Tool, Bad Religion, The Chats & More",
@@ -455,6 +502,29 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "7407f01d85ce77e4",
+   "url": "https://metalinjection.net/news/paramores-hayley-williams-pays-tribute-to-ex-husband-chad-gilbert-my-time-connected-to-him-taught-me-a-lot",
+   "title_original": "Paramore's Hayley Williams Pays Tribute to Ex-Husband Chad Gilbert, \"My Time Connected To Him Taught Me A Lot\"",
+   "source": "Metal Injection",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-22T20:43:23+00:00",
+   "title_ja": "Paramoreヘイリー、元夫チャド・ギルバートを追悼「多くのことを学んだ」",
+   "summary_ja": "Paramoreのヘイリー・ウィリアムスが、死去した元夫でNew Found Gloryのチャド・ギルバートへ追悼の言葉を贈った。彼と過ごした時間から多くのことを学んだと振り返り、故人を偲ぶメッセージを寄せている。",
+   "category": "メンバー・発言",
+   "band": "Paramore",
+   "artists": [
+    "Paramore",
+    "Hayley Williams",
+    "Chad Gilbert",
+    "New Found Glory"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "c9f338dcad365af1",
