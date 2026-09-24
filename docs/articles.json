@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24T20:31:47.436627+09:00",
+ "updated_at": "2026-09-25T01:58:13.649386+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -70,6 +70,7 @@
   "Hoodline",
   "IMDb",
   "Idaho Press",
+  "Irish Mirror",
   "JamBase",
   "JoBlo",
   "Just Jared",
@@ -165,7 +166,6 @@
   "VICE",
   "Vulture",
   "WBEZ Chicago",
-  "WDHA FM",
   "WEBN",
   "WKFR",
   "Wikimetal",
@@ -221,9 +221,49 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 288,
+ "count": 290,
  "detail_count": 200,
  "items": [
+  {
+   "id": "b3cdb495b9465541",
+   "url": "https://www.theoaklandpress.com/2026/09/24/weezer-gathers-fans-for-big-show-treat-at-little-caesars-arena",
+   "title_original": "Weezer gathers fans for big-show treat at Little Caesars Arena",
+   "source": "The Oakland Press",
+   "image": "https://www.theoaklandpress.com/wp-content/uploads/2026/09/Weezer_092326_LCA_JacobGiampa-21.jpg?w=3968&h=2645",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T15:10:47+00:00",
+   "title_ja": "Weezerがリトル・シーザーズ・アリーナで大規模公演",
+   "summary_ja": "Weezerがリトル・シーザーズ・アリーナにて、ファンを魅了する大規模なライブ公演を開催したことが伝えられています。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "839714e9856dab5b",
+   "url": "https://chorus.fm/news/blink-182-first-date-vinyl-figures",
+   "title_original": "Blink-182 “First Date” Vinyl Figures",
+   "source": "chorus.fm",
+   "image": "https://chorus.fm/wp-content/uploads/2026/07/Blink-182-blu-1504x840.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T14:45:46+00:00",
+   "title_ja": "Blink-182の「First Date」仕様のビニール製フィギュア",
+   "summary_ja": "Blink-182の代表曲「First Date」をモチーフにした、コレクター向けの新しいビニール製フィギュアが登場しました。",
+   "category": "映像・映画・書籍",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "0beaecd08d7d07fd",
    "url": "https://www.kerrang.com/new-found-glory-to-continue-with-disney-epcot-shows-to-honour-massive-disney-fan-chad-gilbert",
@@ -243,7 +283,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2166707d6d704180",
@@ -285,7 +325,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "caa56a1686c4ad79",
@@ -306,7 +346,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "fed2c1b54e0b853d",
@@ -353,6 +393,29 @@
    "has_detail": true
   },
   {
+   "id": "16c8562741d9aba3",
+   "url": "https://www.billboard.com/music/music-news/hayley-williams-chad-gilbert-guitarist-death-1236345809",
+   "title_original": "Hayley Williams Addresses Death of Ex-Husband, New Found Glory’s Chad Gilbert: ‘Have Not Known What to Say’",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T21:36:09+00:00",
+   "title_ja": "Hayley Williams、元夫でNew Found GloryのChad Gilbertの死去にコメント",
+   "summary_ja": "ParamoreのHayley Williamsが、元夫でありNew Found Gloryの創設メンバーでもあるChad Gilbertの突然の訃報について、自身の心境を語りました。",
+   "category": "メンバー・発言",
+   "band": "Paramore",
+   "artists": [
+    "Hayley Williams",
+    "Chad Gilbert",
+    "New Found Glory",
+    "Paramore"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "dc740a3a83f2971e",
    "url": "https://www.lpm.org/music/2026-09-23/weezers-patrick-wilson-we-finally-got-our-mission-statement-together",
    "title_original": "Weezer's Patrick Wilson: “We finally got our mission statement together”",
@@ -368,29 +431,6 @@
    "artists": [
     "Weezer",
     "Patrick Wilson"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "1845a488b2b8aa84",
-   "url": "https://www.nme.com/news/music/hayley-williams-tribute-late-ex-husband-chad-gilbert-new-found-glory-3970494",
-   "title_original": "Hayley Williams pays tribute to late ex-husband, New Found Glory guitarist Chad Gilbert: “His influence and attitude guided the genre forward”",
-   "source": "nme.com",
-   "image": "https://www.nme.com/wp-content/uploads/2026/09/hayley_williams_chad_gilbert.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-23T20:35:55+00:00",
-   "title_ja": "Hayley Williamsが元夫で故チャド・ギルバートを追悼",
-   "summary_ja": "ParamoreのHayley Williamsが、元夫でありNew Found Gloryのギタリストであった故チャド・ギルバートを追悼した。彼の音楽的な影響や姿勢がジャンル全体を前進させたとその功績を称えている。",
-   "category": "メンバー・発言",
-   "band": "Paramore",
-   "artists": [
-    "Hayley Williams",
-    "Chad Gilbert",
-    "New Found Glory",
-    "Paramore"
    ],
    "japan": false,
    "importance": 3,
@@ -1048,6 +1088,27 @@
    "japan": true,
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "16a29ee0bb1fa190",
+   "url": "https://www.irishmirror.ie/news/irish-news/ed-sheeran-duty-support-acts-37684472",
+   "title_original": "Ed Sheeran had duty to his support acts, says Dropkick Murphys singer",
+   "source": "Irish Mirror",
+   "image": "https://i2-prod.irishmirror.ie/article37683788.ece/ALTERNATES/s1200d/1_Dropkick-Murphys-at-Vilar-de-Mouros-in-Vilar-de-Mouros-Portugal-20-Aug-2026.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T10:41:29+00:00",
+   "title_ja": "Dropkick Murphysのボーカルがエド・シーランのサポート体制に言及",
+   "summary_ja": "Dropkick Murphysのボーカリストが、大スターであるEd Sheeranが自身のツアーのサポートアクトに対して持つべき責任や姿勢について語りました。",
+   "category": "メンバー・発言",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys",
+    "Ed Sheeran"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "512227d3c19471a0",
@@ -6173,26 +6234,6 @@
    "band": "Green Day",
    "artists": [
     "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "945b1bfb3095bd0c",
-   "url": "https://wdhafm.com/2026/08/10/my-chemical-romance-citi-field-080926",
-   "title_original": "My Chemical Romance at Citi Field on Sunday, August 9th, 2026",
-   "source": "WDHA FM",
-   "image": "https://wdhafm.com/uploads/2026/09/Bryce-Hall-MCR_NYC_PRESS-24.png?auto=webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-10T16:00:00+00:00",
-   "title_ja": "My Chemical Romanceが2026年8月にCiti Fieldで公演開催",
-   "summary_ja": "My Chemical Romanceが2026年8月9日の日曜日に、Citi Fieldにてコンサートを行う予定であると伝えられている。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
    ],
    "japan": false,
    "importance": 3,
