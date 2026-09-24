@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T01:58:13.649386+09:00",
+ "updated_at": "2026-09-25T06:24:43.446828+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -53,6 +53,7 @@
   "Consequence",
   "DU Clarion",
   "Daily Sabah",
+  "Defector",
   "Detroit Metro Times",
   "East Bay Times",
   "Eponymous Review",
@@ -61,6 +62,7 @@
   "Far Out Magazine",
   "Fightful",
   "Filmaffinity",
+  "Final Weapon",
   "Forbes",
   "Glide Magazine",
   "Guitar World",
@@ -221,9 +223,109 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 290,
- "detail_count": 200,
+ "count": 295,
+ "detail_count": 206,
  "items": [
+  {
+   "id": "8b0e26439f5b72e8",
+   "url": "https://finalweapon.net/2026/09/24/pac-man-and-blink-182-reveal-new-collaboration-merch",
+   "title_original": "Pac-Man and Blink-182 Reveal New Collaboration Merch",
+   "source": "Final Weapon",
+   "image": "https://finalweapon.net/wp-content/uploads/2026/09/Pac-Man-and-Blink-182-Reveal-New-Collaboration-Merch.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T18:49:13+00:00",
+   "title_ja": "Blink-182が「Pac-Man」とのコラボグッズを発表",
+   "summary_ja": "Blink-182と名作ゲーム「Pac-Man」による新たなコラボレーションアイテムが明らかになりました。バンドのテイストを落とし込んだ特別なグッズが展開されます。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "6b66c6afb698bd6d",
+   "url": "https://www.metrotimes.com/music-2/weezer-threw-detroit-a-house-party-with-basement-level-sound-photos",
+   "title_original": "Weezer threw Detroit a house party with basement-level sound (PHOTOS)",
+   "source": "Detroit Metro Times",
+   "image": "https://www.metrotimes.com/wp-content/uploads/2026/09/MG_6733-scaled.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T17:53:10+00:00",
+   "title_ja": "Weezerがデトロイト公演で開催したライブの模様",
+   "summary_ja": "Weezerがデトロイトで行った公演のライブ写真やレポートが公開されました。地下室のような独自のサウンドでファンを沸かせたステージの様子が伝えられています。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "7001f919bc63cf40",
+   "url": "https://defector.com/revisiting-weezers-cringe-masterpiece-at-30",
+   "title_original": "Revisiting Weezer’s Cringe Masterpiece At 30",
+   "source": "Defector",
+   "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/09/GettyImages-1413775536.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T17:23:13+00:00",
+   "title_ja": "Weezerの異色の傑作アルバムがリリース30周年を迎える",
+   "summary_ja": "Weezerが過去に発表した賛否両論の傑作アルバムについて、リリースから30周年を記念して改めてその魅力や歴史を振り返る記事が公開されています。",
+   "category": "再発・記念盤",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "fd80fc8bf8271823",
+   "url": "https://themusicuniverse.com/blink-182-immortalized-as-seven-inch-vinyl-figures",
+   "title_original": "Blink-182 immortalized as seven-inch vinyl figures",
+   "source": "The Music Universe",
+   "image": "https://themusicuniverse.com/wp-content/uploads/2026/09/blink182figures.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T17:07:03+00:00",
+   "title_ja": "Blink-182が7インチサイズのビニールフィギュアに",
+   "summary_ja": "Blink-182のメンバーが、7インチサイズのビニール製フィギュアとして立体化されることが決定した。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "0b5537d25fbe7211",
+   "url": "https://www.yahoo.com/entertainment/music/articles/louisville-mothers-tribute-son-during-170632978.html",
+   "title_original": "Louisville mother's tribute to son during My Chemical Romance performance goes viral",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/48f130f7b1edb32344523880cbebd3da96890089468e31858d494af37b337b42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-courier-journal%2F028a67fa741181dafa39938a8670b1e6.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T17:06:32+00:00",
+   "title_ja": "My Chemical Romanceの公演での母親の姿が話題に",
+   "summary_ja": "My Chemical Romanceのライブ会場で撮影された、ある母親による息子へのトリビュート映像がネット上で大きな話題を集めている。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "b3cdb495b9465541",
    "url": "https://www.theoaklandpress.com/2026/09/24/weezer-gathers-fans-for-big-show-treat-at-little-caesars-arena",
@@ -262,27 +364,6 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
-  },
-  {
-   "id": "0beaecd08d7d07fd",
-   "url": "https://www.kerrang.com/new-found-glory-to-continue-with-disney-epcot-shows-to-honour-massive-disney-fan-chad-gilbert",
-   "title_original": "New Found Glory to continue with Disney Epcot shows to honour “massive Disney fan” Chad Gilbert",
-   "source": "Kerrang!",
-   "image": "https://transforms.kerrang.com/production/images/New-Found-Glory-Kerrang-February-2026-credit-Angelea-Yoder-header.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1789931233&s=e2e8439137fe6cce79152657a8524031",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-24T10:01:00+00:00",
-   "title_ja": "New Found GloryがDisney Epcot公演の継続を発表",
-   "summary_ja": "New Found Gloryが、メンバーのChad Gilbertを称えるためDisney Epcotでの公演を継続すると発表した。",
-   "category": "ライブ・ツアー",
-   "band": "New Found Glory",
-   "artists": [
-    "New Found Glory",
-    "Chad Gilbert"
-   ],
-   "japan": false,
-   "importance": 3,
    "detail_tries": 2
   },
   {
@@ -413,7 +494,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "dc740a3a83f2971e",
@@ -434,6 +515,27 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "8132c8ff38e5af02",
+   "url": "https://exclaim.ca/music/article/new-found-glory-s-chad-gilbert-dead-at-45",
+   "title_original": "Hayley Williams Issues Statement on Death of New Found Glory's Chad Gilbert",
+   "source": "Exclaim!",
+   "image": "https://assets.exclaim.ca/image/upload/v1789996412/new_found_glory_chad_gilbert_vivian_nguyen_e68509ce49.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T20:00:00+00:00",
+   "title_ja": "Hayley WilliamsがChad Gilbertの訃報に声明",
+   "summary_ja": "ParamoreのHayley Williamsが、New Found GloryのギタリストであるChad Gilbertの逝去に際して公式に声明を発表した。",
+   "category": "メンバー・発言",
+   "band": "New Found Glory",
+   "artists": [
+    "Hayley Williams",
+    "Chad Gilbert"
+   ],
+   "japan": false,
+   "importance": 4,
    "has_detail": true
   },
   {
