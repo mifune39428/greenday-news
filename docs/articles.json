@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T06:24:43.446828+09:00",
+ "updated_at": "2026-09-25T13:34:27.762079+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -223,8 +223,8 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 295,
- "detail_count": 206,
+ "count": 296,
+ "detail_count": 207,
  "items": [
   {
    "id": "8b0e26439f5b72e8",
@@ -264,6 +264,26 @@
    ],
    "japan": false,
    "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "070be2ca3058f1f4",
+   "url": "https://worthplaying.com/article/2026/9/24/news/151071-pac-man-partners-with-blink-182-for-collab-merch-content-and-band-inspired-take-on-the-classic-game",
+   "title_original": "Pac-Man Partners With Blink-182 For Collab Merch, Content And Band-Inspired Take On The Classic Game",
+   "source": "Worthplaying",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T17:37:00+00:00",
+   "title_ja": "Blink-182がPac-Manとコラボ、限定グッズやゲーム内コンテンツを展開",
+   "summary_ja": "Blink-182が「Pac-Man」とタッグを組み、コラボレーション公式グッズの発売やバンドの世界観を落とし込んだ特別仕様のゲームコンテンツを展開することを発表した。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
    "has_detail": true
   },
   {
