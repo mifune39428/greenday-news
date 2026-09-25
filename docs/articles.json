@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T13:34:27.762079+09:00",
+ "updated_at": "2026-09-25T20:38:18.076636+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -62,7 +62,6 @@
   "Far Out Magazine",
   "Fightful",
   "Filmaffinity",
-  "Final Weapon",
   "Forbes",
   "Glide Magazine",
   "Guitar World",
@@ -129,7 +128,6 @@
   "Sada Elbalad english",
   "Santa Clarita Valley Signal",
   "Showbiz by PS",
-  "Sinar Daily",
   "SiriusXM",
   "Sortir à Paris",
   "Spectrum Culture",
@@ -152,6 +150,7 @@
   "The Guardian",
   "The Guardian Nigeria News",
   "The Line of Best Fit",
+  "The Mercury News",
   "The Mirror US",
   "The Mosh Network",
   "The Music Universe",
@@ -217,33 +216,55 @@
   "themusic.com.au",
   "themusicman.uk",
   "theriffreport.co.uk",
+  "uDiscoverMusic",
   "ubspectrum.com",
   "vijesti.me",
   "wecb.fm",
   "チバテレ",
   "激ロック"
  ],
- "count": 296,
- "detail_count": 207,
+ "count": 297,
+ "detail_count": 208,
  "items": [
   {
-   "id": "8b0e26439f5b72e8",
-   "url": "https://finalweapon.net/2026/09/24/pac-man-and-blink-182-reveal-new-collaboration-merch",
-   "title_original": "Pac-Man and Blink-182 Reveal New Collaboration Merch",
-   "source": "Final Weapon",
-   "image": "https://finalweapon.net/wp-content/uploads/2026/09/Pac-Man-and-Blink-182-Reveal-New-Collaboration-Merch.webp",
+   "id": "9f918a7b9385f0be",
+   "url": "https://www.nme.com/news/gaming-news/blink-182-pac-man-game-free-to-play-merch-collab-anniversary-3970767",
+   "title_original": "Blink-182 release throwback Pac-Man game to celebrate 25 years of ‘Take Of Your Pants And Jacket’",
+   "source": "nme.com",
+   "image": "https://www.nme.com/wp-content/uploads/2026/07/Blink-182-x-Pac-Man-artwork.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-09-24T18:49:13+00:00",
-   "title_ja": "Blink-182が「Pac-Man」とのコラボグッズを発表",
-   "summary_ja": "Blink-182と名作ゲーム「Pac-Man」による新たなコラボレーションアイテムが明らかになりました。バンドのテイストを落とし込んだ特別なグッズが展開されます。",
-   "category": "その他",
+   "published": "2026-09-25T09:33:25+00:00",
+   "title_ja": "Blink-182が「Take Off Your Pants and Jacket」25周年記念のPac-Manゲームを公開",
+   "summary_ja": "Blink-182の名盤『Take Off Your Pants and Jacket』のリリース25周年を記念し、懐かしのPac-Manコラボゲームが公開された。",
+   "category": "再発・記念盤",
    "band": "Blink-182",
    "artists": [
     "Blink-182"
    ],
    "japan": false,
-   "importance": 2,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "3d9067b8bb0e951c",
+   "url": "https://www.udiscovermusic.jp/news/chad-gilbert-rip",
+   "title_original": "ニュー・ファウンド・グローリーの創設メンバー、チャド・ギルバートが45歳で逝去。その功績を辿る",
+   "source": "uDiscoverMusic",
+   "image": "https://www.udiscovermusic.jp/wp-content/uploads/2024/09/new-found-glory-chad-gilbert-rip-feature-1000x600-1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-25T06:32:35+00:00",
+   "title_ja": "New Found Gloryの創設メンバー、チャド・ギルバートが45歳で逝去",
+   "summary_ja": "New Found Gloryの創設メンバーであるチャド・ギルバートが45歳で急逝した。バンドにおける彼の大きな功績を振り返る。",
+   "category": "メンバー・発言",
+   "band": "New Found Glory",
+   "artists": [
+    "Chad Gilbert",
+    "New Found Glory"
+   ],
+   "japan": false,
+   "importance": 5,
    "has_detail": true
   },
   {
@@ -344,6 +365,27 @@
    ],
    "japan": false,
    "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "031288395e210e78",
+   "url": "https://www.mercurynews.com/2026/09/24/billie-joe-armstorng-free-rodeo",
+   "title_original": "Green Day’s Billie Joe Armstrong to play free concert in Rodeo",
+   "source": "The Mercury News",
+   "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/SUT-L-GREENDAY002-1.jpg?w=5000&h=3102",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T16:44:40+00:00",
+   "title_ja": "Billie Joe Armstrongがロデオで無料コンサート開催",
+   "summary_ja": "Green Dayのボーカリスト、Billie Joe Armstrongがロデオで無料ライブを行うことが発表された。開催日や詳細は未定だが、ファンへの感謝を込めたイベントらしい。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -962,27 +1004,6 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "07c716e153da2af3",
-   "url": "https://www.sinardaily.my/article/741063/focus/world/new-found-glorys-chad-gilbert-dies-at-45-leaving-behind-a-pop-punk-legacy",
-   "title_original": "New Found Glory’s Chad Gilbert dies at 45, leaving behind a pop-punk legacy",
-   "source": "Sinar Daily",
-   "image": "https://www.sinarharian.com.my/sinarenglish/uploads/images/2026/09/22/3654907.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T09:48:00+00:00",
-   "title_ja": "New Found Gloryのチャド・ギルバートが45歳で死去",
-   "summary_ja": "ポップパンクシーンを牽引したバンド、New Found Gloryの創設メンバーであるチャド・ギルバートが45歳でこの世を去りました。",
-   "category": "メンバー・発言",
-   "band": "New Found Glory",
-   "artists": [
-    "Chad Gilbert",
-    "New Found Glory"
-   ],
-   "japan": false,
-   "importance": 5,
-   "has_detail": true
   },
   {
    "id": "9478f2f91416f416",
