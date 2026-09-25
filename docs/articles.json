@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T02:00:18.031215+09:00",
+ "updated_at": "2026-09-26T06:25:05.369625+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -175,7 +175,6 @@
   "Yahoo",
   "Yahoo Lifestyle Australia",
   "Yahoo News Canada",
-  "Yahoo News UK",
   "Yahoo!ニュース",
   "ad-hoc-news.de",
   "amass",
@@ -219,14 +218,35 @@
   "theriffreport.co.uk",
   "uDiscoverMusic",
   "ubspectrum.com",
+  "v13.net",
   "vijesti.me",
   "wecb.fm",
   "チバテレ",
   "激ロック"
  ],
- "count": 298,
- "detail_count": 209,
+ "count": 299,
+ "detail_count": 210,
  "items": [
+  {
+   "id": "d43b81beb8194343",
+   "url": "https://v13.net/2026/09/blink-182-x-pac-man-team-up-for-merch-web-game-animated-special",
+   "title_original": "blink-182 x PAC-MAN Team Up for Merch, Web Game & Animated Special",
+   "source": "v13.net",
+   "image": "https://i0.wp.com/v13.net/wp-content/uploads/blink-182_2023.jpg?resize=1000%2C600&ssl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-25T19:09:43+00:00",
+   "title_ja": "Blink-182とパックマンがコラボ、グッズやゲームを展開",
+   "summary_ja": "Blink-182がパックマンとタッグを組み、限定グッズやウェブゲーム、アニメーション特番を発表しました。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "9f918a7b9385f0be",
    "url": "https://www.nme.com/news/gaming-news/blink-182-pac-man-game-free-to-play-merch-collab-anniversary-3970767",
@@ -451,6 +471,28 @@
    "detail_tries": 2
   },
   {
+   "id": "e13710ea1b752542",
+   "url": "https://www.mercurynews.com/?p=13095655&preview=true&preview_id=13095655",
+   "title_original": "Hayley Williams honors her late ex, New Found Glory’s Chad Gilbert",
+   "source": "The Mercury News",
+   "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/GettyImages-95615596-e1790199758282.jpg?w=2000&h=1255",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T12:32:33+00:00",
+   "title_ja": "Hayley Williams、亡くなった元夫Chad Gilbertを追悼",
+   "summary_ja": "ParamoreのHayley Williamsが、亡くなった元夫でNew Found GloryのChad Gilbertへ追悼の意を表明しました。",
+   "category": "メンバー・発言",
+   "band": "Paramore",
+   "artists": [
+    "Hayley Williams",
+    "Chad Gilbert",
+    "New Found Glory"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "2166707d6d704180",
    "url": "https://www.femalefirst.co.uk/music/musicnews/hayley-williams-pays-tribute-husband-chad-gilbert-after-new-found-glory-guitarists-death-1451084.html",
    "title_original": "Hayley Williams pays tribute to ex-husband Chad Gilbert after New Found Glory guitarist's death",
@@ -512,29 +554,6 @@
    "japan": false,
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "fed2c1b54e0b853d",
-   "url": "https://uk.news.yahoo.com/paramore-hayley-williams-pays-tribute-013000625.html",
-   "title_original": "Paramore’s Hayley Williams Pays Tribute To Ex-Husband Chad Gilbert After His Death",
-   "source": "Yahoo News UK",
-   "image": "https://s.yimg.com/lo/mysterio/api/a994ba123978fcaaccbc43374ab2389f300540362d575f4fcdd5c6e2c1f71f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Ffd84eabf523b4e2782f6f5dc4c21cec4.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-24T01:30:00+00:00",
-   "title_ja": "Paramoreのヘイリー・ウィリアムス、元夫チャド・ギルバートの訃報に追悼のコメント",
-   "summary_ja": "Paramoreのフロントマンであるヘイリー・ウィリアムスが、元夫でNew Found Gloryのギタリストであるチャド・ギルバートの訃報を受けて追悼のメッセージを捧げた。元夫の死に際し、悲しみの思いとともに追悼の意を示している。",
-   "category": "メンバー・発言",
-   "band": "Paramore",
-   "artists": [
-    "Paramore",
-    "Hayley Williams",
-    "Chad Gilbert",
-    "New Found Glory"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
   },
   {
    "id": "9fe74a8d697ab1e6",
