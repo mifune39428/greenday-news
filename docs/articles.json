@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T06:25:05.369625+09:00",
+ "updated_at": "2026-09-26T13:38:23.841113+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -130,6 +130,7 @@
   "Santa Clarita Valley Signal",
   "Showbiz by PS",
   "SiriusXM",
+  "Sonic Perspectives",
   "Sortir à Paris",
   "Spectrum Culture",
   "Splice Today",
@@ -197,6 +198,7 @@
   "inkl",
   "knotfest.com",
   "lambgoat.com",
+  "live in limbo",
   "lmusic.tokyo",
   "loudwire.com",
   "lpm.org",
@@ -224,9 +226,70 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 299,
- "detail_count": 210,
+ "count": 302,
+ "detail_count": 212,
  "items": [
+  {
+   "id": "35ea4ceb15935de6",
+   "url": "http://www.liveinlimbo.com/2026/09/25/news/blink-182s-take-off-your-pants-and-jacket-era-comes-to-life-with-new-vinyl-figures.html",
+   "title_original": "BLINK-182’s “TAKE OFF YOUR PANTS AND JACKET” ERA COMES TO LIFE WITH NEW VINYL FIGURES",
+   "source": "live in limbo",
+   "image": "https://www.liveinlimbo.com/wp-content/uploads/2026/09/Untitled-1-9.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-26T01:21:30+00:00",
+   "title_ja": "Blink-182の名盤時代を再現した限定7インチ・フィギュアが登場",
+   "summary_ja": "Blink-182のアルバム『Take Off Your Pants and Jacket』の時代をモチーフにした限定の7インチ・ビニールフィギュアが発売されることが明らかになった。当時のアートワークや世界観を立体化したコレクターズアイテムとなる。",
+   "category": "再発・記念盤",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "e96b29fd3bef4fc2",
+   "url": "https://www.theprp.com/2026/09/25/news/watch-ex-sum-41-drummer-stevo32-takes-on-breaking-benjamins-the-diary-of-jane-for-drumeo",
+   "title_original": "Watch: Ex-Sum 41 Drummer Stevo32 Takes On Breaking Benjamin's \"The Diary Of Jane\" For Drumeo",
+   "source": "The PRP",
+   "image": "https://www.theprp.com/app/uploads/2026/09/steveo32large-1200x675.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-25T21:36:23+00:00",
+   "title_ja": "元Sum 41のStevo32がDrumeoの企画でBreaking Benjaminをカバー",
+   "summary_ja": "元Sum 41のドラマーであるStevo32が、YouTubeチャンネル「Drumeo」の人気企画に登場。Breaking Benjaminの代表曲「The Diary Of Jane」のドラム演奏に挑んだ映像が公開された。",
+   "category": "映像・映画・書籍",
+   "band": "Sum 41",
+   "artists": [
+    "Stevo32",
+    "Breaking Benjamin"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "fa1f63b0da795c44",
+   "url": "https://www.sonicperspectives.com/news/blink-182s-take-off-your-pants-and-jacket-era-comes-to-life-in-new-limited-edition-7-inch-vinyl-figures",
+   "title_original": "BLINK-182’s “Take Off Your Pants and Jacket Era” Comes To Life In New Limited-Edition 7-Inch Vinyl Figures",
+   "source": "Sonic Perspectives",
+   "image": "https://www.sonicperspectives.com/wp-content/uploads/2026/09/Blink-182-Figures.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-25T19:30:34+00:00",
+   "title_ja": "Blink-182、名盤時代の衣装や世界観を反映した限定フィギュアを発売",
+   "summary_ja": "Blink-182の『Take Off Your Pants and Jacket』時代を立体化した、限定7インチ・ビニールフィギュアの発売が決定した。ファン必見のコレクターズアイテムとして話題を集めている。",
+   "category": "再発・記念盤",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "d43b81beb8194343",
    "url": "https://v13.net/2026/09/blink-182-x-pac-man-team-up-for-merch-web-game-animated-special",
