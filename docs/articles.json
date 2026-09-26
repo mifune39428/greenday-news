@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T13:38:23.841113+09:00",
+ "updated_at": "2026-09-26T20:12:05.493271+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -148,6 +148,7 @@
   "The Daily Iowan",
   "The Day",
   "The Detroit News",
+  "The Duke Chronicle",
   "The Georgia Straight",
   "The Guardian",
   "The Guardian Nigeria News",
@@ -189,6 +190,7 @@
   "clashmusic.com",
   "cultfollowing.co.uk",
   "dailycal.org",
+  "durhamregion.com",
   "femalefirst.co.uk",
   "floodmagazine.com",
   "happymag.tv",
@@ -226,9 +228,50 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 302,
- "detail_count": 212,
+ "count": 304,
+ "detail_count": 213,
  "items": [
+  {
+   "id": "cd2f2e2f0b471256",
+   "url": "https://www.durhamregion.com/news/oshawa-award-show-celebrates-sum-41-crown-lands/article_71809ee2-08e5-5ed3-abe4-02ec8839ae07.html",
+   "title_original": "Oshawa award show celebrates Sum 41, Crown Lands and other Durham musicians",
+   "source": "durhamregion.com",
+   "image": "https://bloximages.chicago2.vip.townnews.com/durhamregion.com/content/tncms/assets/v3/editorial/7/f2/7f2fcc58-b709-5e9a-9297-7ca04aa90347/6ab6bb0d44e82.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-26T10:30:00+00:00",
+   "title_ja": "オシャワのアワードでSum 41らが表彰",
+   "summary_ja": "オシャワで開催された音楽賞授賞式にて、Sum 41やCrown Landsをはじめとするダーラム地域のミュージシャンたちが功績を称えられ、表彰を受けました。",
+   "category": "その他",
+   "band": "Sum 41",
+   "artists": [
+    "Sum 41",
+    "Crown Lands"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "12b569667499e699",
+   "url": "https://www.dukechronicle.com/article/260926-weezer-gold-album-johnson-20260926",
+   "title_original": "Weezer’s seventh self-titled album asks what happens after the growing up",
+   "source": "The Duke Chronicle",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-26T10:02:34+00:00",
+   "title_ja": "Weezerの自己名義第7弾アルバムを紐解く",
+   "summary_ja": "Weezerのセルフタイトルによる7枚目のアルバムが描く、大人になったその後の世界や葛藤について音楽メディアがレビューを通じて考察しています。",
+   "category": "新曲・新作",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "35ea4ceb15935de6",
    "url": "http://www.liveinlimbo.com/2026/09/25/news/blink-182s-take-off-your-pants-and-jacket-era-comes-to-life-with-new-vinyl-figures.html",
@@ -288,7 +331,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d43b81beb8194343",
