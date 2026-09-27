@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T01:48:53.974974+09:00",
+ "updated_at": "2026-09-28T06:13:02.735025+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -74,10 +74,10 @@
   "International Business Times UK",
   "Irish Mirror",
   "JamBase",
-  "JoBlo",
   "Just Jared",
   "KCRW",
   "KQED",
+  "KTVU",
   "Kerrang!",
   "Knotfest",
   "LADbible",
@@ -231,9 +231,30 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 310,
- "detail_count": 220,
+ "count": 311,
+ "detail_count": 221,
  "items": [
+  {
+   "id": "32688707150c9519",
+   "url": "https://www.nme.com/news/music/blink-182s-mark-hoppus-reveals-how-he-sang-on-unreleased-linkin-park-song-3970952",
+   "title_original": "Blink-182’s Mark Hoppus reveals how he sang on unreleased Linkin Park song",
+   "source": "NME",
+   "image": "https://www.nme.com/wp-content/uploads/2026/09/mark_hoppus_linkin_park.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-27T19:53:49+00:00",
+   "title_ja": "Blink-182のMark Hoppusが未発表Linkin Park曲でボーカルを担当した裏話を明かす",
+   "summary_ja": "Blink-182のMark Hoppusが、自身がボーカルとして参加した未発表のLinkin Parkの楽曲についてその経緯や制作の裏話を明かした。",
+   "category": "メンバー・発言",
+   "band": "Blink-182",
+   "artists": [
+    "Mark Hoppus",
+    "Linkin Park"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "0ffb5c1dac8c96bb",
    "url": "https://www.vice.com/en/article/my-chemical-romances-new-album-and-tour-may-have-just-leaked",
@@ -293,6 +314,26 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "ff8304999545be23",
+   "url": "https://www.ktvu.com/news/green-days-billie-joe-armstrong-returns-rodeo-free-hometown-concert",
+   "title_original": "Green Day’s Billie Joe Armstrong returns to Rodeo for free hometown concert",
+   "source": "KTVU",
+   "image": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/08/1200/630/GettyImages-2158929533.jpg?ve=1&tl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-27T00:09:31+00:00",
+   "title_ja": "Green DayのBillie Joe Armstrongが地元ロデオでサプライズのフリーライブを開催",
+   "summary_ja": "Green DayのBillie Joe Armstrongが、自身の地元であるカリフォルニア州ロデオにて、ファンに向けた無料の凱旋ライブを行った。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong"
+   ],
+   "japan": false,
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -6632,26 +6673,6 @@
    "japan": false,
    "importance": 2,
    "detail_tries": 2
-  },
-  {
-   "id": "cfd533251929f7c4",
-   "url": "https://www.joblo.com/nimrods-review",
-   "title_original": "Nimrods Review: A sweet coming-of-age flick set to the punk rock tunes of Green Day",
-   "source": "JoBlo",
-   "image": "https://www.joblo.com/wp-content/uploads/2026/08/Nimrods-TIFF-Poster-review-socials.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-13T17:38:43+00:00",
-   "title_ja": "Green Dayの楽曲をフィーチャーした青春映画『Nimrods』のレビュー",
-   "summary_ja": "Green Dayのパンクロックをフィーチャーした青春映画『Nimrods』のレビューが公開された。甘酸っぱい成長物語を描いた本作において、彼らの楽曲がどのようにストーリーを彩っているかが語られている。",
-   "category": "映像・映画・書籍",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
   }
  ]
 }
