@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T13:59:43.551054+09:00",
+ "updated_at": "2026-09-28T22:34:57.034428+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -53,7 +53,6 @@
   "Consequence",
   "DU Clarion",
   "Daily Sabah",
-  "Defector",
   "Detroit Metro Times",
   "East Bay Times",
   "Eponymous Review",
@@ -207,6 +206,7 @@
   "lpm.org",
   "music.mxdwn.com",
   "musicscenemedia.com",
+  "musictimes.com",
   "mxdwn Music",
   "nettosgameroom.com",
   "nme.com",
@@ -296,7 +296,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0ffb5c1dac8c96bb",
@@ -624,6 +624,26 @@
    "has_detail": true
   },
   {
+   "id": "b994c1d468d858f3",
+   "url": "https://www.musictimes.com/articles/112887/20260924/weezers-pinkerton-turns-30-how-90s-misfire-became-cult-classic.htm",
+   "title_original": "Weezer’s ‘Pinkerton’ Turns 30: How a ‘90s Misfire Became a Cult Classic",
+   "source": "musictimes.com",
+   "image": "https://d.musictimes.com/en/full/97353/weezer.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T19:22:50+00:00",
+   "title_ja": "Weezerの名盤『Pinkerton』が発売30周年、カルト的人気作の軌跡を振り返る",
+   "summary_ja": "Weezerのアルバム『Pinkerton』が発売から30周年を迎えました。90年代当時は評価が分かれたものの、いかにして時代を超えて熱狂的なファンを持つカルト的な名盤へと成長したのか、その歴史的意義を再評価する動きが高まっています。",
+   "category": "再発・記念盤",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "6b66c6afb698bd6d",
    "url": "https://www.metrotimes.com/music-2/weezer-threw-detroit-a-house-party-with-basement-level-sound-photos",
    "title_original": "Weezer threw Detroit a house party with basement-level sound (PHOTOS)",
@@ -661,26 +681,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7001f919bc63cf40",
-   "url": "https://defector.com/revisiting-weezers-cringe-masterpiece-at-30",
-   "title_original": "Revisiting Weezer’s Cringe Masterpiece At 30",
-   "source": "Defector",
-   "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/09/GettyImages-1413775536.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-24T17:23:13+00:00",
-   "title_ja": "Weezerの異色の傑作アルバムがリリース30周年を迎える",
-   "summary_ja": "Weezerが過去に発表した賛否両論の傑作アルバムについて、リリースから30周年を記念して改めてその魅力や歴史を振り返る記事が公開されています。",
-   "category": "再発・記念盤",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 2,
    "has_detail": true
   },
   {
