@@ -5,9 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>グリーン・デイ ニュース</title>
 <meta name="description" content="グリーン・デイと周辺のパンク／エモ系バンドのニュースを国内外から自動で集め、日本語の見出しと要約でまとめています。6時間ごとに更新。">
-<meta name="color-scheme" content="light dark">
-<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#0d0d0f" media="(prefers-color-scheme: dark)">
+<meta name="color-scheme" content="only light">
+<meta name="theme-color" content="#ececec">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="グリーン・デイ">
 <meta property="og:title" content="グリーン・デイ ニュース">
@@ -20,7 +19,8 @@
 <style>
   /* ---------------------------------------------------------------- 色（このサイトの分） */
   :root {
-    --bg: #efeff0;
+    color-scheme: only light;
+    --bg: #ececec;
     --card: #ffffff;
     --text: #141416;
     --muted: #6d6d73;
@@ -29,25 +29,10 @@
     --soft: rgba(215,38,61,.08);
     --chip: rgba(0,0,0,.055);
     --seg-on: #ffffff;
-    --header: rgba(255,255,255,.86);
+    --header: rgba(236,236,236,.9);
     --shadow: 0 1px 2px rgba(0,0,0,.05), 0 8px 24px rgba(0,0,0,.06);
     --radius: 14px;
     --ph-bg: radial-gradient(120% 90% at 25% 15%, #e8283f 0%, #7d0f1d 40%, #111 100%);
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #0d0d0f;
-      --card: #18181b;
-      --text: #f2f2f3;
-      --muted: #9a9aa2;
-      --line: rgba(255,255,255,.08);
-      --accent: #ff3b4e;
-      --soft: rgba(255,59,78,.14);
-      --chip: rgba(255,255,255,.07);
-      --seg-on: #2e2e33;
-      --header: rgba(13,13,15,.82);
-      --shadow: 0 0 0 1px rgba(255,255,255,.05);
-    }
   }
 
   * { box-sizing: border-box; }
@@ -286,7 +271,6 @@
   /* ---------------------------------------------------------------- このサイトだけの部品 */
   /* パンクらしく、黒地に赤い文字のロゴ。見出しは少し詰めて硬めに。 */
   .logo { background: #111; color: #ff3148; letter-spacing: .14em; }
-  @media (prefers-color-scheme: dark) { .logo { box-shadow: 0 0 0 1px rgba(255,255,255,.18); } }
   .band { color: var(--text); font-weight: 900; letter-spacing: .04em; text-transform: uppercase; font-size: 10.5px; }
   .lead .band { color: #fff; }
   .lead h2, .post h2 { letter-spacing: .01em; }

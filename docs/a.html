@@ -5,7 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>グリーン・デイ ニュース</title>
 <meta name="theme-color" content="#ececec">
-<meta name="color-scheme" content="light dark">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
@@ -67,8 +66,7 @@
 
   /* ---------------------------------------------------------------- 一覧（index.html）と見た目を揃える
      元の指定は残したまま、ここで上書きしている（後に書いたものが勝つ）。 */
-  :root { --bg:#efeff0;--card:#fff;--text:#141416;--muted:#6d6d73;--line:rgba(0,0,0,.09);--accent:#d7263d;--ink:#141416;--chip:rgba(0,0,0,.055);--badge:#d7263d;--header:rgba(255,255,255,.86);--quote:rgba(215,38,61,.06);--shadow:0 1px 2px rgba(0,0,0,.05),0 8px 24px rgba(0,0,0,.06); }
-  @media (prefers-color-scheme: dark) { :root { --bg:#0d0d0f;--card:#18181b;--text:#f2f2f3;--muted:#9a9aa2;--line:rgba(255,255,255,.08);--accent:#ff3b4e;--ink:#f2f2f3;--chip:rgba(255,255,255,.07);--badge:#ff3b4e;--header:rgba(13,13,15,.82);--quote:rgba(255,59,78,.1);--shadow:0 0 0 1px rgba(255,255,255,.05); } }
+  :root { --bg:#ececec;--card:#fff;--text:#141416;--muted:#6d6d73;--line:rgba(0,0,0,.09);--accent:#d7263d;--ink:#141416;--chip:rgba(0,0,0,.055);--badge:#d7263d;--header:rgba(236,236,236,.9);--quote:rgba(215,38,61,.06);--shadow:0 1px 2px rgba(0,0,0,.05),0 8px 24px rgba(0,0,0,.06); }
   body {
     background: var(--bg); color: var(--text);
     font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Segoe UI", sans-serif;
