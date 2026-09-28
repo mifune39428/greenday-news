@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T22:34:57.034428+09:00",
+ "updated_at": "2026-09-29T08:09:00.857071+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -102,6 +102,7 @@
   "NOW Toronto",
   "NPR",
   "Netto's Game Room",
+  "New Noise Magazine",
   "NextMosh",
   "Oh No They Didn't! — LiveJournal",
   "Orlando Sentinel",
@@ -231,9 +232,49 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 313,
- "detail_count": 222,
+ "count": 315,
+ "detail_count": 223,
  "items": [
+  {
+   "id": "a88f731f906d963c",
+   "url": "https://www.forbes.com/sites/hughmcintyre/2026/09/28/almost-every-my-chemical-romance-album-returns-to-the-charts",
+   "title_original": "Almost Every My Chemical Romance Album Returns To The Charts",
+   "source": "Forbes",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T18:00:00+00:00",
+   "title_ja": "My Chemical Romanceの過去作がチャートに多数復帰",
+   "summary_ja": "My Chemical Romanceのほぼすべてのアルバムが各チャートに再浮上を果たしたというニュース。詳細な順位や対象チャートの抜粋はありません。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "8ff8cdf8c8d581e5",
+   "url": "https://newnoisemagazine.com/news-blink-182-release-officially-licensed-action-figures",
+   "title_original": "News: Blink-182 Release Officially Licensed Action Figures",
+   "source": "New Noise Magazine",
+   "image": "https://newnoisemagazine.com/wp-content/uploads/2026/09/image-2-9.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T15:38:05+00:00",
+   "title_ja": "Blink-182の公式ライセンス付きアクションフィギュアが登場",
+   "summary_ja": "Blink-182をモチーフにした公式ライセンス取得済みのアクションフィギュアがリリースされたというニュース。本文の抜粋はありません。",
+   "category": "映像・映画・書籍",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "2647718bc7816baa",
    "url": "http://www.liveinlimbo.com/2026/09/27/concert-reviews/weezer-with-silversun-pickups-and-the-shins-at-scotiabank-arena.html",
