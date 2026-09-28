@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T06:13:02.735025+09:00",
+ "updated_at": "2026-09-28T13:59:43.551054+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -231,9 +231,31 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 311,
- "detail_count": 221,
+ "count": 313,
+ "detail_count": 222,
  "items": [
+  {
+   "id": "2647718bc7816baa",
+   "url": "http://www.liveinlimbo.com/2026/09/27/concert-reviews/weezer-with-silversun-pickups-and-the-shins-at-scotiabank-arena.html",
+   "title_original": "Weezer with Silversun Pickups and The Shins at Scotiabank Arena",
+   "source": "live in limbo",
+   "image": "https://www.liveinlimbo.com/wp-content/uploads/2026/09/3-02_Weezer_September-25-2026.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T03:20:35+00:00",
+   "title_ja": "Weezer、Silversun Pickupsらとアリーナ公演開催",
+   "summary_ja": "WeezerがSilversun PickupsおよびThe Shinsを迎えてScotiabank Arenaでライブを開催する。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "Silversun Pickups",
+    "The Shins"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "32688707150c9519",
    "url": "https://www.nme.com/news/music/blink-182s-mark-hoppus-reveals-how-he-sang-on-unreleased-linkin-park-song-3970952",
@@ -254,6 +276,27 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "d13fc89c4dc79caf",
+   "url": "https://ohnotheydidnt.livejournal.com/132928964.html",
+   "title_original": "Billie Joe Armstrong of Green Day plays free hometown show",
+   "source": "Oh No They Didn't! — LiveJournal",
+   "image": "https://l-files.livejournal.net/og_image/3616053/519253?v=1790532996",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-27T17:41:32+00:00",
+   "title_ja": "Billie Joe Armstrongが故郷でサプライズの無料ライブを実施",
+   "summary_ja": "Green DayのBillie Joe Armstrongが、自身の地元で観客参加型のフリーライブをサプライズで開催しファンを沸かせた。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "0ffb5c1dac8c96bb",
