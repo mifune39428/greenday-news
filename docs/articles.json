@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-29T08:09:00.857071+09:00",
+ "updated_at": "2026-09-29T14:25:01.587799+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -232,9 +232,55 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 315,
- "detail_count": 223,
+ "count": 317,
+ "detail_count": 224,
  "items": [
+  {
+   "id": "d9dd5fa2d49528a3",
+   "url": "https://music.mxdwn.com/2026/09/28/reviews/photo-review-ohana-festival-day-1-with-courtney-barnett-bad-religion-mana-and-eddie-vedder-friends",
+   "title_original": "Photo Review: Ohana Festival Day 1 with Courtney Barnett, Bad Religion, Maná, and Eddie Vedder & Friends",
+   "source": "mxdwn Music",
+   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2026/09/owen-ela_eddie-and-friends_09252026-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T22:34:07+00:00",
+   "title_ja": "Ohana Festival初日のフォトレビュー",
+   "summary_ja": "Courtney BarnettやBad Religion、Maná、Eddie Vedderらが出演したOhana Festival初日の模様を写真と共に振り返るレポート記事。",
+   "category": "ライブ・ツアー",
+   "band": "Bad Religion",
+   "artists": [
+    "Courtney Barnett",
+    "Bad Religion",
+    "Maná",
+    "Eddie Vedder"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "4da6255775adcc8f",
+   "url": "https://stereogum.com/2512932/pearl-jam-share-statement-about-new-drummer-at-ohana-eddie-vedder-performs-with-pixies-bad-religion-billy-strings-stephen-wilson-jr-more/news",
+   "title_original": "Pearl Jam Share Statement About New Drummer At Ohana, Eddie Vedder Performs With Pixies, Bad Religion, Billy Strings, Stephen Wilson Jr., & More",
+   "source": "Stereogum",
+   "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/09/GettyImages-1407583012.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T18:36:03+00:00",
+   "title_ja": "Pearl Jamが新ドラマーについて声明を発表",
+   "summary_ja": "Ohana FestivalにてPearl Jamが新ドラマーについての声明を発表。また、Eddie VedderがPixiesやBad Religionらと共演したことを伝えている。",
+   "category": "ライブ・ツアー",
+   "band": "Bad Religion",
+   "artists": [
+    "Pearl Jam",
+    "Eddie Vedder",
+    "Pixies",
+    "Bad Religion"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "a88f731f906d963c",
    "url": "https://www.forbes.com/sites/hughmcintyre/2026/09/28/almost-every-my-chemical-romance-album-returns-to-the-charts",
@@ -253,7 +299,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8ff8cdf8c8d581e5",
