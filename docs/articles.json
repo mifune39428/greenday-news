@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-29T21:35:59.405072+09:00",
+ "updated_at": "2026-09-30T07:07:49.911827+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -174,6 +174,7 @@
   "WBEZ Chicago",
   "WEBN",
   "WKFR",
+  "Western Mass News",
   "Wikimetal",
   "Worthplaying",
   "Yahoo",
@@ -192,6 +193,7 @@
   "clashmusic.com",
   "cultfollowing.co.uk",
   "dailycal.org",
+  "dispatch.com",
   "durhamregion.com",
   "femalefirst.co.uk",
   "floodmagazine.com",
@@ -234,9 +236,155 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 322,
- "detail_count": 229,
+ "count": 329,
+ "detail_count": 235,
  "items": [
+  {
+   "id": "42d6504451f0fa59",
+   "url": "https://lambgoat.com/news/55110/fake-names-ex-refused-bad-religion-share-lyric-video-for-new-single-if-you-could-see-me-today",
+   "title_original": "Fake Names (ex-Refused, Bad Religion) share lyric video for new single, “If You Could See Me Today",
+   "source": "lambgoat.com",
+   "image": "https://lambgoat.com/cdn/2026/fake-names-26-20260902155231.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T20:34:00+00:00",
+   "title_ja": "Fake Namesが新シングル「If You Could See Me Today」のリリックビデオを公開",
+   "summary_ja": "RefusedやBad Religionのメンバーが在籍するバンドFake Namesが、新曲「If You Could See Me Today」のリリックビデオを公開した。",
+   "category": "新曲・新作",
+   "band": "Bad Religion",
+   "artists": [
+    "Fake Names",
+    "Refused",
+    "Bad Religion"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "7c1c7b8389dae83a",
+   "url": "https://consequence.net/2026/09/fake-names-if-you-could-see-me-today",
+   "title_original": "Fake Names (Refused, Bad Religion) Embrace Jangle Pop on \"If You Could See Me This Way\"",
+   "source": "Consequence",
+   "image": "https://consequence.net/wp-content/uploads/2026/09/fake-names-promo-photo.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T19:45:12+00:00",
+   "title_ja": "Fake Namesが新作「If You Could See Me This Way」でジャングポップを披露",
+   "summary_ja": "RefusedやBad ReligionのメンバーによるバンドFake Namesが、新曲「If You Could See Me This Way」でジャングルポップの要素を取り入れたサウンドを聴かせている。",
+   "category": "新曲・新作",
+   "band": "Bad Religion",
+   "artists": [
+    "Fake Names",
+    "Refused",
+    "Bad Religion"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "9e7a14f03bf51476",
+   "url": "https://www.punknews.org/article/89199/tours-dropkick-murphys-announce-north-american-st-patricks-day-tour",
+   "title_original": "Tours: Dropkick Murphys announce North American St. Patrick's Day tour",
+   "source": "Punknews.org",
+   "image": "https://static.punknews.org/images/bands/dropkickmurphys-1771951310.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T14:30:01+00:00",
+   "title_ja": "Dropkick Murphysが北米での聖パトリックデー・ツアーを発表",
+   "summary_ja": "Dropkick Murphysが、恒例となる北米での聖パトリックデー・ツアーの開催を発表した。各地でのライブスケジュールが明かされている。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "6a1a40ece51c3e98",
+   "url": "https://exclaim.ca/concertcentral/article/dropkick-murphys-map-out-2027-north-american-tour",
+   "title_original": "Dropkick Murphys Map Out 2027 North American Tour",
+   "source": "Exclaim!",
+   "image": "https://assets.exclaim.ca/image/upload/v1703888658/dropkick1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T14:27:44.628000+00:00",
+   "title_ja": "Dropkick Murphysが2027年の北米ツアー日程を発表",
+   "summary_ja": "Dropkick Murphysが2027年に開催予定の北米ツアーの日程を明らかにした。各地を巡る大規模なスケジュールが発表されている。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "ce984414dbbbb671",
+   "url": "https://www.westernmassnews.com/2026/09/29/dropkick-murphys-perform-again-after-thunderbirds-game",
+   "title_original": "Dropkick Murphys to perform after Springfield Thunderbirds game",
+   "source": "Western Mass News",
+   "image": "https://gray-wggb-prod.gtv-cdn.com/resizer/v2/JSL3QZC5QFEEVDWCJ2ALEH55VA.jpg?auth=bb59db329979074e69391b6c248ca070c9c094fd4ac5177064bc204874317b47&width=1200&height=600&smart=true",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T14:23:28.279000+00:00",
+   "title_ja": "Dropkick Murphysが試合後のスプリングフィールドでライブ開催",
+   "summary_ja": "Dropkick Murphysが、スプリングフィールド・サンダーバーズの試合後にライブパフォーマンスを行う予定であることが明らかになった。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "11d314c79fe121a9",
+   "url": "https://www.dispatch.com/story/entertainment/music/2026/09/29/weezer-columbus-nationwide-arena-tiktok-concert/91977792007",
+   "title_original": "Weezer lands on Billboard Hot 100 again and is heading to Columbus",
+   "source": "dispatch.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T14:21:00+00:00",
+   "title_ja": "WeezerがBillboard Hot 100にランクインしコロンバスへ",
+   "summary_ja": "Weezerが再びビルボードのHot 100チャートにランクインを果たし、新たにコロンバス公演を行うことが報じられている。",
+   "category": "チャート・受賞",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "b04b0f93c47af0c9",
+   "url": "https://blabbermouth.net/news/fake-names-feat-members-of-bad-religion-and-refused-shares-if-you-could-see-me-today-single-from-upcoming-punk-ruins-album",
+   "title_original": "FAKE NAMES, Feat. Members Of BAD RELIGION And REFUSED, Shares 'If You Could See Me Today' Single From Upcoming 'Punk Ruins' Album",
+   "source": "BLABBERMOUTH.NET",
+   "image": "https://assets.blabbermouth.net/media/fakenamespresssept2026_638.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T10:21:59+00:00",
+   "title_ja": "Fake Namesが新作アルバムより新曲を先行配信",
+   "summary_ja": "Bad ReligionやRefusedのメンバーが在籍するFake Namesが、近日発売のアルバム『Punk Ruins』から新曲「If You Could See Me Today」をリリースした。",
+   "category": "新曲・新作",
+   "band": "Bad Religion",
+   "artists": [
+    "Fake Names",
+    "Bad Religion",
+    "Refused"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "fe4bac028dab9a64",
    "url": "https://themontrealeronline.com/2026/09/the-linda-lindas-bring-tight-harmonies-and-a-contagious-sense-of-joy-to-punk-music",
