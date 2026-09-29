@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-29T14:25:01.587799+09:00",
+ "updated_at": "2026-09-29T21:35:59.405072+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -155,6 +155,7 @@
   "The Line of Best Fit",
   "The Mercury News",
   "The Mirror US",
+  "The Montrealer",
   "The Mosh Network",
   "The Music Universe",
   "The Oakland Press",
@@ -205,6 +206,7 @@
   "lmusic.tokyo",
   "loudwire.com",
   "lpm.org",
+  "mdcthereporter.com",
   "music.mxdwn.com",
   "musicscenemedia.com",
   "musictimes.com",
@@ -232,9 +234,69 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 317,
- "detail_count": 224,
+ "count": 322,
+ "detail_count": 229,
  "items": [
+  {
+   "id": "fe4bac028dab9a64",
+   "url": "https://themontrealeronline.com/2026/09/the-linda-lindas-bring-tight-harmonies-and-a-contagious-sense-of-joy-to-punk-music",
+   "title_original": "The Linda Lindas bring tight harmonies and a contagious sense of joy to punk music",
+   "source": "The Montrealer",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T09:02:00+00:00",
+   "title_ja": "The Linda Lindasが放つパンクの魅力",
+   "summary_ja": "The Linda Lindasが持つ美しいコーラスワークや、パンク音楽に対する純粋な楽しさがどのように表現されているかを伝えています。",
+   "category": "その他",
+   "band": "その他",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "96f47c17680fa55a",
+   "url": "https://duclarion.com/2026/09/punk-band-the-linda-lindas-performed-at-summit-music-hall-on-sept-23",
+   "title_original": "Punk Band The Linda Lindas performed at Summit Music Hall on Sept. 23",
+   "source": "DU Clarion",
+   "image": "https://duclarion.com/wp-content/uploads/2026/09/IMG_3879-scaled.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T06:40:06+00:00",
+   "title_ja": "The Linda Lindasがサミット・ミュージック・ホールで公演",
+   "summary_ja": "パンクバンドのThe Linda Lindasが、9月23日にサミット・ミュージック・ホールにてライブパフォーマンスを実施したことを伝えています。",
+   "category": "ライブ・ツアー",
+   "band": "その他",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "1bdac3b8ddcfd468",
+   "url": "https://happymag.tv/my-chemical-romance-albums-charting-again",
+   "title_original": "My Chemical Romance are parading back into the charts -",
+   "source": "Happy Mag",
+   "image": "https://happymag.tv/wp-content/uploads/2025/07/MCR-2025.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T01:09:59+00:00",
+   "title_ja": "My Chemical Romanceが再びチャートへ返り咲き",
+   "summary_ja": "My Chemical Romanceが、再び音楽チャートにその名を連ねて盛り上がりを見せている動きを報じています。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "d9dd5fa2d49528a3",
    "url": "https://music.mxdwn.com/2026/09/28/reviews/photo-review-ohana-festival-day-1-with-courtney-barnett-bad-religion-mana-and-eddie-vedder-friends",
@@ -256,7 +318,27 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "d581e9e255bc662f",
+   "url": "https://mdcthereporter.com/my-chemical-romance-reinvents-the-black-parade-for-new-generation-of-listeners",
+   "title_original": "My Chemical Romance Reinvents The Black Parade For New Generation Of Listeners",
+   "source": "mdcthereporter.com",
+   "image": "https://mdcthereporter.com/wp-content/uploads/2026/09/The-Black-Parade13.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T20:13:18+00:00",
+   "title_ja": "My Chemical Romanceが名作を新たな世代へ",
+   "summary_ja": "My Chemical Romanceが、不朽の名作である『The Black Parade』を新世代のリスナーに向けてどのように再提示しているのかを取り上げています。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "4da6255775adcc8f",
@@ -316,6 +398,28 @@
    "band": "Blink-182",
    "artists": [
     "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "8fead048af76f20b",
+   "url": "https://consequence.net/2026/09/eddie-vedder-ohana-fest-pixies-bad-religion-billy-strings",
+   "title_original": "Eddie Vedder Performs with Pixies, Bad Religion, and Everyone Else at Ohana Fest",
+   "source": "Consequence",
+   "image": "https://consequence.net/wp-content/uploads/2026/09/Eddie-Vedder-and-Pixies.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T13:28:04+00:00",
+   "title_ja": "オハナ・フェスでEddie Vedderらが共演",
+   "summary_ja": "オハナ・フェスティバルにおいて、Eddie VedderがPixiesやBad Religionをはじめとする豪華な面々と共演を果たしたステージの様子を伝えています。",
+   "category": "フェス出演",
+   "band": "Bad Religion",
+   "artists": [
+    "Eddie Vedder",
+    "Pixies",
+    "Bad Religion"
    ],
    "japan": false,
    "importance": 3,
