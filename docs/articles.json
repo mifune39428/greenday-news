@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30T07:07:49.911827+09:00",
+ "updated_at": "2026-09-30T14:13:11.680620+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -77,6 +77,7 @@
   "KCRW",
   "KQED",
   "KTVU",
+  "KelownaNow",
   "Kerrang!",
   "Knotfest",
   "LADbible",
@@ -109,6 +110,7 @@
   "Our Culture Mag",
   "PUNKLOID",
   "Paste Magazine",
+  "Penticton Western News",
   "People.com",
   "Pioneer Press",
   "Pitchfork",
@@ -174,6 +176,7 @@
   "WBEZ Chicago",
   "WEBN",
   "WKFR",
+  "WWLP",
   "Western Mass News",
   "Wikimetal",
   "Worthplaying",
@@ -209,6 +212,7 @@
   "loudwire.com",
   "lpm.org",
   "mdcthereporter.com",
+  "michigandaily.com",
   "music.mxdwn.com",
   "musicscenemedia.com",
   "musictimes.com",
@@ -236,9 +240,89 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 329,
- "detail_count": 235,
+ "count": 333,
+ "detail_count": 238,
  "items": [
+  {
+   "id": "d1f2adc53361163e",
+   "url": "https://www.michigandaily.com/multimedia/scenes-from-the-stage-weezer",
+   "title_original": "Scenes from the stage: Weezer",
+   "source": "michigandaily.com",
+   "image": "https://www.michigandaily.com/wp-content/uploads/2026/09/weezer-4-scaled.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-30T02:18:40+00:00",
+   "title_ja": "Weezerのステージパフォーマンスの模様を振り返る",
+   "summary_ja": "Weezerのステージにおける様子やパフォーマンスの魅力について、現場の情景を交えて振り返る記事が公開された。",
+   "category": "その他",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "d04fde0dc5d4b3f3",
+   "url": "https://www.kelownanow.com/watercooler/news/news/Entertainment/Dropkick_Murphys_coming_to_the_Okanagan_on_their_St_Patrick_s_Day_2027_Tour",
+   "title_original": "Dropkick Murphys coming to the Okanagan on their St. Patrick’s Day 2027 Tour",
+   "source": "KelownaNow",
+   "image": "https://www.kelownanow.com/files/dropkick.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-30T01:00:00+00:00",
+   "title_ja": "Dropkick Murphysが2027年St. Patrick’s Dayツアーを開催",
+   "summary_ja": "Dropkick Murphysが、2027年の聖パトリック・デイを記念したツアーの一環としてオカナガンを訪れることが発表された。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "9f824276b6f15075",
+   "url": "https://pentictonwesternnews.com/2026/09/29/dropkick-murphys-shipping-up-to-penticton-once-more",
+   "title_original": "Dropkick Murphys shipping up to Penticton once more",
+   "source": "Penticton Western News",
+   "image": "https://pentictonwesternnews.com/wp-content/uploads/sites/11/2026/09/0213-PentictonBC_DropkickMurphys_2027_1920x1080.jpg?w=1024",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T23:00:00+00:00",
+   "title_ja": "Dropkick Murphysがペンティクトンでの公演を発表",
+   "summary_ja": "Dropkick Murphysが再びペンティクトンを訪れ、ライブパフォーマンスを行うことが明らかにされた。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "6a88e1be1063585e",
+   "url": "https://www.wwlp.com/news/local-news/hampden-county/springfield-thunderbirds-announce-dropkick-murphys-concert",
+   "title_original": "Springfield Thunderbirds announce Dropkick Murphys concert",
+   "source": "WWLP",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T22:06:25+00:00",
+   "title_ja": "Springfield ThunderbirdsがDropkick Murphysのコンサートを発表",
+   "summary_ja": "アイスホッケーチームのSpringfield Thunderbirdsが主催する会場にて、Dropkick Murphysのコンサートが開催されることが決定した。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "42d6504451f0fa59",
    "url": "https://lambgoat.com/news/55110/fake-names-ex-refused-bad-religion-share-lyric-video-for-new-single-if-you-could-see-me-today",
@@ -361,7 +445,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b04b0f93c47af0c9",
