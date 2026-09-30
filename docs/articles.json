@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30T14:13:11.680620+09:00",
+ "updated_at": "2026-09-30T21:21:25.968153+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -27,6 +27,7 @@
   "Jimmy Eat World",
   "Rise Against",
   "New Found Glory",
+  "Simple Plan",
   "The Linda Lindas",
   "その他"
  ],
@@ -55,6 +56,7 @@
   "Daily Sabah",
   "Detroit Metro Times",
   "East Bay Times",
+  "Entertainment Focus",
   "Eponymous Review",
   "Evrim Ağacı",
   "Exclaim!",
@@ -93,6 +95,7 @@
   "Men's Journal",
   "Metal Injection",
   "Metal Insider",
+  "Metal Planet Music",
   "Metalhead Zone",
   "Mid-Day",
   "Mikiki by TOWER RECORDS",
@@ -240,9 +243,94 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 333,
- "detail_count": 238,
+ "count": 337,
+ "detail_count": 240,
  "items": [
+  {
+   "id": "6630c6205a47f54b",
+   "url": "https://www.nme.com/news/music/rock-for-people-2027-blink-182-faith-no-more-and-architects-lead-first-names-3971546",
+   "title_original": "Rock For People 2027: Blink-182, Faith No More and Architects lead first names",
+   "source": "NME",
+   "image": "https://www.nme.com/wp-content/uploads/2026/09/Rock-for-people@2000x1270.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-30T10:34:54+00:00",
+   "title_ja": "Rock For People 2027、第一弾出演者を発表",
+   "summary_ja": "チェコで開催される音楽フェス「Rock For People 2027」が第一弾ラインナップを発表し、Blink-182、Faith No More、Architectsの出演が決定した。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Faith No More",
+    "Architects"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "a47cf256886656e0",
+   "url": "https://www.kerrang.com/slam-dunk-announces-first-names-for-2027-including-bowling-for-soup-simple-plan-and-killswitch-engage",
+   "title_original": "Slam Dunk announces first names for 2027, including Bowling For Soup, Killswitch Engage and Simple Plan",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/Bowling-For-Soup-2024-live-Download-header-credit-Bethan-Miller.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1718638592&s=48fe2f0dedaacfa5f079a0b4b953756f",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-30T10:18:00+00:00",
+   "title_ja": "Slam Dunk Festival 2027、第1弾出演バンドを発表",
+   "summary_ja": "イギリスのパンク・ロックフェス「Slam Dunk」が2027年の開催に向け、Simple PlanやBowling For Soupらの出演を発表した。",
+   "category": "フェス出演",
+   "band": "Simple Plan",
+   "artists": [
+    "Simple Plan",
+    "Bowling For Soup",
+    "Killswitch Engage"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "d15e6cb8a31c8efc",
+   "url": "https://entertainment-focus.com/2026/09/30/faith-no-more-and-blink-182-to-headline-rock-for-people-2027",
+   "title_original": "Faith No More and blink-182 to headline ‘Rock For People’ 2027",
+   "source": "Entertainment Focus",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-30T08:35:43+00:00",
+   "title_ja": "Rock For People 2027のヘッドライナーに決定",
+   "summary_ja": "ヨーロッパの大規模音楽フェス「Rock For People 2027」のヘッドライナーとして、Faith No MoreとBlink-182が出演することが明らかになった。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Faith No More",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "1c6bcf46ba6ad49c",
+   "url": "https://metalplanetmusic.com/2026/09/my-chemical-romance-open-up-about-making-a-new-album-ahead-of-2026-asia-tour",
+   "title_original": "My Chemical Romance Open Up About Making a New Album Ahead of 2026 Asia Tour",
+   "source": "Metal Planet Music",
+   "image": "https://metalplanetmusic.com/wp-content/uploads/2026/09/image-1.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-30T08:31:08+00:00",
+   "title_ja": "My Chemical Romance、新作アルバム制作について語る",
+   "summary_ja": "2026年のアジアツアーを控えるMy Chemical Romanceが、新しいアルバムの制作に向けた取り組みや心境について明かした。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "d1f2adc53361163e",
    "url": "https://www.michigandaily.com/multimedia/scenes-from-the-stage-weezer",
@@ -321,7 +409,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "42d6504451f0fa59",
