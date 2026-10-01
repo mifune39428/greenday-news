@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-01T21:56:27.112926+09:00",
+ "updated_at": "2026-10-02T07:34:26.667347+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -101,7 +101,6 @@
   "Metalhead Zone",
   "Mid-Day",
   "Mikiki by TOWER RECORDS",
-  "MondoSonoro",
   "Music Connection Magazine",
   "NME",
   "NME Japan",
@@ -114,6 +113,7 @@
   "Orlando Sentinel",
   "Our Culture Mag",
   "PUNKLOID",
+  "Parksville Qualicum News",
   "Paste Magazine",
   "Penticton Western News",
   "People.com",
@@ -172,6 +172,7 @@
   "The Sun Malaysia",
   "The Wenatchee World",
   "Tinnitist",
+  "Toronto Guardian",
   "TribLIVE.com",
   "Tullahoma News",
   "Ultimate Guitar",
@@ -238,6 +239,7 @@
   "themusic.com.au",
   "themusicman.uk",
   "theriffreport.co.uk",
+  "trillmag.com",
   "uDiscoverMusic",
   "ubspectrum.com",
   "v13.net",
@@ -246,9 +248,29 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 346,
- "detail_count": 247,
+ "count": 351,
+ "detail_count": 253,
  "items": [
+  {
+   "id": "2c09ebe5a4283057",
+   "url": "https://torontoguardian.com/2026/10/weezer-the-gathering-concert-review-oh-yeah-alright",
+   "title_original": "Weezer: The Gathering (Concert Review): Oh Yeah, Alright",
+   "source": "Toronto Guardian",
+   "image": "https://torontoguardian.com/wp-content/uploads/2026/10/381-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-01T20:11:13+00:00",
+   "title_ja": "Weezerのコンサート公演レポートが到着",
+   "summary_ja": "Weezerがカナダで開催したコンサートの模様を伝えるライブレビュー記事。会場でのパフォーマンスの様子が生き生きと描写されている。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "ff4948d3e422e62b",
    "url": "https://www.rova.nz/events/rise-against-2026",
@@ -264,6 +286,87 @@
    "band": "Rise Against",
    "artists": [
     "Rise Against"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "089597d8981f836b",
+   "url": "https://chorus.fm/news/my-chemical-romance-and-hot-topic-partnership",
+   "title_original": "My Chemical Romance and Hot Topic Partnership",
+   "source": "chorus.fm",
+   "image": "https://chorus.fm/wp-content/uploads/2016/04/mcr.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-01T16:21:54+00:00",
+   "title_ja": "My Chemical RomanceとHot Topicがパートナーシップを締結",
+   "summary_ja": "My Chemical Romanceと人気ショップHot Topicとの間で新たなパートナーシップが結ばれ、関連グッズ等の展開に注目が集まる。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "8d497737ac1d19e6",
+   "url": "https://www.trillmag.com/entertainment/music/long-live-the-black-parade-the-thematic-narrative-of-my-chemical-romances-2026-tour",
+   "title_original": "Long Live the Black Parade: the Thematic Narrative of My Chemical Romance’s 2026 Tour",
+   "source": "trillmag.com",
+   "image": "https://www.trillmag.com/wp-content/uploads/2026/09/Screenshot-2026-09-20-192851.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-01T16:06:10+00:00",
+   "title_ja": "My Chemical Romanceの2026年ツアーのテーマ性について",
+   "summary_ja": "My Chemical Romanceによる2026年ツアーが持つ音楽的・視覚的な物語性や、そのコンセプトの深さに迫る特集記事。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f6e1e2ca3b10226f",
+   "url": "https://themosh.net/faith-no-more-blink-182-2027-rock-for-people",
+   "title_original": "Faith No More And Blink-182 To Headline 2027 Rock For People Festival",
+   "source": "The Mosh Network",
+   "image": "http://themosh.net/wp-content/uploads/2026/06/faithnomore.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-01T15:51:31+00:00",
+   "title_ja": "Blink-182が2027年Rock For Peopleに出演決定",
+   "summary_ja": "Blink-182が、2027年に開催される音楽フェスティバル「Rock For People」でヘッドライナーを務めることが発表された。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Faith No More",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "a26f97ecbda7c2a2",
+   "url": "https://www.vice.com/en/article/how-weezers-former-bassist-publicly-predicted-his-own-death-weeks-in-advance",
+   "title_original": "How Weezer’s Former Bassist Publicly Predicted His Own Death Weeks in Advance",
+   "source": "VICE",
+   "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/09/Web_Photo_Editor-2026-09-29T165511.544.jpg?w=1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-01T13:23:40+00:00",
+   "title_ja": "Weezerの元ベーシストが死を予言していた経緯",
+   "summary_ja": "Weezerの元ベーシストが、自身の死の数週間前に公の場でそれをどのように予測していたのかについて報じられている。",
+   "category": "メンバー・発言",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
    ],
    "japan": false,
    "importance": 3,
@@ -288,7 +391,27 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "2580403a73c97576",
+   "url": "https://v13.net/2026/10/weezer-place-bell-laval-photos",
+   "title_original": "Weezer Hosts a Gathering at Place Bell in Laval, QC [Photos]",
+   "source": "V13 Media",
+   "image": "https://i0.wp.com/v13.net/wp-content/uploads/weezer_sep_26_2026_by_eric_mahannah.jpg?resize=1000%2C600&ssl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-01T11:00:22+00:00",
+   "title_ja": "Weezerがカナダのラヴァル公演で魅せたステージ写真",
+   "summary_ja": "カナダ・ラヴァルのPlace Bellで開催されたWeezerのコンサート会場の様子をとらえたライブ写真が公開されている。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "969d28fbc0c4c986",
@@ -871,6 +994,26 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "b884bc0050574697",
+   "url": "https://pqbnews.com/2026/09/28/whiskey-creek-pizza-shop-offers-deep-challenge-to-weezer-frontman",
+   "title_original": "Whiskey Creek pizza shop offers deep dish challenge to Weezer frontman",
+   "source": "Parksville Qualicum News",
+   "image": "https://pqbnews.com/wp-content/uploads/sites/11/2026/09/McBaked-Pizza.jpg?w=1024",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T17:30:00+00:00",
+   "title_ja": "ピザ店がWeezerのフロントマンにディープディッシュ挑戦を提案",
+   "summary_ja": "ウィスキー・クリークのピザ店が、Weezerのフロントマンに対してディープディッシュ・ピザの大食い挑戦を持ちかけた。",
+   "category": "その他",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 1,
+   "has_detail": true
   },
   {
    "id": "8ff8cdf8c8d581e5",
@@ -7376,46 +7519,6 @@
    "japan": false,
    "importance": 2,
    "has_detail": true
-  },
-  {
-   "id": "e267f2d28f41de06",
-   "url": "https://www.mondosonoro.com/item/green-day-dookie-gold-stamp-promo-cd-n",
-   "title_original": "GREEN DAY - Dookie GOLD STAMP PROMO CD never played (with Ernie photo) 1994",
-   "source": "MondoSonoro",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-17T15:56:48+00:00",
-   "title_ja": "1994年製Green Day『Dookie』のゴールドスタンプ付きプロモCDが出品",
-   "summary_ja": "1994年にリリースされたGreen Dayの名盤『Dookie』について、アーニーの写真が付属した未再生のゴールドスタンプ付きプロモCDが紹介されています。",
-   "category": "再発・記念盤",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "88c8b2475da65959",
-   "url": "https://www.mondosonoro.com/item/green-day-4-cd-lot-1-039-smoothed-out-2",
-   "title_original": "Green Day 4-CD Lot - 1,039/Smoothed Out Slappy Hours, Kerplunk!, Dookie, Warning",
-   "source": "MondoSonoro",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-17T15:56:19+00:00",
-   "title_ja": "Green Dayの初期4作品をまとめたCDセットが登場",
-   "summary_ja": "『1,039/Smoothed Out Slappy Hours』や『Kerplunk!』、『Dookie』、『Warning』の4枚のCDをセットにした商品が注目を集めている。バンドの歴史を辿る名盤の数々をまとめて楽しめる。",
-   "category": "再発・記念盤",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
   }
  ]
 }
