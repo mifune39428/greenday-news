@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-01T07:07:23.948980+09:00",
+ "updated_at": "2026-10-01T14:27:44.686449+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -194,6 +194,7 @@
   "azat.tv",
   "backseatmafia.com",
   "broadwayworld.com",
+  "chaoszine.net",
   "chorus.fm",
   "clashmusic.com",
   "cultfollowing.co.uk",
@@ -226,6 +227,7 @@
   "phoenix.org",
   "pressdemocrat.com",
   "punknews.org",
+  "rova",
   "sentinel-echo.com",
   "sfchronicle.com",
   "superdeluxeedition.com",
@@ -242,9 +244,29 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 341,
- "detail_count": 243,
+ "count": 344,
+ "detail_count": 246,
  "items": [
+  {
+   "id": "ff4948d3e422e62b",
+   "url": "https://www.rova.nz/events/rise-against-2026",
+   "title_original": "Punk icons 'Rise Against' return to New Zealand this November!",
+   "source": "rova",
+   "image": "https://images.ctfassets.net/r65x6q43xsmv/6aEvoHatOeZxAUsDTxT54S/97b255a417aa34169436b47e56442f3d/Copy_of_ROVA_Hero_Image_1920.jpg?fm=jpg&w=1200&q=75&f=center&h=630&fit=fill",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-01T17:00:00+00:00",
+   "title_ja": "Rise Againstが11月にニュージーランド公演を開催",
+   "summary_ja": "パンクバンドのRise Againstが、今年11月にニュージーランドでのライブを行うことを発表した。",
+   "category": "ライブ・ツアー",
+   "band": "Rise Against",
+   "artists": [
+    "Rise Against"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "969d28fbc0c4c986",
    "url": "https://hoodline.com/2026/09/weezer-heads-back-to-columbus-bringing-the-gathering-tour-to-nationwide-arena",
@@ -266,6 +288,27 @@
    "has_detail": true
   },
   {
+   "id": "b2917e5256930d45",
+   "url": "https://chaoszine.net/faith-no-more-and-blink-182-announced-as-headliners-of-rock-for-people-2027",
+   "title_original": "Faith No More and blink-182 announced as headliners of Rock For People 2027",
+   "source": "chaoszine.net",
+   "image": "https://chaoszine.net/wp-content/uploads/2021/12/faith-no-more-1300x867-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-30T19:03:06+00:00",
+   "title_ja": "Blink-182とFaith No MoreがRock For People 2027のヘッドライナーに決定",
+   "summary_ja": "チェコの音楽フェス「Rock For People 2027」のヘッドライナーとして、Blink-182とFaith No Moreが出演することが発表された。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Faith No More"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "2aa0c5a33ba63ee3",
    "url": "https://www.billboard.com/culture/product-recommendations/my-chemical-romance-black-parade-20th-anniversary-merch-1236350730",
    "title_original": "My Chemical Romance ‘The Black Parade’ 20th Anniversary Merch & Events",
@@ -283,7 +326,29 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "bcbeb2a32d03e961",
+   "url": "https://faroutmagazine.co.uk/rock-for-people-2027-blink-182-fat-dog-and-faith-no-more-line-up",
+   "title_original": "Rock For People 2027: Blink-182, Fat Dog and Faith No More lead line-up",
+   "source": "Far Out Magazine",
+   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/09/Mike-Patton-Blink-182-Split-2026-Far-Out-Magazine.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-30T12:35:56+00:00",
+   "title_ja": "Rock For People 2027のラインナップ発表、Blink-182らが出演",
+   "summary_ja": "欧州のフェス「Rock For People 2027」が第一弾ラインナップを公開し、Blink-182やFat Dog、Faith No Moreらがヘッドライナーを務めることが明らかになった。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Fat Dog",
+    "Faith No More"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "6630c6205a47f54b",
@@ -699,7 +764,7 @@
    ],
    "japan": false,
    "importance": 1,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d581e9e255bc662f",
