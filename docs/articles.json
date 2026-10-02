@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02T21:19:07.011207+09:00",
+ "updated_at": "2026-10-03T07:03:48.667681+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -15,7 +15,9 @@
   "Green Day",
   "Blink-182",
   "The Offspring",
+  "Rancid",
   "Bad Religion",
+  "NOFX",
   "Sum 41",
   "Weezer",
   "My Chemical Romance",
@@ -75,6 +77,7 @@
   "Impericon",
   "International Business Times UK",
   "Irish Mirror",
+  "Irish Star",
   "JamBase",
   "Just Jared",
   "KCRW",
@@ -104,7 +107,6 @@
   "Music Connection Magazine",
   "NME",
   "NME Japan",
-  "NOW Toronto",
   "NPR",
   "Netto's Game Room",
   "New Noise Magazine",
@@ -124,6 +126,7 @@
   "Prelude Press",
   "Prescott Daily Courier",
   "Punknews.org",
+  "RIFF Magazine",
   "RTTNews",
   "Racket MN",
   "Revolver Magazine",
@@ -137,7 +140,9 @@
   "SSBCrack",
   "Sada Elbalad english",
   "Santa Clarita Valley Signal",
+  "Secret Los Angeles",
   "Showbiz by PS",
+  "Sonic Perspectives",
   "Sortir à Paris",
   "Spectrum Culture",
   "Splice Today",
@@ -155,6 +160,7 @@
   "The Daily Iowan",
   "The Day",
   "The Detroit News",
+  "The Drum",
   "The Duke Chronicle",
   "The Georgia Straight",
   "The Guardian",
@@ -182,6 +188,8 @@
   "WBEZ Chicago",
   "WEBN",
   "WKFR",
+  "WRIF Rocks Detroit",
+  "We Write About Music",
   "Western Mass News",
   "Wikimetal",
   "Worthplaying",
@@ -248,9 +256,236 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 351,
- "detail_count": 253,
+ "count": 360,
+ "detail_count": 260,
  "items": [
+  {
+   "id": "24530cb497481be8",
+   "url": "https://www.wewriteaboutmusic.com/festivals/bad-religion-ohana-festival-2026",
+   "title_original": "Bad Religion Bring Four Decades of Punk Fury to Ohana Festival",
+   "source": "We Write About Music",
+   "image": "http://static1.squarespace.com/static/5e5c72d426341f1a10215614/5e61a11b7e0f211357e2306e/6ac01a809cf99f2d7270aa30/1790974853489/BAD_RELIGION4.jpeg?format=1500w",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T21:00:53+00:00",
+   "title_ja": "Bad ReligionがOhana Festivalに出演",
+   "summary_ja": "Bad ReligionがOhana Festivalのステージに登場し、4十年にわたるキャリアで培った圧倒的なパンクの怒りとエネルギーを見せつけた。",
+   "category": "フェス出演",
+   "band": "Bad Religion",
+   "artists": [
+    "Bad Religion"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "4fccbb3b00e4f996",
+   "url": "https://wrif.com/2026/10/02/faith-no-more-joins-blink-182-as-headliners-for-rock-for-people-2027",
+   "title_original": "Faith No More Joins Blink-182 as Headliners for Rock For People 2027",
+   "source": "WRIF Rocks Detroit",
+   "image": "https://wrif.com/uploads/2026/10/GettyImages-1171812242-e1790968781298.jpg?auto=webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T19:22:36+00:00",
+   "title_ja": "Faith No MoreとBlink-182がヘッドライナーに決定",
+   "summary_ja": "Faith No MoreとBlink-182が、Rock For People 2027のヘッドライナーとして共演することが発表された。",
+   "category": "ライブ・ツアー",
+   "band": "Blink-182",
+   "artists": [
+    "Faith No More",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "091bdbbe69d6da7a",
+   "url": "https://www.sonicperspectives.com/news/rancid-raids-the-vault-for-a-30th-anniversary-box-set-of-and-out-come-the-wolves/?amp=1",
+   "title_original": "RANCID Raids The Vault For A 30th Anniversary Box Set Of “…And Out Come the Wolves”",
+   "source": "Sonic Perspectives",
+   "image": "https://www.sonicperspectives.com/wp-content/uploads/2026/10/Rancid.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T18:00:45+00:00",
+   "title_ja": "Rancidの名盤30周年記念ボックスセットを発表",
+   "summary_ja": "Rancidが結成30周年を記念し、名作『…And Out Come the Wolves』の豪華なボックスセットをリリースすることを明かした。",
+   "category": "再発・記念盤",
+   "band": "Rancid",
+   "artists": [
+    "Rancid"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "6390f1ac55c1a9f4",
+   "url": "https://www.yahoo.com/entertainment/music/articles/rancid-looks-back-wolves-35-171839162.html",
+   "title_original": "Rancid Looks Back On ‘Wolves’ At 35",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/ed46b0cdd1f014b75d7646d20994f8a5cf47079fcedea3a0593d68b17c85cb73/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fspin_digital_media%2F11c9c0c7da74749391ee5f43116ce0de.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T17:18:39+00:00",
+   "title_ja": "Rancidが名盤『Wolves』の35年を振り返る",
+   "summary_ja": "Rancidの代表作である『…And Out Come the Wolves』のリリースから35年が経ち、当時の制作背景やバンドの歴史を改めて振り返っている。",
+   "category": "メンバー・発言",
+   "band": "Rancid",
+   "artists": [
+    "Rancid"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "acbb1c758f3f49bd",
+   "url": "https://www.irishstar.com/culture/entertainment/my-chemical-romance-frank-iero-37729028",
+   "title_original": "My Chemical Romance's Frank Iero stands up against Cornell 7 as he calls for 'public castration'",
+   "source": "Irish Star",
+   "image": "https://i2-prod.irishstar.com/article37728800.ece/ALTERNATES/s1200d/0_2023-Riot-Fest.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T16:56:28+00:00",
+   "title_ja": "My Chemical RomanceのFrank Ieroが Cornell 7に対して強い批判を展開",
+   "summary_ja": "My Chemical RomanceのFrank IeroがCornell 7に対し、激しい怒りとともに公的な場での処罰を求める発言を行ったことが報じられている。",
+   "category": "メンバー・発言",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Frank Iero"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "fd14be9b51ee4edb",
+   "url": "https://www.punknews.org/article/89234/rancid-to-release-huge-wolves-box-set",
+   "title_original": "Rancid to release huge 'Wolves' box set",
+   "source": "Punknews.org",
+   "image": "https://static.punknews.org/images/frontpage/fp-1790958114.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T16:30:01+00:00",
+   "title_ja": "Rancidが『...And Out Come the Wolves』の大型ボックスセットを発売へ",
+   "summary_ja": "Rancidの名盤『...And Out Come the Wolves』を記念した、ボリューム満点の大型ボックスセットのリリースが決定した。",
+   "category": "再発・記念盤",
+   "band": "Rancid",
+   "artists": [
+    "Rancid"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "fa1d713ee8b50c6a",
+   "url": "https://newnoisemagazine.com/news-dropkick-murphys-announce-st-patricks-day-tour",
+   "title_original": "News: Dropkick Murphys Announce St. Patrick’s Day Tour",
+   "source": "New Noise Magazine",
+   "image": "https://newnoisemagazine.com/wp-content/uploads/2026/07/image-84.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T14:50:53+00:00",
+   "title_ja": "Dropkick Murphysが恒例の聖パトリックデー・ツアーを発表",
+   "summary_ja": "Dropkick Murphysが毎年恒例となっている聖パトリックデーに向けたツアーの開催を発表した。熱いライブパフォーマンスで知られる彼らの新たな旅程に注目が集まる。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f0299ef536b85941",
+   "url": "https://riffmagazine.com/festivals/aftershock-my-chemical-romance-20261001",
+   "title_original": "AFTERSHOCK: My Chemical Romance fuels the fire on opening day",
+   "source": "RIFF Magazine",
+   "image": "https://riffmedia.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/10/02062129/11111.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T14:16:58+00:00",
+   "title_ja": "AFTERSHOCK初日、My Chemical Romanceが熱演",
+   "summary_ja": "アフターショック・フェスティバルの初日において、My Chemical Romanceが圧倒的なパフォーマンスを披露し、会場を大いに盛り上げた。",
+   "category": "フェス出演",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "f16cfdd29dcdce84",
+   "url": "https://secretlosangeles.com/my-chemical-romance-hollywood-bowl-halloween-los-angeles",
+   "title_original": "In 2006, My Chemical Romance released their defining rock opera 'The Black Parade': exactly 20 years later, the band is taking over the Hollywood Bowl for a five-night Halloween residency",
+   "source": "Secret Los Angeles",
+   "image": "https://offloadmedia.feverup.com/secretlosangeles.com/wp-content/uploads/2026/10/02033259/MCR-featured-horizontal-1-1024x683.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T12:55:00+00:00",
+   "title_ja": "My Chemical Romance、ハリウッド・ボウルで5夜連続のハロウィン公演を開催へ",
+   "summary_ja": "My Chemical Romanceが、代表作『The Black Parade』のリリース20周年を記念し、ハリウッド・ボウルにて5夜連続となるハロウィン公演を行うことが決定した。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "de8cee4cc392d5f4",
+   "url": "https://www.thedrum.com/news/marshalls-puts-on-a-the-linda-lindas-gig-at-the-venue-where-the-doors-got-their-start",
+   "title_original": "Marshall puts on a The Linda Lindas gig at the venue where The Doors got their start",
+   "source": "The Drum",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T12:06:36+00:00",
+   "title_ja": "Marshall、The Doorsゆかりの会場でThe Linda Lindasのライブを開催",
+   "summary_ja": "アンプブランドのMarshallが、The Doorsの原点となったライブハウスにて、The Linda Lindasの特別公演を主催した。",
+   "category": "ライブ・ツアー",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas",
+    "Marshall",
+    "The Doors"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "3ab453c262ff9f87",
+   "url": "https://gekirock.com/news/2026/10/nofx_40_years_of_fuckin_up.php",
+   "title_original": "NOFXを追ったドキュメンタリー映画\"NOFX：40 Years of Fuckin' Up\"日本劇場公開決定！BAD RELIGION、オフスプ、PENNYWISE、ハイスタ、SUM 41メンバーも出演！",
+   "source": "激ロック",
+   "image": "https://gekirock.com/news/2026/10/02/images/NOFXmain.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-02T10:40:00+00:00",
+   "title_ja": "NOFXのドキュメンタリー映画の日本劇場公開が決定",
+   "summary_ja": "結成から引退までを追ったドキュメンタリー映画『NOFX：40 Years of Fuckin' Up』の日本劇場公開が決定した。BAD RELIGIONやThe Offspringらのメンバーも出演する。",
+   "category": "映像・映画・書籍",
+   "band": "NOFX",
+   "artists": [
+    "NOFX",
+    "Bad Religion",
+    "The Offspring",
+    "Pennywise"
+   ],
+   "japan": true,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "2c09ebe5a4283057",
    "url": "https://torontoguardian.com/2026/10/weezer-the-gathering-concert-review-oh-yeah-alright",
@@ -290,26 +525,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "089597d8981f836b",
-   "url": "https://chorus.fm/news/my-chemical-romance-and-hot-topic-partnership",
-   "title_original": "My Chemical Romance and Hot Topic Partnership",
-   "source": "chorus.fm",
-   "image": "https://chorus.fm/wp-content/uploads/2016/04/mcr.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-01T16:21:54+00:00",
-   "title_ja": "My Chemical RomanceとHot Topicがパートナーシップを締結",
-   "summary_ja": "My Chemical Romanceと人気ショップHot Topicとの間で新たなパートナーシップが結ばれ、関連グッズ等の展開に注目が集まる。",
-   "category": "その他",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
   },
   {
    "id": "8d497737ac1d19e6",
@@ -7498,26 +7713,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e0e95504f6f480f8",
-   "url": "https://nowtoronto.com/movies/movies-reviews/green-day-nimrods-movie-theatres-review",
-   "title_original": "Review: Nimrods is as chaotic and fun as a Green Day concert",
-   "source": "NOW Toronto",
-   "image": "https://nowtoronto.com/wp-content/uploads/2026/08/Nimrods-movie-review.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-18T14:33:03+00:00",
-   "title_ja": "舞台Nimrodsのライブ感をGreen Dayの公演に例えてレビュー",
-   "summary_ja": "Nimrodsの公演について、Green Dayのライブのようにカオスで楽しいエネルギーに満ちていると称賛するレビュー記事。",
-   "category": "その他",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 2,
    "has_detail": true
   }
  ]
