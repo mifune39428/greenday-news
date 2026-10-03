@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T20:28:55.395639+09:00",
+ "updated_at": "2026-10-04T01:05:33.804733+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -28,6 +28,7 @@
   "Dropkick Murphys",
   "Jimmy Eat World",
   "Rise Against",
+  "The Interrupters",
   "New Found Glory",
   "Simple Plan",
   "The Linda Lindas",
@@ -37,6 +38,7 @@
   "13thfloor.co.nz",
   "411Mania",
   "92.9 WBUF",
+  "95.9 The RAT",
   "95.9 The Rat",
   "9News",
   "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -180,7 +182,6 @@
   "Tinnitist",
   "Toronto Guardian",
   "TribLIVE.com",
-  "Tullahoma News",
   "Ultimate Guitar",
   "V13 Media",
   "VICE",
@@ -257,9 +258,29 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 361,
- "detail_count": 260,
+ "count": 360,
+ "detail_count": 261,
  "items": [
+  {
+   "id": "6f6c0f4882caf718",
+   "url": "https://wrat.com/event/wrat-presents-the-interrupters-at-starland-ballroom",
+   "title_original": "WRAT Presents: The Interrupters at Starland Ballroom",
+   "source": "95.9 The RAT",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-03T03:39:40+00:00",
+   "title_ja": "The Interruptersのスターランド・ボールルーム公演が決定",
+   "summary_ja": "ラジオ局WRATの主催により、The Interruptersがスターランド・ボールルームでライブを開催することが明らかになった。",
+   "category": "ライブ・ツアー",
+   "band": "The Interrupters",
+   "artists": [
+    "The Interrupters"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "1bb852ae0e57a624",
    "url": "https://lamag.com/music/the-linda-lindas-birthed-by-the-los-angeles-punk-scene",
@@ -939,7 +960,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7c1c7b8389dae83a",
@@ -7697,46 +7718,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "6c4924307f0262ec",
-   "url": "https://www.tullahomanews.com/arts-entertainment/2026/08/19/my-chemical-romance-delivers-campy-yet-nostalgic-theatrical-performance-to-a-sold-out-nissan-stadium",
-   "title_original": "My Chemical Romance delivers campy, yet nostalgic, theatrical performance to a sold-out Nissan Stadium",
-   "source": "Tullahoma News",
-   "image": "https://www.tullahomanews.com/wp-content/uploads/sites/20/2026/08/Photo-Aug-14-2026-3-05-47-AM-scaled.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-19T15:33:04+00:00",
-   "title_ja": "My Chemical Romanceが満員のニッサン・スタジアムで演劇的なステージを展開",
-   "summary_ja": "My Chemical Romanceがチケット完売のニッサン・スタジアム公演にて、どこか懐かしさを感じさせるシアトリカルなステージを披露しました。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "5f4a00b2869c2ddc",
-   "url": "https://chorus.fm/news/the-linda-lindas-perform-on-kimmel-4",
-   "title_original": "The Linda Lindas Perform on Kimmel",
-   "source": "chorus.fm",
-   "image": "https://chorus.fm/wp-content/uploads/2021/05/the-linda-lindas.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-19T15:14:01+00:00",
-   "title_ja": "The Linda Lindasが米人気テレビ番組「Kimmel」でパフォーマンスを披露",
-   "summary_ja": "The Linda Lindasが、アメリカのテレビ番組「Jimmy Kimmel Live!」に出演し、パフォーマンスを披露しました。詳しい演奏曲などの詳細は明かされていませんが、彼女たちのテレビ出演でのパフォーマンスに注目が集まっています。",
-   "category": "その他",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
