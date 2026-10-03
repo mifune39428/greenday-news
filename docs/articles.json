@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T13:58:27.795450+09:00",
+ "updated_at": "2026-10-03T20:28:55.395639+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -258,7 +258,7 @@
   "激ロック"
  ],
  "count": 361,
- "detail_count": 261,
+ "detail_count": 260,
  "items": [
   {
    "id": "1bb852ae0e57a624",
@@ -342,26 +342,6 @@
    "detail_tries": 2
   },
   {
-   "id": "6390f1ac55c1a9f4",
-   "url": "https://www.yahoo.com/entertainment/music/articles/rancid-looks-back-wolves-35-171839162.html",
-   "title_original": "Rancid Looks Back On ‘Wolves’ At 35",
-   "source": "Yahoo",
-   "image": "https://s.yimg.com/lo/mysterio/api/ed46b0cdd1f014b75d7646d20994f8a5cf47079fcedea3a0593d68b17c85cb73/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fspin_digital_media%2F11c9c0c7da74749391ee5f43116ce0de.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T17:18:39+00:00",
-   "title_ja": "Rancidが名盤『Wolves』の35年を振り返る",
-   "summary_ja": "Rancidの代表作である『…And Out Come the Wolves』のリリースから35年が経ち、当時の制作背景やバンドの歴史を改めて振り返っている。",
-   "category": "メンバー・発言",
-   "band": "Rancid",
-   "artists": [
-    "Rancid"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
    "id": "acbb1c758f3f49bd",
    "url": "https://www.irishstar.com/culture/entertainment/my-chemical-romance-frank-iero-37729028",
    "title_original": "My Chemical Romance's Frank Iero stands up against Cornell 7 as he calls for 'public castration'",
@@ -393,6 +373,26 @@
    "published": "2026-10-02T16:30:01+00:00",
    "title_ja": "Rancidが『...And Out Come the Wolves』の大型ボックスセットを発売へ",
    "summary_ja": "Rancidの名盤『...And Out Come the Wolves』を記念した、ボリューム満点の大型ボックスセットのリリースが決定した。",
+   "category": "再発・記念盤",
+   "band": "Rancid",
+   "artists": [
+    "Rancid"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "6b8918a7a10a69e8",
+   "url": "https://consequence.net/2026/10/rancid-30th-anniversary-and-out-come-the-wolves-box-set",
+   "title_original": "Rancid Announce 30th Anniversary …And Out Come the Wolves Box Set",
+   "source": "Consequence",
+   "image": "https://consequence.net/wp-content/uploads/2026/10/Rancid-And-Out-Come-the-Wolves-30th-anniversary-.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T16:17:54+00:00",
+   "title_ja": "Rancid、『...And Out Come the Wolves』30周年BOX発表",
+   "summary_ja": "Rancidは名作『...And Out Come the Wolves』の30周年を記念したスペシャルなボックスセットの発売を正式にアナウンスした。",
    "category": "再発・記念盤",
    "band": "Rancid",
    "artists": [
@@ -918,6 +918,28 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "7b336c3e5890046c",
+   "url": "https://www.sonicperspectives.com/news/bad-religion-refused-veterans-in-fake-names-just-dropped-if-you-could-see-me-today",
+   "title_original": "BAD RELIGION & REFUSED Veterans In FAKE NAMES Just Dropped “If You Could See Me Today”",
+   "source": "Sonic Perspectives",
+   "image": "https://www.sonicperspectives.com/wp-content/uploads/2026/09/Fake-Names-1.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T20:29:27+00:00",
+   "title_ja": "Bad ReligionとRefusedのメンツによるFake Namesが新曲をリリース",
+   "summary_ja": "Bad ReligionやRefusedのメンバーらが在籍するプロジェクト、Fake Namesが新曲「If You Could See Me Today」をリリースした。",
+   "category": "新曲・新作",
+   "band": "Bad Religion",
+   "artists": [
+    "Bad Religion",
+    "Refused",
+    "Fake Names"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "7c1c7b8389dae83a",
@@ -7715,26 +7737,6 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "777f9e6039a55343",
-   "url": "https://www.nme.com/news/music/will-green-day-ever-headline-glastonbury-we-asked-them-3963599",
-   "title_original": "Will Green Day ever headline Glastonbury? We asked them",
-   "source": "NME",
-   "image": "https://www.nme.com/wp-content/uploads/2026/08/green-day@2000x1270-1.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-19T09:53:31+00:00",
-   "title_ja": "Green DayがGlastonburyのヘッドライナーを務める可能性を語る",
-   "summary_ja": "音楽メディアのNMEがGreen Dayに対して、将来的にGlastonbury Festivalのヘッドライナーを務める可能性について直撃インタビューを行った。バンド自身がフェス出演やヘッドライナーへの思いを語っている。",
-   "category": "メンバー・発言",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
