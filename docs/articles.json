@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T07:03:48.667681+09:00",
+ "updated_at": "2026-10-03T13:58:27.795450+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -220,6 +220,7 @@
   "iHeart",
   "inkl",
   "knotfest.com",
+  "lamag.com",
   "lambgoat.com",
   "live in limbo",
   "lmusic.tokyo",
@@ -256,9 +257,29 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 360,
- "detail_count": 260,
+ "count": 361,
+ "detail_count": 261,
  "items": [
+  {
+   "id": "1bb852ae0e57a624",
+   "url": "https://lamag.com/music/the-linda-lindas-birthed-by-the-los-angeles-punk-scene",
+   "title_original": "The Linda Lindas: Birthed by the Los Angeles Punk Scene",
+   "source": "lamag.com",
+   "image": "https://lamag.com/wp-content/uploads/2026/08/The-Linda-Lindas-by-Jaxon-Whittington-scaled.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T23:38:25+00:00",
+   "title_ja": "LAパンクシーン発のバンドThe Linda Lindasを特集した記事",
+   "summary_ja": "ロサンゼルスのパンクシーンから誕生し、世界的な注目を集めるガールズバンドThe Linda Lindasを取り上げた記事。地元LAの音楽カルチャーが彼女たちをどのように育んできたのかを紐解いている。",
+   "category": "メンバー・発言",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "24530cb497481be8",
    "url": "https://www.wewriteaboutmusic.com/festivals/bad-religion-ohana-festival-2026",
@@ -318,7 +339,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6390f1ac55c1a9f4",
@@ -419,7 +440,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f16cfdd29dcdce84",
@@ -461,7 +482,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3ab453c262ff9f87",
