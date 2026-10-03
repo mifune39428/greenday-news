@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T01:05:33.804733+09:00",
+ "updated_at": "2026-10-04T05:55:17.363900+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -258,8 +258,8 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 360,
- "detail_count": 261,
+ "count": 358,
+ "detail_count": 259,
  "items": [
   {
    "id": "6f6c0f4882caf718",
@@ -7674,46 +7674,6 @@
    "band": "Green Day",
    "artists": [
     "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b864bd3d3d4ae1ba",
-   "url": "https://consequence.net/2026/08/weezer-dont-have-to-fake-it-on-the-gold-album-review",
-   "title_original": "Weezer Don’t Have to Fake It on The Gold Album: Review",
-   "source": "Consequence",
-   "image": "https://consequence.net/wp-content/uploads/2026/08/weezer-gold-album-photo-Brendan-Walter.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-19T19:00:44+00:00",
-   "title_ja": "Weezerの新作『Gold Album』アルバムレビュー",
-   "summary_ja": "Weezerが放つ通算20作目のスタジオ・アルバム『Gold Album』についての音楽レビュー。等身大の魅力が詰まった本作の聴きどころや、楽曲の仕上がりについて批評している。",
-   "category": "新曲・新作",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "2d9e53111ea0787b",
-   "url": "https://www.jambase.com/article/my-chemical-romance-bob-dylan-cover-washington-dc",
-   "title_original": "My Chemical Romance Busts Out Bob Dylan Cover In Washington D.C.",
-   "source": "JamBase",
-   "image": "https://www.jambase.com/wp-content/uploads/2026/08/my-chemical-romance-live-2026-2-1480x832.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-19T16:44:00+00:00",
-   "title_ja": "My Chemical RomanceがワシントンD.C.公演でボブ・ディランのカバーを披露",
-   "summary_ja": "My Chemical RomanceがワシントンD.C.でのライブにて、ボブ・ディランの楽曲のカバーを突然演奏して会場を沸かせました。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
    ],
    "japan": false,
    "importance": 3,
