@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T14:30:57.352230+09:00",
+ "updated_at": "2026-10-04T21:10:09.106613+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -255,11 +255,10 @@
   "v13.net",
   "vijesti.me",
   "wecb.fm",
-  "チバテレ",
   "激ロック"
  ],
- "count": 359,
- "detail_count": 259,
+ "count": 357,
+ "detail_count": 258,
  "items": [
   {
    "id": "6f6c0f4882caf718",
@@ -549,7 +548,7 @@
    ],
    "japan": true,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2c09ebe5a4283057",
@@ -7661,47 +7660,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "23b8484ff0c98eed",
-   "url": "https://guitar.com/news/gear-news/green-day-mike-dirnt-reverb-shop",
-   "title_original": "Green Day bassist Mike Dirnt is selling Dookie-, Nimrod- and American Idiot-era gear and clothing on Reverb",
-   "source": "Guitar.com",
-   "image": "https://guitar.com/wp-content/uploads/2026/08/Mike-Dirnt-hero@2000x1500-1068x801.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-20T10:26:57+00:00",
-   "title_ja": "Green DayのMike Dirntが歴代の機材を出品",
-   "summary_ja": "Green DayのベーシストであるMike Dirntが、『Dookie』や『American Idiot』時代に使用した楽器や衣類をReverbで販売する。",
-   "category": "その他",
-   "band": "Green Day",
-   "artists": [
-    "Green Day",
-    "Mike Dirnt"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "48430961a46bda09",
-   "url": "https://www.chiba-tv.com/plus/detail/2026081920537",
-   "title_original": "「お蔵入り」から一転？グリーン・デイ『アメリカン・イディオット』映画化へ話し合いが進行か",
-   "source": "チバテレ",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1463080160905430574/origin_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-20T07:58:14+00:00",
-   "title_ja": "グリーン・デイ『American Idiot』の映画化が再浮上か",
-   "summary_ja": "長年お蔵入りと噂されていたGreen Dayの代表作『American Idiot』の映画化に向けて、再び話し合いが進められていることが明らかになった。",
-   "category": "映像・映画・書籍",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": true,
-   "importance": 4,
    "detail_tries": 2
   }
  ]
