@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T05:55:17.363900+09:00",
+ "updated_at": "2026-10-04T14:30:57.352230+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -36,6 +36,7 @@
  ],
  "sources": [
   "13thfloor.co.nz",
+  "2YOU MAGAZINE",
   "411Mania",
   "92.9 WBUF",
   "95.9 The RAT",
@@ -54,7 +55,6 @@
   "Britannica",
   "California.com",
   "CelebrityAccess",
-  "Central Oregon Daily",
   "Consequence",
   "DU Clarion",
   "Daily Sabah",
@@ -258,7 +258,7 @@
   "チバテレ",
   "激ロック"
  ],
- "count": 358,
+ "count": 359,
  "detail_count": 259,
  "items": [
   {
@@ -529,6 +529,29 @@
    "has_detail": true
   },
   {
+   "id": "870bfb7aedd6d0b5",
+   "url": "https://2youmagazine.com/news/nofx261002",
+   "title_original": "NOFX、結成から引退、そして現在までを追ったドキュメンタリー映画「NOFX：40 Years of Fuckin’Up」日本劇場公開決定！BAD RELIGION、THE OFFSPRING、PENNYWISE、Hi-STANDARD、SUM 41のメンバーも出演！【ニュース】",
+   "source": "2YOU MAGAZINE",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-02T10:00:54+00:00",
+   "title_ja": "NOFXのドキュメンタリー映画『NOFX：40 Years of Fuckin’Up』日本劇場公開が決定",
+   "summary_ja": "結成から引退までを追ったNOFXのドキュメンタリー映画『NOFX：40 Years of Fuckin’Up』の日本劇場公開が決定しました。本作にはBAD RELIGIONやTHE OFFSPRING、Hi-STANDARDなどのメンバーも出演します。",
+   "category": "映像・映画・書籍",
+   "band": "NOFX",
+   "artists": [
+    "NOFX",
+    "BAD RELIGION",
+    "THE OFFSPRING",
+    "Hi-STANDARD"
+   ],
+   "japan": true,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "2c09ebe5a4283057",
    "url": "https://torontoguardian.com/2026/10/weezer-the-gathering-concert-review-oh-yeah-alright",
    "title_original": "Weezer: The Gathering (Concert Review): Oh Yeah, Alright",
@@ -665,6 +688,28 @@
    "band": "Weezer",
    "artists": [
     "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "643ae8f1e09978fc",
+   "url": "https://www.thatericalper.com/2026/09/30/dropkick-murphys-announce-2027-st-patricks-day-tour-with-home-front-and-spiritual-cramp",
+   "title_original": "Dropkick Murphys Announce 2027 'St. Patrick’s Day Tour' With Home Front And Spiritual Cramp",
+   "source": "That Eric Alper",
+   "image": "https://www.thatericalper.com/wp-content/uploads/2026/09/download-2026-09-30T202141.947.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-01T00:21:58+00:00",
+   "title_ja": "Dropkick Murphys、Home Frontら出演の2027年「St. Patrick’s Day Tour」を発表",
+   "summary_ja": "Dropkick Murphysが、2027年に開催する恒例の「St. Patrick’s Day Tour」の日程を発表しました。ゲストとしてHome FrontとSpiritual Crampが同行します。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys",
+    "Home Front",
+    "Spiritual Cramp"
    ],
    "japan": false,
    "importance": 3,
@@ -7658,26 +7703,6 @@
    "japan": true,
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "08fe8fceda49df40",
-   "url": "https://www.centraloregondaily.com/news/entertainment/green-day-shares-the-real-life-moments-that-inspired-nimrods/article_0a9a4db8-ff01-5c9d-b627-655c892db688.html",
-   "title_original": "Green Day shares the real-life moments that inspired 'Nimrods'",
-   "source": "Central Oregon Daily",
-   "image": "https://bloximages.chicago2.vip.townnews.com/centraloregondaily.com/content/tncms/assets/v3/editorial/9/87/9879d191-981b-5e38-a3da-06c823fdaea1/6a864b5de3b40.image.jpg?crop=678%2C356%2C60%2C0",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-20T00:17:30+00:00",
-   "title_ja": "Green Dayが名盤『Nimrod』のインスピレーションとなった実体験を明かす",
-   "summary_ja": "Green Dayが、自身らの作品『Nimrod』にインスピレーションを与えた現実の出来事について語りました。当時のリアルな瞬間や、楽曲制作の背景にある実体験についてメンバー自らが明かしています。",
-   "category": "メンバー・発言",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
