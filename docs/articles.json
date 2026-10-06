@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T15:08:26.310455+09:00",
+ "updated_at": "2026-10-07T03:14:13.815078+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -46,6 +46,7 @@
   "AZ Big Media",
   "Arab News",
   "Audacy",
+  "Azernews.az",
   "BLABBERMOUTH.NET",
   "Bass Magazine",
   "Beaver County Times",
@@ -56,6 +57,7 @@
   "CelebrityAccess",
   "Consequence",
   "Creepy Catalog",
+  "DIY Magazine",
   "DU Clarion",
   "Detroit Metro Times",
   "East Bay Times",
@@ -111,6 +113,7 @@
   "Netto's Game Room",
   "New Noise Magazine",
   "NextMosh",
+  "Northern Transmissions",
   "Oh No They Didn't! — LiveJournal",
   "Our Culture Mag",
   "PUNKLOID",
@@ -155,6 +158,7 @@
   "That Eric Alper",
   "The Aquarian",
   "The Business Journals",
+  "The Concordian",
   "The Courier-Journal",
   "The Daily Aztec",
   "The Daily Iowan",
@@ -195,6 +199,7 @@
   "Yahoo",
   "Yahoo Lifestyle Australia",
   "Yahoo News Canada",
+  "Yahoo News New Zealand",
   "Yahoo!ニュース",
   "ad-hoc-news.de",
   "amass",
@@ -217,6 +222,7 @@
   "hercampus.com",
   "hoodline.com",
   "iHeart",
+  "indieofilo.com",
   "inkl",
   "killthemusic.net",
   "knotfest.com",
@@ -259,9 +265,131 @@
   "شبكة تواصل الإخبارية",
   "激ロック"
  ],
- "count": 352,
- "detail_count": 258,
+ "count": 357,
+ "detail_count": 261,
  "items": [
+  {
+   "id": "a19320fde069fcfd",
+   "url": "https://nz.news.yahoo.com/paramore-hayley-williams-unleashes-profanity-173950618.html",
+   "title_original": "Paramore’s Hayley Williams unleashes profanity-filled response after DHS tells her to ‘thank’ ICE",
+   "source": "Yahoo News New Zealand",
+   "image": "https://s.yimg.com/lo/mysterio/api/f24713658fec2f28ca993123de5d817a46324b1332a1baf13d1a3f9d9f45bc39/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F9dc36df50d826630b081541edbea7768.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-06T17:39:50+00:00",
+   "title_ja": "ParamoreのHayley Williams、国土安全保障省からの要求に猛反発",
+   "summary_ja": "国土安全保障省（DHS）から移民・関税執行局（ICE）へ感謝の意を示すよう求められたParamoreのHayley Williamsが、これに対して強い言葉で激しく反論した。",
+   "category": "メンバー・発言",
+   "band": "Paramore",
+   "artists": [
+    "Paramore",
+    "Hayley Williams"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "9c0f13f560f98c23",
+   "url": "https://www.lambgoat.com/news/55206/fall-out-boy-officially-wide-release-it-feels-like-christmas",
+   "title_original": "FALL OUT BOY officially wide release \"It Feels Like Christmas\"",
+   "source": "Lambgoat",
+   "image": "https://lambgoat.com/cdn/2026/fall-out-boy-26-20261006101417.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-06T17:22:00+00:00",
+   "title_ja": "Fall Out Boy、「It Feels Like Christmas」を正式にワイドリリース",
+   "summary_ja": "Fall Out Boyが楽曲「It Feels Like Christmas」の正式な一般配信（ワイドリリース）を開始した。これまで限られた形で公開されていた楽曲が広く聴けるようになっている。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "3c44d699b5dfe507",
+   "url": "https://www.punknews.org/article/89260/fall-out-boy-release-christmas-song",
+   "title_original": "Fall Out Boy release Christmas song",
+   "source": "Punknews.org",
+   "image": "https://static.punknews.org/images/bands/falloutboy-1674054692.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-06T17:00:01+00:00",
+   "title_ja": "Fall Out Boyがクリスマスソングを公開",
+   "summary_ja": "Fall Out Boyがクリスマスソングを音源としてリリースした。バンドからファンに向けたホリデーシーズン向けの楽曲公開となっており、注目の新曲として配信が開始されている。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "43c6ae665ec0cc62",
+   "url": "https://diymag.com/interview/the-linda-lindas-gotta-get-out-september-2026",
+   "title_original": "The Linda Lindas : In It Together",
+   "source": "DIY Magazine",
+   "image": "https://d94thh4m1x8qv.cloudfront.net/d/diy/Artists/L/The-Linda-Lindas/DIY-163/_1500x1000_crop_center-center_100_line/Photo-Jun-15-2026-5-41-23-PM-2-2.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-06T14:00:00+00:00",
+   "title_ja": "The Linda Lindasの特集記事「In It Together」が公開",
+   "summary_ja": "The Linda Lindasを特集した記事「In It Together」が公開された。メンバー同士の結束やバンド活動への取り組み、その最新状況について掘り下げられた内容となっている。",
+   "category": "メンバー・発言",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "2ad593c2b73e34e1",
+   "url": "https://www.azernews.az/culture/265045.html",
+   "title_original": "Green Day's Billie Joe Armstrong returns home for special Coverups show [PHOTOS]",
+   "source": "Azernews.az",
+   "image": "https://www.azernews.az/media/2026/10/06/frfref3.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-06T09:14:22+00:00",
+   "title_ja": "Billie Joe Armstrongが自宅近郊でCoverupsの特別ライブを開催",
+   "summary_ja": "Green DayのBillie Joe Armstrongが故郷に戻り、サイドプロジェクトであるThe Coverupsのスペシャルライブを実施した。（106文字）",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Green Day",
+    "Billie Joe Armstrong"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "870854700430cf8e",
+   "url": "https://theconcordian.com/2026/10/weezer-the-gathering-tour-review",
+   "title_original": "The Gathering Tour: You Just Got Weezered!",
+   "source": "The Concordian",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-06T08:21:31+00:00",
+   "title_ja": "WeezerがThe Gathering Tourで見せたステージ",
+   "summary_ja": "Weezerが参加しているThe Gathering Tourの様子や、ライブでのパフォーマンス内容について報じられている。（93文字）",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "eb5869b56972d47f",
    "url": "https://theneedledrop.com/news/blink-182-first-date-vinyl-figures-toys-action-music-video",
@@ -277,26 +405,6 @@
    "band": "Blink-182",
    "artists": [
     "Blink-182"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "ec06d66c5e501e9a",
-   "url": "https://www.theaquarian.com/2026/10/05/weezer-celebrate-their-12th-studio-album-september-30-2026",
-   "title_original": "Weezer Celebrate their 12th Studio Album / September 30, 2026",
-   "source": "The Aquarian",
-   "image": "https://www.theaquarian.com/wp-content/uploads/2026/10/2026-09-30-Weezer-Barclays-Center-Ehud-Lazin-7-1024x683.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-05T21:32:13+00:00",
-   "title_ja": "Weezer、12枚目のスタジオ・アルバムの記念日を祝福",
-   "summary_ja": "Weezerが12枚目のスタジオ・アルバムのリリース記念日をファンと共に祝福し、これまでの音楽活動の歩みを振り返っている。",
-   "category": "再発・記念盤",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
    ],
    "japan": false,
    "importance": 2,
@@ -320,6 +428,26 @@
    ],
    "japan": false,
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "bf6e84d2fc3251c4",
+   "url": "https://www.indieofilo.com/en/news/may-2027-will-see-the-interrupters-return-to-spain",
+   "title_original": "May 2027 will see The Interrupters return to Spain",
+   "source": "indieofilo.com",
+   "image": "http://www.indieofilo.com/wp-content/uploads/2026/10/The_Interrupters_Spain_2027.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-05T16:34:00+00:00",
+   "title_ja": "The Interruptersが2027年5月にスペイン公演を開催へ",
+   "summary_ja": "The Interruptersが、2027年5月にスペインへ戻ってライブツアーを行うことが明らかになった。（87文字）",
+   "category": "ライブ・ツアー",
+   "band": "The Interrupters",
+   "artists": [
+    "The Interrupters"
+   ],
+   "japan": false,
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -405,6 +533,26 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "626406207ff360b5",
+   "url": "https://northerntransmissions.com/the-linda-lindas-debut-new-single",
+   "title_original": "The Linda Lindas debut new single",
+   "source": "Northern Transmissions",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-05T11:56:14+00:00",
+   "title_ja": "The Linda Lindasが新曲を新たにリリース",
+   "summary_ja": "注目の若手バンド、The Linda Lindasがファン待望の新しいシングル曲をリリースし、その楽曲を披露した。（92文字）",
+   "category": "新曲・新作",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "68c1a6142c9b7ba2",
@@ -7521,47 +7669,6 @@
    "japan": false,
    "importance": 2,
    "has_detail": true
-  },
-  {
-   "id": "15bb3e633d5edc98",
-   "url": "https://www.theoaklandpress.com/2026/08/22/my-chemical-romance-iggy-pop-give-comerica-park-a-serious-shaking",
-   "title_original": "My Chemical Romance, Iggy Pop give Comerica Park a serious shaking",
-   "source": "The Oakland Press",
-   "image": "https://www.theoaklandpress.com/wp-content/uploads/2026/08/MCRComericaGerard.jpg?w=3168&h=2376",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-22T13:25:58+00:00",
-   "title_ja": "My Chemical RomanceとIggy Popがコメリカ・パーク公演で観客を熱狂させる",
-   "summary_ja": "My Chemical Romanceが、Iggy Popと共にコメリカ・パークでライブを開催しました。圧巻のパフォーマンスを披露し、会場に集まった多くの観客を大いに熱狂させました。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "Iggy Pop"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8799a45e6d2db251",
-   "url": "https://www.detroitnews.com/story/entertainment/music/2026/08/22/my-chemical-romance-lets-the-black-parade-loose-at-comerica-park/91416611007",
-   "title_original": "My Chemical Romance goes full theater kid at Comerica Park performance",
-   "source": "The Detroit News",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-22T13:00:00+00:00",
-   "title_ja": "My Chemical Romance、コメリカ・パーク公演で演劇的な世界観を全力で表現",
-   "summary_ja": "My Chemical Romanceがコメリカ・パークでライブを行いました。彼らの特徴であるドラマチックで演劇的な世界観をステージ上で存分に発揮し、観客を魅了する素晴らしいパフォーマンスを披露しました。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
