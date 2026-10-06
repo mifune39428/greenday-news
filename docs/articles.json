@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T23:19:03.613972+09:00",
+ "updated_at": "2026-10-06T15:08:26.310455+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -55,6 +55,7 @@
   "California.com",
   "CelebrityAccess",
   "Consequence",
+  "Creepy Catalog",
   "DU Clarion",
   "Detroit Metro Times",
   "East Bay Times",
@@ -96,7 +97,6 @@
   "MELODIC Magazine",
   "MUSIC LIFE CLUB",
   "Media Play News",
-  "MediaPost",
   "Men's Journal",
   "Metal Injection",
   "Metal Insider",
@@ -114,6 +114,7 @@
   "Oh No They Didn't! — LiveJournal",
   "Our Culture Mag",
   "PUNKLOID",
+  "Parklife DC",
   "Parksville Qualicum News",
   "Paste Magazine",
   "Penticton Western News",
@@ -140,7 +141,6 @@
   "SSBCrack",
   "Sada Elbalad english",
   "Secret Los Angeles",
-  "Showbiz by PS",
   "Sonic Perspectives",
   "Sortir à Paris",
   "Spectrum Culture",
@@ -153,6 +153,7 @@
   "TacomaWeekly",
   "Tarrant County College",
   "That Eric Alper",
+  "The Aquarian",
   "The Business Journals",
   "The Courier-Journal",
   "The Daily Aztec",
@@ -217,6 +218,7 @@
   "hoodline.com",
   "iHeart",
   "inkl",
+  "killthemusic.net",
   "knotfest.com",
   "lamag.com",
   "lambgoat.com",
@@ -245,6 +247,7 @@
   "tcnjsignalnews.com",
   "themusic.com.au",
   "themusicman.uk",
+  "theneedledrop.com",
   "thepost.co.nz",
   "theriffreport.co.uk",
   "trillmag.com",
@@ -253,11 +256,134 @@
   "v13.net",
   "vijesti.me",
   "wfmd.com",
+  "شبكة تواصل الإخبارية",
   "激ロック"
  ],
- "count": 351,
- "detail_count": 256,
+ "count": 352,
+ "detail_count": 258,
  "items": [
+  {
+   "id": "eb5869b56972d47f",
+   "url": "https://theneedledrop.com/news/blink-182-first-date-vinyl-figures-toys-action-music-video",
+   "title_original": "Blink-182 turn their iconic \"First Date\" alter egos into collectible figures",
+   "source": "theneedledrop.com",
+   "image": "https://theneedledrop.com/content/images/2026/10/b2cdda0c-90f2-0c34-dcc9-cfc66f9b29e7.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-05T23:01:02+00:00",
+   "title_ja": "Blink-182、「First Date」の衣装を着たフィギュアを発売",
+   "summary_ja": "Blink-182が名曲「First Date」のMVに登場した変装キャラクターをコレクターズ・フィギュアとして発売することが明らかになった。",
+   "category": "新曲・新作",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "ec06d66c5e501e9a",
+   "url": "https://www.theaquarian.com/2026/10/05/weezer-celebrate-their-12th-studio-album-september-30-2026",
+   "title_original": "Weezer Celebrate their 12th Studio Album / September 30, 2026",
+   "source": "The Aquarian",
+   "image": "https://www.theaquarian.com/wp-content/uploads/2026/10/2026-09-30-Weezer-Barclays-Center-Ehud-Lazin-7-1024x683.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-05T21:32:13+00:00",
+   "title_ja": "Weezer、12枚目のスタジオ・アルバムの記念日を祝福",
+   "summary_ja": "Weezerが12枚目のスタジオ・アルバムのリリース記念日をファンと共に祝福し、これまでの音楽活動の歩みを振り返っている。",
+   "category": "再発・記念盤",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "88dd6e7610fec68f",
+   "url": "https://killthemusic.net/blog/rancid-announce-and-out-come-the-wolves-30th-anniversary-box-set",
+   "title_original": "Rancid Announce “…And Out Come The Wolves” 30th Anniversary Box Set",
+   "source": "killthemusic.net",
+   "image": "http://static1.squarespace.com/static/5282904fe4b06dd1d21607b7/t/6ac405d58fd9aa235e58e9ff/1791231445368/6861.jpg?format=1500w",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-05T20:17:27+00:00",
+   "title_ja": "Rancid、名盤の30周年記念ボックスセットを発表",
+   "summary_ja": "Rancidが傑作アルバム『…And Out Come The Wolves』の30周年を記念した特別仕様のボックスセットのリリースを発表した。",
+   "category": "再発・記念盤",
+   "band": "Rancid",
+   "artists": [
+    "Rancid"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "ad8c899d2a4fca08",
+   "url": "https://www.theaquarian.com/2026/10/05/weezer-turns-new-york-city-gold",
+   "title_original": "Weezer Turns New York City Gold",
+   "source": "The Aquarian",
+   "image": "https://www.theaquarian.com/wp-content/uploads/2026/10/2026-09-30-Weezer-Barclays-Center-Ehud-Lazin-12-1024x683.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-05T15:30:00+00:00",
+   "title_ja": "Weezer、ニューヨーク公演で圧倒的なステージを披露",
+   "summary_ja": "Weezerがニューヨーク市内でコンサートを開催し、観客を熱狂の渦に巻き込んで街を大いに盛り上げた。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "658047ed0955485a",
+   "url": "https://parklifedc.com/2026/10/05/live-review-weezer-w-the-shins-and-silversun-pickups-capital-one-arena-10-2-26",
+   "title_original": "Live Review: Weezer w/ The Shins and Silversun Pickups @ Capital One Arena — 10/2/26",
+   "source": "Parklife DC",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-05T15:17:32+00:00",
+   "title_ja": "Weezer、The Shinsらと共演したワシントンDC公演のライブレポ",
+   "summary_ja": "WeezerがThe ShinsやSilversun Pickupsを従えてワシントンのキャピタル・ワン・アリーナで行ったライブのレポートが公開された。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "The Shins",
+    "Silversun Pickups"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "b26d8dab102d770a",
+   "url": "https://twaslnews1.twaslnews.com/5613640",
+   "title_original": "Watch Blink-182 play intimate private show at Coachella Valley",
+   "source": "شبكة تواصل الإخبارية",
+   "image": "https://twaslnews1.twaslnews.com/wp-content/uploads/2026/10/NMEAR_NME-READING-2024-BLINK-182-LIVE-25-CREDIT-ANDY-FORD@2000x1270-1200x675.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-05T15:11:25+00:00",
+   "title_ja": "Blink-182がコーチェラ・バレーでプライベート公演を開催",
+   "summary_ja": "Blink-182がコーチェラ・バレーの会場にて、限られた観客に向けたプライベートなシークレットライブを行った。",
+   "category": "ライブ・ツアー",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "ebf0235d7b1e03c3",
    "url": "https://www.punknews.org/article/89243/festsandevents-blink-182-faith-no-more-billy-talent-more-to-play-rock-for-people-2027",
@@ -298,7 +424,28 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "24b54e03d5e9aeed",
+   "url": "https://creepycatalog.com/former-weezer-bassist-mikey-welsh-tweeted-about-a-dream-of-dying-in-chicago-he-died-there-12-days-later",
+   "title_original": "Former Weezer Bassist Mikey Welsh Tweeted About a Dream of Dying in Chicago. He Died There 12 Days Later",
+   "source": "Creepy Catalog",
+   "image": "https://creepycatalog.com/wp-content/uploads/sites/2/2026/10/former-weezer-bassist-mikey-welsh-tweeted-about-a-dream-of-dying-in-chicago-he-d.jpg?w=1024",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-04T23:22:43+00:00",
+   "title_ja": "元WeezerのMikey Welshがシカゴでの死を予言していた過去のツイート",
+   "summary_ja": "Weezerの元ベーシストであるMikey Welshが、シカゴで亡くなる12日前に自身の死を予言するような夢についてツイートしていたことが話題となっている。",
+   "category": "メンバー・発言",
+   "band": "Weezer",
+   "artists": [
+    "Mikey Welsh",
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "d04eb4123a095283",
@@ -7415,129 +7562,6 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "8d12c042548497e7",
-   "url": "https://www.mediapost.com/publications/article/413927/hollister-makes-gen-z-oriented-green-day-video.html",
-   "title_original": "Hollister Makes Gen Z-Oriented 'Green Day' Video 03/30/2026",
-   "source": "MediaPost",
-   "image": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/03/29/hollister_q8RJUo2.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-21T23:56:25+00:00",
-   "title_ja": "アパレルブランドのHollisterがGreen Dayを起用したZ世代向け動画を制作",
-   "summary_ja": "アパレルブランド of Hollisterが、Z世代をターゲットにしたGreen Day関連の動画を制作したことが明らかになった。ブランドとバンドのコラボレーションに注目が集まる。",
-   "category": "その他",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "f2d9f02c28fe22ee",
-   "url": "https://www.metrotimes.com/music-2/weezer-made-another-album-unfortunately",
-   "title_original": "Weezer made another album. Unfortunately",
-   "source": "Detroit Metro Times",
-   "image": "https://www.metrotimes.com/wp-content/uploads/2026/08/shutterstock_1522950644-scaled.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-21T19:37:55+00:00",
-   "title_ja": "Weezerが新作アルバムを発表",
-   "summary_ja": "Weezerが新たにアルバムをリリースしたことを伝える短いニュース記事です。詳細は本文を参照してください。",
-   "category": "新曲・新作",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b0761aab11de504d",
-   "url": "https://www.theprp.com/2026/08/21/news/watch-frank-zummo-electric-callboy-ex-sum-41-come-up-with-his-own-drum-parts-for-the-dillinger-escape-plans-milk-lizard-for-drumeo",
-   "title_original": "Watch Frank Zummo (Electric Callboy/Ex-Sum 41) Come Up With His Own Drum Parts For The Dillinger Escape Plan's \"Milk Lizard\" For Drumeo",
-   "source": "The PRP",
-   "image": "https://www.theprp.com/app/uploads/2026/08/frankzummodrumeo-1200x675.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-21T18:05:15+00:00",
-   "title_ja": "元Sum 41のFrank Zummoがドラム演奏を披露",
-   "summary_ja": "元Sum 41のFrank ZummoがDrumeoの企画に登場し、The Dillinger Escape Planの名曲のドラムパートを自身で考案して叩く様子を公開。",
-   "category": "映像・映画・書籍",
-   "band": "Sum 41",
-   "artists": [
-    "Frank Zummo",
-    "Electric Callboy",
-    "The Dillinger Escape Plan"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "dce919854d6b2555",
-   "url": "https://rock929rocks.com/2026/08/21/green-day-bassist-mike-dirnt-to-sell-career-spanning-gear-collection-on-reverb",
-   "title_original": "Green Day Bassist Mike Dirnt to Sell Career-Spanning Gear Collection on Reverb",
-   "source": "Boston's ROCK 92.9",
-   "image": "https://rock929rocks.com/uploads/2026/08/GettyImages-2289755206-e1787330098643.jpg?auto=webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-21T16:36:04+00:00",
-   "title_ja": "Green DayのMike Dirnt、歴代の愛用機材コレクションをReverbで売却へ",
-   "summary_ja": "Green DayのベーシストであるMike Dirntが、自身のこれまでのキャリアを共にしてきた楽器や機材のコレクションを、楽器専門フリマサイト「Reverb」にて売却することが明らかになった。",
-   "category": "メンバー・発言",
-   "band": "Green Day",
-   "artists": [
-    "Green Day",
-    "Mike Dirnt"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "8494ae96c15de077",
-   "url": "https://faroutmagazine.co.uk/still-carrying-on-my-chemical-romance-gives-us-a-look-at-the-american-nightmare",
-   "title_original": "Still carrying on: My Chemical Romance gives us a look at the American nightmare",
-   "source": "Far Out Magazine",
-   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/07/The-Kids-from-Yesterday-MCR-and-the-art-of-emo-nostalgia-in-2026-Far-Out-Magazine.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-21T15:09:50+00:00",
-   "title_ja": "My Chemical Romanceが描くアメリカの現実",
-   "summary_ja": "My Chemical Romanceの楽曲や活動を通じて、彼らが映し出す現代アメリカのダークな側面と表現世界に迫ります。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "ec5234c32f96005f",
-   "url": "https://www.showbizbyps.com/music/weezer-weezer-gold-album-review",
-   "title_original": "Album Review: Weezer \"Weezer (Gold Album)\"",
-   "source": "Showbiz by PS",
-   "image": "http://static1.squarespace.com/static/66cdc9eb6f30f85816e87814/66cdcfe4c0d6056659cb3156/6a8861a6c75f68782e5f5be9/1787323312588/2026-08-21+17.32.51.jpg?format=1500w",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-21T14:33:10+00:00",
-   "title_ja": "Weezerのアルバム『Weezer (Gold Album)』レビュー",
-   "summary_ja": "Weezerの新作アルバム『Weezer (Gold Album)』の内容や魅力を掘り下げるアルバムレビュー記事。",
-   "category": "新曲・新作",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
