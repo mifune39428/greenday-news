@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T03:14:13.815078+09:00",
+ "updated_at": "2026-10-07T14:33:39.859461+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -29,6 +29,7 @@
   "Jimmy Eat World",
   "Rise Against",
   "The Interrupters",
+  "Good Charlotte",
   "New Found Glory",
   "Simple Plan",
   "The Linda Lindas",
@@ -94,6 +95,7 @@
   "Lambgoat",
   "LancasterOnline",
   "Lexington Herald Leader",
+  "Live Music Blog",
   "Los Angeles Times",
   "Louder",
   "MELODIC Magazine",
@@ -188,6 +190,7 @@
   "VICE",
   "Vulture",
   "WBEZ Chicago",
+  "WDHA FM",
   "WEBN",
   "WKFR",
   "WRIF Rocks Detroit",
@@ -265,9 +268,49 @@
   "شبكة تواصل الإخبارية",
   "激ロック"
  ],
- "count": 357,
- "detail_count": 261,
+ "count": 358,
+ "detail_count": 263,
  "items": [
+  {
+   "id": "ac58c9c802b6fcef",
+   "url": "https://livemusicblog.com/good-charlotte-greetings-from-california-reissue",
+   "title_original": "Good Charlotte Announce ‘Greetings From California’ Reissue With Three New Tracks",
+   "source": "Live Music Blog",
+   "image": "https://media.livemusicblog.com/livemusicblog/wp-content/uploads/2026/10/FROMSHAEFWITHLOVE-FINAL-20-1440x1958.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-06T19:41:16+00:00",
+   "title_ja": "Good Charlotte、3曲を追加した再発盤を発表",
+   "summary_ja": "Good Charlotteが未発表の3曲を収録したアルバム『Greetings From California』の再発盤をリリースすることを明らかにした。",
+   "category": "再発・記念盤",
+   "band": "Good Charlotte",
+   "artists": [
+    "Good Charlotte"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "e69f0dabe5a8563c",
+   "url": "https://wdhafm.com/2026/10/06/rancid-announces-30th-anniversary-box-set-for-and-out-come-the-wolves-with-rare-live-recordings",
+   "title_original": "Rancid Announces 30th Anniversary Box Set for '…And Out Come the Wolves' With Rare Live Recordings",
+   "source": "WDHA FM",
+   "image": "https://wdhafm.com/uploads/2026/10/GettyImages-2210145309-e1791308522466.jpg?auto=webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-06T17:44:12+00:00",
+   "title_ja": "Rancid、『…And Out Come the Wolves』30周年盤を発表",
+   "summary_ja": "Rancidが名盤『…And Out Come the Wolves』の30周年を記念し、レアなライブ音源を多数収めた豪華ボックスセットをリリースする。",
+   "category": "再発・記念盤",
+   "band": "Rancid",
+   "artists": [
+    "Rancid"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "a19320fde069fcfd",
    "url": "https://nz.news.yahoo.com/paramore-hayley-williams-unleashes-profanity-173950618.html",
@@ -307,7 +350,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3c44d699b5dfe507",
@@ -388,7 +431,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "eb5869b56972d47f",
@@ -539,7 +582,7 @@
    "url": "https://northerntransmissions.com/the-linda-lindas-debut-new-single",
    "title_original": "The Linda Lindas debut new single",
    "source": "Northern Transmissions",
-   "image": "",
+   "image": "https://northerntransmissions.com/wp-content/uploads/2026/08/The-Linda-Lindas-by-Jaxon-Whittington-3-scaled.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-10-05T11:56:14+00:00",
@@ -552,7 +595,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "68c1a6142c9b7ba2",
@@ -7648,26 +7691,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "304ca010cfdeb13a",
-   "url": "https://www.thatericalper.com/2026/08/22/video-paramore-tear-through-the-roundhouse-at-londons-2013-itunes-festival",
-   "title_original": "Video: Paramore Tear Through The Roundhouse At London’s 2013 iTunes Festival",
-   "source": "That Eric Alper",
-   "image": "https://www.thatericalper.com/wp-content/uploads/2026/08/download-2026-08-22T202314.542.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-23T00:23:25+00:00",
-   "title_ja": "Paramoreが2013年ロンドンのiTunes Festivalで披露した圧巻のライブ映像が公開",
-   "summary_ja": "Paramoreが2013年にロンドンのラウンドハウスで開催された「iTunes Festival」に出演した際のライブ映像。バンドがステージで繰り広げた情熱的なパフォーマンスの模様を収めている。",
-   "category": "映像・映画・書籍",
-   "band": "Paramore",
-   "artists": [
-    "Paramore"
-   ],
-   "japan": false,
-   "importance": 2,
    "has_detail": true
   }
  ]
