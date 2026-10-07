@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T14:33:39.859461+09:00",
+ "updated_at": "2026-10-07T22:06:45.191688+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -61,6 +61,7 @@
   "DIY Magazine",
   "DU Clarion",
   "Detroit Metro Times",
+  "Diario AS",
   "East Bay Times",
   "Entertainment Focus",
   "Eponymous Review",
@@ -112,6 +113,7 @@
   "NME",
   "NME Japan",
   "NPR",
+  "Nashville Scene",
   "Netto's Game Room",
   "New Noise Magazine",
   "NextMosh",
@@ -185,6 +187,7 @@
   "Tinnitist",
   "Toronto Guardian",
   "TribLIVE.com",
+  "USA Today",
   "Ultimate Guitar",
   "V13 Media",
   "VICE",
@@ -268,9 +271,92 @@
   "شبكة تواصل الإخبارية",
   "激ロック"
  ],
- "count": 358,
- "detail_count": 263,
+ "count": 363,
+ "detail_count": 266,
  "items": [
+  {
+   "id": "81fba625f7fbab7c",
+   "url": "https://ftw.usatoday.com/story/sports/mlb/2026/10/07/blink-182-tom-delonge-emotional-all-the-small-things-padres-fans-vs-brewers/92132631007",
+   "title_original": "Blink-182 star gets emotional singing his own song with Padres fans",
+   "source": "USA Today",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-07T12:47:00+00:00",
+   "title_ja": "Blink-182のトム・デロングがパドレス戦で感涙",
+   "summary_ja": "野球の試合中、観客がBlink-182の名曲を大合唱したことにメンバーが感情を高ぶらせ、涙を流す場面が見られた。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Tom DeLonge",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "80ccffca76564513",
+   "url": "https://www.billboard.com/music/rock/watch-tom-delonge-teary-eyed-padres-game-crowd-blink-182-song-1236355889",
+   "title_original": "Watch Tom DeLonge Get Teary-Eyed When Padres Playoff Game Crowd Sing Classic Blink-182 Song in Unison",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-07T12:02:21+00:00",
+   "title_ja": "パドレス戦での大合唱にトム・デロングが涙",
+   "summary_ja": "プレイオフの試合中、球場全体でBlink-182の楽曲が歌われ、その一体感にトム・デロングが感激の涙を流した。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Tom DeLonge",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "09dec98e2ae96162",
+   "url": "https://www.nashvillescene.com/criticspicks/critics-pick-the-linda-lindas-w-grace-bowers/article_18d7526a-e9f6-45d9-ac22-73c2116e5aa5.html",
+   "title_original": "Critic's Pick: The Linda Lindas w/Grace Bowers",
+   "source": "Nashville Scene",
+   "image": "https://bloximages.newyork1.vip.townnews.com/nashvillescene.com/content/tncms/assets/v3/editorial/9/1d/91d95371-5f20-4793-8580-d85c492e44d2/6ac40ff1154ae.image.jpg?crop=600%2C315%2C209%2C121",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-07T10:38:00+00:00",
+   "title_ja": "The Linda LindasとGrace Bowersの共演",
+   "summary_ja": "注目の若手バンドであるThe Linda Lindasが、Grace Bowersを迎えて行うライブの批評家による推薦記事。",
+   "category": "ライブ・ツアー",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas",
+    "Grace Bowers"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "c9fc84b7152065bb",
+   "url": "https://en.as.com/mlb/blink-182-frontman-gets-emotional-after-incredible-san-diego-padres-singalong-f202610-n/?outputType=amp",
+   "title_original": "Blink-182 frontman gets emotional after incredible San Diego Padres singalong",
+   "source": "Diario AS",
+   "image": "https://img.asmedia.epimg.net/resizer/v2/KTJRIFQTAKNKJOFROIXJARADOU.jpg?auth=82b62d2298a40f7f30159637b982d73c604d608501d89d71eff0c78194c6a211&width=1472&height=828&smart=true",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-07T10:19:49+00:00",
+   "title_ja": "球場のBlink-182大合唱でフロントマンが感涙",
+   "summary_ja": "パドレスの試合会場でファンがBlink-182の曲を大合唱し、その圧倒的な光景にボーカルが感動を隠せなかった。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "ac58c9c802b6fcef",
    "url": "https://livemusicblog.com/good-charlotte-greetings-from-california-reissue",
@@ -367,6 +453,27 @@
    "band": "Fall Out Boy",
    "artists": [
     "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f9b5bf533089488e",
+   "url": "https://rockcelebrities.net/paramores-hayley-williams-receives-warning-from-homeland-security-she-responds",
+   "title_original": "Paramore’s Hayley Williams Receives Warning from Homeland Security, She Responds",
+   "source": "Rock Celebrities",
+   "image": "https://rockcelebrities.net/wp-content/uploads/2026/10/hayley-williams-paramore.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-06T15:39:46+00:00",
+   "title_ja": "Paramoreのヘイリー・ウィリアムズが警告受ける",
+   "summary_ja": "Paramoreのヘイリー・ウィリアムズが国土安全保障省から警告を受け、それに対して自身の見解を表明した。",
+   "category": "メンバー・発言",
+   "band": "Paramore",
+   "artists": [
+    "Hayley Williams",
+    "Paramore"
    ],
    "japan": false,
    "importance": 3,
@@ -3771,7 +3878,7 @@
    "url": "https://metalinsider.net/news/the-offspring-pennywise-circle-jerks-more-to-perform-at-t-s-o-l-s-mike-roche-benefit",
    "title_original": "The Offspring, Pennywise, Circle Jerks & more to perform at T.S.O.L.’s Mike Roche benefit",
    "source": "Metal Insider",
-   "image": "",
+   "image": "https://metalinsider.net/wp-content/uploads/2026/09/MikeRoche_Fundraiser_2026_banner.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-09-17T17:18:51+00:00",
