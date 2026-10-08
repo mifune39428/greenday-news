@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T14:41:53.276628+09:00",
+ "updated_at": "2026-10-08T22:13:58.079597+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -55,7 +55,6 @@
   "Beaver County Times",
   "Billboard",
   "Boston's ROCK 92.9",
-  "Breitbart",
   "Britannica",
   "California.com",
   "CelebrityAccess",
@@ -156,6 +155,7 @@
   "Sortir à Paris",
   "Spectrum Culture",
   "Splice Today",
+  "Star Tribune",
   "Stephen Thomas Erlewine | Substack",
   "Stereoboard.com",
   "Stereogum",
@@ -186,7 +186,6 @@
   "The Real Deal",
   "The Showbiz Journal",
   "The Sun Malaysia",
-  "The Sunday Guardian",
   "The Wenatchee World",
   "Tinnitist",
   "Toronto Guardian",
@@ -194,6 +193,7 @@
   "Ultimate Guitar",
   "V13 Media",
   "VICE",
+  "Variety",
   "Vulture",
   "WBEZ Chicago",
   "WDHA FM",
@@ -272,11 +272,75 @@
   "vijesti.me",
   "wfmd.com",
   "شبكة تواصل الإخبارية",
-  "激ロック"
+  "激ロック",
+  "씨네플레이"
  ],
- "count": 369,
- "detail_count": 272,
+ "count": 371,
+ "detail_count": 273,
  "items": [
+  {
+   "id": "4c49eb59a83a90b2",
+   "url": "https://nme-jp.com/news/173152",
+   "title_original": "ブリンク182のトム・デロング、パドレス戦で観客が“All the Small Things”を歌う光景に感極まることに",
+   "source": "NME Japan",
+   "image": "https://nme-jp.com/nmesite/wp-content/uploads/2023/09/Blink-182.-Credit-PRESS-1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-08T11:30:13+00:00",
+   "title_ja": "Blink-182のトム、球場の合唱に感極まる",
+   "summary_ja": "野球場の観客がBlink-182の「All the Small Things」を大合唱する光景に、トム・デロングが感極まった。",
+   "category": "メンバー・発言",
+   "band": "Blink-182",
+   "artists": [
+    "Tom DeLonge",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a8ce921f9b95a918",
+   "url": "https://www.cineplay.co.kr/ja-jp/articles/30104",
+   "title_original": "ブリンク182のトラヴィス・バーカー、入院・手術の近況を報告 「腕と指のしびれで肘部管症候群の手術」",
+   "source": "씨네플레이",
+   "image": "https://cdn.www.cineplay.co.kr/w1200/q100/f_jpg/article-images/2026-10-08/02d498ea-7893-43c1-9ee8-7b6985484f19.webp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-08T09:00:00+00:00",
+   "title_ja": "Blink-182のトラヴィス、肘部管症候群で手術",
+   "summary_ja": "Blink-182のトラヴィス・バーカーが入院し、腕や指のしびれを改善するため肘部管症候群の手術を受けたことを報告した。",
+   "category": "メンバー・発言",
+   "band": "Blink-182",
+   "artists": [
+    "Travis Barker",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "816e79c4c8141aab",
+   "url": "https://www.startribune.com/green-day-billie-joe-armstrong-pinhead-gunpowder/601898189",
+   "title_original": "What was Green Day’s frontman doing onstage at First Avenue?",
+   "source": "Star Tribune",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-08T06:44:32+00:00",
+   "title_ja": "Green Dayのフロントマンがステージに登場",
+   "summary_ja": "Green Dayのフロントマンであるビリー・ジョー・アームストロングが、ライブハウスのステージでどのようなパフォーマンスを繰り広げたのかが注目されている。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "db8889495c3599cf",
    "url": "https://music.mxdwn.com/2026/10/07/new-york-city/dropkick-murphys-at-brooklyn-paramount-on-march-7th",
@@ -295,7 +359,27 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "d20532ead4e07fc5",
+   "url": "https://variety.com/2026/music/concert-reviews/hayley-williams-hollywood-bowl-concert-tour-review-1236905172",
+   "title_original": "Hayley Williams Proves There’s a Lot More to Her Than Paramore in a Galvanizing Solo Show at the Hollywood Bowl: Concert Review",
+   "source": "Variety",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-08T00:09:00+00:00",
+   "title_ja": "ParamoreのHayley Williamsがハリウッドボウルでソロ公演を開催",
+   "summary_ja": "ParamoreのHayley Williamsがハリウッド・ボウルで行ったソロ公演のライブレビュー。バンドとは異なる彼女の魅力が証明された。",
+   "category": "ライブ・ツアー",
+   "band": "Paramore",
+   "artists": [
+    "Hayley Williams"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "8cc389a683606309",
@@ -334,49 +418,6 @@
    "artists": [
     "Paramore",
     "Hayley Williams"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "52c0bde54747d9bd",
-   "url": "https://sundayguardianlive.com/entertainment-news/why-is-travis-barker-in-hospital-blink-182-drummer-shares-photos-with-kourtney-kardashian-and-daughter-alabama-by-his-side-300986/amp",
-   "title_original": "Why Is Travis Barker In Hospital? Blink 182 Drummer Shares Photos With Kourtney Kardashian And Daughter Alabama By His Side",
-   "source": "The Sunday Guardian",
-   "image": "https://sundayguardianlive.com/wp-content/uploads/2026/10/travis-barker-kourtney-kardashian.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-07T17:13:42+00:00",
-   "title_ja": "Travis Barkerが病院からの写真を公開",
-   "summary_ja": "Blink-182のドラマーであるTravis Barkerが、病院のベッドサイドで家族に寄り添われながら撮影した写真を公開しました。",
-   "category": "メンバー・発言",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182",
-    "Travis Barker",
-    "Kourtney Kardashian"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f2651313bc73cf45",
-   "url": "https://www.breitbart.com/sports/2026/10/07/watch-blink-182-star-tom-delonge-gets-emotional-as-padres-fans-sing-all-the-small-things",
-   "title_original": "WATCH: Blink-182 Star Tom DeLonge Gets Emotional as Padres Fans Sing ‘All the Small Things’",
-   "source": "Breitbart",
-   "image": "https://media.breitbart.com/media/2026/10/K.C.-Alfred-_-The-San-Diego-Union-Tribune-via-Getty-Images-640x335.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-07T16:37:39+00:00",
-   "title_ja": "観客の大合唱にBlink-182のTom DeLongeが涙",
-   "summary_ja": "パドレスの試合会場でファンが『All the Small Things』を大合唱し、Blink-182のTom DeLongeが感極まって涙ぐむ場面があった。（61文字）",
-   "category": "その他",
-   "band": "Blink-182",
-   "artists": [
-    "Tom DeLonge",
-    "Blink-182"
    ],
    "japan": false,
    "importance": 3,
