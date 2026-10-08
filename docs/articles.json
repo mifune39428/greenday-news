@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T22:13:58.079597+09:00",
+ "updated_at": "2026-10-09T08:12:15.665201+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -45,7 +45,6 @@
   "9News",
   "ABC News & Headlines – Australian Broadcasting Corporation",
   "AD HOC NEWS",
-  "AZ Big Media",
   "Arab News",
   "Audacy",
   "Azernews.az",
@@ -54,7 +53,6 @@
   "Bass Magazine",
   "Beaver County Times",
   "Billboard",
-  "Boston's ROCK 92.9",
   "Britannica",
   "California.com",
   "CelebrityAccess",
@@ -111,6 +109,7 @@
   "Metalhead Zone",
   "Mid-Day",
   "Mikiki by TOWER RECORDS",
+  "Milwaukee Journal Sentinel",
   "Music Connection Magazine",
   "NME",
   "NME Japan",
@@ -122,6 +121,8 @@
   "NextMosh",
   "Northern Transmissions",
   "Oh No They Didn't! — LiveJournal",
+  "OnMilwaukee",
+  "Orlando Weekly",
   "Our Culture Mag",
   "PUNKLOID",
   "Parklife DC",
@@ -155,8 +156,8 @@
   "Sortir à Paris",
   "Spectrum Culture",
   "Splice Today",
+  "Sports Illustrated",
   "Star Tribune",
-  "Stephen Thomas Erlewine | Substack",
   "Stereoboard.com",
   "Stereogum",
   "TPI Media Group",
@@ -181,12 +182,12 @@
   "The Montrealer",
   "The Mosh Network",
   "The Music Universe",
+  "The Needle Drop",
   "The Oakland Press",
   "The PRP",
   "The Real Deal",
   "The Showbiz Journal",
   "The Sun Malaysia",
-  "The Wenatchee World",
   "Tinnitist",
   "Toronto Guardian",
   "TribLIVE.com",
@@ -276,8 +277,170 @@
   "씨네플레이"
  ],
  "count": 371,
- "detail_count": 273,
+ "detail_count": 274,
  "items": [
+  {
+   "id": "7367ca76f55f78a9",
+   "url": "https://onmilwaukee.com/articles/weezer-fiserv-forum-2026-review",
+   "title_original": "Weezer turns Fiserv Forum into the neighborhood's loudest backyard party",
+   "source": "OnMilwaukee",
+   "image": "https://storage.googleapis.com/onmilwaukee-article-images/variants/pn7szzpmf0osenci40dlxbspq9vn/44487ed8fba0f2b82d9d5c8e9a98ed4b9d67f7c75e21d8b1a6cda1869e8697fd",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-08T20:01:00+00:00",
+   "title_ja": "WeezerがFiserv Forumで見せた熱狂的ライブ",
+   "summary_ja": "WeezerがFiserv Forumで行ったライブの様子を伝える記事。会場を近所の大きな裏庭パーティーのような熱気で包み込みました。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "beb2e37a65bda821",
+   "url": "https://theneedledrop.com/news/drock-sound-announces-fall-out-boy-tribute-celebrating-the-bands-25th-anniversary",
+   "title_original": "Rock Sound announces Fall Out Boy tribute celebrating the band's 25th anniversary",
+   "source": "The Needle Drop",
+   "image": "https://tnd-meta-poster.dylan-fef.workers.dev/media/ghost-social/6ac7c88f60a520b7b080ee36/db7763e0e3e813de0f4518a7459aaebba67da7debfc70c7a9af251ffc1c8ea46.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-08T18:15:15+00:00",
+   "title_ja": "Fall Out Boyの結成25周年を祝うトリビュート企画",
+   "summary_ja": "Rock SoundがFall Out Boyの結成25周年を記念したトリビュート企画の実施を発表しました。バンドの長年の功績を称える内容です。",
+   "category": "再発・記念盤",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "d353b4f8a2217745",
+   "url": "https://www.orlandoweekly.com/music/weezer-will-rock-the-suburbs-at-orlando-show",
+   "title_original": "Weezer will rock the suburbs at Orlando show",
+   "source": "Orlando Weekly",
+   "image": "https://www.orlandoweekly.com/wp-content/uploads/2026/10/weezer-press-august-2026-brendanwalter-1200x675-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-08T17:45:05+00:00",
+   "title_ja": "Weezerがオーランド公演で郊外のファンを魅了",
+   "summary_ja": "Weezerがオーランドでの公演でファンを沸かせたライブの模様を伝えています。おなじみの楽曲で会場を大いに盛り上げました。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "0d44ff77e7227e60",
+   "url": "https://www.si.com/onsi/athlete-lifestyle/tom-delonge-gets-emotional-as-43-000-padres-fans-sing-blink-182-hit",
+   "title_original": "Tom DeLonge's Emotional Reaction to Padres Fans Singing Blink-182 Hit Says It All",
+   "source": "Sports Illustrated",
+   "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_167,w_3142,h_1767/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/imago0862631195h-3181170a4725ef56b3831e0be80977d4.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-08T17:30:00+00:00",
+   "title_ja": "パドレス戦でのBlink-182大合唱にTom DeLongeが感激",
+   "summary_ja": "野球の試合中、観客席でBlink-182の名曲が大合唱された場面に直面したTom DeLongeの感情豊かな反応を取り上げています。",
+   "category": "メンバー・発言",
+   "band": "Blink-182",
+   "artists": [
+    "Tom DeLonge",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "56eb2ef0135979d8",
+   "url": "https://www.yahoo.com/entertainment/music/articles/setlist-billie-joe-armstrongs-pinhead-170724026.html",
+   "title_original": "Setlist from Billie Joe Armstrong's Pinhead Gunpowder Minneapolis show",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/96c0dcc976503c98ff7d1119a469b806c34751a3011293a3d335c20c54419eb4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flist_wire_usa_today_articles_325%2Fdb2f71abd5e1f20f511f70c01f705d08.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-08T17:07:24+00:00",
+   "title_ja": "Pinhead Gunpowderのミネアポリス公演のセットリスト",
+   "summary_ja": "Billie Joe Armstrongが率いるPinhead Gunpowderがミネアポリスで行ったライブのセットリストを紹介しています。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Pinhead Gunpowder"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "40bb0e47854abe1d",
+   "url": "https://newnoisemagazine.com/news-green-day-inspired-movie-nimrods-available-in-digital-now",
+   "title_original": "News: Green Day Inspired Movie ‘Nimrods’ Now Available Digitally",
+   "source": "New Noise Magazine",
+   "image": "https://newnoisemagazine.com/wp-content/uploads/2026/10/image-1-5.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-08T14:50:41+00:00",
+   "title_ja": "Green Day関連映画『Nimrods』が配信開始",
+   "summary_ja": "Green Dayに着想を得た映画作品『Nimrods』が、各デジタルプラットフォームにてオンライン配信の提供を開始したという話題。（98文字）",
+   "category": "映像・映画・書籍",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "d85d7b51feef08bd",
+   "url": "https://www.jsonline.com/story/entertainment/music/2026/10/08/weezer-milwaukee-fiserv-forum-concert-review/92021719007",
+   "title_original": "Weezer's a winner, and maybe helped the Brewers win, at Milwaukee show",
+   "source": "Milwaukee Journal Sentinel",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-08T13:56:00+00:00",
+   "title_ja": "Weezerがミルウォーキー公演を開催",
+   "summary_ja": "Weezerがミルウォーキーでのライブを行い、素晴らしいパフォーマンスで会場を魅了した。地元の野球チームの勝利にも貢献したという。（91文字）",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "98164e8965fa332d",
+   "url": "https://faroutmagazine.co.uk/the-linda-lindas-the-next-phase-of-revolutionaries",
+   "title_original": "The Linda Lindas: the next phase of revolutionaries",
+   "source": "Far Out Magazine",
+   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/10/The-Linda-Lindas-the-next-phase-of-revolutionaries-Far-Out-Magazine-01.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-08T13:15:00+00:00",
+   "title_ja": "The Linda Lindasが迎える新たな革新のフェーズ",
+   "summary_ja": "次世代のパンクシーンを担うバンドとして注目を集めるThe Linda Lindasの、新たな音楽的展開や活動の歩みに迫る記事。（96文字）",
+   "category": "その他",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "4c49eb59a83a90b2",
    "url": "https://nme-jp.com/news/173152",
@@ -339,7 +502,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "db8889495c3599cf",
@@ -7806,169 +7969,6 @@
    "japan": false,
    "importance": 2,
    "detail_tries": 2
-  },
-  {
-   "id": "676b0134983299c9",
-   "url": "https://azbigmedia.com/lifestyle/see-my-chemical-romance-in-phoenix",
-   "title_original": "See My Chemical Romance in Phoenix",
-   "source": "AZ Big Media",
-   "image": "https://azbigmedia.com/wp-content/uploads/2026/08/My-Chemical-romance.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-24T21:00:00+00:00",
-   "title_ja": "My Chemical Romanceのフェニックス公演情報",
-   "summary_ja": "My Chemical Romanceのフェニックス公演に関する海外メディアの案内記事。詳細なライブ情報は本文を参照のこと。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "781409ef2fbb3298",
-   "url": "https://sterlewine.substack.com/p/weezer-weezer-gold-album",
-   "title_original": "Weezer, Weezer (Gold Album)",
-   "source": "Stephen Thomas Erlewine | Substack",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-24T20:17:24+00:00",
-   "title_ja": "Weezerの「Weezer (Gold Album)」に注目",
-   "summary_ja": "Weezerの作品『Weezer (Gold Album)』を取り上げた音楽批評コラム。詳細なアルバムの内容は触れられていない。",
-   "category": "新曲・新作",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "bb8db85dbdb10bfc",
-   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/green-day-chart-momentum-in-germany-with-saviors/69995367",
-   "title_original": "Green Day chart momentum in Germany with Saviors",
-   "source": "AD HOC NEWS",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403839_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-24T18:57:34+00:00",
-   "title_ja": "Green Day、アルバム『Saviors』がドイツでチャート躍進",
-   "summary_ja": "Green Dayの最新アルバム『Saviors』が、ドイツの音楽チャートで引き続き強い勢いを見せている。現地での根強い人気とセールスの好調さがうかがえる結果となっている。",
-   "category": "チャート・受賞",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "928f71ccbd9619e8",
-   "url": "https://www.forbes.com/sites/hughmcintyre/2026/08/24/my-chemical-romance-surges-on-the-charts-as-another-tour-leg-begins",
-   "title_original": "My Chemical Romance Surges On The Charts As Another Tour Leg Begins",
-   "source": "Forbes",
-   "image": "https://imageio.forbes.com/specials-images/imageserve/6a8c679b6a73385e750a32b4/0x0.jpg?format=jpg&crop=4992,2808,x0,y0,safe&height=900&width=1600&fit=bounds",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-24T18:00:53+00:00",
-   "title_ja": "My Chemical Romanceが新ツアー開始にあわせてチャートで急上昇",
-   "summary_ja": "新たなツアーレグのスタートに合わせ、My Chemical Romanceが各種チャートで順位を大きく伸ばしている。",
-   "category": "チャート・受賞",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "adc56f30cc0f5fdb",
-   "url": "https://parade.com/entertainment/2000s-rock-band-who-performed-with-weezer-announces-tour-in-support-of-first-album-in-8-years",
-   "title_original": "2000s Rock Band, Who Performed with Weezer, Announces Tour in Support of First Album in 8 Years",
-   "source": "parade.com",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-24T16:21:40+00:00",
-   "title_ja": "2000年代ロックバンドが8年ぶり新作を携えツアーを発表",
-   "summary_ja": "Weezerとも共演経験のある2000年代のロックバンドが、8年ぶりとなる待望の新作に向けたツアーの開催を発表した。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "d1c6b9f2c8e03e62",
-   "url": "https://www.wenatcheeworld.com/go/music/3-2-1-new-music-monday-weezer-brandon-flowers-and-sam-smith/article_051df28e-4fbf-4950-8329-201c16047bb1.html",
-   "title_original": "3, 2, 1 New Music Monday: Weezer, Brandon Flowers and Sam Smith",
-   "source": "The Wenatchee World",
-   "image": "https://bloximages.newyork1.vip.townnews.com/wenatcheeworld.com/content/tncms/assets/v3/editorial/0/51/051df28e-4fbf-4950-8329-201c16047bb1/6a8c6ab333e09.preview.png?crop=1594%2C837%2C0%2C55&resize=1200%2C630&order=crop%2Cresize",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-24T16:00:00+00:00",
-   "title_ja": "WeezerやBrandon Flowersらの新曲を紹介",
-   "summary_ja": "月曜日の新譜紹介コーナーで、WeezerやBrandon Flowers、Sam Smithの新曲を取り上げている。",
-   "category": "新曲・新作",
-   "band": "Weezer",
-   "artists": [
-    "Weezer",
-    "Brandon Flowers",
-    "Sam Smith"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "a6fa181990414353",
-   "url": "https://www.antimusic.com/p/26/r0824weezer_to_rock_the_zane_lowe_show_today.shtml",
-   "title_original": "Weezer To Rock The Zane Lowe Show Today",
-   "source": "antiMusic",
-   "image": "https://www.antimusic.com/news/photos/26/08/24/weezer.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-24T14:04:11+00:00",
-   "title_ja": "Weezerが本日のゼイン・ロウの番組に登場",
-   "summary_ja": "Weezerが本日、Apple Musicのゼイン・ロウがホストを務める番組に出演し、トークやパフォーマンスを披露する予定。",
-   "category": "メンバー・発言",
-   "band": "Weezer",
-   "artists": [
-    "Weezer",
-    "Zane Lowe"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "778f0381214cc12e",
-   "url": "https://rock929rocks.com/2026/08/24/weezer-goes-for-gold-with-20th-album-packed-with-classic-sound",
-   "title_original": "Weezer Goes for Gold With 20th Album Packed With Classic Sound",
-   "source": "Boston's ROCK 92.9",
-   "image": "https://rock929rocks.com/uploads/2026/08/GettyImages-2291187863.jpg?auto=webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-24T13:58:46+00:00",
-   "title_ja": "Weezerがクラシックなサウンドを詰め込んだ新作を発表",
-   "summary_ja": "Weezerが往年の魅力的なサウンドを取り入れた新たなアルバムを携え、音楽シーンでのさらなる高みを目指す。",
-   "category": "新曲・新作",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
