@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T14:46:15.076063+09:00",
+ "updated_at": "2026-10-09T22:00:34.005944+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -277,8 +277,30 @@
   "씨네플레이"
  ],
  "count": 370,
- "detail_count": 274,
+ "detail_count": 273,
  "items": [
+  {
+   "id": "35b6747e04c21d45",
+   "url": "https://www.kerrang.com/the-interrupters-new-single-warriro-spirit-tim-armstrong-travis-barker-aimee-interrupter",
+   "title_original": "The Interrupters team up with Travis Barker and Tim Armstrong for new single, Warrior Spirit",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/2026/10/TheInterrupters_JimmyFontaine_9_26_260260-1_HiRes-1.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1791546831&s=069acebdb75c923ae5d77375b0c7c60d",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-09T11:55:00+00:00",
+   "title_ja": "The Interrupters、新曲Warrior Spiritを配信",
+   "summary_ja": "The InterruptersがTravis BarkerやTim Armstrongらを迎えた新曲Warrior Spiritをリリースしたことを発表。豪華なコラボレーションによる新たなシングルとなっている。",
+   "category": "新曲・新作",
+   "band": "The Interrupters",
+   "artists": [
+    "The Interrupters",
+    "Travis Barker",
+    "Tim Armstrong"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "a41d959351997a34",
    "url": "https://womiowensboro.com/ixp/782/p/tom-delonge-padres-playoff-moment",
@@ -7929,26 +7951,6 @@
    ],
    "japan": false,
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "33bc233ce6d19022",
-   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/fall-out-boy-streaming-catalog-tops-14-4-billion-spotify-plays/69997785",
-   "title_original": "Fall Out Boy streaming catalog tops 14.4 billion Spotify plays",
-   "source": "AD HOC NEWS",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403836_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-25T07:48:39+00:00",
-   "title_ja": "Fall Out Boyの全カタログ、Spotify再生数が140億回を突破",
-   "summary_ja": "Fall Out BoyのSpotifyにおける全カタログの総再生回数が14.4億回を突破したことが明らかになった。長年にわたる楽曲が世界中のファンに聴かれ続けている。",
-   "category": "チャート・受賞",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   }
  ]
