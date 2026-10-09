@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T22:00:34.005944+09:00",
+ "updated_at": "2026-10-10T07:31:07.641689+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -80,6 +80,7 @@
   "IMDb",
   "Idaho Press",
   "Impericon",
+  "InspireMore",
   "International Business Times UK",
   "Irish Mirror",
   "Irish Star",
@@ -276,8 +277,8 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 370,
- "detail_count": 273,
+ "count": 369,
+ "detail_count": 271,
  "items": [
   {
    "id": "35b6747e04c21d45",
@@ -299,7 +300,27 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "30b733735ff3a676",
+   "url": "https://www.inspiremore.com/petco-park-breaks-into-blink-182-song-as-lead-singer-watches-in-wonder",
+   "title_original": "Petco Park Breaks Into Blink-182 Song As Lead Singer Watches in Wonder",
+   "source": "InspireMore",
+   "image": "https://inspiremore.b-cdn.net/wp-content/uploads/2026/10/Blink-182.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-09T02:40:07+00:00",
+   "title_ja": "Blink-182の楽曲が大合唱された球場の映像",
+   "summary_ja": "ペトコ・パークの球場全体がBlink-182の楽曲を歌い上げ、ボーカルのマーク・ホップラスがその光景を驚きと感動の表情で見守る様子が話題となっています。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "a41d959351997a34",
@@ -751,6 +772,26 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "b300e7ab09005ff7",
+   "url": "https://www.billboard.com/music/rock/dropkick-murphys-title-theme-westies-dropped-on-my-head-1236290638",
+   "title_original": "Dropkick Murphys Song Tracks Irish Mob Drama 'The Westies': Exclusive",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-07T07:00:00+00:00",
+   "title_ja": "Dropkick Murphysの新曲がドラマに起用",
+   "summary_ja": "Dropkick Murphysの新曲が、アイルランド系マフィアを描いたドラマ『The Westies』の劇中歌として起用されたことが独占情報として報じられました。",
+   "category": "新曲・新作",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "ac58c9c802b6fcef",
@@ -7884,67 +7925,6 @@
    "title_ja": "Green Day、Saviorsのチャート好調と2026年ツアーの勢い",
    "summary_ja": "Green Dayのアルバム『Saviors』がチャートで好調を維持し、2026年のライブ活動も大きな盛り上がりを見せています。",
    "category": "チャート・受賞",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "4ddda51e84eedb8c",
-   "url": "https://themosh.net/the-used-fall-us-tour-my-chemical-romance",
-   "title_original": "The Used Announce Fall U.S. Tour, Set Hollywood Bowl Show With My Chemical Romance",
-   "source": "The Mosh Network",
-   "image": "http://themosh.net/wp-content/uploads/2025/06/Bert-McCracken-The-Used.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-25T19:31:16+00:00",
-   "title_ja": "The Usedが秋の全米ツアーを発表、MCRとの共演も決定",
-   "summary_ja": "The Usedが秋に全米ツアーの開催を発表し、ハリウッド・ボウル公演ではMy Chemical Romanceとの共演を行うことが明らかになった。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "The Used",
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "30b437fcdae1ba2e",
-   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/blink-182-working-on-new-album-as-2027-berlin-show-set/70000847",
-   "title_original": "Blink-182 working on new album as 2027 Berlin show set",
-   "source": "AD HOC NEWS",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403803_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-25T18:04:25+00:00",
-   "title_ja": "Blink-182が新作アルバムの制作を開始、2027年ベルリン公演も決定",
-   "summary_ja": "Blink-182が新しいアルバムの制作に取り組んでおり、同時に2027年のベルリン公演の開催も発表されました。",
-   "category": "新曲・新作",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "66cfdd5308bfd28b",
-   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/green-day-extend-saviors-tour-with-2026-german-stadium-and-arena-dates/69999314",
-   "title_original": "Green Day extend Saviors tour with 2026 German stadium and arena dates",
-   "source": "AD HOC NEWS",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403776_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-25T13:05:39+00:00",
-   "title_ja": "Green Day、2026年のドイツ公演日程を追加発表",
-   "summary_ja": "Green Dayは「Saviors Tour」の一環として、2026年にドイツのスタジアムおよびアリーナ公演を追加することを発表しました。",
-   "category": "ライブ・ツアー",
    "band": "Green Day",
    "artists": [
     "Green Day"
