@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T08:12:15.665201+09:00",
+ "updated_at": "2026-10-09T14:46:15.076063+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -161,7 +161,6 @@
   "Stereoboard.com",
   "Stereogum",
   "TPI Media Group",
-  "TVGuide.co.uk",
   "TacomaWeekly",
   "Tarrant County College",
   "That Eric Alper",
@@ -200,6 +199,7 @@
   "WDHA FM",
   "WEBN",
   "WKFR",
+  "WOMI Owensboro",
   "WRIF Rocks Detroit",
   "WSOC TV",
   "We Write About Music",
@@ -276,9 +276,30 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 371,
+ "count": 370,
  "detail_count": 274,
  "items": [
+  {
+   "id": "a41d959351997a34",
+   "url": "https://womiowensboro.com/ixp/782/p/tom-delonge-padres-playoff-moment",
+   "title_original": "Tom DeLonge's Reaction to 43,000 Fans Singing Blink-182 Is Everything",
+   "source": "WOMI Owensboro",
+   "image": "https://townsquare.media/site/782/files/2026/10/attachment-gettyimages-2293586620-1.jpg?w=1200&q=75&format=natural",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-09T01:36:16+00:00",
+   "title_ja": "Blink-182のライブで4万3千人が大合唱、Tom DeLongeの反応",
+   "summary_ja": "Blink-182のライブで4万3千人のファンが大合唱した際に見せた、Tom DeLongeの感動的なリアクションが話題となっている。",
+   "category": "ライブ・ツアー",
+   "band": "Blink-182",
+   "artists": [
+    "Tom DeLonge",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "7367ca76f55f78a9",
    "url": "https://onmilwaukee.com/articles/weezer-fiserv-forum-2026-review",
@@ -297,7 +318,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "beb2e37a65bda821",
@@ -419,7 +440,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "98164e8965fa332d",
@@ -7929,46 +7950,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "3d16e0f55c988666",
-   "url": "https://www.twincities.com/2026/08/24/concert-review-my-chemical-romance-target-field",
-   "title_original": "Concert review: My Chemical Romance create art rock spectacle at Target Field",
-   "source": "Pioneer Press",
-   "image": "https://www.twincities.com/wp-content/uploads/2026/08/STP-L-CHEMICAL-ROMANCE-0826-e1787630552859.jpg?w=5148&h=3432",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-25T04:00:24+00:00",
-   "title_ja": "My Chemical Romanceがターゲット・フィールド公演で魅せたアートロックのスペクタクル",
-   "summary_ja": "My Chemical Romanceがターゲット・フィールドで行ったライブのコンサートレビュー。圧倒的なアートロックの世界観で観客を魅了した。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "1938616f4186427f",
-   "url": "https://www.tvguide.co.uk/schedule/a2c9ca1f-bb64-5d40-bda3-a1b4d51573dc/fall-out-boy-fan-favourites",
-   "title_original": "Fall Out Boy : Fan Favourites on NOW Rock: full details and when it's on",
-   "source": "TVGuide.co.uk",
-   "image": "https://tv.assets.pressassociation.io/c35142bf-5fd5-5e48-a4ef-c0f291cbe088.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-25T01:55:54+00:00",
-   "title_ja": "NOW RockでFall Out Boyのファン人気曲特集が放送",
-   "summary_ja": "音楽番組NOW RockにてFall Out Boyのファン投票による人気曲特集が放送されることが決定し、その詳細な放送スケジュールが発表された。",
-   "category": "その他",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
   }
  ]
 }
