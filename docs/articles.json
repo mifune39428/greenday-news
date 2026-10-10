@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T07:31:07.641689+09:00",
+ "updated_at": "2026-10-10T14:29:24.857430+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -112,6 +112,7 @@
   "Mikiki by TOWER RECORDS",
   "Milwaukee Journal Sentinel",
   "Music Connection Magazine",
+  "Music In Minnesota",
   "NME",
   "NME Japan",
   "NPR",
@@ -277,9 +278,29 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 369,
- "detail_count": 271,
+ "count": 370,
+ "detail_count": 272,
  "items": [
+  {
+   "id": "0d176b483a7abb80",
+   "url": "https://www.musicinminnesota.com/pinhead-gunpowder-firstave",
+   "title_original": "Billie Joe Armstrong Brings 90s Punk Project to First Avenue",
+   "source": "Music In Minnesota",
+   "image": "https://www.musicinminnesota.com/wp-content/uploads/2026/10/Pinhead-Gunpowder_1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-10T02:39:43+00:00",
+   "title_ja": "Billie Joe Armstrongが90年代パンク・プロジェクトでライブ開催",
+   "summary_ja": "Green DayのBillie Joe Armstrongが、90年代のパンク・プロジェクトを率いてFirst Avenueでライブを行った。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "35b6747e04c21d45",
    "url": "https://www.kerrang.com/the-interrupters-new-single-warriro-spirit-tim-armstrong-travis-barker-aimee-interrupter",
@@ -791,7 +812,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ac58c9c802b6fcef",
