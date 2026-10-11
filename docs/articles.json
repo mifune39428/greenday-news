@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T21:33:51.599073+09:00",
+ "updated_at": "2026-10-12T06:44:37.191220+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -41,7 +41,6 @@
   "92.9 WBUF",
   "930 WFMD Free Talk",
   "95.9 The RAT",
-  "9News",
   "ABC News & Headlines – Australian Broadcasting Corporation",
   "AD HOC NEWS",
   "Arab News",
@@ -77,7 +76,6 @@
   "Hit Parader",
   "Hoodline",
   "IMDb",
-  "Idaho Press",
   "Impericon",
   "InspireMore",
   "International Business Times UK",
@@ -90,13 +88,13 @@
   "KTVU",
   "KelownaNow",
   "Kerrang!",
-  "Knotfest",
   "LADbible",
   "LAist",
   "Lambgoat",
   "Lexington Herald Leader",
   "Live Music Blog",
   "Los Angeles Times",
+  "Loud Hailer Magazine",
   "Louder",
   "MELODIC Magazine",
   "MUSIC LIFE CLUB",
@@ -140,6 +138,7 @@
   "RTTNews",
   "Raleigh News & Observer",
   "Revolver Magazine",
+  "Richmond Times-Dispatch",
   "Rock Celebrities",
   "Rock Cellar Magazine",
   "Rock DNA Magazine",
@@ -171,7 +170,6 @@
   "The Drum",
   "The Duke Chronicle",
   "The Georgia Straight",
-  "The Guardian Nigeria News",
   "The Mercury News",
   "The Mirror US",
   "The Montrealer",
@@ -223,7 +221,6 @@
   "dispatch.com",
   "durhamregion.com",
   "femalefirst.co.uk",
-  "floodmagazine.com",
   "happymag.tv",
   "hercampus.com",
   "hoodline.com",
@@ -273,57 +270,128 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 364,
- "detail_count": 266,
+ "count": 361,
+ "detail_count": 264,
  "digest": {
-  "headline": "Green Day関連のライブや新作映画の話題が到着",
+  "headline": "パンク・ロック界の最新ライブや豪華コラボ情報をお届け",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongが90年代パンク・プロジェクトを率いてライブを行い、ミネアポリス公演のセットリストが紹介されたほか、Green Dayに着想を得た映画『Nimrods』がオンライン配信を開始した。",
+    "text": "Green DayのBillie Joe Armstrongが90年代パンク・プロジェクトを率いてライブを開催した。",
     "ids": [
-     "0d176b483a7abb80",
-     "56eb2ef0135979d8",
-     "40bb0e47854abe1d"
+     "0d176b483a7abb80"
     ]
    },
    {
-    "text": "Fall Out Boyは結成25周年に際してPatrick Stumpがメッセージや振り返りを発表し、Rock Soundによる特別版アイテムのリリースやトリビュート企画、クリスマス・カバー曲のリリースも伝えられた。",
+    "text": "blink-182がドイツの大型フェス「Rock am Ring 2027」の出演者として発表された。",
     "ids": [
-     "46c370229fb81353",
-     "975d8cdb0dcaf594",
-     "ba2d384bb4995797"
+     "1a2846aeb030df2f"
     ]
    },
    {
-    "text": "Blink-182は野球の試合中に観客席で名曲が大合唱され、Tom DeLongeが感動的なリアクションを見せたことが話題となった。",
-    "ids": [
-     "a41d959351997a34",
-     "0d44ff77e7227e60",
-     "30b733735ff3a676"
-    ]
-   },
-   {
-    "text": "The InterruptersがTravis BarkerやTim Armstrongらを迎えた新曲Warrior Spiritを配信リリースした。",
+    "text": "The InterruptersがTravis BarkerやTim Armstrongらを迎えた新曲Warrior Spiritを配信した。",
     "ids": [
      "35b6747e04c21d45"
     ]
    },
    {
-    "text": "WeezerやThe Offspring、The Linda Lindasなどのライブや公演に関するレポートが各地から届けられた。",
+    "text": "Fall Out Boyの結成25周年に際し、Patrick Stumpがメッセージを発表し、記念アイテムも登場する。",
     "ids": [
-     "ade2e50c8c82ab7f",
-     "7367ca76f55f78a9",
-     "d353b4f8a2217745"
+     "46c370229fb81353",
+     "975d8cdb0dcaf594",
+     "ba2d384bb4995797"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-08T21:34:09.846946+09:00",
-  "generated_at": "2026-10-11T21:34:11.913052+09:00",
-  "article_count": 18,
-  "sig": "c3e42dd1e64f"
+  "from": "2026-10-09T06:44:59.851728+09:00",
+  "generated_at": "2026-10-12T06:45:01.113831+09:00",
+  "article_count": 14,
+  "sig": "f37ce4eda1b0"
  },
  "items": [
+  {
+   "id": "3ac7e939b31f298a",
+   "url": "https://www.loudhailermagazine.com/concert-reviews/weezer-at-nationwide-arena-in-columbus-oh",
+   "title_original": "Weezer at Nationwide Arena in Columbus, OH",
+   "source": "Loud Hailer Magazine",
+   "image": "https://www.loudhailermagazine.com/wp-content/uploads/2026/10/Header-Weezer-Columbus-OH-20261006-HarryAcosta.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-11T15:52:37+00:00",
+   "title_ja": "Weezerがオハイオ州コロンバスのNationwide Arenaで公演",
+   "summary_ja": "Weezerがオハイオ州コロンバスのNationwide Arenaにてライブを開催したことを報じる記事。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "fef3cf70ab0831cf",
+   "url": "https://www.yahoo.com/entertainment/music/articles/paramores-hayley-williams-launches-vulgar-144404331.html",
+   "title_original": "Paramore's Hayley Williams launches vulgar tirade at DHS after agency defends ICE officers",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/74fd1eaa03077e320c1784ee8808fd59139a15de2b797ca729826cd8652782c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F7f29ea55e22a65cf1734b243fc44624f.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-11T14:44:04+00:00",
+   "title_ja": "ParamoreのHayley WilliamsがDHSを痛烈に批判",
+   "summary_ja": "ParamoreのHayley Williamsが、ICEの職員を擁護した国土安全保障省（DHS）に対して激しい暴言を交えて非難した。",
+   "category": "メンバー・発言",
+   "band": "Paramore",
+   "artists": [
+    "Hayley Williams",
+    "Paramore"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "d28c00a47fb52d21",
+   "url": "https://richmond.com/life-entertainment/local/music/article_5f788095-7d48-42c9-a3b5-6ca16a10b860.html",
+   "title_original": "From the archive: My Chemical Romance brings out a shout-along",
+   "source": "Richmond Times-Dispatch",
+   "image": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/5/f7/5f788095-7d48-42c9-a3b5-6ca16a10b860/6ac945e768ac6.preview.jpg?crop=1843%2C968%2C0%2C78&resize=1200%2C630&order=crop%2Cresize",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-11T13:00:00+00:00",
+   "title_ja": "My Chemical Romanceが合唱を生んだライブのアーカイヴ",
+   "summary_ja": "過去のアーカイヴ記事より、My Chemical Romanceのライブが観客の大合唱を巻き起こした様子を振り返る。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "1a2846aeb030df2f",
+   "url": "https://routenote.com/radar/rock-am-ring-2027-lineup-blink-182-bring-me-the-horizon-faith-no-more-and-more",
+   "title_original": "Rock am Ring 2027 Lineup: blink-182, Bring Me The Horizon, Faith No More and More",
+   "source": "RouteNote",
+   "image": "https://routenote.com/radar/wp-content/uploads/2026/10/routenote_Rock_am_Ring_2027_Lineup_blink-182_Bring_Me_The_Hor_be6f4630-cf71-4a31-829c-6306188bf751_1.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-11T11:49:00+00:00",
+   "title_ja": "Rock am Ring 2027の出演者発表、blink-182ら",
+   "summary_ja": "ドイツの大型フェス「Rock am Ring 2027」のラインナップが発表され、blink-182やBring Me The Horizonらの出演が明らかになった。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "blink-182",
+    "Bring Me The Horizon",
+    "Faith No More"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "f71b20500568cb3c",
    "url": "https://music.mxdwn.com/2026/10/10/reviews/show-reviews/live-review-the-linda-lindas-at-brooklyn-steel",
@@ -405,7 +473,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6e2e2ce7754acf3a",
@@ -7730,149 +7798,6 @@
    "japan": false,
    "importance": 2,
    "has_detail": true
-  },
-  {
-   "id": "ee37b799c6a151b2",
-   "url": "https://www.9news.com/article/life/style/colorado-guide/my-chemical-romance-denver-concert/73-7238d368-a1f3-4cbe-87d1-06870d3c4458",
-   "title_original": "My Chemical Romance brings 'Black Parade' tour to Denver's Coors Field",
-   "source": "9News",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-27T20:51:00+00:00",
-   "title_ja": "My Chemical Romance、デンバー公演を開催",
-   "summary_ja": "My Chemical Romanceが、クアーズ・フィールドでの公演を含む『Black Parade』ツアーをデンバーで実施する。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "3caa4bd73b03b35c",
-   "url": "https://www.idahopress.com/boiseweekly/music/music_reviews/music-review-weezers-self-titled-gold-album-delivers-faithful-nasal-power-pop/article_e076e8aa-ee88-5388-b826-8a03cb9bea49.html",
-   "title_original": "Music Review: Weezer's self-titled 'Gold Album' delivers faithful, nasal power pop",
-   "source": "Idaho Press",
-   "image": "https://bloximages.chicago2.vip.townnews.com/idahopress.com/content/tncms/assets/v3/editorial/6/14/6144757a-2c1d-4497-b887-2392a36267f7/6a8b3d1f503b7.image.jpg?crop=401%2C401%2C0%2C48&resize=200%2C200&order=crop%2Cresize",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-27T19:55:00+00:00",
-   "title_ja": "Weezerのセルフタイトル作をレビュー",
-   "summary_ja": "Weezerのセルフタイトル作『Gold Album』について、忠実で鼻にかかったパワーポップであると評されている。",
-   "category": "新曲・新作",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "af0582a7486a8b2f",
-   "url": "https://www.thatericalper.com/2026/08/27/green-day-turn-top-of-the-pops-into-a-punk-show-with-nine-minute-jesus-of-suburbia",
-   "title_original": "Green Day Turn ‘Top Of The Pops’ Into A Punk Show With Nine-Minute “Jesus Of Suburbia”",
-   "source": "That Eric Alper",
-   "image": "https://www.thatericalper.com/wp-content/uploads/2026/08/download-71-3.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-27T19:40:47+00:00",
-   "title_ja": "Green Day、番組で9分間の熱演を披露",
-   "summary_ja": "Green Dayがテレビ番組『Top Of The Pops』に出演し、9分に及ぶ「Jesus Of Suburbia」を演奏してパンク・ショーへと変貌させた。",
-   "category": "その他",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6fb403cf831b0de8",
-   "url": "https://faroutmagazine.co.uk/the-linda-lindas-gotta-get-out-album-review",
-   "title_original": "The Linda Lindas – ‘Gotta Get Out’ album review: Wise zingers from the LA youngsters",
-   "source": "Far Out Magazine",
-   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/08/The-Linda-Lindas-–-‘Gotta-Get-Out-2026-Far-Out-Magazine.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-27T17:41:16+00:00",
-   "title_ja": "The Linda Lindasの新アルバムをレビュー",
-   "summary_ja": "LAの若手バンドThe Linda Lindasの新作アルバム『Gotta Get Out』について、鋭いユーモアと成熟した音楽性を称賛するレビューが掲載された。",
-   "category": "新曲・新作",
-   "band": "その他",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "4772eb3493fcb0f2",
-   "url": "https://knotfest.com/blogs/news/stage-tour-to-feature-songs-from-metallica-slipknot-ghost-blink-182-and-more",
-   "title_original": "'Stage Tour' to Feature Songs from Metallica, Slipknot, Ghost, Blink-182 and More",
-   "source": "Knotfest",
-   "image": "http://knotfest.com/cdn/shop/articles/Untitled-1_7add7b33-2ef4-4803-9dbe-18fa1104b5a6_copy.jpg?v=1787863710",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-27T16:48:27+00:00",
-   "title_ja": "音楽ゲーム『Stage Tour』にBlink-182やMetallicaらの楽曲が収録決定",
-   "summary_ja": "Knotfestによると、音楽ゲーム『Stage Tour』の収録楽曲にBlink-182やMetallica、Slipknot、Ghostなどの楽曲が含まれることが決定した。",
-   "category": "その他",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182",
-    "Metallica",
-    "Slipknot",
-    "Ghost"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "5d46f87adb68add0",
-   "url": "https://floodmagazine.com/230622/the-linda-lindas-gotta-get-out",
-   "title_original": "The Linda Lindas, “Gotta Get Out”",
-   "source": "floodmagazine.com",
-   "image": "https://api.floodmagazine.com/wp-content/uploads/2026/08/The-Linda-Lindas-Gotta-Get-Out.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-27T16:17:31+00:00",
-   "title_ja": "The Linda Lindasが新譜『Gotta Get Out』を発表",
-   "summary_ja": "LA出身の若手バンドThe Linda Lindasが、新作アルバム『Gotta Get Out』の情報を公開している。",
-   "category": "新曲・新作",
-   "band": "その他",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "81dc041a3eb67053",
-   "url": "https://guardian.ng/tv/blink-182-california-band-return-with-new-record-nine",
-   "title_original": "Blink 182: California band return with new record ‘Nine’",
-   "source": "The Guardian Nigeria News",
-   "image": "https://s3.eu-west-1.amazonaws.com/tv.guardian.ng/2024/06/Blink-182-California-band-return-with-new-record-Nine.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-27T15:45:46+00:00",
-   "title_ja": "Blink-182、アルバム『Nine』でシーンへ帰還",
-   "summary_ja": "カリフォルニア出身のバンドBlink-182が、新作レコード『Nine』をひっさげてシーンへと戻ってきたことを伝えている。",
-   "category": "新曲・新作",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
