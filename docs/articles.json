@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T14:24:17.076061+09:00",
+ "updated_at": "2026-10-11T18:32:26.415303+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -272,9 +272,74 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 362,
+ "count": 363,
  "detail_count": 266,
+ "digest": {
+  "headline": "Green DayやFall Out Boyらの最新動向をお届け",
+  "points": [
+   {
+    "text": "Green DayのBillie Joe Armstrongが90年代パンク・プロジェクトを率いてライブを行い、セットリストも紹介された。",
+    "ids": [
+     "0d176b483a7abb80",
+     "56eb2ef0135979d8"
+    ]
+   },
+   {
+    "text": "Green Day関連映画のNimrodsがデジタルプラットフォームでオンライン配信の提供を開始した。",
+    "ids": [
+     "40bb0e47854abe1d"
+    ]
+   },
+   {
+    "text": "Fall Out Boyは結成25周年に向けたメッセージや特別版アイテム、トリビュート企画、クリスマス・カバー曲のリリースが発表された。",
+    "ids": [
+     "46c370229fb81353",
+     "975d8cdb0dcaf594",
+     "6e2e2ce7754acf3a"
+    ]
+   },
+   {
+    "text": "Blink-182の楽曲が野球の試合中の球場などで大合唱され、Tom DeLongeらが感動的な反応を見せた。",
+    "ids": [
+     "a41d959351997a34",
+     "0d44ff77e7227e60",
+     "4c49eb59a83a90b2"
+    ]
+   },
+   {
+    "text": "The InterruptersがTravis BarkerやTim Armstrongらを迎えた新曲Warrior Spiritを配信した。",
+    "ids": [
+     "35b6747e04c21d45"
+    ]
+   }
+  ],
+  "days": 3,
+  "from": "2026-10-08T18:33:26.693850+09:00",
+  "generated_at": "2026-10-11T18:34:32.816561+09:00",
+  "article_count": 18,
+  "sig": "9c14e0555d03"
+ },
  "items": [
+  {
+   "id": "f71b20500568cb3c",
+   "url": "https://music.mxdwn.com/2026/10/10/reviews/show-reviews/live-review-the-linda-lindas-at-brooklyn-steel",
+   "title_original": "Live Review: The Linda Lindas at Brooklyn Steel",
+   "source": "mxdwn Music",
+   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2024/10/LindaLindas_CC_20241011_9.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-10T21:27:08+00:00",
+   "title_ja": "The Linda Lindasのブルックリン・スチール公演をレポートしたライブレビューが公開",
+   "summary_ja": "The Linda Lindasがブルックリン・スチールで開催したライブについてのレビュー記事が公開された。会場で行われたパフォーマンスの様子などが取り上げられている。",
+   "category": "ライブ・ツアー",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "46c370229fb81353",
    "url": "https://rockcelebrities.net/patrick-stump-issues-message-to-fans-about-fall-out-boys-25th-anniversary",
@@ -291,6 +356,27 @@
    "artists": [
     "Patrick Stump",
     "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "975d8cdb0dcaf594",
+   "url": "https://lambgoat.com/news/55290/rock-sound-to-release-special-edition-drop-to-celebrate-25-years-of-fall-out-boy",
+   "title_original": "Rock Sound to release special edition drop to celebrate 25 years of FALL OUT BOY",
+   "source": "Lambgoat",
+   "image": "https://lambgoat.com/cdn/2026/fob-20261010065333.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-10T17:04:00+00:00",
+   "title_ja": "Rock SoundがFall Out Boyの結成25周年を記念した特別版アイテムをリリースへ",
+   "summary_ja": "Rock SoundがFall Out Boyの結成25周年を祝うスペシャルエディションのリリースを発表した。バンドの25年間の歩みを記念した特別な企画アイテムとなっている。",
+   "category": "再発・記念盤",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy",
+    "Rock Sound"
    ],
    "japan": false,
    "importance": 3,
@@ -7762,29 +7848,6 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "139df0fd593f455d",
-   "url": "https://routenote.com/radar/louder-than-life-2026-lineup-my-chemical-romance-iron-maiden-tool-and-limp-bizkit",
-   "title_original": "Louder Than Life 2026 Lineup: My Chemical Romance, Iron Maiden, Tool and Limp Bizkit",
-   "source": "RouteNote",
-   "image": "https://routenote.com/radar/wp-content/uploads/2026/08/Louder-Than-Life-2026.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-27T09:00:29+00:00",
-   "title_ja": "Louder Than Life 2026にMy Chemical Romanceが出演へ",
-   "summary_ja": "フェス「Louder Than Life 2026」の出演ラインナップが発表され、My Chemical Romance、Iron Maiden、Tool、Limp Bizkitらの出演が明らかになった。",
-   "category": "フェス出演",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "Iron Maiden",
-    "Tool",
-    "Limp Bizkit"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
