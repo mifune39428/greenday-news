@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T18:32:26.415303+09:00",
+ "updated_at": "2026-10-11T21:33:51.599073+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -250,6 +250,7 @@
   "parade.com",
   "phoenix.org",
   "pressdemocrat.com",
+  "primetimer.com",
   "punknews.org",
   "rova",
   "sentinel-echo.com",
@@ -272,52 +273,55 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 363,
+ "count": 364,
  "detail_count": 266,
  "digest": {
-  "headline": "Green DayやFall Out Boyらの最新動向をお届け",
+  "headline": "Green Day関連のライブや新作映画の話題が到着",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongが90年代パンク・プロジェクトを率いてライブを行い、セットリストも紹介された。",
+    "text": "Green DayのBillie Joe Armstrongが90年代パンク・プロジェクトを率いてライブを行い、ミネアポリス公演のセットリストが紹介されたほか、Green Dayに着想を得た映画『Nimrods』がオンライン配信を開始した。",
     "ids": [
      "0d176b483a7abb80",
-     "56eb2ef0135979d8"
-    ]
-   },
-   {
-    "text": "Green Day関連映画のNimrodsがデジタルプラットフォームでオンライン配信の提供を開始した。",
-    "ids": [
+     "56eb2ef0135979d8",
      "40bb0e47854abe1d"
     ]
    },
    {
-    "text": "Fall Out Boyは結成25周年に向けたメッセージや特別版アイテム、トリビュート企画、クリスマス・カバー曲のリリースが発表された。",
+    "text": "Fall Out Boyは結成25周年に際してPatrick Stumpがメッセージや振り返りを発表し、Rock Soundによる特別版アイテムのリリースやトリビュート企画、クリスマス・カバー曲のリリースも伝えられた。",
     "ids": [
      "46c370229fb81353",
      "975d8cdb0dcaf594",
-     "6e2e2ce7754acf3a"
+     "ba2d384bb4995797"
     ]
    },
    {
-    "text": "Blink-182の楽曲が野球の試合中の球場などで大合唱され、Tom DeLongeらが感動的な反応を見せた。",
+    "text": "Blink-182は野球の試合中に観客席で名曲が大合唱され、Tom DeLongeが感動的なリアクションを見せたことが話題となった。",
     "ids": [
      "a41d959351997a34",
      "0d44ff77e7227e60",
-     "4c49eb59a83a90b2"
+     "30b733735ff3a676"
     ]
    },
    {
-    "text": "The InterruptersがTravis BarkerやTim Armstrongらを迎えた新曲Warrior Spiritを配信した。",
+    "text": "The InterruptersがTravis BarkerやTim Armstrongらを迎えた新曲Warrior Spiritを配信リリースした。",
     "ids": [
      "35b6747e04c21d45"
+    ]
+   },
+   {
+    "text": "WeezerやThe Offspring、The Linda Lindasなどのライブや公演に関するレポートが各地から届けられた。",
+    "ids": [
+     "ade2e50c8c82ab7f",
+     "7367ca76f55f78a9",
+     "d353b4f8a2217745"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-08T18:33:26.693850+09:00",
-  "generated_at": "2026-10-11T18:34:32.816561+09:00",
+  "from": "2026-10-08T21:34:09.846946+09:00",
+  "generated_at": "2026-10-11T21:34:11.913052+09:00",
   "article_count": 18,
-  "sig": "9c14e0555d03"
+  "sig": "c3e42dd1e64f"
  },
  "items": [
   {
@@ -338,7 +342,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "46c370229fb81353",
@@ -381,6 +385,27 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "ba2d384bb4995797",
+   "url": "https://www.primetimer.com/news/25-just-seemed-so-big-and-far-away-patrick-stump-reflects-on-fall-out-boys-anniversary-in-a-heartfelt-message",
+   "title_original": "\"25 just seemed so big and far away\": Patrick Stump reflects on Fall Out Boy's anniversary in a heartfelt message",
+   "source": "primetimer.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-10T16:42:00+00:00",
+   "title_ja": "Fall Out BoyのPatrick Stumpがバンドの四半世紀を振り返る",
+   "summary_ja": "Fall Out BoyのPatrick Stumpが、バンドの結成25周年を記念してファンや関係者へ向けた心温まるメッセージを発表し、長年の活動を感慨深く振り返った。",
+   "category": "メンバー・発言",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Patrick Stump",
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "6e2e2ce7754acf3a",
