@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T06:28:23.936476+09:00",
+ "updated_at": "2026-10-11T14:24:17.076061+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -166,7 +166,6 @@
   "The Concordian",
   "The Courier-Journal",
   "The Daily Aztec",
-  "The Daily Iowan",
   "The Day",
   "The Detroit News",
   "The Drum",
@@ -273,8 +272,8 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 363,
- "detail_count": 267,
+ "count": 362,
+ "detail_count": 266,
  "items": [
   {
    "id": "46c370229fb81353",
@@ -7785,26 +7784,6 @@
    ],
    "japan": false,
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "dbbc972ecad2852c",
-   "url": "https://dailyiowan.com/2026/08/26/review-weezer-is-a-conventional-rock-album-with-a-few-upbeat-highlights",
-   "title_original": "Review | “Weezer” is a conventional rock album with a few upbeat highlights",
-   "source": "The Daily Iowan",
-   "image": "https://dailyiowan.com/wp-content/uploads/2025/09/Headphones.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-27T02:32:25+00:00",
-   "title_ja": "Weezerのセルフタイトル作『Weezer』 レビュー、アップビートな楽曲が光るロック盤",
-   "summary_ja": "アルバム『Weezer』のレビュー記事。全体としてはオーソドックスなロックアルバムでありながらも、要所に配置されたアップビートで魅力的なハイライト曲が作品を引き立てていると評価されている。",
-   "category": "新曲・新作",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 2,
    "has_detail": true
   }
  ]
