@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T22:59:46.122179+09:00",
+ "updated_at": "2026-10-14T07:32:50.803585+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -44,6 +44,7 @@
   "ABC News & Headlines – Australian Broadcasting Corporation",
   "AD HOC NEWS",
   "Arab News",
+  "Arts Council of Greater New Haven",
   "Audacy",
   "Azernews.az",
   "BLABBERMOUTH.NET",
@@ -99,6 +100,7 @@
   "Loudwire",
   "MELODIC Magazine",
   "MUSIC LIFE CLUB",
+  "Maine AFL-CIO",
   "Media Play News",
   "Men's Journal",
   "Metal Injection",
@@ -272,21 +274,20 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 361,
- "detail_count": 263,
+ "count": 363,
+ "detail_count": 267,
  "digest": {
-  "headline": "2027年大型フェスの出演者発表とバンドの周年記念",
+  "headline": "パンク・ロックシーンの最新フェス出演やツアー情報が続々到着",
   "points": [
    {
-    "text": "2027年のiHeartRadio ALTer EGOにThe Offspringらが出演決定。また、Rock am Ring 2027にはblink-182の出演が発表されました。",
+    "text": "The Offspringが2027年のiHeartRadio ALTer EGOのヘッドライナーに決定した。",
     "ids": [
      "924ccc5c47e6c15f",
-     "af161ad30c248f01",
-     "1a2846aeb030df2f"
+     "af161ad30c248f01"
     ]
    },
    {
-    "text": "Weezerはツアーの2027年までの延長と新曲「C.E.O.」の公開を発表。各地でのライブも精力的に行い、ファンを魅了しています。",
+    "text": "Weezerがツアーの延長と新曲「C.E.O.」の発表に加え、各地でのライブの様子が報じられた。",
     "ids": [
      "5bb41953019314d3",
      "18bfc7c031230648",
@@ -294,36 +295,96 @@
     ]
    },
    {
-    "text": "Fall Out Boyは結成25周年を迎え、Patrick Stumpが喜びを語るとともに、Rock Soundから記念の特別版アイテムがリリースされます。",
+    "text": "blink-182がドイツの大型フェス「Rock am Ring 2027」のラインナップに名を連ねた。",
     "ids": [
-     "23220edd75b9184b",
-     "46c370229fb81353",
-     "975d8cdb0dcaf594"
+     "1a2846aeb030df2f"
     ]
    },
    {
-    "text": "日本関連ではThe Linda Lindasがメジャーデビュー作について語ったほか、トロントでのコンサートやブルックリン公演の様子が報じられました。",
+    "text": "Dropkick Murphysがラリーへの出演や、ボストンで開催する恒例のセント・パトリック・デイ公演の詳細を発表した。",
+    "ids": [
+     "41fb199d6137b2b0",
+     "c1218f9b5bf8c054",
+     "261fcf12ddf2cc77"
+    ]
+   },
+   {
+    "text": "メジャーデビュー作をリリースしたThe Linda Lindasへのインタビューやライブ情報が公開された。",
     "ids": [
      "1159786e875969bb",
      "374c16ab549f969d",
-     "f71b20500568cb3c"
-    ]
-   },
-   {
-    "text": "ParamoreのHayley WilliamsがDIYシーンの支援を呼びかけました。また、国土安全保障省（DHS）に対する批判的な発言も話題となっています。",
-    "ids": [
-     "4ac47beb6e19d216",
-     "fef3cf70ab0831cf"
+     "9e1a2888fcf59e1d"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-10T23:01:04.999162+09:00",
-  "generated_at": "2026-10-13T23:02:02.354338+09:00",
+  "from": "2026-10-11T07:33:17.590182+09:00",
+  "generated_at": "2026-10-14T07:33:19.201598+09:00",
   "article_count": 17,
-  "sig": "406c37f84e15"
+  "sig": "1c2aa26b13c3"
  },
  "items": [
+  {
+   "id": "41fb199d6137b2b0",
+   "url": "https://maineaflcio.org/news/people-rally-w-troy-jackson-dropkick-murphys-fri-oct-16-biddeford",
+   "title_original": "For the People Rally w/ Troy Jackson & Dropkick Murphys — Fri. Oct. 16 in Biddeford",
+   "source": "Maine AFL-CIO",
+   "image": "https://maineaflcio.org/sites/default/files/styles/image_media_large/public/2026-10/840659483_2902182506814410_1263394858870884300_n-1.jpg.webp?itok=Vwz30BWk",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-13T17:22:50+00:00",
+   "title_ja": "Dropkick Murphys、ビデフォードでの「For the People」ラリーに出演へ",
+   "summary_ja": "Dropkick MurphysがTroy Jacksonと共に、10月16日にメイン州ビデフォードで開催される「For the People」ラリーに出演することが決定した。",
+   "category": "フェス出演",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys",
+    "Troy Jackson"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c1218f9b5bf8c054",
+   "url": "https://www.punknews.org/article/89309/tours-dropkick-murphys-announce-details-for-boston-homestead-st-pats-shows",
+   "title_original": "Tours: Dropkick Murphys announce details for Boston Homestead St. Pat's shows",
+   "source": "Punknews.org",
+   "image": "https://static.punknews.org/images/bands/dropkickmurphys-1771951310.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-13T16:00:01+00:00",
+   "title_ja": "Dropkick Murphys、ボストンでの恒例セント・パトリック・デイ公演の詳細を発表",
+   "summary_ja": "Dropkick Murphysが地元ボストンで開催する恒例のセント・パトリック・デイ公演の詳細を発表した。詳細は今後の発表に注目が集まる。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "261fcf12ddf2cc77",
+   "url": "https://themusicuniverse.com/dropkick-murphys-reveal-four-2027-st-patricks-day-tour-boston-dates",
+   "title_original": "Dropkick Murphys reveal four 2027 St Patrick’s Day Tour Boston dates",
+   "source": "The Music Universe",
+   "image": "https://themusicuniverse.com/wp-content/uploads/2026/10/dropkickmurphysboston27.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-13T15:09:42+00:00",
+   "title_ja": "Dropkick Murphys、2027年ボストン公演の日程を公開",
+   "summary_ja": "Dropkick Murphysが2027年3月に地元ボストンで開催する聖パトリック・デイ・ツアーの4公演の詳細を明らかにした。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "924ccc5c47e6c15f",
    "url": "https://rock1053.iheart.com/content/2026-10-13-iheartradio-alter-ego-2027-lineup-revealed-evanescence-billy-corgan-the-offspring-more",
@@ -366,7 +427,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1159786e875969bb",
@@ -386,7 +447,7 @@
    ],
    "japan": true,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4ac47beb6e19d216",
@@ -490,6 +551,26 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "9e1a2888fcf59e1d",
+   "url": "https://www.newhavenarts.org/arts-paper/articles/the-linda-lindas-prove-punk-is-not-dead?hs_amp=true",
+   "title_original": "The Linda Lindas Prove Punk is Not Dead",
+   "source": "Arts Council of Greater New Haven",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-12T04:30:00+00:00",
+   "title_ja": "The Linda Lindasがパンクの健在を証明",
+   "summary_ja": "The Linda Lindasがパンクミュージックの健在を証明していることを伝える記事。",
+   "category": "その他",
+   "band": "その他",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 1,
    "has_detail": true
   },
   {
@@ -7777,46 +7858,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "3ba968f48de68486",
-   "url": "https://parade.com/news/1978-rock-song-named-one-of-the-greatest-of-all-time-revived-by-the-offspring",
-   "title_original": "1978 Rock Song, Named One of the ‘Greatest of All Time,’ Revived by the Offspring",
-   "source": "parade.com",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-29T20:50:21+00:00",
-   "title_ja": "The Offspringが1978年の名曲ロックナンバーをカバー",
-   "summary_ja": "The Offspringが、史上最高の名曲の一つと称される1978年のロック楽曲を新たに蘇らせました。バンドによるカバーの動向として注目を集めています。",
-   "category": "新曲・新作",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "9e4cbfa6fec9a392",
-   "url": "https://music.mxdwn.com/2026/08/29/news/the-linda-lindas-release-music-video-for-everybody-told-me",
-   "title_original": "The Linda Lindas Release Music Video For “Everybody Told Me”",
-   "source": "mxdwn Music",
-   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2024/10/LindaLindas_20241011_11.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-29T19:13:10+00:00",
-   "title_ja": "The Linda Lindasが新曲のミュージックビデオを公開",
-   "summary_ja": "The Linda Lindasが「Everybody Told Me」のミュージックビデオを新たに公開した。",
-   "category": "新曲・新作",
-   "band": "その他",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
