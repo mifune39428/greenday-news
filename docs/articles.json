@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T00:06:46.893467+09:00",
+ "updated_at": "2026-10-13T09:28:57.150200+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -97,6 +97,7 @@
   "Los Angeles Times",
   "Loud Hailer Magazine",
   "Louder",
+  "Loudwire",
   "MELODIC Magazine",
   "MUSIC LIFE CLUB",
   "Media Play News",
@@ -120,6 +121,7 @@
   "Northern Transmissions",
   "Oh No They Didn't! — LiveJournal",
   "OnMilwaukee",
+  "Orlando Sentinel",
   "Orlando Weekly",
   "Our Culture Mag",
   "PUNKLOID",
@@ -247,7 +249,6 @@
   "parade.com",
   "phoenix.org",
   "pressdemocrat.com",
-  "primetimer.com",
   "punknews.org",
   "rova",
   "sentinel-echo.com",
@@ -270,54 +271,96 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 359,
- "detail_count": 261,
+ "count": 361,
+ "detail_count": 264,
  "digest": {
-  "headline": "パンク・ロック界の最新ライブ・新曲情報まとめ",
+  "headline": "Weezerの新曲やFOBの25周年、Green Dayの関連ライブなど最新ニュ",
   "points": [
    {
-    "text": "Weezerがツアーの2027年までの延長と新曲C.E.O.の公開を発表したほか、コロンバス公演を開催した。",
+    "text": "Weezerが「The Gathering Tour」の延長と新曲「C.E.O.」の公開を発表し、各地でライブを開催している。",
     "ids": [
      "5bb41953019314d3",
+     "18bfc7c031230648",
      "3ac7e939b31f298a"
     ]
    },
    {
-    "text": "Fall Out Boyは結成25周年に際してPatrick Stumpがメッセージを発表し、クリスマス・カバー曲のリリースや記念アイテムの話題も届いている。",
+    "text": "Fall Out Boyは結成25周年を迎え、Patrick Stumpがメッセージやインタビューで喜びを語ったほか、記念アイテムやカバー曲も発表された。",
     "ids": [
+     "23220edd75b9184b",
      "46c370229fb81353",
-     "ba2d384bb4995797",
-     "527c1a66feac3f73"
+     "975d8cdb0dcaf594"
     ]
    },
    {
-    "text": "Green DayのBillie Joe Armstrongが90年代パンク・プロジェクトでライブを開催した。",
+    "text": "Green DayのBillie Joe Armstrongが90年代のパンク・プロジェクトを率いてライブを行った。",
     "ids": [
      "0d176b483a7abb80"
     ]
    },
    {
-    "text": "ドイツの大型フェスRock am Ring 2027の出演者にblink-182らが発表され、各バンドのライブや動向が報じられている。",
+    "text": "blink-182が出演する「Rock am Ring 2027」のラインナップが発表され、野球場での大合唱にトム・デロングが感激する場面もあった。",
     "ids": [
      "1a2846aeb030df2f",
-     "374c16ab549f969d",
-     "ade2e50c8c82ab7f"
+     "fdc68bde8074a940"
     ]
    },
    {
-    "text": "ParamoreのHayley WilliamsがDHSを痛烈に批判する発言を行った。",
+    "text": "ParamoreのHayley WilliamsがDIYシーンの支援を呼びかけたほか、国土安全保障省を批判する発言を行った。",
     "ids": [
+     "4ac47beb6e19d216",
      "fef3cf70ab0831cf"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-10T00:07:10.301908+09:00",
-  "generated_at": "2026-10-13T00:07:12.318210+09:00",
-  "article_count": 14,
-  "sig": "15f6caef877d"
+  "from": "2026-10-10T09:29:21.370916+09:00",
+  "generated_at": "2026-10-13T09:29:22.812531+09:00",
+  "article_count": 17,
+  "sig": "88489ebb355e"
  },
  "items": [
+  {
+   "id": "4ac47beb6e19d216",
+   "url": "https://metalheadzone.com/paramores-hayley-williams-asks-fans-to-support-diy-music-scene-go-to-smaller-shows-than-this",
+   "title_original": "Paramore's Hayley Williams Asks Fans to Support DIY Music Scene: \"Go To Smaller Shows Than This\"",
+   "source": "Metalhead Zone",
+   "image": "https://metalheadzone.com/wp-content/uploads/2026/10/hayley-williams-smiling.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-12T19:25:05+00:00",
+   "title_ja": "ParamoreのHayley WilliamsがDIYシーンの支援を呼びかけ",
+   "summary_ja": "ParamoreのHayley Williamsがファンに対し、大規模なライブだけでなく小規模なDIY音楽のライブにも足を運んでサポートするよう呼びかけました。",
+   "category": "メンバー・発言",
+   "band": "Paramore",
+   "artists": [
+    "Hayley Williams",
+    "Paramore"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "18bfc7c031230648",
+   "url": "https://www.orlandosentinel.com/2026/10/12/weezer-gathers-generations-of-fans-together-at-rocking-orlando-show-review",
+   "title_original": "Weezer gathers generations of fans together at rocking Orlando show | Review",
+   "source": "Orlando Sentinel",
+   "image": "https://www.orlandosentinel.com/wp-content/uploads/2026/10/TOS-L-weezer-orlando-29.jpg?w=4000&h=2667",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-12T17:30:41+00:00",
+   "title_ja": "Weezerがオーランド公演で幅広い世代のファンを魅了",
+   "summary_ja": "Weezerが米オーランドで開催したライブのレビュー。会場には幅広い世代のファンが集まり、大盛況のステージを繰り広げました。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "5bb41953019314d3",
    "url": "https://www.bigcountrynewsconnection.com/weezer-expands-the-gathering-tour-into-2027-shares-the-single-c-e-o",
@@ -336,7 +379,28 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "fdc68bde8074a940",
+   "url": "https://www.yahoo.com/entertainment/music/articles/tom-delonge-emotional-reaction-padres-145137402.html",
+   "title_original": "Tom DeLonge Has Emotional Reaction to Padres Fans Belting blink-182 Classic",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/102b38150bfc67578b27637f7078109db1d2d4245dd36bb362b94860bdb8743c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F91bea96b38b091b45ed0ca059522d98b.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-12T14:51:37+00:00",
+   "title_ja": "Tom DeLonge、パドレスファンの大合唱に感激",
+   "summary_ja": "野球の試合中、パドレスファンがblink-182の名曲を大合唱した場面に、トム・デロングが感動の反応を見せた。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Tom DeLonge",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "374c16ab549f969d",
@@ -396,6 +460,27 @@
    "artists": [
     "Hayley Williams",
     "Paramore"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "23220edd75b9184b",
+   "url": "https://loudwire.com/patrick-stump-25th-anniversary-fall-out-boy",
+   "title_original": "‘How?!’ – Patrick Stump Reflects on 25 Years of Fall Out Boy",
+   "source": "Loudwire",
+   "image": "https://townsquare.media/site/366/files/2026/10/attachment-patrick_stump_reflects_25_years_fall_out_boy.jpg?w=1200&q=75&format=natural",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-11T14:36:17+00:00",
+   "title_ja": "Patrick Stump、Fall Out Boyの25年を振り返る",
+   "summary_ja": "パトリック・スタンプがインタビューで、Fall Out Boyとしての活動25年を振り返り、驚きと感慨を語った。",
+   "category": "メンバー・発言",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Patrick Stump",
+    "Fall Out Boy"
    ],
    "japan": false,
    "importance": 3,
@@ -504,27 +589,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "ba2d384bb4995797",
-   "url": "https://www.primetimer.com/news/25-just-seemed-so-big-and-far-away-patrick-stump-reflects-on-fall-out-boys-anniversary-in-a-heartfelt-message",
-   "title_original": "\"25 just seemed so big and far away\": Patrick Stump reflects on Fall Out Boy's anniversary in a heartfelt message",
-   "source": "primetimer.com",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-10T16:42:00+00:00",
-   "title_ja": "Fall Out BoyのPatrick Stumpがバンドの四半世紀を振り返る",
-   "summary_ja": "Fall Out BoyのPatrick Stumpが、バンドの結成25周年を記念してファンや関係者へ向けた心温まるメッセージを発表し、長年の活動を感慨深く振り返った。",
-   "category": "メンバー・発言",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Patrick Stump",
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
   },
   {
    "id": "527c1a66feac3f73",
@@ -7746,27 +7810,6 @@
    "japan": false,
    "importance": 5,
    "detail_tries": 2
-  },
-  {
-   "id": "2ff97e218ddf3451",
-   "url": "https://consequence.net/2026/08/the-offspring-cover-ramones-i-wanna-be-sedated",
-   "title_original": "The Offspring Unleash Cover of Ramones Classic “I Wanna Be Sedated”: Stream",
-   "source": "Consequence",
-   "image": "https://consequence.net/wp-content/uploads/2026/08/The-Offspring.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-28T20:00:43+00:00",
-   "title_ja": "The Offspringがラモーンズをカヴァー",
-   "summary_ja": "The Offspringがラモーンズの名曲「I Wanna Be Sedated」のカヴァー音源を公開した。",
-   "category": "新曲・新作",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring",
-    "Ramones"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
