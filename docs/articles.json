@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T09:28:57.150200+09:00",
+ "updated_at": "2026-10-13T22:59:46.122179+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -90,7 +90,6 @@
   "KelownaNow",
   "Kerrang!",
   "LADbible",
-  "LAist",
   "Lambgoat",
   "Lexington Herald Leader",
   "Live Music Blog",
@@ -138,6 +137,7 @@
   "Prescott Daily Courier",
   "Punknews.org",
   "RIFF Magazine",
+  "ROCK 105.3",
   "RTTNews",
   "Raleigh News & Observer",
   "Revolver Magazine",
@@ -250,6 +250,7 @@
   "phoenix.org",
   "pressdemocrat.com",
   "punknews.org",
+  "rockin'on",
   "rova",
   "sentinel-echo.com",
   "sfchronicle.com",
@@ -272,12 +273,20 @@
   "씨네플레이"
  ],
  "count": 361,
- "detail_count": 264,
+ "detail_count": 263,
  "digest": {
-  "headline": "Weezerの新曲やFOBの25周年、Green Dayの関連ライブなど最新ニュ",
+  "headline": "2027年大型フェスの出演者発表とバンドの周年記念",
   "points": [
    {
-    "text": "Weezerが「The Gathering Tour」の延長と新曲「C.E.O.」の公開を発表し、各地でライブを開催している。",
+    "text": "2027年のiHeartRadio ALTer EGOにThe Offspringらが出演決定。また、Rock am Ring 2027にはblink-182の出演が発表されました。",
+    "ids": [
+     "924ccc5c47e6c15f",
+     "af161ad30c248f01",
+     "1a2846aeb030df2f"
+    ]
+   },
+   {
+    "text": "Weezerはツアーの2027年までの延長と新曲「C.E.O.」の公開を発表。各地でのライブも精力的に行い、ファンを魅了しています。",
     "ids": [
      "5bb41953019314d3",
      "18bfc7c031230648",
@@ -285,7 +294,7 @@
     ]
    },
    {
-    "text": "Fall Out Boyは結成25周年を迎え、Patrick Stumpがメッセージやインタビューで喜びを語ったほか、記念アイテムやカバー曲も発表された。",
+    "text": "Fall Out Boyは結成25周年を迎え、Patrick Stumpが喜びを語るとともに、Rock Soundから記念の特別版アイテムがリリースされます。",
     "ids": [
      "23220edd75b9184b",
      "46c370229fb81353",
@@ -293,20 +302,15 @@
     ]
    },
    {
-    "text": "Green DayのBillie Joe Armstrongが90年代のパンク・プロジェクトを率いてライブを行った。",
+    "text": "日本関連ではThe Linda Lindasがメジャーデビュー作について語ったほか、トロントでのコンサートやブルックリン公演の様子が報じられました。",
     "ids": [
-     "0d176b483a7abb80"
+     "1159786e875969bb",
+     "374c16ab549f969d",
+     "f71b20500568cb3c"
     ]
    },
    {
-    "text": "blink-182が出演する「Rock am Ring 2027」のラインナップが発表され、野球場での大合唱にトム・デロングが感激する場面もあった。",
-    "ids": [
-     "1a2846aeb030df2f",
-     "fdc68bde8074a940"
-    ]
-   },
-   {
-    "text": "ParamoreのHayley WilliamsがDIYシーンの支援を呼びかけたほか、国土安全保障省を批判する発言を行った。",
+    "text": "ParamoreのHayley WilliamsがDIYシーンの支援を呼びかけました。また、国土安全保障省（DHS）に対する批判的な発言も話題となっています。",
     "ids": [
      "4ac47beb6e19d216",
      "fef3cf70ab0831cf"
@@ -314,12 +318,76 @@
    }
   ],
   "days": 3,
-  "from": "2026-10-10T09:29:21.370916+09:00",
-  "generated_at": "2026-10-13T09:29:22.812531+09:00",
+  "from": "2026-10-10T23:01:04.999162+09:00",
+  "generated_at": "2026-10-13T23:02:02.354338+09:00",
   "article_count": 17,
-  "sig": "88489ebb355e"
+  "sig": "406c37f84e15"
  },
  "items": [
+  {
+   "id": "924ccc5c47e6c15f",
+   "url": "https://rock1053.iheart.com/content/2026-10-13-iheartradio-alter-ego-2027-lineup-revealed-evanescence-billy-corgan-the-offspring-more",
+   "title_original": "iHeartRadio ALTer EGO 2027 Lineup Revealed: Evanescence, Billy Corgan, The Offspring & More",
+   "source": "ROCK 105.3",
+   "image": "https://i.iheart.com/v3/re/new_assets/6ace2bb50d6c002b7b80e7e7?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-13T12:56:00+00:00",
+   "title_ja": "2027年のiHeartRadio ALTer EGO出演者が発表",
+   "summary_ja": "2027年開催のiHeartRadio ALTer EGOの出演ラインナップが発表され、The OffspringやEvanescence、Billy Corganらの出演が決定した。",
+   "category": "フェス出演",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Evanescence",
+    "Billy Corgan"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "af161ad30c248f01",
+   "url": "https://www.billboard.com/music/rock/2027-iheartradio-alter-ego-lineup-evanescence-offspring-1236359528",
+   "title_original": "Evanescence, The Offspring & Billy Corgan Lead 2027 iHeartRadio ALTer EGO Lineup",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-13T12:31:39+00:00",
+   "title_ja": "The Offspringらが2027年ALTer EGOのヘッドライナーに",
+   "summary_ja": "2027年のiHeartRadio ALTer EGOの出演アーティストが発表され、The Offspring、Evanescence、Billy Corganらが名を連ねた。",
+   "category": "フェス出演",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Evanescence",
+    "Billy Corgan"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "1159786e875969bb",
+   "url": "https://rockinon.com/blog/rockinon/216074",
+   "title_original": "ザ・リンダ・リンダズ、記念すべきメジャーデビューアルバムをリリース！ 瑞々しい感性でかき鳴らす新世代パンクロック『ガラゲラウッ』についてメンバー全員を直撃！",
+   "source": "rockin'on",
+   "image": "https://rockinon.com/images/entry/width:1200/216074/1",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-13T09:00:00+00:00",
+   "title_ja": "The Linda Lindasがメジャーデビュー作について語る",
+   "summary_ja": "メジャーデビューアルバム『ガラゲラウッ』をリリースしたThe Linda Lindas。瑞々しい感性で鳴らす新世代パンクロックについてメンバー全員が直撃インタビューで語った。",
+   "category": "メンバー・発言",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": true,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "4ac47beb6e19d216",
    "url": "https://metalheadzone.com/paramores-hayley-williams-asks-fans-to-support-diy-music-scene-go-to-smaller-shows-than-this",
@@ -7748,67 +7816,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "f60660db870f0fad",
-   "url": "https://laist.com/brief/news/los-angeles-activities/linda-lindas-new-album-gotta-get-out",
-   "title_original": "The Linda Lindas",
-   "source": "LAist",
-   "image": "https://scpr.brightspotcdn.com/dims4/default/1e877e5/2147483647/strip/true/crop/4480x2520+0+194/resize/1200x675!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F04%2F77%2F47db95f14c4da5fd86b7bbae2126%2Fthe-linda-lindas-tour-photo-by-jaxon-whittington.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-29T12:59:34+00:00",
-   "title_ja": "The Linda Lindasが新作に向けて動き出す",
-   "summary_ja": "LAistが報じたThe Linda Lindasに関する記事。今後の活動や新作に向けた動向に注目が集まっている。",
-   "category": "新曲・新作",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "846077d4af3f2512",
-   "url": "https://theday.com/news/914545/blink-182s-travis-barker-almost-died-a-new-documentary-celebrates-his-life-before-and-after",
-   "title_original": "Blink-182's Travis Barker almost died. A new documentary celebrates his life before and after",
-   "source": "The Day",
-   "image": "http://d3gouztkx1c1lh.cloudfront.net/360_TheDay_Live/0/0/0/1/149/692/1149692_1",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-29T12:00:00+00:00",
-   "title_ja": "Blink-182のTravis Barkerに迫るドキュメンタリー",
-   "summary_ja": "Blink-182のドラマーであるTravis Barkerの生死の危機を乗り越えた人生と、その前後の軌跡を祝う新しいドキュメンタリーが公開される。",
-   "category": "映像・映画・書籍",
-   "band": "Blink-182",
-   "artists": [
-    "Travis Barker",
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "0314e6ce80dc1111",
-   "url": "https://ohnotheydidnt.livejournal.com/132788436.html",
-   "title_original": "The Linda Lindas' new album Gotta Get Out is here!",
-   "source": "Oh No They Didn't! — LiveJournal",
-   "image": "https://l-files.livejournal.net/og_image/3616053/518704?v=1787933087",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-29T03:45:00+00:00",
-   "title_ja": "The Linda Lindasのニューアルバム『Gotta Get Out』がリリース",
-   "summary_ja": "The Linda Lindasのニューアルバム『Gotta Get Out』がリリースされました。バンドの最新作となる本作がついにリスナーのもとへ届けられました。",
-   "category": "新曲・新作",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 5,
    "detail_tries": 2
   }
  ]
