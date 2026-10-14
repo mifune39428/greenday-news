@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T07:32:50.803585+09:00",
+ "updated_at": "2026-10-14T13:32:55.706921+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -70,10 +70,12 @@
   "Far Out Magazine",
   "Fightful",
   "Filmaffinity",
+  "Flagpole",
   "Forbes",
   "Glide Magazine",
   "Guitar World",
   "Guitar.com",
+  "HMV",
   "Happy Mag",
   "Hit Parader",
   "Hoodline",
@@ -101,6 +103,7 @@
   "MELODIC Magazine",
   "MUSIC LIFE CLUB",
   "Maine AFL-CIO",
+  "MassLive.com",
   "Media Play News",
   "Men's Journal",
   "Metal Injection",
@@ -274,56 +277,71 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 363,
- "detail_count": 267,
+ "count": 366,
+ "detail_count": 268,
  "digest": {
-  "headline": "パンク・ロックシーンの最新フェス出演やツアー情報が続々到着",
+  "headline": "パンク・ロックバンドの最新ニュースまとめ",
   "points": [
    {
-    "text": "The Offspringが2027年のiHeartRadio ALTer EGOのヘッドライナーに決定した。",
+    "text": "The OffspringやEvanescenceらが2027年開催のiHeartRadio ALTer EGOに出演することが発表された。",
     "ids": [
      "924ccc5c47e6c15f",
      "af161ad30c248f01"
     ]
    },
    {
-    "text": "Weezerがツアーの延長と新曲「C.E.O.」の発表に加え、各地でのライブの様子が報じられた。",
+    "text": "Weezerが「The Gathering Tour」の2027年までの延長と新曲「C.E.O.」の公開を発表した。",
     "ids": [
-     "5bb41953019314d3",
-     "18bfc7c031230648",
-     "3ac7e939b31f298a"
+     "5bb41953019314d3"
     ]
    },
    {
-    "text": "blink-182がドイツの大型フェス「Rock am Ring 2027」のラインナップに名を連ねた。",
+    "text": "Dropkick Murphysが2027年のボストンでの恒例の聖パトリックデー公演の日程や詳細を発表した。",
+    "ids": [
+     "b0d11775c451dfc5",
+     "c1218f9b5bf8c054"
+    ]
+   },
+   {
+    "text": "ドイツの大型フェス「Rock am Ring 2027」のラインナップが発表され、blink-182らの出演が明らかになった。",
     "ids": [
      "1a2846aeb030df2f"
     ]
    },
    {
-    "text": "Dropkick Murphysがラリーへの出演や、ボストンで開催する恒例のセント・パトリック・デイ公演の詳細を発表した。",
+    "text": "メジャーデビューアルバム『ガラゲラウッ』をリリースしたThe Linda Lindasが、インタビューで新世代パンクロックについて語った。",
     "ids": [
-     "41fb199d6137b2b0",
-     "c1218f9b5bf8c054",
-     "261fcf12ddf2cc77"
-    ]
-   },
-   {
-    "text": "メジャーデビュー作をリリースしたThe Linda Lindasへのインタビューやライブ情報が公開された。",
-    "ids": [
-     "1159786e875969bb",
-     "374c16ab549f969d",
-     "9e1a2888fcf59e1d"
+     "1159786e875969bb"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-11T07:33:17.590182+09:00",
-  "generated_at": "2026-10-14T07:33:19.201598+09:00",
-  "article_count": 17,
-  "sig": "1c2aa26b13c3"
+  "from": "2026-10-11T13:33:16.466167+09:00",
+  "generated_at": "2026-10-14T13:33:17.988426+09:00",
+  "article_count": 19,
+  "sig": "0e44e361f9c3"
  },
  "items": [
+  {
+   "id": "38654014bdfb0ec0",
+   "url": "https://flagpole.com/calendar-picks/2026/10/14/calendar-pick-the-linda-lindas",
+   "title_original": "Calendar Pick: The Linda Lindas",
+   "source": "Flagpole",
+   "image": "https://flagpole.com/wp-content/uploads/2026/10/CalendarPicks-TheLindaLindas-JaxonWhittington.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T04:03:00+00:00",
+   "title_ja": "The Linda Lindasのカレンダー掲載情報",
+   "summary_ja": "The Linda Lindasを取り上げたカレンダー形式の掲載記事。",
+   "category": "その他",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 1,
+   "has_detail": true
+  },
   {
    "id": "41fb199d6137b2b0",
    "url": "https://maineaflcio.org/news/people-rally-w-troy-jackson-dropkick-murphys-fri-oct-16-biddeford",
@@ -346,6 +364,48 @@
    "has_detail": true
   },
   {
+   "id": "50d206b7dff547cc",
+   "url": "https://consequence.net/2026/10/the-offspring-drummer-brandon-pertzborn-michael-jackson-for-first-time",
+   "title_original": "The Offspring’s Drummer Brandon Pertzborn Plays Michael Jackson Song as He Hears It for First Time: Watch",
+   "source": "Consequence",
+   "image": "https://consequence.net/wp-content/uploads/2026/10/Brandon-Pertzborn.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-13T16:50:05+00:00",
+   "title_ja": "The Offspringドラマーが初聴きのMJ楽曲演奏",
+   "summary_ja": "The OffspringのドラマーであるBrandon Pertzbornが、初めて聴くマイケル・ジャクソンの楽曲に合わせて即興で演奏する動画が公開された。",
+   "category": "映像・映画・書籍",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Brandon Pertzborn",
+    "Michael Jackson"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "b0d11775c451dfc5",
+   "url": "https://www.masslive.com/boston/2026/10/dropkick-murphys-announce-2027-boston-st-patricks-day-shows.html",
+   "title_original": "Dropkick Murphys announce 2027 Boston St. Patrick’s Day shows: See dates here",
+   "source": "MassLive.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-13T16:17:00+00:00",
+   "title_ja": "Dropkick Murphysが聖パトリックデー公演を発表",
+   "summary_ja": "Dropkick Murphysが2027年のボストンで開催する恒例の聖パトリックデー公演の日程を発表しました。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "c1218f9b5bf8c054",
    "url": "https://www.punknews.org/article/89309/tours-dropkick-murphys-announce-details-for-boston-homestead-st-pats-shows",
    "title_original": "Tours: Dropkick Murphys announce details for Boston Homestead St. Pat's shows",
@@ -356,26 +416,6 @@
    "published": "2026-10-13T16:00:01+00:00",
    "title_ja": "Dropkick Murphys、ボストンでの恒例セント・パトリック・デイ公演の詳細を発表",
    "summary_ja": "Dropkick Murphysが地元ボストンで開催する恒例のセント・パトリック・デイ公演の詳細を発表した。詳細は今後の発表に注目が集まる。",
-   "category": "ライブ・ツアー",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "261fcf12ddf2cc77",
-   "url": "https://themusicuniverse.com/dropkick-murphys-reveal-four-2027-st-patricks-day-tour-boston-dates",
-   "title_original": "Dropkick Murphys reveal four 2027 St Patrick’s Day Tour Boston dates",
-   "source": "The Music Universe",
-   "image": "https://themusicuniverse.com/wp-content/uploads/2026/10/dropkickmurphysboston27.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-13T15:09:42+00:00",
-   "title_ja": "Dropkick Murphys、2027年ボストン公演の日程を公開",
-   "summary_ja": "Dropkick Murphysが2027年3月に地元ボストンで開催する聖パトリック・デイ・ツアーの4公演の詳細を明らかにした。",
    "category": "ライブ・ツアー",
    "band": "Dropkick Murphys",
    "artists": [
@@ -819,6 +859,26 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "056df6d88426a425",
+   "url": "https://hmv.com/blog/music/my-chemical-romance-the-black-parade-20th-anniversary-album-release-events-at-hmv",
+   "title_original": "My Chemical Romance, The Black Parade 20th Anniversary Album Release Events at hmv",
+   "source": "HMV",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-09T21:44:44+00:00",
+   "title_ja": "hmvでMy Chemical Romanceの記念イベントを開催",
+   "summary_ja": "hmvにて、My Chemical Romanceの名盤『The Black Parade』発売20周年を記念したアルバムリリースイベントの開催が決定しました。",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "35b6747e04c21d45",
