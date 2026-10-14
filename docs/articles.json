@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T01:58:53.775808+09:00",
+ "updated_at": "2026-10-15T06:30:51.647852+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -283,22 +283,30 @@
  "count": 373,
  "detail_count": 272,
  "digest": {
-  "headline": "Green DayやThe Offspringなどパンク・ロック界の最新ニュース",
+  "headline": "Green Dayの裏側や大物バンドの新曲・ライブ情報が続々到着",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongがインタビューで、アルバムNimrodの制作当時やヒット曲Good Riddanceの誕生について振り返りました。",
+    "text": "Green DayのBillie Joe ArmstrongがインタビューでアルバムNimrodの制作やヒット曲を振り返った。",
     "ids": [
      "30462b60561efb52"
     ]
    },
    {
-    "text": "Fall Out Boyが新曲「It Feels Like Christmas」をリリースし、ミュージックビデオを公開しました。",
+    "text": "Fall Out Boyが新曲「It Feels Like Christmas」をリリースし、ミュージックビデオも公開した。",
     "ids": [
      "bb9db71e0216080f"
     ]
    },
    {
-    "text": "The Offspringは2027年開催のiHeartRadio ALTer EGOや2026年SEMA Festへの出演、サンディエゴ公演が決定しています。",
+    "text": "Dropkick Murphysが2027年のボストンにおける聖パトリックデー公演の日程を発表した。",
+    "ids": [
+     "0b127ec291d7069e",
+     "b0d11775c451dfc5",
+     "e4ab5c14d30e1911"
+    ]
+   },
+   {
+    "text": "The Offspringが2027年のiHeartRadio ALTer EGOやSEMA Festへの出演が決まった。",
     "ids": [
      "924ccc5c47e6c15f",
      "af161ad30c248f01",
@@ -306,26 +314,19 @@
     ]
    },
    {
-    "text": "Weezerが「The Gathering Tour」の2027年までの延長と新曲「C.E.O.」の公開を発表し、シカゴのイベント出演なども控えています。",
+    "text": "Weezerが新曲「C.E.O.」の公開とツアー延長を発表し、各地でライブを行っている。",
     "ids": [
      "5bb41953019314d3",
-     "d6005962c5f2f910"
-    ]
-   },
-   {
-    "text": "Dropkick Murphysが2027年のボストンでの恒例聖パトリックデー公演やビデフォードでのラリー出演を発表しました。",
-    "ids": [
-     "b0d11775c451dfc5",
-     "e4ab5c14d30e1911",
-     "41fb199d6137b2b0"
+     "d6005962c5f2f910",
+     "18bfc7c031230648"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-12T01:59:23.104923+09:00",
-  "generated_at": "2026-10-15T01:59:25.077313+09:00",
+  "from": "2026-10-12T06:31:17.305824+09:00",
+  "generated_at": "2026-10-15T06:31:23.276098+09:00",
   "article_count": 24,
-  "sig": "e88ce81252ee"
+  "sig": "6b5afd96fd8b"
  },
  "items": [
   {
@@ -367,7 +368,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "30462b60561efb52",
@@ -388,7 +389,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "fff54d29f528b6b2",
@@ -576,6 +577,26 @@
    "has_detail": true
   },
   {
+   "id": "0b127ec291d7069e",
+   "url": "https://www.antimusic.com/p/26/p1013dropkick_murphys_reveal_boston_homestand_dates_for_st_patricks_day_2027_tour.shtml",
+   "title_original": "Dropkick Murphys Reveal Boston Homestand Dates For St. Patrick's Day 2027 Tour",
+   "source": "antiMusic",
+   "image": "https://www.antimusic.com/news/photos/26/10/13/dropkick-murphys.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-13T16:50:13+00:00",
+   "title_ja": "Dropkick Murphys、2027年St. Patrick's Day公演を発表",
+   "summary_ja": "Dropkick Murphysが2027年のセント・パトリック・デイに向けたボストンでの恒例ライブ日程を発表した。（114文字）",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "50d206b7dff547cc",
    "url": "https://consequence.net/2026/10/the-offspring-drummer-brandon-pertzborn-michael-jackson-for-first-time",
    "title_original": "The Offspring’s Drummer Brandon Pertzborn Plays Michael Jackson Song as He Hears It for First Time: Watch",
@@ -616,26 +637,6 @@
    "japan": false,
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "c1218f9b5bf8c054",
-   "url": "https://www.punknews.org/article/89309/tours-dropkick-murphys-announce-details-for-boston-homestead-st-pats-shows",
-   "title_original": "Tours: Dropkick Murphys announce details for Boston Homestead St. Pat's shows",
-   "source": "Punknews.org",
-   "image": "https://static.punknews.org/images/bands/dropkickmurphys-1771951310.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-13T16:00:01+00:00",
-   "title_ja": "Dropkick Murphys、ボストンでの恒例セント・パトリック・デイ公演の詳細を発表",
-   "summary_ja": "Dropkick Murphysが地元ボストンで開催する恒例のセント・パトリック・デイ公演の詳細を発表した。詳細は今後の発表に注目が集まる。",
-   "category": "ライブ・ツアー",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
   },
   {
    "id": "924ccc5c47e6c15f",
