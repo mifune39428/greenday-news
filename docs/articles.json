@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T20:36:39.261798+09:00",
+ "updated_at": "2026-10-15T01:58:53.775808+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -123,7 +123,6 @@
   "Nashville Scene",
   "Netto's Game Room",
   "New Noise Magazine",
-  "NextMosh",
   "Northern Transmissions",
   "Oh No They Didn't! — LiveJournal",
   "OnMilwaukee",
@@ -281,20 +280,25 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 371,
+ "count": 373,
  "detail_count": 272,
  "digest": {
-  "headline": "人気パンクバンドの新曲やフェス出演情報が続々到着",
+  "headline": "Green DayやThe Offspringなどパンク・ロック界の最新ニュース",
   "points": [
    {
-    "text": "Fall Out Boyが新曲「It Feels Like Christmas」を公開し、Weezerが新曲「C.E.O.」の発表とツアー延長を明らかにした。",
+    "text": "Green DayのBillie Joe Armstrongがインタビューで、アルバムNimrodの制作当時やヒット曲Good Riddanceの誕生について振り返りました。",
     "ids": [
-     "bb9db71e0216080f",
-     "5bb41953019314d3"
+     "30462b60561efb52"
     ]
    },
    {
-    "text": "The Offspringは2027年iHeartRadio ALTer EGOや2026年SEMA Festなどのフェス出演が決定した。",
+    "text": "Fall Out Boyが新曲「It Feels Like Christmas」をリリースし、ミュージックビデオを公開しました。",
+    "ids": [
+     "bb9db71e0216080f"
+    ]
+   },
+   {
+    "text": "The Offspringは2027年開催のiHeartRadio ALTer EGOや2026年SEMA Festへの出演、サンディエゴ公演が決定しています。",
     "ids": [
      "924ccc5c47e6c15f",
      "af161ad30c248f01",
@@ -302,27 +306,90 @@
     ]
    },
    {
-    "text": "Dropkick Murphysがボストンでの恒例の聖パトリックデー公演の日程や詳細を発表した。",
+    "text": "Weezerが「The Gathering Tour」の2027年までの延長と新曲「C.E.O.」の公開を発表し、シカゴのイベント出演なども控えています。",
     "ids": [
-     "b0d11775c451dfc5",
-     "c1218f9b5bf8c054"
+     "5bb41953019314d3",
+     "d6005962c5f2f910"
     ]
    },
    {
-    "text": "ドイツの大型フェス「Rock am Ring 2027」にblink-182の出演が決定し、Blink-182のTravis Barkerに迫る新ドキュメンタリーも公開された。",
+    "text": "Dropkick Murphysが2027年のボストンでの恒例聖パトリックデー公演やビデフォードでのラリー出演を発表しました。",
     "ids": [
-     "1a2846aeb030df2f",
-     "d0d7764885ad6a6b"
+     "b0d11775c451dfc5",
+     "e4ab5c14d30e1911",
+     "41fb199d6137b2b0"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-11T20:37:08.816678+09:00",
-  "generated_at": "2026-10-14T20:37:10.666567+09:00",
+  "from": "2026-10-12T01:59:23.104923+09:00",
+  "generated_at": "2026-10-15T01:59:25.077313+09:00",
   "article_count": 24,
-  "sig": "e8af1ac29c26"
+  "sig": "e88ce81252ee"
  },
  "items": [
+  {
+   "id": "e4ab5c14d30e1911",
+   "url": "https://www.thatericalper.com/2026/10/14/dropkick-murphys-announce-2027-boston-st-patricks-day-shows-with-special-guests",
+   "title_original": "Dropkick Murphys Announce 2027 Boston St. Patrick’s Day Shows With Special Guests",
+   "source": "That Eric Alper",
+   "image": "https://www.thatericalper.com/wp-content/uploads/2026/10/imgi_3_847828803_18634572295031204_5579493000928619927_n.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T16:22:54+00:00",
+   "title_ja": "Dropkick Murphysが2027年のボストン公演を発表",
+   "summary_ja": "Dropkick Murphysが2027年の聖パトリック・デイを祝う恒例のボストン公演の開催を発表しました。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "441bc9cf4c53553a",
+   "url": "https://chorus.fm/news/super-sometimes-cover-fall-out-boy",
+   "title_original": "Super Sometimes Cover Fall Out Boy",
+   "source": "chorus.fm",
+   "image": "https://chorus.fm/wp-content/uploads/2026/03/Super-Sometimes.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T15:07:57+00:00",
+   "title_ja": "Super SometimesがFall Out Boyのカバーを披露",
+   "summary_ja": "Super SometimesがFall Out Boyの楽曲をカバーしたことを伝えるニュースです。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy",
+    "Super Sometimes"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "30462b60561efb52",
+   "url": "https://www.loudersound.com/music/albums/how-nimrod-and-good-riddance-taught-green-day-billie-joe-armstrong-to-stop-caring-about-dumb-punk-rock-rules",
+   "title_original": "\"I thought people were probably gonna hate it.\" How Nimrod, and its surprise hit single Good Riddance (Time of Your Life), taught Green Day's Billie Joe Armstrong to stop caring about dumb punk rock rules",
+   "source": "Louder",
+   "image": "https://cdn.mos.cms.futurecdn.net/6NrmMrrmBL2cUoqMysRVvD-1280-80.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T15:00:00+00:00",
+   "title_ja": "Green DayのBillie Joeが名盤Nimrodの制作を振り返る",
+   "summary_ja": "Billie Joe Armstrongがインタビューで、アルバムNimrodの制作当時やヒット曲Good Riddanceの誕生について振り返っています。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "fff54d29f528b6b2",
    "url": "https://www.klbjfm.com/rock-daypop/the-offspring-jimmy-eat-world-and-311-to-lead-lineup-at-2026-sema-fest-in-las-vegas",
@@ -343,7 +410,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1fb7f95cb7c125bd",
@@ -7994,27 +8061,6 @@
    "artists": [
     "Tré Cool",
     "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b105cd0051ec58a7",
-   "url": "https://nextmosh.com/the-offspring-release-cover-of-ramones-i-wanna-be-sedated",
-   "title_original": "The Offspring release cover of Ramones’ ‘I Wanna Be Sedated’",
-   "source": "NextMosh",
-   "image": "https://nextmosh.com/wp-content/uploads/2026/08/The_Offspring_2025.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-30T14:47:11+00:00",
-   "title_ja": "The OffspringがRamonesの名曲カバーをリリース",
-   "summary_ja": "The OffspringがRamonesの「I Wanna Be Sedated」のカバー楽曲を新たにリリースした。",
-   "category": "新曲・新作",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring",
-    "Ramones"
    ],
    "japan": false,
    "importance": 3,
