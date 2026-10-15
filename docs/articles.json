@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T20:15:13.248459+09:00",
+ "updated_at": "2026-10-16T01:46:09.375611+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -57,6 +57,7 @@
   "California.com",
   "CelebrityAccess",
   "Consequence",
+  "Creative Loafing Tampa",
   "Creepy Catalog",
   "DIY Magazine",
   "DU Clarion",
@@ -117,6 +118,7 @@
   "Milwaukee Journal Sentinel",
   "Music Connection Magazine",
   "Music In Minnesota",
+  "Music Wee",
   "NME",
   "NME Japan",
   "Nanaimo News Bulletin",
@@ -146,7 +148,6 @@
   "ROCK 105.3",
   "RTTNews",
   "Raleigh News & Observer",
-  "Revolver Magazine",
   "Richmond Times-Dispatch",
   "Rock Celebrities",
   "Rock Cellar Magazine",
@@ -280,13 +281,13 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 375,
- "detail_count": 272,
+ "count": 376,
+ "detail_count": 273,
  "digest": {
   "headline": "Green DayやMCRなど注目バンドの最新ニュースまとめ",
   "points": [
    {
-    "text": "Green DayのBillie Joe ArmstrongがインタビューでNimrodの制作や名曲Good Riddance、卒業式の定番となった楽曲の当時を振り返りました。",
+    "text": "Green DayのBillie Joe Armstrongが、名盤Nimrodの制作当時や楽曲の思い出について振り返っている。",
     "ids": [
      "c8dfc396401deddc",
      "30462b60561efb52",
@@ -294,13 +295,15 @@
     ]
    },
    {
-    "text": "My Chemical Romanceが代表作『The Black Parade』の発売20周年を記念した拡張エディションをリリースすることを発表しました。",
+    "text": "My Chemical Romanceが名盤The Black Paradeの20周年盤発売を発表し、Warner Chappellとの世界パブリッシング契約も結んだ。",
     "ids": [
-     "76902e607bb9d308"
+     "76902e607bb9d308",
+     "4465f7e53889e8a9",
+     "813e514561688831"
     ]
    },
    {
-    "text": "The Offspringが2027年のiHeartRadio ALTer EGOや2026年SEMA Fest、サンディエゴ公演への出演が決定しました。",
+    "text": "The Offspringが2027年のiHeartRadio ALTer EGOや2026年SEMA Fest、サンディエゴ公演への出演を控えている。",
     "ids": [
      "924ccc5c47e6c15f",
      "af161ad30c248f01",
@@ -308,15 +311,7 @@
     ]
    },
    {
-    "text": "Weezerがツアーの延長と新曲C.E.O.の公開を発表したほか、各地でのライブ出演や公演の盛況ぶりが伝えられています。",
-    "ids": [
-     "5bb41953019314d3",
-     "d6005962c5f2f910",
-     "18bfc7c031230648"
-    ]
-   },
-   {
-    "text": "Dropkick Murphysが2027年のボストンでの聖パトリックデー公演の日程を発表し、ビデフォードでのラリー出演も決定しています。",
+    "text": "Dropkick Murphysが2027年のボストンでの恒例の聖パトリックデー公演の日程を発表した。",
     "ids": [
      "0b127ec291d7069e",
      "b0d11775c451dfc5",
@@ -325,12 +320,32 @@
    }
   ],
   "days": 3,
-  "from": "2026-10-12T20:15:30.189096+09:00",
-  "generated_at": "2026-10-15T20:15:32.601655+09:00",
+  "from": "2026-10-13T01:46:39.113730+09:00",
+  "generated_at": "2026-10-16T01:46:44.125934+09:00",
   "article_count": 24,
-  "sig": "bc33451aac32"
+  "sig": "369a6fa4f383"
  },
  "items": [
+  {
+   "id": "4465f7e53889e8a9",
+   "url": "https://www.billboard.com/pro/my-chemical-romance-signs-with-warner-chappell-music",
+   "title_original": "My Chemical Romance Signs Global Publishing Deal With Warner Chappell Music",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-15T16:08:53+00:00",
+   "title_ja": "My Chemical RomanceがWarner Chappellと世界パブリッシング契約を締結",
+   "summary_ja": "My Chemical RomanceがWarner Chappell Musicとグローバルなパブリッシング契約を新たに結んだことが発表された。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "76902e607bb9d308",
    "url": "https://www.bigcountrynewsconnection.com/my-chemical-romance-to-release-expanded-20th-anniversary-edition-of-the-black-parade",
@@ -349,7 +364,47 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "813e514561688831",
+   "url": "https://www.musicweek.com/publishing/read/warner-chappell-signs-global-deal-with-generational-force-my-chemical-romance/095255",
+   "title_original": "Warner Chappell signs global deal with 'generational force' My Chemical Romance",
+   "source": "Music Wee",
+   "image": "https://www.musicweek.com/cimages/9ce6def333fa790e6075ca7af92c4d59.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-15T14:17:00+00:00",
+   "title_ja": "Warner Chappell、My Chemical Romanceと世界契約を発表",
+   "summary_ja": "音楽出版社のWarner Chappellが、世代を代表する存在であるMy Chemical Romanceと世界規模の契約を締結したと発表した。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a89279012a0247fc",
+   "url": "https://www.cltampa.com/music-2/review-in-tampa-weezer-goes-for-the-gold-during-stacked-alt-rock-gathering-w-photos",
+   "title_original": "Review: In Tampa, Weezer goes for the gold during stacked alt-rock gathering [w/photos]",
+   "source": "Creative Loafing Tampa",
+   "image": "https://www.cltampa.com/wp-content/uploads/2026/10/Weezer-Tampa-BenchmarkInternationalArena-RyanMetcalf-crop.jpg-scaled.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-15T13:25:09+00:00",
+   "title_ja": "Weezerのタンパ公演レビュー：オルタナの祭典で輝きを放つ",
+   "summary_ja": "フロリダ州タンパで開催されたオルタナティブ・ロックの大型イベントに出演したWeezerのステージについて、写真と共に振り返るライブレビュー。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "c8dfc396401deddc",
@@ -369,7 +424,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "56fd5bf4fe2e01b2",
@@ -8061,48 +8116,6 @@
    ],
    "japan": false,
    "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "c648f7c6306d6537",
-   "url": "https://www.forbes.com/sites/hughmcintyre/2026/08/31/my-chemical-romance-returns-to-no-1-decades-after-first-ruling",
-   "title_original": "My Chemical Romance Returns To No. 1 Decades After First Ruling",
-   "source": "Forbes",
-   "image": "https://imageio.forbes.com/specials-images/imageserve/6a959f37a09685b09e3ebf2d/0x0.jpg?format=jpg&crop=4992,2808,x0,y8,safe&height=900&width=1600&fit=bounds",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-31T15:45:05+00:00",
-   "title_ja": "My Chemical Romanceがチャート首位に返り咲き",
-   "summary_ja": "My Chemical Romanceが、最初の首位獲得から数十年を経て再びチャートのトップに返り咲いたことを海外メディアが報じている。",
-   "category": "チャート・受賞",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "a10448e0371a1354",
-   "url": "https://www.revolvermag.com/music/see-green-day-and-rancid-offshoot-cretin-familys-tribute-performance-to-the-ramones",
-   "title_original": "See GREEN DAY, RANCID and BLINK-182 members cover RAMONES as CRETIN FAMILY",
-   "source": "Revolver Magazine",
-   "image": "https://media.revolvermag.com/smaecrmuhw/styles/card-social/2026/08/31/Cretin-Family-Ramones-Rancid-Green-Day-Live-2026-Gilbert-Flores-Variety-Getty-Images.jpg.webp?version=6a959cae38a17",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-31T14:50:00+00:00",
-   "title_ja": "Green DayらのメンバーがRamonesのカバーバンドを結成",
-   "summary_ja": "Green Day、Rancid、Blink-182のメンバーらがCRETIN FAMILYというバンドを結成し、Ramonesのカバーライブを披露した。",
-   "category": "その他",
-   "band": "Green Day",
-   "artists": [
-    "Green Day",
-    "Rancid",
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   }
  ]
