@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T01:46:09.375611+09:00",
+ "updated_at": "2026-10-16T06:12:39.587876+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -24,7 +24,6 @@
   "Fall Out Boy",
   "Paramore",
   "Alkaline Trio",
-  "Descendents",
   "Dropkick Murphys",
   "Jimmy Eat World",
   "Rise Against",
@@ -116,6 +115,7 @@
   "Mid-Day",
   "Mikiki by TOWER RECORDS",
   "Milwaukee Journal Sentinel",
+  "Music Business Worldwide",
   "Music Connection Magazine",
   "Music In Minnesota",
   "Music Wee",
@@ -284,26 +284,31 @@
  "count": 376,
  "detail_count": 273,
  "digest": {
-  "headline": "Green DayやMCRなど注目バンドの最新ニュースまとめ",
+  "headline": "パンク・ロック系バンドの最新ニュースまとめ",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongが、名盤Nimrodの制作当時や楽曲の思い出について振り返っている。",
+    "text": "Green DayのBillie Joe Armstrongが、名盤Nimrodの制作や卒業式の定番となった楽曲について振り返るインタビューが明かされた。",
     "ids": [
      "c8dfc396401deddc",
-     "30462b60561efb52",
-     "e79c4bb4a5a44169"
+     "30462b60561efb52"
     ]
    },
    {
-    "text": "My Chemical Romanceが名盤The Black Paradeの20周年盤発売を発表し、Warner Chappellとの世界パブリッシング契約も結んだ。",
+    "text": "My Chemical Romanceは名盤『The Black Parade』20周年盤の発売やWarner Chappellとの世界パブリッシング契約を発表した。",
     "ids": [
      "76902e607bb9d308",
-     "4465f7e53889e8a9",
-     "813e514561688831"
+     "17cca91ab8148050",
+     "4465f7e53889e8a9"
     ]
    },
    {
-    "text": "The Offspringが2027年のiHeartRadio ALTer EGOや2026年SEMA Fest、サンディエゴ公演への出演を控えている。",
+    "text": "Weezerが2026年ビルボード・ライブ・ミュージック・サミットでLegend of Live Awardを受賞することが発表された。",
+    "ids": [
+     "8658e29252b16b05"
+    ]
+   },
+   {
+    "text": "The Offspringが2027年のiHeartRadio ALTer EGOや2026年SEMA Fest、サンディエゴ公演への出演が決まった。",
     "ids": [
      "924ccc5c47e6c15f",
      "af161ad30c248f01",
@@ -311,21 +316,60 @@
     ]
    },
    {
-    "text": "Dropkick Murphysが2027年のボストンでの恒例の聖パトリックデー公演の日程を発表した。",
+    "text": "Fall Out Boyの新曲「It Feels Like Christmas」がリリースされ、ミュージックビデオも公開された。",
     "ids": [
-     "0b127ec291d7069e",
-     "b0d11775c451dfc5",
-     "e4ab5c14d30e1911"
+     "bb9db71e0216080f"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-13T01:46:39.113730+09:00",
-  "generated_at": "2026-10-16T01:46:44.125934+09:00",
+  "from": "2026-10-13T06:12:59.393576+09:00",
+  "generated_at": "2026-10-16T06:13:01.044545+09:00",
   "article_count": 24,
-  "sig": "369a6fa4f383"
+  "sig": "1b840a782bca"
  },
  "items": [
+  {
+   "id": "17cca91ab8148050",
+   "url": "https://www.musicbusinessworldwide.com/warner-chappell-music-signs-my-chemical-romance-to-exclusive-worldwide-publishing-deal",
+   "title_original": "Warner Chappell Music signs My Chemical Romance to exclusive worldwide publishing deal",
+   "source": "Music Business Worldwide",
+   "image": "https://www.musicbusinessworldwide.com/files/2026/10/1-IMAGE-1.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-15T17:35:20+00:00",
+   "title_ja": "My Chemical Romanceがワーナー・チャペルと契約",
+   "summary_ja": "My Chemical RomanceがWarner Chappell Musicと全世界を対象とした独占的な音楽出版契約を締結したことが明らかになった。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Warner Chappell Music"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "8658e29252b16b05",
+   "url": "https://www.billboard.com/business/touring/weezer-legend-live-award-2026-billboard-live-music-summit-1236361002",
+   "title_original": "Weezer to Receive Legend of Live Award at 2026 Billboard Live Music Summit",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-15T17:00:42+00:00",
+   "title_ja": "Weezerが2026年ビルボード・ライブ・ミュージック・サミットで受賞へ",
+   "summary_ja": "Weezerが2026年Billboard Live Music SummitにてLegend of Live Awardを受賞することが発表された。",
+   "category": "チャート・受賞",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "4465f7e53889e8a9",
    "url": "https://www.billboard.com/pro/my-chemical-romance-signs-with-warner-chappell-music",
@@ -344,7 +388,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "76902e607bb9d308",
@@ -8076,46 +8120,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "57871ca102a51d25",
-   "url": "https://www.forbes.com/sites/hughmcintyre/2026/08/31/paramore-returns-with-some-of-the-bands-biggest-hits",
-   "title_original": "Paramore Returns With Some Of The Band’s Biggest Hits",
-   "source": "Forbes",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-31T17:15:25+00:00",
-   "title_ja": "Paramoreが代表曲の数々と共にステージへ帰還",
-   "summary_ja": "Paramoreがバンドのキャリアを代表するヒットナンバーを引き連れてステージに戻ってきたことを報じている。",
-   "category": "ライブ・ツアー",
-   "band": "Paramore",
-   "artists": [
-    "Paramore"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "80b51fea1b4a54ac",
-   "url": "https://www.yahoo.com/entertainment/music/articles/secret-descendents-seminal-punk-guitar-170000799.html",
-   "title_original": "The secret to Descendents’ seminal punk guitar sound and why Milo stood the test of time",
-   "source": "Yahoo",
-   "image": "https://s.yimg.com/lo/mysterio/api/d766fa11da40a9a5238f8a14a3ad166172b0ce95e775c33cccbee4de313eb28d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fguitar_world_625%2F01d6748a0e21f60c921933525bd2e9d8.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-31T17:00:00+00:00",
-   "title_ja": "Descendentsのギターサウンドと長く愛される理由",
-   "summary_ja": "パンクシーンに多大な影響を与えたDescendentsの象徴的なギターサウンドの秘密と、Miloが長年にわたり支持され続ける理由について迫る。",
-   "category": "その他",
-   "band": "Descendents",
-   "artists": [
-    "Descendents"
-   ],
-   "japan": false,
-   "importance": 2,
    "has_detail": true
   }
  ]
