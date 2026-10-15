@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T06:30:51.647852+09:00",
+ "updated_at": "2026-10-15T13:15:29.817062+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -36,6 +36,7 @@
   "その他"
  ],
  "sources": [
+  "100% ROCK MAGAZINE",
   "2YOU MAGAZINE",
   "411Mania",
   "92.9 WBUF",
@@ -228,6 +229,7 @@
   "clashmusic.com",
   "cultfollowing.co.uk",
   "dailycal.org",
+  "dangerousminds.net",
   "dispatch.com",
   "durhamregion.com",
   "femalefirst.co.uk",
@@ -280,33 +282,20 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 373,
- "detail_count": 272,
+ "count": 377,
+ "detail_count": 275,
  "digest": {
-  "headline": "Green Dayの裏側や大物バンドの新曲・ライブ情報が続々到着",
+  "headline": "Green DayやThe Offspringなどパンク・ロック界の最新動向まと",
   "points": [
    {
-    "text": "Green DayのBillie Joe ArmstrongがインタビューでアルバムNimrodの制作やヒット曲を振り返った。",
+    "text": "Green DayのBillie Joe ArmstrongがインタビューでアルバムNimrodの制作やヒット曲について振り返り、別の場面では1997年の楽曲演奏でコードを間違えたエピソードも明かされた。",
     "ids": [
-     "30462b60561efb52"
+     "30462b60561efb52",
+     "e79c4bb4a5a44169"
     ]
    },
    {
-    "text": "Fall Out Boyが新曲「It Feels Like Christmas」をリリースし、ミュージックビデオも公開した。",
-    "ids": [
-     "bb9db71e0216080f"
-    ]
-   },
-   {
-    "text": "Dropkick Murphysが2027年のボストンにおける聖パトリックデー公演の日程を発表した。",
-    "ids": [
-     "0b127ec291d7069e",
-     "b0d11775c451dfc5",
-     "e4ab5c14d30e1911"
-    ]
-   },
-   {
-    "text": "The Offspringが2027年のiHeartRadio ALTer EGOやSEMA Festへの出演が決まった。",
+    "text": "The Offspringは2027年のiHeartRadio ALTer EGOや2026年SEMA Festへの出演、サンディエゴでの公演が決定している。",
     "ids": [
      "924ccc5c47e6c15f",
      "af161ad30c248f01",
@@ -314,21 +303,95 @@
     ]
    },
    {
-    "text": "Weezerが新曲「C.E.O.」の公開とツアー延長を発表し、各地でライブを行っている。",
+    "text": "Weezerが新曲C.E.O.の公開とツアー延長を発表したほか、シカゴやオーランドでのライブ情報なども報じられている。",
     "ids": [
      "5bb41953019314d3",
      "d6005962c5f2f910",
      "18bfc7c031230648"
     ]
+   },
+   {
+    "text": "Dropkick Murphysは2027年のボストンにおける聖パトリックデー恒例ライブの開催日程を発表し、メイン州のラリー出演も控えている。",
+    "ids": [
+     "0b127ec291d7069e",
+     "b0d11775c451dfc5",
+     "e4ab5c14d30e1911"
+    ]
+   },
+   {
+    "text": "日本関連では、メジャーデビューアルバム『ガラゲラウッ』をリリースしたThe Linda Lindasが直撃インタビューで新世代パンクロックについて語った。",
+    "ids": [
+     "1159786e875969bb"
+    ]
    }
   ],
   "days": 3,
-  "from": "2026-10-12T06:31:17.305824+09:00",
-  "generated_at": "2026-10-15T06:31:23.276098+09:00",
+  "from": "2026-10-12T13:16:24.819614+09:00",
+  "generated_at": "2026-10-15T13:16:26.732866+09:00",
   "article_count": 24,
-  "sig": "6b5afd96fd8b"
+  "sig": "c236042a384e"
  },
  "items": [
+  {
+   "id": "56fd5bf4fe2e01b2",
+   "url": "https://dangerousminds.net/music/daily-mail-my-chemical-romance-protest",
+   "title_original": "Cult of Emo: When My Chemical Romance fans marched on the Daily Mail in 2008",
+   "source": "dangerousminds.net",
+   "image": "https://cdn1.dangerousminds.net/uploads/7/2026/10/Cult-of-Emo-When-The-Daily-Mail-made-My-Chemical-Romance-public-enemy-number-one-in-2006-Dangerous-Minds.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T23:00:00+00:00",
+   "title_ja": "My Chemical Romanceファンが2008年に起こした抗議活動",
+   "summary_ja": "2008年にMy Chemical Romanceのファンがデイリー・メール紙の本社前で行った抗議デモの文化的背景を振り返る記事。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "3464c0a6ef8dab3a",
+   "url": "https://www.latimes.com/lifestyle/story/2026-10-14/la-immanuel-presbyterian-koreatown-church-emo-my-chemical-romance-lyrics-helena",
+   "title_original": "Inside the candlelit L.A. church where emo lovers analyze My Chemical Romance lyrics",
+   "source": "Los Angeles Times",
+   "image": "https://ca-times.brightspotcdn.com/dims4/default/f3d2522/2147483647/strip/true/crop/5473x2873+0+388/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc7%2Fa3%2Fb7103b76496eb7e75bfc484d6a66%2F1572593-wk-koreatown-church-emo-lovers-lyrics-0384-rb.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T21:31:27.986000+00:00",
+   "title_ja": "教会でMy Chemical Romanceの歌詞を分析するイベント",
+   "summary_ja": "ロサンゼルスの教会を舞台に、キャンドルの明かりの中でMy Chemical Romanceの歌詞の深層を語り合うファンの集まりを紹介する。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "e79c4bb4a5a44169",
+   "url": "https://www.mensjournal.com/news/billie-joe-armstrong-botched-two-opening-chords-and-swore-on-this-1997-track-among-the-best-acoustic-rock-songs-in-2019",
+   "title_original": "Billie Joe Armstrong Botched Two Opening Chords and Swore on This 1997 Track Among the ‘Best Acoustic Rock Songs’ in 2019",
+   "source": "Men's Journal",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T17:27:00+00:00",
+   "title_ja": "Billie Joe Armstrongが1997年の名曲のアコースティック演奏でハプニング",
+   "summary_ja": "Billie Joe Armstrongがアコースティック・ロックの名曲選の中で、1997年の楽曲の冒頭でコードを間違えて思わず悪態をついたエピソード。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "e4ab5c14d30e1911",
    "url": "https://www.thatericalper.com/2026/10/14/dropkick-murphys-announce-2027-boston-st-patricks-day-shows-with-special-guests",
@@ -1028,6 +1091,26 @@
    "band": "Fall Out Boy",
    "artists": [
     "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "54d555c5ed3aef36",
+   "url": "https://100percentrock.com/2026/10/live-weezer-atlanta-ga-usa-october-10-2026",
+   "title_original": "LIVE: WEEZER – Atlanta, GA, USA – October 10, 2026",
+   "source": "100% ROCK MAGAZINE",
+   "image": "https://100percentrock.com/wp-content/uploads/2026/10/DSC8182.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-10T07:00:00+00:00",
+   "title_ja": "Weezerが米アトランタ公演を開催、10月10日のステージレポート",
+   "summary_ja": "Weezerが2026年10月10日にアメリカ・ジョージア州アトランタで行ったライブの様子を伝えるコンサートレポート。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
    ],
    "japan": false,
    "importance": 3,
@@ -1774,7 +1857,7 @@
    "url": "https://theconcordian.com/2026/10/weezer-the-gathering-tour-review",
    "title_original": "The Gathering Tour: You Just Got Weezered!",
    "source": "The Concordian",
-   "image": "",
+   "image": "https://theconcordian.com/wp-content/uploads/2026/10/Weezer-Ally-Floyd-6-1024x768.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-10-06T08:21:31+00:00",
