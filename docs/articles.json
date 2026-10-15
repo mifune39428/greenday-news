@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T13:15:29.817062+09:00",
+ "updated_at": "2026-10-15T20:15:13.248459+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -42,7 +42,6 @@
   "92.9 WBUF",
   "930 WFMD Free Talk",
   "95.9 The RAT",
-  "ABC News & Headlines – Australian Broadcasting Corporation",
   "AD HOC NEWS",
   "Arab News",
   "Arts Council of Greater New Haven",
@@ -265,7 +264,6 @@
   "sentinel-echo.com",
   "sfchronicle.com",
   "superdeluxeedition.com",
-  "t.co",
   "tcnjsignalnews.com",
   "themusic.com.au",
   "themusicman.uk",
@@ -282,20 +280,27 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 377,
- "detail_count": 275,
+ "count": 375,
+ "detail_count": 272,
  "digest": {
-  "headline": "Green DayやThe Offspringなどパンク・ロック界の最新動向まと",
+  "headline": "Green DayやMCRなど注目バンドの最新ニュースまとめ",
   "points": [
    {
-    "text": "Green DayのBillie Joe ArmstrongがインタビューでアルバムNimrodの制作やヒット曲について振り返り、別の場面では1997年の楽曲演奏でコードを間違えたエピソードも明かされた。",
+    "text": "Green DayのBillie Joe ArmstrongがインタビューでNimrodの制作や名曲Good Riddance、卒業式の定番となった楽曲の当時を振り返りました。",
     "ids": [
+     "c8dfc396401deddc",
      "30462b60561efb52",
      "e79c4bb4a5a44169"
     ]
    },
    {
-    "text": "The Offspringは2027年のiHeartRadio ALTer EGOや2026年SEMA Festへの出演、サンディエゴでの公演が決定している。",
+    "text": "My Chemical Romanceが代表作『The Black Parade』の発売20周年を記念した拡張エディションをリリースすることを発表しました。",
+    "ids": [
+     "76902e607bb9d308"
+    ]
+   },
+   {
+    "text": "The Offspringが2027年のiHeartRadio ALTer EGOや2026年SEMA Fest、サンディエゴ公演への出演が決定しました。",
     "ids": [
      "924ccc5c47e6c15f",
      "af161ad30c248f01",
@@ -303,7 +308,7 @@
     ]
    },
    {
-    "text": "Weezerが新曲C.E.O.の公開とツアー延長を発表したほか、シカゴやオーランドでのライブ情報なども報じられている。",
+    "text": "Weezerがツアーの延長と新曲C.E.O.の公開を発表したほか、各地でのライブ出演や公演の盛況ぶりが伝えられています。",
     "ids": [
      "5bb41953019314d3",
      "d6005962c5f2f910",
@@ -311,27 +316,61 @@
     ]
    },
    {
-    "text": "Dropkick Murphysは2027年のボストンにおける聖パトリックデー恒例ライブの開催日程を発表し、メイン州のラリー出演も控えている。",
+    "text": "Dropkick Murphysが2027年のボストンでの聖パトリックデー公演の日程を発表し、ビデフォードでのラリー出演も決定しています。",
     "ids": [
      "0b127ec291d7069e",
      "b0d11775c451dfc5",
      "e4ab5c14d30e1911"
     ]
-   },
-   {
-    "text": "日本関連では、メジャーデビューアルバム『ガラゲラウッ』をリリースしたThe Linda Lindasが直撃インタビューで新世代パンクロックについて語った。",
-    "ids": [
-     "1159786e875969bb"
-    ]
    }
   ],
   "days": 3,
-  "from": "2026-10-12T13:16:24.819614+09:00",
-  "generated_at": "2026-10-15T13:16:26.732866+09:00",
+  "from": "2026-10-12T20:15:30.189096+09:00",
+  "generated_at": "2026-10-15T20:15:32.601655+09:00",
   "article_count": 24,
-  "sig": "c236042a384e"
+  "sig": "bc33451aac32"
  },
  "items": [
+  {
+   "id": "76902e607bb9d308",
+   "url": "https://www.bigcountrynewsconnection.com/my-chemical-romance-to-release-expanded-20th-anniversary-edition-of-the-black-parade",
+   "title_original": "My Chemical Romance to release expanded 20th Anniversary edition of ‘The Black Parade’",
+   "source": "Big Country News |",
+   "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2801/2026/10/15084044/shutterstock_133113044-resized-to-large-1274833.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-15T15:40:44+00:00",
+   "title_ja": "My Chemical Romance、名盤『The Black Parade』20周年盤を発売へ",
+   "summary_ja": "My Chemical Romanceが、バンドの代表作である名盤『The Black Parade』の発売20周年を記念した拡張エディションをリリースすることを発表した。",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "c8dfc396401deddc",
+   "url": "https://www.mensjournal.com/news/green-day-thought-fans-would-hate-this-song-that-became-a-graduation-classic",
+   "title_original": "Green Day Thought Fans Would Hate This Song That Became a Graduation Classic",
+   "source": "Men's Journal",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-15T11:02:29+00:00",
+   "title_ja": "Green Day、ファンに嫌われると思った曲が卒業式の定番に",
+   "summary_ja": "Green Dayが、当時はファンから拒絶されると考えていた楽曲が、意外にも卒業式の定番ソングになった当時の心境について語っている。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "56fd5bf4fe2e01b2",
    "url": "https://dangerousminds.net/music/daily-mail-my-chemical-romance-protest",
@@ -390,7 +429,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e4ab5c14d30e1911",
@@ -8061,90 +8100,6 @@
     "Green Day",
     "Rancid",
     "Blink-182"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "9a3337bd3aeb7aa3",
-   "url": "https://www.nme.com/news/music/green-days-billie-joe-armstrong-blink-182s-travis-barker-lead-ramones-tribute-band-the-cretin-family-3965978",
-   "title_original": "Watch Green Day's Billie Joe Armstrong, Blink-182's Travis Barker and more lead all-star Ramones tribute band The Cretin Family for official 50th anniversary show",
-   "source": "NME",
-   "image": "https://www.nme.com/wp-content/uploads/2026/08/Tim-Armstrong-Travis-Barker-Billie-Joe-Armstrong-and-C.-J.-Ramone.-CREDIT_-Gilbert-Flores_Variety-via-Getty-Images.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-31T09:11:31+00:00",
-   "title_ja": "Ramonesトリビュートバンドで豪華共演が実現",
-   "summary_ja": "Ramonesの公式50周年記念ライブで、Green DayのBillie Joe ArmstrongやBlink-182のTravis Barkerらが参加したトリビュートバンドThe Cretin Familyがステージを率いた。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong",
-    "Travis Barker",
-    "The Cretin Family"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "29b170f9c9674394",
-   "url": "https://t.co/KTNCA5MWWg",
-   "title_original": "BabyMetal @ Petco Park San Diego 20260830 (My Chemical Romance Opener)",
-   "source": "t.co",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-31T07:16:58+00:00",
-   "title_ja": "BABYMETALがサンディエゴ公演でMCRのオープニングを務める",
-   "summary_ja": "2026年8月末にサンディエゴのPetco Parkで行われた公演にて、BABYMETALがMy Chemical Romanceのオープニングアクトとして出演した。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "BABYMETAL",
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "64f9a24ea94ba348",
-   "url": "https://www.abc.net.au/rage/guest/my-chemical-romance-guest-program-rage-2006-/107099754",
-   "title_original": "My Chemical Romance guest program rage (2006)",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "image": "https://live-production.wcms.abc-cdn.net.au/736033361843d9159ec6948c2dd4112e?impolicy=wcms_crop_resize&cropH=1048&cropW=1864&xPos=28&yPos=32&width=862&height=485&imformat=generic",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-31T06:30:00+00:00",
-   "title_ja": "My Chemical Romanceが2006年に出演した豪音楽番組「rage」の話題",
-   "summary_ja": "My Chemical Romanceが2006年にゲストプログラマーとして出演した、オーストラリアの音楽番組「rage」に関するアーカイブ情報。当時のメンバーによる番組の選曲や出演時の様子が紹介されている。",
-   "category": "映像・映画・書籍",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 1,
-   "has_detail": true
-  },
-  {
-   "id": "8d62c23c97feb4a8",
-   "url": "https://lmusic.tokyo/news/313184",
-   "title_original": "Tré Cool、Glastonbury Festivalに出演したいかどうかについて語る",
-   "source": "lmusic.tokyo",
-   "image": "https://lmusic.tokyo/wp-content/uploads/2026/08/Tre-Cool.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-31T05:50:18+00:00",
-   "title_ja": "Tré Cool、Glastonbury Festivalへの出演意欲について語る",
-   "summary_ja": "Green DayのドラマーであるTré Coolが、イギリスを代表する音楽フェスティバル「Glastonbury Festival」に出演したいかどうかについて、自身の考えや思いを語った。",
-   "category": "メンバー・発言",
-   "band": "Green Day",
-   "artists": [
-    "Tré Cool",
-    "Green Day"
    ],
    "japan": false,
    "importance": 3,
