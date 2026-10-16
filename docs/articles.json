@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T20:09:34.080832+09:00",
+ "updated_at": "2026-10-17T01:28:43.805014+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -160,12 +160,10 @@
   "Sada Elbalad english",
   "Secret Los Angeles",
   "Sonic Perspectives",
-  "Sortir à Paris",
   "Spectrum Culture",
   "Splice Today",
   "Sports Illustrated",
   "Star Tribune",
-  "Stereoboard.com",
   "Stereogum",
   "TPI Media Group",
   "TacomaWeekly",
@@ -226,7 +224,6 @@
   "broadwayworld.com",
   "chaoszine.net",
   "chorus.fm",
-  "clashmusic.com",
   "cultfollowing.co.uk",
   "dailycal.org",
   "dangerousminds.net",
@@ -281,13 +278,13 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 374,
- "detail_count": 271,
+ "count": 368,
+ "detail_count": 266,
  "digest": {
-  "headline": "Green Dayの楽曲秘話やMCR、Weezerらの最新ニュースをお届け",
+  "headline": "Green DayやMy Chemical Romanceの最新ニュースをお届け",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongがインタビューで、名盤Nimrodの制作当時やヒット曲の誕生秘話を振り返った。",
+    "text": "Green Dayのメンバーがアルバム制作秘話や卒業式の定番となった楽曲への心境を振り返った。",
     "ids": [
      "c8dfc396401deddc",
      "30462b60561efb52",
@@ -295,7 +292,7 @@
     ]
    },
    {
-    "text": "My Chemical Romanceが名作『The Black Parade』20周年盤の発売や未発表曲の公開、音楽出版契約を発表した。",
+    "text": "My Chemical Romanceは名作の20周年盤発売を発表し、未発表曲の公開や音楽出版契約の締結も明らかになった。",
     "ids": [
      "53df95c6bcc56aa6",
      "76902e607bb9d308",
@@ -303,7 +300,7 @@
     ]
    },
    {
-    "text": "Weezerが2026年ビルボード・ライブ・ミュージック・サミットでの受賞が決定したほか、各地でのライブを予定している。",
+    "text": "Weezerがビルボード・ライブ・ミュージック・サミットで受賞が決定したほか、各地のライブ情報や公演レビューが報じられた。",
     "ids": [
      "8658e29252b16b05",
      "96e0f6e19dba97a1",
@@ -311,27 +308,19 @@
     ]
    },
    {
-    "text": "The Offspringが2027年のiHeartRadio ALTer EGOやSEMA Festなどのフェス出演情報を発表した。",
+    "text": "Fall Out Boyの新曲リリースや、The Offspringのフェス出演情報、Dropkick Murphysの2027年公演発表などが続いている。",
     "ids": [
-     "924ccc5c47e6c15f",
-     "af161ad30c248f01",
-     "fff54d29f528b6b2"
-    ]
-   },
-   {
-    "text": "Dropkick Murphysが2027年のセント・パトリック・デイに向けたボストンでの恒例ライブ日程を発表した。",
-    "ids": [
+     "bb9db71e0216080f",
      "0b127ec291d7069e",
-     "b0d11775c451dfc5",
-     "e4ab5c14d30e1911"
+     "f4916a70aead1145"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-13T20:10:53.417930+09:00",
-  "generated_at": "2026-10-16T20:10:57.860812+09:00",
+  "from": "2026-10-14T01:28:59.666191+09:00",
+  "generated_at": "2026-10-17T01:29:47.807216+09:00",
   "article_count": 24,
-  "sig": "8a1ea2a1c48f"
+  "sig": "548de4d4cdd5"
  },
  "items": [
   {
@@ -513,7 +502,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "56fd5bf4fe2e01b2",
@@ -7954,131 +7943,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "bc2907212239647a",
-   "url": "https://www.clashmusic.com/features/going-for-gold-peeling-back-the-enamel-with-weezer",
-   "title_original": "Going For Gold: Peeling Back The Enamel With Weezer",
-   "source": "clashmusic.com",
-   "image": "https://www.clashmusic.com/wp-content/uploads/2026/09/LeadPressPhoto_BrendanWalter-scaled.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-01T15:42:48+00:00",
-   "title_ja": "Weezerの魅力や軌跡に深く迫る特集記事が海外メディアで公開",
-   "summary_ja": "オルタナティブ・ロック・シーンを代表するバンド、Weezerの魅力やこれまでの軌跡に深く迫る特集記事が海外メディアで公開されました。彼らの音楽的な歩みを振り返る内容となっています。",
-   "category": "その他",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e652b0eceb37846b",
-   "url": "https://www.yahoo.com/entertainment/music/articles/joseph-trohman-fall-boy-turns-145522508.html",
-   "title_original": "Joseph Trohman From Fall Out Boy Turns 42",
-   "source": "Yahoo",
-   "image": "https://s.yimg.com/lo/mysterio/api/eb325d95d90c24bb5afb4f1c76a739ed7a38f0cb0ae7af2d8e9342f627bab7cf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2F35c80ff1a75394a2bbd173443f850fce.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-01T14:55:22+00:00",
-   "title_ja": "Fall Out BoyのJoseph Trohmanが42歳の誕生日を迎える",
-   "summary_ja": "Fall Out BoyのギタリストであるJoseph Trohmanが42歳の誕生日を迎えたことを祝う記事。",
-   "category": "その他",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Joseph Trohman",
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 1,
-   "has_detail": true
-  },
-  {
-   "id": "9010a95a9601aabb",
-   "url": "https://parade.com/news/legendary-rock-guitarist-from-fall-out-boy-turns-42",
-   "title_original": "Legendary Rock Guitarist From Fall Out Boy Turns 42",
-   "source": "parade.com",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-01T14:55:22+00:00",
-   "title_ja": "Fall Out Boyのギタリストが42歳の誕生日を迎える",
-   "summary_ja": "Fall Out Boy ofのギタリストが42歳の誕生日を迎えました。これまでの輝かしいキャリアやバンドにおける多大な功績を称え、彼の誕生日を祝福する記事が海外メディアにて公開されています。",
-   "category": "メンバー・発言",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 1,
-   "detail_tries": 2
-  },
-  {
-   "id": "1bc697a3840a164b",
-   "url": "https://www.sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/351482-hayley-williams-paramore-s-frontwoman-in-concert-at-the-zenith-in-paris-in-june-2027",
-   "title_original": "Hayley Williams, Paramore's frontwoman, makes a solo return with a show slated for Paris in 2027.",
-   "source": "Sortir à Paris",
-   "image": "https://cdn.sortiraparis.com/images/80/100773/962275-visuels-salles-de-spectacle-et-theatres-zenith-paris.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-01T14:48:16+00:00",
-   "title_ja": "ParamoreのHayley Williamsがソロ復帰、2027年にパリ公演を開催へ",
-   "summary_ja": "ParamoreのフロントウーマンであるHayley Williamsがソロ活動で復帰を果たし、2027年にフランス・パリで公演を開催することが判明した。",
-   "category": "ライブ・ツアー",
-   "band": "Paramore",
-   "artists": [
-    "Hayley Williams",
-    "Paramore"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "0c65818d7b8a0a1e",
-   "url": "https://www.stereoboard.com/content/view/252754/9",
-   "title_original": "Paramore's Hayley Williams Announces UK And European Leg Of The Hayley Williams Show Tour For 2027",
-   "source": "Stereoboard.com",
-   "image": "https://www.stereoboard.com/images/artistimages/hayley-williams.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-01T14:34:27+00:00",
-   "title_ja": "ParamoreのHayley Williams、2027年の欧州ツアー開催を発表",
-   "summary_ja": "ParamoreのHayley Williamsが、ソロツアー「The Hayley Williams Show Tour」のイギリスおよびヨーロッパ公演を2027年に開催することを発表しました。",
-   "category": "ライブ・ツアー",
-   "band": "Paramore",
-   "artists": [
-    "Paramore",
-    "Hayley Williams"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "573ba5dc898f3d92",
-   "url": "https://blabbermouth.net/news/fake-names-featuring-members-of-bad-religion-and-refused-announces-new-album-punk-ruins",
-   "title_original": "FAKE NAMES, Featuring Members Of BAD RELIGION And REFUSED, Announces New Album 'Punk Ruins'",
-   "source": "BLABBERMOUTH.NET",
-   "image": "https://assets.blabbermouth.net/media/fakenamespresssept2026_638.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-01T11:51:38+00:00",
-   "title_ja": "Bad ReligionメンバーらによるFake Namesが新アルバム発表",
-   "summary_ja": "Bad ReligionやRefused ofのメンバーらによるパンク・スーパーグループ、Fake Namesがニューアルバム『Punk Ruins』のリリースを発表しました。シーンの実力派たちが集うバンドの新作に期待が寄せられています。",
-   "category": "新曲・新作",
-   "band": "その他",
-   "artists": [
-    "Fake Names",
-    "Bad Religion",
-    "Refused"
-   ],
-   "japan": false,
-   "importance": 5,
    "has_detail": true
   }
  ]
