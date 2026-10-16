@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T13:11:26.594589+09:00",
+ "updated_at": "2026-10-16T20:09:34.080832+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -92,6 +92,7 @@
   "KLBJ-FM",
   "KQED",
   "KTVU",
+  "KarloBag.eu",
   "KelownaNow",
   "Kerrang!",
   "LADbible",
@@ -103,7 +104,6 @@
   "Louder",
   "Loudwire",
   "MELODIC Magazine",
-  "MUSIC LIFE CLUB",
   "Maine AFL-CIO",
   "MassLive.com",
   "Media Play News",
@@ -148,7 +148,6 @@
   "ROCK 105.3",
   "RTTNews",
   "Raleigh News & Observer",
-  "Reckless Press",
   "Richmond Times-Dispatch",
   "Rock Celebrities",
   "Rock Cellar Magazine",
@@ -282,13 +281,13 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 375,
- "detail_count": 273,
+ "count": 374,
+ "detail_count": 271,
  "digest": {
-  "headline": "Green DayやMy Chemical Romanceなど各バンドの最新ニュ",
+  "headline": "Green Dayの楽曲秘話やMCR、Weezerらの最新ニュースをお届け",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongが、アルバムNimrodの制作や名曲誕生の裏話をインタビューで振り返った。",
+    "text": "Green DayのBillie Joe Armstrongがインタビューで、名盤Nimrodの制作当時やヒット曲の誕生秘話を振り返った。",
     "ids": [
      "c8dfc396401deddc",
      "30462b60561efb52",
@@ -296,35 +295,65 @@
     ]
    },
    {
-    "text": "My Chemical Romanceは『The Black Parade』20周年記念盤の発売発表や、ワーナー・チャペルとの世界契約を締結した。",
+    "text": "My Chemical Romanceが名作『The Black Parade』20周年盤の発売や未発表曲の公開、音楽出版契約を発表した。",
     "ids": [
+     "53df95c6bcc56aa6",
      "76902e607bb9d308",
-     "17cca91ab8148050",
-     "813e514561688831"
+     "17cca91ab8148050"
     ]
    },
    {
-    "text": "Weezerが2026年ビルボード・ライブ・ミュージック・サミットでLegend of Live Awardを受賞することが発表された。",
+    "text": "Weezerが2026年ビルボード・ライブ・ミュージック・サミットでの受賞が決定したほか、各地でのライブを予定している。",
     "ids": [
-     "8658e29252b16b05"
+     "8658e29252b16b05",
+     "96e0f6e19dba97a1",
+     "a89279012a0247fc"
     ]
    },
    {
-    "text": "The Offspringが2027年開催のiHeartRadio ALTer EGOや2026年SEMA Festなどの出演を控えている。",
+    "text": "The Offspringが2027年のiHeartRadio ALTer EGOやSEMA Festなどのフェス出演情報を発表した。",
     "ids": [
      "924ccc5c47e6c15f",
      "af161ad30c248f01",
      "fff54d29f528b6b2"
     ]
+   },
+   {
+    "text": "Dropkick Murphysが2027年のセント・パトリック・デイに向けたボストンでの恒例ライブ日程を発表した。",
+    "ids": [
+     "0b127ec291d7069e",
+     "b0d11775c451dfc5",
+     "e4ab5c14d30e1911"
+    ]
    }
   ],
   "days": 3,
-  "from": "2026-10-13T13:11:52.115450+09:00",
-  "generated_at": "2026-10-16T13:11:53.717998+09:00",
+  "from": "2026-10-13T20:10:53.417930+09:00",
+  "generated_at": "2026-10-16T20:10:57.860812+09:00",
   "article_count": 24,
-  "sig": "9c21dd76945c"
+  "sig": "8a1ea2a1c48f"
  },
  "items": [
+  {
+   "id": "53df95c6bcc56aa6",
+   "url": "https://rocksound.tv/news/my-chemical-romance-share-previously-unreleased-track-someone-out-there-loves-you",
+   "title_original": "My Chemical Romance Share Previously Unreleased Track 'Someone Out There Loves You'",
+   "source": "Rock Sound",
+   "image": "https://spaces.rocksound.tv/uploads/2026/09/MCR-new-Bryce-Hall.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-16T10:19:14+00:00",
+   "title_ja": "My Chemical Romanceが未発表曲を公開",
+   "summary_ja": "My Chemical Romanceがこれまで未発表だった楽曲「Someone Out There Loves You」を新たに公開した。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "96e0f6e19dba97a1",
    "url": "https://hoodline.com/2026/10/weezer-rolls-into-austin-s-moody-center-with-the-shins-silversun-pickups",
@@ -340,26 +369,6 @@
    "band": "Weezer",
    "artists": [
     "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e971b229df2d9be2",
-   "url": "https://recklesspress.com/news/my-chemical-romance-sign-new-publishing-deal-covering-future-music",
-   "title_original": "My Chemical Romance Sign New Publishing Deal Covering Future Music",
-   "source": "Reckless Press",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-15T18:23:52+00:00",
-   "title_ja": "My Chemical Romanceが新たな音楽出版契約を締結",
-   "summary_ja": "My Chemical Romanceが、今後の楽曲を対象とした新しい音楽出版契約を結んだことが報じられている。",
-   "category": "その他",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
    ],
    "japan": false,
    "importance": 3,
@@ -485,6 +494,26 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "f4916a70aead1145",
+   "url": "https://karlobag.eu/en/music/news/the-offspring-at-mission-bayfest-san-diego-tickets-zhpv5",
+   "title_original": "The Offspring at Mission Bayfest in San Diego - tickets for a waterfront punk rock show at Mariner's Point Park",
+   "source": "KarloBag.eu",
+   "image": "https://karlobag.eu/images/upload/tvyk5.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-15T03:55:28+00:00",
+   "title_ja": "The Offspringがサンディエゴのフェスに出演",
+   "summary_ja": "The Offspringが、サンディエゴのマリナーズ・ポイント・パークで開催される「Mission Bayfest」に出演することが決定した。海沿いの特設会場で行われるパンク・ロックの野外ライブとして注目を集めている。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "56fd5bf4fe2e01b2",
@@ -8050,47 +8079,6 @@
    ],
    "japan": false,
    "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "937a7b43ee48bc62",
-   "url": "https://www.musiclifeclub.com/news/20260901T_08.html",
-   "title_original": "グリーン・デイのビリー・ジョー、オールスター・バンドでのラモーンズ50周年トリビュート・ライヴで19曲を披露",
-   "source": "MUSIC LIFE CLUB",
-   "image": "https://www.musiclifeclub.com/global-image/page/95169-ogp-20260901175429.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-01T09:04:21+00:00",
-   "title_ja": "グリーン・デイのビリー・ジョー、ラモーンズ50周年トリビュートで19曲披露",
-   "summary_ja": "グリーン・デイのBillie Joe Armstrongが、オールスター・バンドのメンバーとしてラモーンズの結成50周年を祝うトリビュート・ライヴに参加し、全19曲を披露した。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong",
-    "Ramones"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "0987fbaa84604dd3",
-   "url": "https://lmusic.tokyo/news/313257",
-   "title_original": "Mike Dirnt、使用してきた楽器や機材をオンラインに出品することに",
-   "source": "lmusic.tokyo",
-   "image": "https://lmusic.tokyo/wp-content/uploads/2021/07/Mike-Dirnt.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-01T05:50:08+00:00",
-   "title_ja": "マイク・ディワント、長年愛用してきた機材をオンラインで出品へ",
-   "summary_ja": "Green DayのベーシストであるMike Dirntが、これまでのキャリアで使用してきた自身の楽器や機材をオンラインストアに出品することを明らかにした。",
-   "category": "その他",
-   "band": "Green Day",
-   "artists": [
-    "Mike Dirnt"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   }
  ]
