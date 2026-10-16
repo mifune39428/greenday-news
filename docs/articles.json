@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T06:12:39.587876+09:00",
+ "updated_at": "2026-10-16T13:11:26.594589+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -148,6 +148,7 @@
   "ROCK 105.3",
   "RTTNews",
   "Raleigh News & Observer",
+  "Reckless Press",
   "Richmond Times-Dispatch",
   "Rock Celebrities",
   "Rock Cellar Magazine",
@@ -281,24 +282,25 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 376,
+ "count": 375,
  "detail_count": 273,
  "digest": {
-  "headline": "パンク・ロック系バンドの最新ニュースまとめ",
+  "headline": "Green DayやMy Chemical Romanceなど各バンドの最新ニュ",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongが、名盤Nimrodの制作や卒業式の定番となった楽曲について振り返るインタビューが明かされた。",
+    "text": "Green DayのBillie Joe Armstrongが、アルバムNimrodの制作や名曲誕生の裏話をインタビューで振り返った。",
     "ids": [
      "c8dfc396401deddc",
-     "30462b60561efb52"
+     "30462b60561efb52",
+     "e79c4bb4a5a44169"
     ]
    },
    {
-    "text": "My Chemical Romanceは名盤『The Black Parade』20周年盤の発売やWarner Chappellとの世界パブリッシング契約を発表した。",
+    "text": "My Chemical Romanceは『The Black Parade』20周年記念盤の発売発表や、ワーナー・チャペルとの世界契約を締結した。",
     "ids": [
      "76902e607bb9d308",
      "17cca91ab8148050",
-     "4465f7e53889e8a9"
+     "813e514561688831"
     ]
    },
    {
@@ -308,27 +310,61 @@
     ]
    },
    {
-    "text": "The Offspringが2027年のiHeartRadio ALTer EGOや2026年SEMA Fest、サンディエゴ公演への出演が決まった。",
+    "text": "The Offspringが2027年開催のiHeartRadio ALTer EGOや2026年SEMA Festなどの出演を控えている。",
     "ids": [
      "924ccc5c47e6c15f",
      "af161ad30c248f01",
      "fff54d29f528b6b2"
     ]
-   },
-   {
-    "text": "Fall Out Boyの新曲「It Feels Like Christmas」がリリースされ、ミュージックビデオも公開された。",
-    "ids": [
-     "bb9db71e0216080f"
-    ]
    }
   ],
   "days": 3,
-  "from": "2026-10-13T06:12:59.393576+09:00",
-  "generated_at": "2026-10-16T06:13:01.044545+09:00",
+  "from": "2026-10-13T13:11:52.115450+09:00",
+  "generated_at": "2026-10-16T13:11:53.717998+09:00",
   "article_count": 24,
-  "sig": "1b840a782bca"
+  "sig": "9c21dd76945c"
  },
  "items": [
+  {
+   "id": "96e0f6e19dba97a1",
+   "url": "https://hoodline.com/2026/10/weezer-rolls-into-austin-s-moody-center-with-the-shins-silversun-pickups",
+   "title_original": "Weezer Plays Austin's Moody Center October 18, 2026",
+   "source": "Hoodline",
+   "image": "https://img.hoodline.com/2026/10/weezer-rolls-into-austin-s-moody-center-with-the-shins-silversun-pickups.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-16T01:24:52+00:00",
+   "title_ja": "WeezerがオースティンのMoody Centerで公演を開催",
+   "summary_ja": "Weezerが2026年10月18日にオースティンのMoody Centerでライブを行う予定。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "e971b229df2d9be2",
+   "url": "https://recklesspress.com/news/my-chemical-romance-sign-new-publishing-deal-covering-future-music",
+   "title_original": "My Chemical Romance Sign New Publishing Deal Covering Future Music",
+   "source": "Reckless Press",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-15T18:23:52+00:00",
+   "title_ja": "My Chemical Romanceが新たな音楽出版契約を締結",
+   "summary_ja": "My Chemical Romanceが、今後の楽曲を対象とした新しい音楽出版契約を結んだことが報じられている。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "17cca91ab8148050",
    "url": "https://www.musicbusinessworldwide.com/warner-chappell-music-signs-my-chemical-romance-to-exclusive-worldwide-publishing-deal",
@@ -368,26 +404,6 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
-  },
-  {
-   "id": "4465f7e53889e8a9",
-   "url": "https://www.billboard.com/pro/my-chemical-romance-signs-with-warner-chappell-music",
-   "title_original": "My Chemical Romance Signs Global Publishing Deal With Warner Chappell Music",
-   "source": "Billboard",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-15T16:08:53+00:00",
-   "title_ja": "My Chemical RomanceがWarner Chappellと世界パブリッシング契約を締結",
-   "summary_ja": "My Chemical RomanceがWarner Chappell Musicとグローバルなパブリッシング契約を新たに結んだことが発表された。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
    "detail_tries": 2
   },
   {
@@ -8072,51 +8088,6 @@
    "band": "Green Day",
    "artists": [
     "Mike Dirnt"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6fcf023003012b21",
-   "url": "https://nme-jp.com/news/171810",
-   "title_original": "グリーン・デイのビリー・ジョー＆トラヴィス・バーカーら、ラモーンズのトリビュート・ライヴを行う",
-   "source": "NME Japan",
-   "image": "https://nme-jp.com/nmesite/wp-content/uploads/2026/09/Tim-Armstrong-Travis-Barker-Billie-Joe-Armstrong-and-C.-J.-Ramone.-CREDIT_-Gilbert-Flores_Variety-via-Getty-Images-1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-01T02:59:15+00:00",
-   "title_ja": "Green DayのBillie JoeやTravis BarkerらがRamonesトリビュートを開催",
-   "summary_ja": "Green DayのBillie Joe ArmstrongやBlink-182のTravis Barkerらが集結し、ロックバンドRamonesのトリビュートライブを開催することが明らかになった。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Green Day",
-    "Billie Joe Armstrong",
-    "Travis Barker",
-    "Ramones"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4eed1a9af8594515",
-   "url": "https://www.thatericalper.com/2026/08/31/on-the-steps-returns-to-sydney-opera-house-with-rise-against-wolf-alice-james-blake-and-more",
-   "title_original": "On The Steps Returns To Sydney Opera House With Rise Against, Wolf Alice, James Blake And More",
-   "source": "That Eric Alper",
-   "image": "https://www.thatericalper.com/wp-content/uploads/2026/08/download-2026-08-31T212349.990.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-01T01:24:06+00:00",
-   "title_ja": "シドニー歌劇場の屋外公演「On The Steps」にRise Against出演決定",
-   "summary_ja": "シドニー・オペラハウスで開催されるコンサートシリーズ「On The Steps」が再び開催され、Rise AgainstやWolf Alice、James Blakeらが出演することが発表された。",
-   "category": "フェス出演",
-   "band": "Rise Against",
-   "artists": [
-    "Rise Against",
-    "Wolf Alice",
-    "James Blake"
    ],
    "japan": false,
    "importance": 3,
