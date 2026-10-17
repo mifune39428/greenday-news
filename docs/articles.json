@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T13:01:02.636956+09:00",
+ "updated_at": "2026-10-17T19:28:59.040487+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -203,6 +203,7 @@
   "WEBN",
   "WIXY.com |",
   "WKFR",
+  "WMTW",
   "WOMI Owensboro",
   "WRIF Rocks Detroit",
   "WSOC TV",
@@ -234,6 +235,7 @@
   "happymag.tv",
   "hercampus.com",
   "hoodline.com",
+  "https://rocknloadmag.com/",
   "iHeart",
   "indieofilo.com",
   "inkl",
@@ -278,13 +280,13 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 371,
- "detail_count": 268,
+ "count": 375,
+ "detail_count": 269,
  "digest": {
-  "headline": "MCRの20周年盤やGreen Dayの話題が続々",
+  "headline": "MCRの20周年盤やGreen Day関連の制作秘話が続々登場",
   "points": [
    {
-    "text": "My Chemical Romanceは『The Black Parade』20周年記念エディションの発売を控え、未発表曲「Someone Out There Loves You」を公開した。",
+    "text": "My Chemical Romanceは『The Black Parade』20周年記念エディションの発売に向け、未発表曲「Someone Out There Loves You」を公開した。",
     "ids": [
      "3293ff0fb6c78a7f",
      "132683827a75057c",
@@ -292,7 +294,7 @@
     ]
    },
    {
-    "text": "Green Dayのメンバーが名盤の制作当時や楽曲にまつわるエピソードを振り返るインタビューが公開された。",
+    "text": "Green DayのBillie Joe Armstrongや名プロデューサーが、『Nimrod』や『The Black Parade』など名盤の制作当時を振り返るインタビューが公開された。",
     "ids": [
      "d849c4a3558e8a28",
      "c8dfc396401deddc",
@@ -300,31 +302,74 @@
     ]
    },
    {
-    "text": "Pinhead Gunpowderが結成35周年を記念し、キャリア初となるツアーをIrving Plazaで開催する。",
+    "text": "Pinhead Gunpowderが結成35周年を記念し、キャリア初となるツアーをIrving Plazaで開催することが決定した。",
     "ids": [
      "4736581eae5e243e"
     ]
    },
    {
-    "text": "Weezerが2026年Billboard Live Music SummitでLegend of Live Awardを受賞することが発表された。",
+    "text": "Weezerは新曲「Shine Again」を発表したほか、2026年Billboard Live Music SummitでLegend of Live Awardを受賞する予定だ。",
     "ids": [
+     "c36dd57b96bf1502",
      "8658e29252b16b05"
     ]
    },
    {
-    "text": "Fall Out Boyが新曲「It Feels Like Christmas」をリリースし、ミュージックビデオを公開した。",
+    "text": "Rancidは傑作アルバム『…And Out Come the Wolves』の発売30周年を記念した豪華ボックスセットをリリースした。",
     "ids": [
-     "bb9db71e0216080f"
+     "b2016a0538335f01"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-14T13:01:28.683981+09:00",
-  "generated_at": "2026-10-17T13:01:30.341047+09:00",
+  "from": "2026-10-14T19:29:48.800555+09:00",
+  "generated_at": "2026-10-17T19:29:50.503247+09:00",
   "article_count": 24,
-  "sig": "6ac76e925b1f"
+  "sig": "e9b21890211c"
  },
  "items": [
+  {
+   "id": "c74c4e0f379ae122",
+   "url": "https://www.vice.com/en/article/the-unexpected-rapper-that-inspired-pete-wentz-to-write-songs-for-fall-out-boy-in-2006",
+   "title_original": "The Unexpected Rapper That Inspired Pete Wentz to Write Songs for Fall Out Boy in 2006",
+   "source": "VICE",
+   "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/The-Unexpected-Rapper-That-Inspired-Pete-Wentz-to-Write-Songs-for-Fall-Out-Boy-in-2006.jpg?w=1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-17T10:00:00+00:00",
+   "title_ja": "Pete Wentzが語るFall Out Boy楽曲制作の原点",
+   "summary_ja": "Pete Wentzが2006年のFall Out Boyの楽曲制作において影響を受けた、意外なラッパーの存在について明かしている。",
+   "category": "メンバー・発言",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Pete Wentz",
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "8f3946f4edcff5b9",
+   "url": "https://www.wmtw.com/article/troy-jackson-rallies-with-dropkick-murphys-as-senate-campaign-enters-final-stretch/74165755",
+   "title_original": "Troy Jackson rallies with Dropkick Murphys as Senate campaign enters final stretch",
+   "source": "WMTW",
+   "image": "https://kubrick.htvapps.com/vidthumb/2f2256bc-038e-49ca-b3fd-f85928504b59/ece8f18e-1419-448c-9dcf-e3fda51e0a62.jpg?crop=1xw%3A1.0xh%3Bcenter%2Ctop&resize=1200%3A*",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-17T03:59:00+00:00",
+   "title_ja": "Dropkick Murphysが上院選終盤の集会に参加",
+   "summary_ja": "上院議員選挙の最終盤を迎え、Dropkick Murphysがトロイ・ジャクソン氏の集会を音楽で後押しした。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys",
+    "Troy Jackson"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "6f93001f628fd821",
    "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4769598/dropkick-murphys-troy-jackson-maine",
@@ -347,24 +392,24 @@
    "has_detail": true
   },
   {
-   "id": "88be9e7a536d1657",
-   "url": "https://themusicuniverse.com/my-chemical-romance-shares-someone-out-there-loves-you-live-from-hoboken",
-   "title_original": "My Chemical Romance shares ‘Someone Out There Loves You (Live from Hoboken)’",
-   "source": "The Music Universe",
-   "image": "https://themusicuniverse.com/wp-content/uploads/2026/10/mychemicalblackhottopic.jpg",
+   "id": "93f21844baa275cf",
+   "url": "https://www.pastemagazine.com/music/my-chemical-romance/my-chemical-romance-release-2007-track-ahead-of-the-black-parade-reissue",
+   "title_original": "My Chemical Romance release 2007 track ahead of The Black Parade reissue",
+   "source": "Paste Magazine",
+   "image": "",
    "lang": "en",
    "region": "global",
-   "published": "2026-10-16T17:27:21+00:00",
-   "title_ja": "My Chemical Romance、ホーホーケン公演のライブ音源をシェア",
-   "summary_ja": "My Chemical Romanceがホーホーケンで行われたライブより「Someone Out There Loves You」の音源と映像を公開した。",
-   "category": "映像・映画・書籍",
+   "published": "2026-10-16T18:25:00+00:00",
+   "title_ja": "MCR、再発盤に向けて2007年の楽曲を公開",
+   "summary_ja": "My Chemical Romanceが、「The Black Parade」の再発盤発売に先駆けて2007年の楽曲をリリースした。",
+   "category": "再発・記念盤",
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
    ],
    "japan": false,
-   "importance": 3,
-   "has_detail": true
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "3293ff0fb6c78a7f",
@@ -384,7 +429,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "5ddbb962accc0a98",
@@ -489,6 +534,26 @@
    "detail_tries": 2
   },
   {
+   "id": "c36dd57b96bf1502",
+   "url": "https://northerntransmissions.com/weezer-shares-new-single-shine-again",
+   "title_original": "Weezer shares new single “Shine Again”",
+   "source": "Northern Transmissions",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-16T11:34:04+00:00",
+   "title_ja": "Weezerが新曲「Shine Again」を発表",
+   "summary_ja": "Weezerがファンに向けて新しいシングル曲「Shine Again」を公開し、注目を集めている。",
+   "category": "新曲・新作",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "899cf2d781eda572",
    "url": "https://www.kerrang.com/who-the-hell-are-riff-wood",
    "title_original": "Winning contests, Green Day covers and impressing legends: Who the hell are Riff Wood?",
@@ -528,6 +593,26 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "b2016a0538335f01",
+   "url": "https://rocknloadmag.com/rancid-celebrate-30-years-of-and-out-come-the-wolves-with-expanded-anniversary-boxed-set",
+   "title_original": "RANCID CELEBRATE 30 YEARS OF …AND OUT COME THE WOLVES WITH EXPANDED ANNIVERSARY BOXED SET",
+   "source": "https://rocknloadmag.com/",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-16T10:13:46+00:00",
+   "title_ja": "Rancidの名盤30周年を記念した豪華ボックスセット",
+   "summary_ja": "Rancidが傑作アルバム『…And Out Come the Wolves』の発売30周年を記念し、音源などを拡張したアニバーサリー仕様のボックスセットをリリースしてアニバーサリーを祝います。",
+   "category": "再発・記念盤",
+   "band": "Rancid",
+   "artists": [
+    "Rancid"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "33369ebd1584484d",
