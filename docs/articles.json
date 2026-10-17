@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T05:51:23.068065+09:00",
+ "updated_at": "2026-10-17T13:01:02.636956+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -206,6 +206,7 @@
   "WOMI Owensboro",
   "WRIF Rocks Detroit",
   "WSOC TV",
+  "Washington Examiner",
   "We Write About Music",
   "Western Mass News",
   "Wikimetal",
@@ -246,7 +247,6 @@
   "lpm.org",
   "mdcthereporter.com",
   "michigandaily.com",
-  "music.mxdwn.com",
   "musicscenemedia.com",
   "musictimes.com",
   "mxdwn Music",
@@ -278,13 +278,21 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 370,
- "detail_count": 266,
+ "count": 371,
+ "detail_count": 268,
  "digest": {
-  "headline": "Green DayやMCRなどパンク・ロックバンドの最新ニュースまとめ",
+  "headline": "MCRの20周年盤やGreen Dayの話題が続々",
   "points": [
    {
-    "text": "Green Dayのメンバーが名盤の制作秘話や楽曲にまつわるエピソードを振り返り、話題となっている。",
+    "text": "My Chemical Romanceは『The Black Parade』20周年記念エディションの発売を控え、未発表曲「Someone Out There Loves You」を公開した。",
+    "ids": [
+     "3293ff0fb6c78a7f",
+     "132683827a75057c",
+     "76902e607bb9d308"
+    ]
+   },
+   {
+    "text": "Green Dayのメンバーが名盤の制作当時や楽曲にまつわるエピソードを振り返るインタビューが公開された。",
     "ids": [
      "d849c4a3558e8a28",
      "c8dfc396401deddc",
@@ -292,60 +300,51 @@
     ]
    },
    {
-    "text": "Pinhead Gunpowderが結成35周年を記念し、キャリア初となるツアーを開催してアニバーサリーを祝う。",
+    "text": "Pinhead Gunpowderが結成35周年を記念し、キャリア初となるツアーをIrving Plazaで開催する。",
     "ids": [
      "4736581eae5e243e"
     ]
    },
    {
-    "text": "My Chemical Romanceが『The Black Parade』20周年記念盤の発売を控え、未発表曲を公開した。",
-    "ids": [
-     "132683827a75057c",
-     "53df95c6bcc56aa6",
-     "76902e607bb9d308"
-    ]
-   },
-   {
-    "text": "Weezerが2026年ビルボード・ライブ・ミュージック・サミットで受賞することが発表された。",
+    "text": "Weezerが2026年Billboard Live Music SummitでLegend of Live Awardを受賞することが発表された。",
     "ids": [
      "8658e29252b16b05"
     ]
    },
    {
-    "text": "Fall Out Boyが新曲をリリースし、The Offspringなどのバンドもライブやフェス出演の情報を発表している。",
+    "text": "Fall Out Boyが新曲「It Feels Like Christmas」をリリースし、ミュージックビデオを公開した。",
     "ids": [
-     "bb9db71e0216080f",
-     "f4916a70aead1145",
-     "fff54d29f528b6b2"
+     "bb9db71e0216080f"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-14T05:52:28.944014+09:00",
-  "generated_at": "2026-10-17T05:52:33.325933+09:00",
+  "from": "2026-10-14T13:01:28.683981+09:00",
+  "generated_at": "2026-10-17T13:01:30.341047+09:00",
   "article_count": 24,
-  "sig": "35509eaf51ef"
+  "sig": "6ac76e925b1f"
  },
  "items": [
   {
-   "id": "a93e7f0fbf04923c",
-   "url": "https://www.pastemagazine.com/article/my-chemical-romance-release-2007-track-ahead-of-the-black-parade-reissue",
-   "title_original": "My Chemical Romance release 2007 track ahead of The Black Parade reissue",
-   "source": "Paste Magazine",
-   "image": "",
+   "id": "6f93001f628fd821",
+   "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4769598/dropkick-murphys-troy-jackson-maine",
+   "title_original": "Dropkick Murphys, of Celtic punk rock fame, encourage Maine voters to ‘ship’ Troy Jackson to DC",
+   "source": "Washington Examiner",
+   "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26206599930359-e1792203214558.jpg?resize=1200,683",
    "lang": "en",
    "region": "global",
-   "published": "2026-10-16T18:25:00+00:00",
-   "title_ja": "MCR、再発盤に向けて2007年発表曲をリリース",
-   "summary_ja": "My Chemical Romanceが『The Black Parade』の再発盤発売に先駆け、2007年のトラックをリリースした。",
-   "category": "再発・記念盤",
-   "band": "My Chemical Romance",
+   "published": "2026-10-17T02:44:57+00:00",
+   "title_ja": "Dropkick Murphysがメイン州の有権者に呼びかけ",
+   "summary_ja": "ケルト・パンク・ロックのバンドとして知られるDropkick Murphysが、メイン州の有権者に向けてトロイ・ジャクソンをワシントンD.C.へ送り出すよう呼びかけている。",
+   "category": "その他",
+   "band": "Dropkick Murphys",
    "artists": [
-    "My Chemical Romance"
+    "Dropkick Murphys",
+    "Troy Jackson"
    ],
    "japan": false,
-   "importance": 3,
-   "detail_tries": 1
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "88be9e7a536d1657",
@@ -366,6 +365,26 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "3293ff0fb6c78a7f",
+   "url": "https://www.billboard.com/music/rock/my-chemical-romance-unreleased-song-black-parade-reissue-listen-1236361897",
+   "title_original": "My Chemical Romance Drop Blistering Unreleased Song From ‘The Black Parade’ 20th Anniversary Edition: Listen",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-16T16:49:59+00:00",
+   "title_ja": "MCR、20周年盤から未発表曲をドロップ",
+   "summary_ja": "My Chemical Romanceが『The Black Parade』20周年記念エディションより、これまで未発表だった強力な楽曲を公開した。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "5ddbb962accc0a98",
@@ -408,6 +427,26 @@
    "has_detail": true
   },
   {
+   "id": "0c741d0120a5fc4e",
+   "url": "https://celebrityaccess.com/2026/10/16/boston-hometown-boys-dropkick-murphys-come-home-for-st-patricks-day",
+   "title_original": "Boston Hometown Boys, Dropkick Murphys Come Home For St. Patrick’s Day",
+   "source": "CelebrityAccess",
+   "image": "https://celebrityaccess.com/wp-content/uploads/2026/01/Dropkick-Murphys-2025-byRileyVecchione.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-16T14:20:02+00:00",
+   "title_ja": "Dropkick Murphysが地元ボストンで恒例の公演を開催",
+   "summary_ja": "Dropkick Murphysが聖パトリックの日に向けた地元ボストンでの凱旋ライブを行うことが決定した。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "4736581eae5e243e",
    "url": "https://nysmusic.com/2026/10/16/pinhead-gunpowder-celebrates-35-years-with-first-ever-tour-at-irving-plaza",
    "title_original": "Pinhead Gunpowder Celebrates 35 Years With First-Ever Tour at Irving Plaza",
@@ -447,7 +486,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "899cf2d781eda572",
@@ -468,7 +507,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "53df95c6bcc56aa6",
@@ -7959,29 +7998,6 @@
    "japan": false,
    "importance": 2,
    "has_detail": true
-  },
-  {
-   "id": "c5ed87ed426777d9",
-   "url": "https://music.mxdwn.com/2026/09/01/news/fake-names-featuring-members-of-refused-bad-religion-off-more-announce-new-album-punk-ruins-for-october-2026-release-share-new-single-video-until-its-normal",
-   "title_original": "Fake Names Featuring Members Of Refused, Bad Religion, OFF & More Announce New Album Punk Ruins For Oc...",
-   "source": "music.mxdwn.com",
-   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2026/09/Fake-Names-2026-Press-Photo.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T01:08:40+00:00",
-   "title_ja": "Fake Namesが新作アルバム『Punk Ruins』を発表",
-   "summary_ja": "RefusedやBad Religion、OFF!のメンバーが参加するスーパーグループFake Namesが、ニューアルバム『Punk Ruins』のリリースを発表した。",
-   "category": "新曲・新作",
-   "band": "Bad Religion",
-   "artists": [
-    "Fake Names",
-    "Refused",
-    "Bad Religion",
-    "OFF!"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
