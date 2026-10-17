@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T00:23:32.202988+09:00",
+ "updated_at": "2026-10-18T05:25:34.597455+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -61,6 +61,7 @@
   "DU Clarion",
   "Detroit Metro Times",
   "Diario AS",
+  "Dying Scene",
   "East Bay Times",
   "Entertainment Focus",
   "Eponymous Review",
@@ -207,6 +208,7 @@
   "WOMI Owensboro",
   "WRIF Rocks Detroit",
   "WSOC TV",
+  "Warner Music Group",
   "Washington Examiner",
   "We Write About Music",
   "Western Mass News",
@@ -283,10 +285,17 @@
  "count": 370,
  "detail_count": 266,
  "digest": {
-  "headline": "MCRの20周年盤やGreen Dayの話題など直近のパンク・ロックニュースまと",
+  "headline": "Green DayやMCRの話題が満載！ここ3日のパンク・ロックニュースまとめ",
   "points": [
    {
-    "text": "My Chemical Romanceは『The Black Parade』20周年記念盤の発売に向け、未発表曲「Someone Out There Loves You」などを公開した。",
+    "text": "Green Dayがグラミー賞のミュージカル部門にノミネートされたほか、結成35周年のPinhead Gunpowderが初ツアーを開催。",
+    "ids": [
+     "4736581eae5e243e",
+     "57109a363283120a"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceは『The Black Parade』20周年再発盤に向け、未発表曲「Someone Out There Loves You」などを公開。",
     "ids": [
      "93f21844baa275cf",
      "3293ff0fb6c78a7f",
@@ -294,38 +303,47 @@
     ]
    },
    {
-    "text": "Pinhead Gunpowderが結成35周年を記念し、キャリア初となるツアーをIrving Plazaで開催してアニバーサリーを祝う。",
-    "ids": [
-     "4736581eae5e243e"
-    ]
-   },
-   {
-    "text": "プロデューサーのRob CavalloがGreen DayやMy Chemical Romanceの制作秘話を振り返るインタビューが明かされた。",
-    "ids": [
-     "d849c4a3558e8a28"
-    ]
-   },
-   {
-    "text": "Green Dayが、当時はファンに嫌われると思った楽曲が卒業式の定番ソングになった当時の心境について語っている。",
-    "ids": [
-     "c8dfc396401deddc"
-    ]
-   },
-   {
-    "text": "Weezerは新曲「Shine Again」を発表したほか、2026年ビルボード・ライブ・ミュージック・サミットで受賞予定である。",
+    "text": "Weezerが新曲「Shine Again」を発表したほか、ビルボード・ライブ・ミュージック・サミットでの受賞が決定。",
     "ids": [
      "c36dd57b96bf1502",
      "8658e29252b16b05"
     ]
+   },
+   {
+    "text": "Rancidの名盤『…And Out Come the Wolves』発売30周年を記念した豪華ボックスセットがリリース。",
+    "ids": [
+     "b2016a0538335f01"
+    ]
    }
   ],
   "days": 3,
-  "from": "2026-10-15T00:23:48.157985+09:00",
-  "generated_at": "2026-10-18T00:23:49.849943+09:00",
+  "from": "2026-10-15T05:25:56.264455+09:00",
+  "generated_at": "2026-10-18T05:25:57.636786+09:00",
   "article_count": 24,
-  "sig": "c97bcadaa460"
+  "sig": "a83e7d5b5dc1"
  },
  "items": [
+  {
+   "id": "c79c405b08657271",
+   "url": "https://dyingscene.com/ds-gallery-day-two-of-riot-fest-2026-with-tool-bad-religion-social-distortion-destroy-boys-and-more",
+   "title_original": "DS Gallery: Day two of Riot Fest 2026 with TOOL, Bad Religion, Social Distortion, Destroy Boys and more!",
+   "source": "Dying Scene",
+   "image": "https://dyingscene.com/wp-content/uploads/2026/10/TOOL-AT-RIOT-FEST-2026-5.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-17T13:00:00+00:00",
+   "title_ja": "Riot Fest 2026の2日目ギャラリーが公開",
+   "summary_ja": "Riot Fest 2026の2日目の様子をとらえたフォトギャラリーが公開され、Bad ReligionやSocial Distortionらのステージが紹介されている。",
+   "category": "ライブ・ツアー",
+   "band": "Bad Religion",
+   "artists": [
+    "Bad Religion",
+    "Social Distortion"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "c74c4e0f379ae122",
    "url": "https://www.vice.com/en/article/the-unexpected-rapper-that-inspired-pete-wentz-to-write-songs-for-fall-out-boy-in-2006",
@@ -470,6 +488,26 @@
    "has_detail": true
   },
   {
+   "id": "57109a363283120a",
+   "url": "https://www.imdb.com/es/news/ni5898479",
+   "title_original": "Green Day vs. Stephen Sondheim x 2 for Musical Show Album Grammy",
+   "source": "IMDb",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-16T14:41:52+00:00",
+   "title_ja": "Green Dayがグラミー賞のミュージカル部門にノミネート",
+   "summary_ja": "Green Dayがミュージカル関連のアルバムでグラミー賞の候補に挙がったという話題。音楽賞でのバンドの新たな功績を伝えている。",
+   "category": "チャート・受賞",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "0c741d0120a5fc4e",
    "url": "https://celebrityaccess.com/2026/10/16/boston-hometown-boys-dropkick-murphys-come-home-for-st-patricks-day",
    "title_original": "Boston Hometown Boys, Dropkick Murphys Come Home For St. Patrick’s Day",
@@ -550,27 +588,6 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "899cf2d781eda572",
-   "url": "https://www.kerrang.com/who-the-hell-are-riff-wood",
-   "title_original": "Winning contests, Green Day covers and impressing legends: Who the hell are Riff Wood?",
-   "source": "Kerrang!",
-   "image": "https://transforms.kerrang.com/production/images/2026/10/riff-wood-header-oct-26-Christina-HuertaOh-Snap-Photography.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1792146356&s=817bd285200d6a88affefaa2b2c7cd6d",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T11:30:00+00:00",
-   "title_ja": "新進気鋭のRiff Wood、Green Dayのカバー等を語る",
-   "summary_ja": "コンテストでの勝利やGreen Dayのカバー演奏、レジェンドたちをうならせた新バンドRiff Woodの素性に迫る。",
-   "category": "その他",
-   "band": "Green Day",
-   "artists": [
-    "Green Day",
-    "Riff Wood"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
   },
   {
    "id": "53df95c6bcc56aa6",
@@ -713,6 +730,26 @@
    "has_detail": true
   },
   {
+   "id": "8b3e8fb63a163c71",
+   "url": "https://www.wmg.com/news/warner-chappell-music-signs-global-deal-with-my-chemical-romance",
+   "title_original": "WARNER CHAPPELL MUSIC SIGNS GLOBAL DEAL WITH MY CHEMICAL ROMANCE",
+   "source": "Warner Music Group",
+   "image": "https://www.wmg.com/wp-content/uploads/2026/10/MCR-scaled.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-15T14:02:54+00:00",
+   "title_ja": "My Chemical Romanceがワーナー・チャペルとグローバル契約",
+   "summary_ja": "My Chemical Romanceがワーナー・チャペル・ミュージックと新たに世界規模の音楽出版契約を締結した。今後の楽曲展開や活動に向けた大きな一歩となる。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "a89279012a0247fc",
    "url": "https://www.cltampa.com/music-2/review-in-tampa-weezer-goes-for-the-gold-during-stacked-alt-rock-gathering-w-photos",
    "title_original": "Review: In Tampa, Weezer goes for the gold during stacked alt-rock gathering [w/photos]",
@@ -783,26 +820,6 @@
    "published": "2026-10-14T23:00:00+00:00",
    "title_ja": "My Chemical Romanceファンが2008年に起こした抗議活動",
    "summary_ja": "2008年にMy Chemical Romanceのファンがデイリー・メール紙の本社前で行った抗議デモの文化的背景を振り返る記事。",
-   "category": "その他",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "3464c0a6ef8dab3a",
-   "url": "https://www.latimes.com/lifestyle/story/2026-10-14/la-immanuel-presbyterian-koreatown-church-emo-my-chemical-romance-lyrics-helena",
-   "title_original": "Inside the candlelit L.A. church where emo lovers analyze My Chemical Romance lyrics",
-   "source": "Los Angeles Times",
-   "image": "https://ca-times.brightspotcdn.com/dims4/default/f3d2522/2147483647/strip/true/crop/5473x2873+0+388/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc7%2Fa3%2Fb7103b76496eb7e75bfc484d6a66%2F1572593-wk-koreatown-church-emo-lovers-lyrics-0384-rb.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-14T21:31:27.986000+00:00",
-   "title_ja": "教会でMy Chemical Romanceの歌詞を分析するイベント",
-   "summary_ja": "ロサンゼルスの教会を舞台に、キャンドルの明かりの中でMy Chemical Romanceの歌詞の深層を語り合うファンの集まりを紹介する。",
    "category": "その他",
    "band": "My Chemical Romance",
    "artists": [
@@ -1140,6 +1157,26 @@
    "japan": false,
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "d2352eb4924a7616",
+   "url": "https://www.orlandoweekly.com/music/photos-weezer-punched-the-golden-ticket-at-orlandos-kia-center",
+   "title_original": "Photos: Weezer punched the golden ticket at Orlando’s Kia Center",
+   "source": "Orlando Weekly",
+   "image": "https://www.orlandoweekly.com/wp-content/uploads/2026/10/Weezer-at-Kia-Center-by-Jim-Leatherman_5206.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-13T15:53:25+00:00",
+   "title_ja": "Weezerがオーランド公演で見せた熱狂のステージ",
+   "summary_ja": "WeezerがオーランドのKia Centerで行ったライブの模様を、現地の写真とともに振り返るレポート。会場を沸かせた熱いステージの様子が伝えられている。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "924ccc5c47e6c15f",
@@ -7933,51 +7970,6 @@
    ],
    "japan": false,
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "4f081995845488c3",
-   "url": "https://rockcellarmagazine.com/ramones-tribute-concert-los-angeles-cretin-family-billie-joe-armstrong-travis-barker-watch",
-   "title_original": "Ramones Toasted in LA by Billie Joe Armstrong, Travis Barker & More as Cretin Family",
-   "source": "Rock Cellar Magazine",
-   "image": "https://rockcellarmagazine.com/wp-content/uploads/2026/09/ramones-hollywood-forever-tribute-1.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T18:10:24+00:00",
-   "title_ja": "Billie Joe ArmstrongらがロサンゼルスでRamonesをトリビュート",
-   "summary_ja": "Billie Joe ArmstrongやTravis Barkerらがロサンゼルスに集まり、Cretin FamilyとしてRamonesをトリビュートするステージを披露した。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong",
-    "Travis Barker",
-    "Ramones"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8eb7e927e15ceb80",
-   "url": "https://www.yahoo.com/entertainment/music/articles/green-day-rancid-blink-182-161820591.html",
-   "title_original": "Green Day, Rancid, and Blink-182 members celebrate the Ramones’ 50th anniversary with a set at a cemetery",
-   "source": "Yahoo",
-   "image": "https://s.yimg.com/lo/mysterio/api/1e562ff3d8c9a29f30d37f452bad793f1854845991a9f002d0f29e108672c725/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fguitar_world_625%2F601b4bf1f86f8a4bf0ff1d3d7aae56fb.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T16:18:20+00:00",
-   "title_ja": "Green DayらのメンバーがRamones結成50周年を墓地で祝福",
-   "summary_ja": "Green DayやRancid、Blink-182のメンバーらが墓地での特別なセット出演を通じて、Ramonesの結成50周年を盛大に祝った。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Green Day",
-    "Rancid",
-    "Blink-182",
-    "Ramones"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   }
  ]
