@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T19:28:59.040487+09:00",
+ "updated_at": "2026-10-18T00:23:32.202988+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -280,52 +280,50 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 375,
- "detail_count": 269,
+ "count": 370,
+ "detail_count": 266,
  "digest": {
-  "headline": "MCRの20周年盤やGreen Day関連の制作秘話が続々登場",
+  "headline": "MCRの20周年盤やGreen Dayの話題など直近のパンク・ロックニュースまと",
   "points": [
    {
-    "text": "My Chemical Romanceは『The Black Parade』20周年記念エディションの発売に向け、未発表曲「Someone Out There Loves You」を公開した。",
+    "text": "My Chemical Romanceは『The Black Parade』20周年記念盤の発売に向け、未発表曲「Someone Out There Loves You」などを公開した。",
     "ids": [
+     "93f21844baa275cf",
      "3293ff0fb6c78a7f",
-     "132683827a75057c",
-     "76902e607bb9d308"
+     "132683827a75057c"
     ]
    },
    {
-    "text": "Green DayのBillie Joe Armstrongや名プロデューサーが、『Nimrod』や『The Black Parade』など名盤の制作当時を振り返るインタビューが公開された。",
-    "ids": [
-     "d849c4a3558e8a28",
-     "c8dfc396401deddc",
-     "30462b60561efb52"
-    ]
-   },
-   {
-    "text": "Pinhead Gunpowderが結成35周年を記念し、キャリア初となるツアーをIrving Plazaで開催することが決定した。",
+    "text": "Pinhead Gunpowderが結成35周年を記念し、キャリア初となるツアーをIrving Plazaで開催してアニバーサリーを祝う。",
     "ids": [
      "4736581eae5e243e"
     ]
    },
    {
-    "text": "Weezerは新曲「Shine Again」を発表したほか、2026年Billboard Live Music SummitでLegend of Live Awardを受賞する予定だ。",
+    "text": "プロデューサーのRob CavalloがGreen DayやMy Chemical Romanceの制作秘話を振り返るインタビューが明かされた。",
+    "ids": [
+     "d849c4a3558e8a28"
+    ]
+   },
+   {
+    "text": "Green Dayが、当時はファンに嫌われると思った楽曲が卒業式の定番ソングになった当時の心境について語っている。",
+    "ids": [
+     "c8dfc396401deddc"
+    ]
+   },
+   {
+    "text": "Weezerは新曲「Shine Again」を発表したほか、2026年ビルボード・ライブ・ミュージック・サミットで受賞予定である。",
     "ids": [
      "c36dd57b96bf1502",
      "8658e29252b16b05"
     ]
-   },
-   {
-    "text": "Rancidは傑作アルバム『…And Out Come the Wolves』の発売30周年を記念した豪華ボックスセットをリリースした。",
-    "ids": [
-     "b2016a0538335f01"
-    ]
    }
   ],
   "days": 3,
-  "from": "2026-10-14T19:29:48.800555+09:00",
-  "generated_at": "2026-10-17T19:29:50.503247+09:00",
+  "from": "2026-10-15T00:23:48.157985+09:00",
+  "generated_at": "2026-10-18T00:23:49.849943+09:00",
   "article_count": 24,
-  "sig": "e9b21890211c"
+  "sig": "c97bcadaa460"
  },
  "items": [
   {
@@ -409,7 +407,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3293ff0fb6c78a7f",
@@ -538,7 +536,7 @@
    "url": "https://northerntransmissions.com/weezer-shares-new-single-shine-again",
    "title_original": "Weezer shares new single “Shine Again”",
    "source": "Northern Transmissions",
-   "image": "",
+   "image": "https://northerntransmissions.com/wp-content/uploads/2026/04/WEEZER-GATHERING_CreditBrendan-Walters-scaled.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-10-16T11:34:04+00:00",
@@ -551,7 +549,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "899cf2d781eda572",
@@ -599,7 +597,7 @@
    "url": "https://rocknloadmag.com/rancid-celebrate-30-years-of-and-out-come-the-wolves-with-expanded-anniversary-boxed-set",
    "title_original": "RANCID CELEBRATE 30 YEARS OF …AND OUT COME THE WOLVES WITH EXPANDED ANNIVERSARY BOXED SET",
    "source": "https://rocknloadmag.com/",
-   "image": "",
+   "image": "https://rocknloadmag.com/wp-content/uploads/2026/10/87990_Rancid_OutComeTheWolves30thAnniversary.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-10-16T10:13:46+00:00",
@@ -612,7 +610,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "33369ebd1584484d",
@@ -7980,108 +7978,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "c6544c514b4c6c3a",
-   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/green-day-extend-saviors-era-with-2026-german-shows/70044407",
-   "title_original": "Green Day extend Saviors era with 2026 German shows",
-   "source": "AD HOC NEWS",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403767_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T14:37:12+00:00",
-   "title_ja": "Green Day、Saviors期を延長し2026年のドイツ公演を発表",
-   "summary_ja": "Green Dayは最新アルバム『Saviors』に伴うツアー期間を延長し、2026年にドイツでのライブを開催することを決定した。ファン待望の追加公演として大きな注目を集めている。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "f7ca8e2bf202aff7",
-   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/weezer-the-gathering-2026-2027-world-tour-and-gold-album/70044369",
-   "title_original": "Weezer - The Gathering 2026-2027 world tour and Gold Album",
-   "source": "AD HOC NEWS",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403810_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T14:32:31+00:00",
-   "title_ja": "Weezerがワールドツアー「The Gathering」と新作を発表",
-   "summary_ja": "Weezerが2026年から2027年にかけて開催する大規模な世界ツアー「The Gathering」のスケジュールと、新たな「Gold Album」に関する情報を発表した。",
-   "category": "新曲・新作",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "1b479adc24f14659",
-   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/the-offspring-rock-im-park-2026-set-confirmed-in-nuremberg/70044017",
-   "title_original": "The Offspring - Rock im Park 2026 set confirmed in Nuremberg",
-   "source": "AD HOC NEWS",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403858_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T13:48:29+00:00",
-   "title_ja": "The OffspringのRock im Park 2026出演が決定",
-   "summary_ja": "ニュルンベルクで開催される「Rock im Park 2026」にThe Offspringが出演することが正式に発表された。（抜粋なし）",
-   "category": "フェス出演",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "672524a03aab16cb",
-   "url": "https://exclaim.ca/music/article/vancouver-s-can-t-miss-concerts-in-september-2026-including-tame-impala-blood-orange-and-weezer",
-   "title_original": "Vancouver's Can't-Miss Concerts in September 2026, Including Tame Impala, Blood Orange and Weezer",
-   "source": "Exclaim!",
-   "image": "https://assets.exclaim.ca/image/upload/v1785080688/20260725_tame_impala_toronto_scotiabank_arena_isabel_glasgow_2_d2d48676d9.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T13:15:00+00:00",
-   "title_ja": "バンクーバーの9月公演情報、Weezerらの出演が決定",
-   "summary_ja": "2026年9月にカナダのバンクーバーで開催される注目のコンサート情報が発表され、WeezerをはじめTame ImpalaやBlood Orangeらの出演が決定した。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer",
-    "Tame Impala",
-    "Blood Orange"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "534999f4e59bc251",
-   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/fall-out-boy-streaming-milestones-and-german-chart-legacy/70043099",
-   "title_original": "Fall Out Boy streaming milestones and German chart legacy",
-   "source": "AD HOC NEWS",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403826_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T11:52:26+00:00",
-   "title_ja": "Fall Out Boyのストリーミング実績とドイツのチャート成績",
-   "summary_ja": "Fall Out Boyのこれまでのストリーミングでのマイルストーンや、ドイツ国内の音楽チャートにおける足跡についての記事。（抜粋なし）",
-   "category": "チャート・受賞",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 2,
    "has_detail": true
   }
  ]
