@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T00:44:15.552377+09:00",
+ "updated_at": "2026-10-19T05:26:35.168010+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -55,6 +55,7 @@
   "Britannica",
   "California.com",
   "CelebrityAccess",
+  "Chaoszine",
   "Consequence",
   "Creative Loafing Tampa",
   "Creepy Catalog",
@@ -282,49 +283,96 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 363,
- "detail_count": 259,
+ "count": 365,
+ "detail_count": 261,
  "digest": {
-  "headline": "MCRの記念再発やGreen Dayの話題が続々到着",
+  "headline": "パンク・ロックシーンの最新動向まとめ",
   "points": [
    {
-    "text": "My Chemical Romanceは、『The Black Parade』の20周年記念再発盤に向け、未発表曲や2007年のライブ映像などを続々と公開しています。",
-    "ids": [
-     "208963505ceb6a4f",
-     "93f21844baa275cf",
-     "3293ff0fb6c78a7f"
-    ]
-   },
-   {
-    "text": "Green Dayはグラミー賞のミュージカル部門にノミネートされたほか、名プロデューサーが制作当時を振り返るインタビューが話題となっています。",
+    "text": "Green Dayがグラミー賞のミュージカル部門にノミネートされたほか、名プロデューサーがバンドの制作秘話を語った。",
     "ids": [
      "57109a363283120a",
      "d849c4a3558e8a28"
     ]
    },
    {
-    "text": "Pinhead Gunpowderが結成35年で初となるツアーの開催を発表し、Rancidも名盤の30周年記念ボックスセットをリリースしました。",
+    "text": "My Chemical Romanceが『The Black Parade』の20周年再発盤に向け、未発表曲やライブ音源、映像を多数公開した。",
     "ids": [
-     "4736581eae5e243e",
-     "b2016a0538335f01"
+     "208963505ceb6a4f",
+     "132683827a75057c",
+     "33369ebd1584484d"
     ]
    },
    {
-    "text": "Weezerが新曲「Shine Again」を発表したほか、ビルボード・ライブ・ミュージック・サミットでの受賞や各種ライブ出演が決定しています。",
+    "text": "Pinhead Gunpowderが結成35年で初となるツアーの開催を発表した。",
+    "ids": [
+     "4736581eae5e243e"
+    ]
+   },
+   {
+    "text": "Weezerが新曲「Shine Again」を発表したほか、各地でのライブ出演や公演予定が明らかになった。",
     "ids": [
      "c36dd57b96bf1502",
-     "8658e29252b16b05",
-     "4c9074a7b1720828"
+     "4c9074a7b1720828",
+     "96e0f6e19dba97a1"
+    ]
+   },
+   {
+    "text": "Rancidが名盤の発売30周年を記念した豪華ボックスセットをリリースした。",
+    "ids": [
+     "b2016a0538335f01"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-16T00:44:34.678292+09:00",
-  "generated_at": "2026-10-19T00:44:36.913733+09:00",
+  "from": "2026-10-16T05:26:57.457378+09:00",
+  "generated_at": "2026-10-19T05:26:59.115317+09:00",
   "article_count": 24,
-  "sig": "fab9b10e8856"
+  "sig": "cf4832f77cdd"
  },
  "items": [
+  {
+   "id": "1106276190d70d1e",
+   "url": "https://chaoszine.net/haywire-reveal-headlining-australian-tour-dates-and-shows-with-dropkick-murphys-and-rise-against",
+   "title_original": "Haywire reveal headlining Australian tour dates and shows with Dropkick Murphys and Rise Against",
+   "source": "Chaoszine",
+   "image": "https://chaoszine.net/wp-content/uploads/2025/10/haywire-at-helsinki-ice-hall-11.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-18T18:16:11+00:00",
+   "title_ja": "Haywireがオーストラリアツアーの日程を発表",
+   "summary_ja": "HaywireがDropkick MurphysやRise Againstを迎えて行う、オーストラリアでのヘッドラインツアーおよび公演の日程を発表した。",
+   "category": "ライブ・ツアー",
+   "band": "その他",
+   "artists": [
+    "Haywire",
+    "Dropkick Murphys",
+    "Rise Against"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "5929ac584126a5a7",
+   "url": "https://www.redandblack.com/culture/the-linda-lindas-urge-concert-attendees-to-vote-in-midterm-elections/article_ffaa76e3-9bc4-446d-a9fb-3406a5281124.html",
+   "title_original": "The Linda Lindas urge concert attendees to vote in midterm elections",
+   "source": "The Red & Black",
+   "image": "https://bloximages.newyork1.vip.townnews.com/redandblack.com/content/tncms/assets/v3/editorial/3/90/390963cf-5c11-407c-8341-a3444779f01f/6ad4b95737b9c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-18T16:37:00+00:00",
+   "title_ja": "The Linda Lindasが中間選挙への投票を呼びかけ",
+   "summary_ja": "The Linda Lindasがライブの参加者に対して、中間選挙での投票を行うよう強く呼びかけた。",
+   "category": "メンバー・発言",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "383b95188126340e",
    "url": "https://www.redandblack.com/multimedia/photos-the-linda-lindas-at-the-georgia-theatre/collection_ed4b499c-1f17-4dab-93d6-fe0f645a6998.html",
