@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T05:25:34.597455+09:00",
+ "updated_at": "2026-10-18T13:08:37.057380+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -142,7 +142,6 @@
   "Pitchfork",
   "PlayDayOne",
   "Porterville Recorder",
-  "Prelude Press",
   "Prescott Daily Courier",
   "Punknews.org",
   "RIFF Magazine",
@@ -282,47 +281,82 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 370,
- "detail_count": 266,
+ "count": 369,
+ "detail_count": 265,
  "digest": {
-  "headline": "Green DayやMCRの話題が満載！ここ3日のパンク・ロックニュースまとめ",
+  "headline": "Green DayのグラミーノミネートやMCRの20周年盤情報が到着",
   "points": [
    {
-    "text": "Green Dayがグラミー賞のミュージカル部門にノミネートされたほか、結成35周年のPinhead Gunpowderが初ツアーを開催。",
+    "text": "Green Dayがミュージカル関連のアルバムでグラミー賞にノミネートされたほか、Pinhead Gunpowderが結成35年で初のツアー開催を発表した。",
     "ids": [
      "4736581eae5e243e",
      "57109a363283120a"
     ]
    },
    {
-    "text": "My Chemical Romanceは『The Black Parade』20周年再発盤に向け、未発表曲「Someone Out There Loves You」などを公開。",
+    "text": "My Chemical Romanceは名盤『The Black Parade』の20周年記念エディションの発売に向け、未発表曲を公開した。",
     "ids": [
-     "93f21844baa275cf",
      "3293ff0fb6c78a7f",
-     "132683827a75057c"
+     "132683827a75057c",
+     "76902e607bb9d308"
     ]
    },
    {
-    "text": "Weezerが新曲「Shine Again」を発表したほか、ビルボード・ライブ・ミュージック・サミットでの受賞が決定。",
+    "text": "Weezerの新曲発表やイベント出演決定に加え、Rancidの名盤30周年ボックスセットのリリース情報が伝えられた。",
     "ids": [
      "c36dd57b96bf1502",
-     "8658e29252b16b05"
-    ]
-   },
-   {
-    "text": "Rancidの名盤『…And Out Come the Wolves』発売30周年を記念した豪華ボックスセットがリリース。",
-    "ids": [
-     "b2016a0538335f01"
+     "b2016a0538335f01",
+     "4c9074a7b1720828"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-15T05:25:56.264455+09:00",
-  "generated_at": "2026-10-18T05:25:57.636786+09:00",
+  "from": "2026-10-15T13:08:58.091678+09:00",
+  "generated_at": "2026-10-18T13:08:59.580622+09:00",
   "article_count": 24,
-  "sig": "a83e7d5b5dc1"
+  "sig": "9e762c45e1bf"
  },
  "items": [
+  {
+   "id": "4c9074a7b1720828",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/weezer-join-three-night-q101-twisted-in-chicago-on-10-december/70351653",
+   "title_original": "Weezer join three-night Q101 Twisted in Chicago on 10 December",
+   "source": "ad-hoc-news.de",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403834_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-17T20:49:22+00:00",
+   "title_ja": "WeezerがシカゴのQ101 Twistedに出演決定",
+   "summary_ja": "Weezerが12月10日にシカゴで開催される3日間のイベント「Q101 Twisted」に出演することが決定した。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "bf191633cab2c115",
+   "url": "https://www.theprp.com/2026/10/17/news/my-chemical-romance-drop-official-live-performance-video-for-their-rare-track-someone-out-there-loves-you",
+   "title_original": "My Chemical Romance Drop Official Live Performance Video For Their Rare Track \"Someone Out There Loves You\"",
+   "source": "The PRP",
+   "image": "https://www.theprp.com/app/uploads/2026/07/mychemicalromancelarge-1200x675.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-17T18:54:06+00:00",
+   "title_ja": "MCRがレア曲「Someone Out There Loves You」のライブ映像を公開",
+   "summary_ja": "My Chemical Romanceが、これまであまり聴けなかった楽曲「Someone Out There Loves You」の公式ライブパフォーマンス映像を公開した。",
+   "category": "映像・映画・書籍",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "c79c405b08657271",
    "url": "https://dyingscene.com/ds-gallery-day-two-of-riot-fest-2026-with-tool-bad-religion-social-distortion-destroy-boys-and-more",
@@ -505,7 +539,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0c741d0120a5fc4e",
@@ -7906,70 +7940,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "78ae2ed2d7baf488",
-   "url": "https://preludepress.com/featured/2026/09/02/my-chemical-romance-denver-review-2026",
-   "title_original": "My Chemical Romance Denver Review",
-   "source": "Prelude Press",
-   "image": "https://preludepress.com/wp-content/uploads/2026/09/My-Chemical-Romance-Denver-Bryce-Hall-2026.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-03T00:11:57+00:00",
-   "title_ja": "My Chemical Romanceのデンバー公演レビュー",
-   "summary_ja": "My Chemical Romanceがデンバーで行ったライブの模様を伝えるレビュー記事。現時点では見出しのみ公開されており、詳細な内容は記載されていません。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f39093bfb8632d83",
-   "url": "https://lambgoat.com/news/54631/fake-names-ex-refused-bad-religion-reveal-details-for-lp3-share-lead-single-until-its-normal",
-   "title_original": "Fake Names (ex-Refused, Bad Religion) reveal details for LP3, share lead single \"Until It's Normal\"",
-   "source": "Lambgoat",
-   "image": "https://lambgoat.com/cdn/2026/fake-names-26-20260902155231.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T22:53:00+00:00",
-   "title_ja": "Fake Namesが新作アルバムのリリースを発表",
-   "summary_ja": "RefusedやBad Religionのメンバーが在籍するFake Namesが、サードアルバムの詳細を明かし、先行シングル「Until It's Normal」を公開しました。",
-   "category": "新曲・新作",
-   "band": "Bad Religion",
-   "artists": [
-    "Fake Names",
-    "Refused",
-    "Bad Religion"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "1bcd99f5404d490e",
-   "url": "https://consequence.net/2026/09/weezer-the-gathering-tour-how-to-get-last-minute-tickets",
-   "title_original": "Weezer to Launch \"The Gathering\" Tour\" with The Shins and Silversun Pickups",
-   "source": "Consequence",
-   "image": "https://consequence.net/wp-content/uploads/2026/09/weezer-the-gathering-tour-last-minute-tickets-how-to-buy-.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T21:02:17+00:00",
-   "title_ja": "WeezerがThe Shinsらと全米ツアー開催を発表",
-   "summary_ja": "WeezerがThe ShinsやSilversun Pickupsを迎えた「The Gathering」ツアーの開催を発表した。詳細は今後明らかになる予定。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer",
-    "The Shins",
-    "Silversun Pickups"
-   ],
-   "japan": false,
-   "importance": 4,
    "has_detail": true
   }
  ]
