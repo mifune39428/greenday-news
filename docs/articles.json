@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T19:48:30.854200+09:00",
+ "updated_at": "2026-10-19T00:44:15.552377+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -282,47 +282,69 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 364,
+ "count": 363,
  "detail_count": 259,
  "digest": {
-  "headline": "Green DayやMy Chemical Romanceなどパンク・ロック界の",
+  "headline": "MCRの記念再発やGreen Dayの話題が続々到着",
   "points": [
    {
-    "text": "Green Dayがミュージカル関連のアルバムでグラミー賞の候補に挙がったほか、名プロデューサーが制作当時を振り返るインタビューが公開された。",
+    "text": "My Chemical Romanceは、『The Black Parade』の20周年記念再発盤に向け、未発表曲や2007年のライブ映像などを続々と公開しています。",
+    "ids": [
+     "208963505ceb6a4f",
+     "93f21844baa275cf",
+     "3293ff0fb6c78a7f"
+    ]
+   },
+   {
+    "text": "Green Dayはグラミー賞のミュージカル部門にノミネートされたほか、名プロデューサーが制作当時を振り返るインタビューが話題となっています。",
     "ids": [
      "57109a363283120a",
      "d849c4a3558e8a28"
     ]
    },
    {
-    "text": "Pinhead Gunpowderが結成35周年を記念し、Irving Plazaにてキャリア初となるツアーを開催する。",
+    "text": "Pinhead Gunpowderが結成35年で初となるツアーの開催を発表し、Rancidも名盤の30周年記念ボックスセットをリリースしました。",
     "ids": [
-     "4736581eae5e243e"
+     "4736581eae5e243e",
+     "b2016a0538335f01"
     ]
    },
    {
-    "text": "My Chemical Romanceは『The Black Parade』の20周年記念再発盤に向け、未発表曲「Someone Out There Loves You」やライブ映像を公開した。",
-    "ids": [
-     "208963505ceb6a4f",
-     "132683827a75057c",
-     "8b64037c7336ed0c"
-    ]
-   },
-   {
-    "text": "Weezerの新曲「Shine Again」発表や、Billboard Live Music Summitでの受賞決定など、多数の話題が報じられた。",
+    "text": "Weezerが新曲「Shine Again」を発表したほか、ビルボード・ライブ・ミュージック・サミットでの受賞や各種ライブ出演が決定しています。",
     "ids": [
      "c36dd57b96bf1502",
-     "8658e29252b16b05"
+     "8658e29252b16b05",
+     "4c9074a7b1720828"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-15T19:48:57.411260+09:00",
-  "generated_at": "2026-10-18T19:48:58.855803+09:00",
+  "from": "2026-10-16T00:44:34.678292+09:00",
+  "generated_at": "2026-10-19T00:44:36.913733+09:00",
   "article_count": 24,
-  "sig": "921266c83d53"
+  "sig": "fab9b10e8856"
  },
  "items": [
+  {
+   "id": "383b95188126340e",
+   "url": "https://www.redandblack.com/multimedia/photos-the-linda-lindas-at-the-georgia-theatre/collection_ed4b499c-1f17-4dab-93d6-fe0f645a6998.html",
+   "title_original": "PHOTOS: The Linda Lindas at the Georgia Theatre",
+   "source": "The Red & Black",
+   "image": "https://bloximages.newyork1.vip.townnews.com/redandblack.com/content/tncms/assets/v3/editorial/e/d4/ed4b499c-1f17-4dab-93d6-fe0f645a6998/6ad4c07b4ff91.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-18T12:18:00+00:00",
+   "title_ja": "The Linda Lindasのジョージア・シアター公演フォト",
+   "summary_ja": "ジョージア・シアターで行われたThe Linda Lindasのライブパフォーマンスの様子を捉えた写真が公開された。",
+   "category": "ライブ・ツアー",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "208963505ceb6a4f",
    "url": "https://www.1039waynefm.com/2026/10/18/my-chemical-romance-releases-long-awaited-song-ahead-of-the-black-parade-anniversary-reissue",
@@ -382,7 +404,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4c9074a7b1720828",
@@ -7806,46 +7828,6 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "4167887009e8ca74",
-   "url": "https://chorus.fm/news/blink-182-x-pac-man-2-0",
-   "title_original": "Blink-182 x Pac-Man 2.0",
-   "source": "chorus.fm",
-   "image": "https://chorus.fm/wp-content/uploads/2026/07/Blink-182-hug-1504x840.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-03T14:55:53+00:00",
-   "title_ja": "Blink-182とPac-Manが再びコラボレーション",
-   "summary_ja": "Blink-182と有名ゲーム「Pac-Man」のコラボレーション企画の第2弾となる「Blink-182 x Pac-Man 2.0」が発表された。",
-   "category": "その他",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "d98b7eb0c30a4e1a",
-   "url": "https://rocksound.tv/features/interview-the-linda-lindas-on-freedom-frustration-new-album-gotta-get-out",
-   "title_original": "INTERVIEW: The Linda Lindas On Freedom, Frustration & New Album ‘GOTTA GET OUT’",
-   "source": "Rock Sound",
-   "image": "https://spaces.rocksound.tv/uploads/2026/09/thelindalindas_2026new.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-03T13:06:45+00:00",
-   "title_ja": "The Linda Lindasが新作アルバムについて語る",
-   "summary_ja": "The Linda Lindasが新作アルバム『GOTTA GET OUT』や自由、フラストレーションについて語ったインタビュー。",
-   "category": "メンバー・発言",
-   "band": "その他",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
