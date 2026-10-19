@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T21:49:52.035820+09:00",
+ "updated_at": "2026-10-20T07:13:56.342168+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -43,7 +43,6 @@
   "930 WFMD Free Talk",
   "95.9 The RAT",
   "AD HOC NEWS",
-  "Arab News",
   "Arts Council of Greater New Haven",
   "Audacy",
   "Azernews.az",
@@ -77,6 +76,7 @@
   "Glide Magazine",
   "Guitar World",
   "Guitar.com",
+  "HEAVY Magazine",
   "HMV",
   "Happy Mag",
   "Hit Parader",
@@ -160,6 +160,7 @@
   "RouteNote",
   "SSBCrack",
   "Sada Elbalad english",
+  "San Bernardino Sun",
   "Secret Los Angeles",
   "Sonic Perspectives",
   "Spectrum Culture",
@@ -180,6 +181,7 @@
   "The Drum",
   "The Duke Chronicle",
   "The Georgia Straight",
+  "The Hollywood Reporter",
   "The Mercury News",
   "The Mirror US",
   "The Montrealer",
@@ -280,48 +282,224 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 364,
- "detail_count": 263,
+ "count": 370,
+ "detail_count": 270,
  "digest": {
-  "headline": "Green DayやMCRの最新情報とツアー速報",
+  "headline": "MCRの記念盤関連や各バンドの最新情報が到着",
   "points": [
    {
-    "text": "Green Dayがグラミー賞のミュージカル部門にノミネートされ、名プロデューサーが制作秘話を語った。",
+    "text": "Green Dayのプロデューサーが名盤『Dookie』のドラムサウンドの録音手法やこだわりを語った。",
     "ids": [
-     "57109a363283120a",
-     "d849c4a3558e8a28"
+     "0d9b6254db55acb4"
     ]
    },
    {
-    "text": "Pinhead Gunpowderが結成35周年を記念し、キャリア初となるツアーを開催する。",
+    "text": "My Chemical Romanceが『The Black Parade』の周年記念再発盤に向け、未発表曲やライブ音源の配信などを次々と発表した。",
     "ids": [
-     "4736581eae5e243e"
-    ]
-   },
-   {
-    "text": "My Chemical Romanceが『The Black Parade』の記念再発盤に向け、未発表曲やライブ音源を公開した。",
-    "ids": [
+     "409daa9e318b435e",
      "c8b9b520936fb7de",
-     "208963505ceb6a4f",
-     "93f21844baa275cf"
+     "208963505ceb6a4f"
     ]
    },
    {
-    "text": "WeezerやRise Against、Dropkick Murphysなどのライブやツアーに関する情報が発表された。",
+    "text": "WeezerやFoo FightersがKROQ主催のクリスマスライブでヘッドライナーを務めることが発表された。",
     "ids": [
-     "3f686ddc533d82da",
+     "843893c170f49abb",
+     "ff6f16af54ef6872",
+     "ec4999fd35b83f6f"
+    ]
+   },
+   {
+    "text": "Rise AgainstとDropkick MurphysのオーストラリアツアーにHAYWIREが参加することが決まった。",
+    "ids": [
+     "d85e86922803d8da",
      "20e95470733dae57",
-     "1106276190d70d1e"
+     "6ba1aad51242b133"
+    ]
+   },
+   {
+    "text": "Fake Namesが新作アルバムの発売に向けて新曲「Punk Ruins」のリリックビデオを初公開した。",
+    "ids": [
+     "f8ff04180cefa4ac"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-16T21:50:09.122261+09:00",
-  "generated_at": "2026-10-19T21:50:13.024461+09:00",
+  "from": "2026-10-17T07:15:37.214174+09:00",
+  "generated_at": "2026-10-20T07:15:56.505389+09:00",
   "article_count": 24,
-  "sig": "ec5a915e859a"
+  "sig": "e2b01bf31b62"
  },
  "items": [
+  {
+   "id": "f8ff04180cefa4ac",
+   "url": "https://themosh.net/fake-names-punk-ruins-lyric-video",
+   "title_original": "Fake Names (Bad Religion, Refused, Etc.) Premiere “Punk Ruins” Lyric Video Ahead Of Third Album Release",
+   "source": "The Mosh Network",
+   "image": "http://themosh.net/wp-content/uploads/2026/09/fakenames2026.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-19T21:12:59+00:00",
+   "title_ja": "Fake Namesが新作アルバムから新曲のリリックビデオを公開",
+   "summary_ja": "Bad ReligionやRefusedのメンバーらが在籍するスーパーバンド、Fake Namesが3枚目のアルバム発売に先駆け、新曲「Punk Ruins」のリリックビデオを初公開した。",
+   "category": "新曲・新作",
+   "band": "Bad Religion",
+   "artists": [
+    "Fake Names",
+    "Bad Religion",
+    "Refused"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "843893c170f49abb",
+   "url": "https://www.sbsun.com/2026/10/19/foo-fighters-weezer-to-headline-kroq-almost-acoustic-christmas-at-kia-forum",
+   "title_original": "Foo Fighters, Weezer to headline KROQ Almost Acoustic Christmas at Kia Forum",
+   "source": "San Bernardino Sun",
+   "image": "https://www.sbsun.com/wp-content/uploads/2026/10/TDB-L-ALMOSTACOUSTIC-1020-01.jpg?w=2000&h=1333",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-19T20:12:49+00:00",
+   "title_ja": "KROQ主催アコースティック・クリスマスでFoo FightersとWeezerがヘッドライナーに",
+   "summary_ja": "ロサンゼルスのKia Forumで開催されるKROQ主催の恒例クリスマスライブで、Foo FightersとWeezerがヘッドライナーを務めることが明らかになった。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Foo Fighters",
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "3133511b5d9be98c",
+   "url": "https://wrat.com/2026/10/19/my-chemical-romance-signs-exclusive-worldwide-publishing-deal-with-warner-chappell-music",
+   "title_original": "My Chemical Romance Signs Exclusive Worldwide Publishing Deal With Warner Chappell Music",
+   "source": "95.9 The RAT",
+   "image": "https://wrat.com/uploads/2026/10/GettyImages-1243926603-e1792438469494.jpg?auto=webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-19T19:37:38+00:00",
+   "title_ja": "My Chemical Romanceがワーナー・チャペルと出版契約を締結",
+   "summary_ja": "My Chemical Romanceが、ワーナー・チャペル・ミュージックと全世界を対象とした専属の音楽出版契約を新たに結んだことが明らかになった。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "ff6f16af54ef6872",
+   "url": "https://www.hollywoodreporter.com/music/music-news/kroq-2026-almost-acoustic-christmas-lineup-foo-fighters-1236735352",
+   "title_original": "Foo Fighters, Weezer, Sublime Join KROQ’s 2026 Almost Acoustic Christmas Lineup",
+   "source": "The Hollywood Reporter",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-19T15:56:05+00:00",
+   "title_ja": "WeezerらがKROQ主催の2026年クリスマス公演に出演決定",
+   "summary_ja": "WeezerやFoo Fighters、Sublimeが、KROQが主催する「Almost Acoustic Christmas」のラインナップに名を連ねた。",
+   "category": "フェス出演",
+   "band": "Weezer",
+   "artists": [
+    "Foo Fighters",
+    "Weezer",
+    "Sublime"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "d85e86922803d8da",
+   "url": "https://heavymag.com.au/haywire-to-join-rise-against-and-dropkick-murphys-on-australian-tour",
+   "title_original": "HAYWIRE To Join RISE AGAINST And DROPKICK MURPHYS On Australian Tour",
+   "source": "HEAVY Magazine",
+   "image": "https://heavymag.com.au/wp-content/uploads/2026/10/unnamed-29-3.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-19T15:35:29+00:00",
+   "title_ja": "Rise AgainstとDropkick Murphysの豪州ツアーにHAYWIREが参加",
+   "summary_ja": "オーストラリアツアーを行うRise AgainstとDropkick Murphysのステージに、新たにHAYWIREが参加することが発表された。",
+   "category": "ライブ・ツアー",
+   "band": "Rise Against",
+   "artists": [
+    "HAYWIRE",
+    "Rise Against",
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "ec4999fd35b83f6f",
+   "url": "https://rockcellarmagazine.com/kroq-almost-acoustic-christmas-2026-foo-fighters-weezer-tickets-details",
+   "title_original": "KROQ Almost Acoustic Christmas 2026: Foo Fighters, Weezer, Sublime, More Dec. 12 in LA",
+   "source": "Rock Cellar Magazine",
+   "image": "https://rockcellarmagazine.com/wp-content/uploads/2026/10/kroq-almost-acoustic-christmas-2026.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-19T14:00:50+00:00",
+   "title_ja": "KROQ主催のアコースティック・クリスマス2026が開催決定",
+   "summary_ja": "LAのKia Forumにて、Foo FightersやWeezer、Sublimeらが出演するKROQ主催の恒例ライブイベントが12月12日に開催されることが発表された。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Foo Fighters",
+    "Weezer",
+    "Sublime"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "409daa9e318b435e",
+   "url": "https://wrat.com/2026/10/19/my-chemical-romance-revives-a-lost-song-ahead-of-the-black-parade-anniversary",
+   "title_original": "My Chemical Romance Revives a Lost Song Ahead of ‘The Black Parade’ Anniversary",
+   "source": "95.9 The RAT",
+   "image": "https://wrat.com/uploads/2026/10/spike-tv-s-scream-awards-2006-show-scaled-1.jpg?auto=webp&width=2000&height=1335",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-19T13:33:23+00:00",
+   "title_ja": "My Chemical Romanceが名盤の記念盤に向けて未発表曲を復活",
+   "summary_ja": "My Chemical Romanceが『The Black Parade』の周年記念を前に、失われていた楽曲を蘇らせた。",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "0d9b6254db55acb4",
+   "url": "https://www.musicradar.com/artists/i-devised-a-way-to-capture-the-first-reflection-of-the-drums-it-really-helps-the-drum-set-grow-teeth-and-you-can-quite-clearly-hear-it-on-dookie-green-days-trusted-producer-breaks-down-why-dookie-still-sounds-so-impactful",
+   "title_original": "“I devised a way to capture the first reflection of the drums – it really helps the drum set grow teeth and you can quite clearly hear it on Dookie”: Green Day’s trusted producer breaks down why Dookie still sounds so impactful",
+   "source": "MusicRadar",
+   "image": "https://cdn.mos.cms.futurecdn.net/KmWRWZmqjXNDnHFdwWoZpj-1920-80.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-19T12:51:33+00:00",
+   "title_ja": "Green Dayの名盤「Dookie」の音作りの秘密をプロデューサーが明かす",
+   "summary_ja": "Green Dayの信頼厚いプロデューサーが、今なお色褪せない『Dookie』のドラムサウンドに込めた独自の録音手法やこだわりを語った。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "3f686ddc533d82da",
    "url": "https://www.rockdnamag.com/post/weezer-tampa-benchmark-international-arena-review",
@@ -610,7 +788,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8f3946f4edcff5b9",
@@ -7812,46 +7990,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "b657af26d5a019f4",
-   "url": "https://www.ultimate-guitar.com/news/tab_spotlight/the-real-challenge-of-the-offsprings-come-out-and-play-is-palm-muting-one-shared-amp-means-nowhere-to-hide",
-   "title_original": "The Real Challenge of The Offspring's 'Come Out and Play' Is Palm Muting: One Shared Amp Means Nowhere to Hide",
-   "source": "Ultimate Guitar",
-   "image": "https://www.ultimate-guitar.com/static/article/news/2/187922_0_wide_ver1788556416.jpg@1200",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-04T21:13:36+00:00",
-   "title_ja": "The Offspringの名曲「Come Out and Play」の演奏上の難所",
-   "summary_ja": "The Offspringの代表曲「Come Out and Play」における、ブリッジミュートをはじめとしたギター演奏の難しさや、アンプを共有する環境ならではの緊張感について語られています。",
-   "category": "その他",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "ce150fc843e72e04",
-   "url": "https://www.arabnews.com/entertainment/green-day-announce-dubai-gig-2505446",
-   "title_original": "Green Day announce Dubai gig",
-   "source": "Arab News",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-04T20:07:50+00:00",
-   "title_ja": "Green Dayがドバイでのライブ開催を発表",
-   "summary_ja": "Green Dayがドバイ公演の開催を新たにアナウンスした。現地でのパフォーマンスにファンの期待が高まっている。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
