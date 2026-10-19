@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T13:17:59.349869+09:00",
+ "updated_at": "2026-10-19T21:49:52.035820+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -53,7 +53,6 @@
   "Beaver County Times",
   "Big Country News |",
   "Billboard",
-  "Britannica",
   "California.com",
   "CelebrityAccess",
   "Chaoszine",
@@ -284,52 +283,43 @@
  "count": 364,
  "detail_count": 263,
  "digest": {
-  "headline": "Green DayやMCRなどパンク・ロックシーンの最新ニュースまとめ",
+  "headline": "Green DayやMCRの最新情報とツアー速報",
   "points": [
    {
-    "text": "Green Dayがグラミー賞のミュージカル部門にノミネートされたほか、Pinhead Gunpowderが初のツアー開催を発表した。",
+    "text": "Green Dayがグラミー賞のミュージカル部門にノミネートされ、名プロデューサーが制作秘話を語った。",
     "ids": [
-     "4736581eae5e243e",
      "57109a363283120a",
      "d849c4a3558e8a28"
     ]
    },
    {
-    "text": "My Chemical Romanceは『The Black Parade』の20周年記念再発盤に向け、未発表曲やライブ音源を続々と公開している。",
+    "text": "Pinhead Gunpowderが結成35周年を記念し、キャリア初となるツアーを開催する。",
+    "ids": [
+     "4736581eae5e243e"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceが『The Black Parade』の記念再発盤に向け、未発表曲やライブ音源を公開した。",
     "ids": [
      "c8b9b520936fb7de",
      "208963505ceb6a4f",
-     "132683827a75057c"
+     "93f21844baa275cf"
     ]
    },
    {
-    "text": "Weezerは新曲「Shine Again」を発表したほか、各地でのライブツアーやイベント出演を行っている。",
+    "text": "WeezerやRise Against、Dropkick Murphysなどのライブやツアーに関する情報が発表された。",
     "ids": [
-     "c36dd57b96bf1502",
      "3f686ddc533d82da",
-     "4c9074a7b1720828"
-    ]
-   },
-   {
-    "text": "Rancidが傑作アルバム『…And Out Come the Wolves』の発売30周年を記念したボックスセットをリリースした。",
-    "ids": [
-     "b2016a0538335f01"
-    ]
-   },
-   {
-    "text": "Rise AgainstとDropkick Murphysによるオーストラリアツアーの日程発表や、各地でのライブ情報が公開された。",
-    "ids": [
      "20e95470733dae57",
-     "1106276190d70d1e",
-     "6ba1aad51242b133"
+     "1106276190d70d1e"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-16T13:18:24.591478+09:00",
-  "generated_at": "2026-10-19T13:18:26.206543+09:00",
+  "from": "2026-10-16T21:50:09.122261+09:00",
+  "generated_at": "2026-10-19T21:50:13.024461+09:00",
   "article_count": 24,
-  "sig": "4feb6e3193c5"
+  "sig": "ec5a915e859a"
  },
  "items": [
   {
@@ -600,6 +590,27 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "498da0df72aebff2",
+   "url": "https://www.kcrw.com/giveaways/jimmy-eat-world-the-format-hollywood-bowl-sat-nov-7-entry-2026-10-17-at-00-58-55",
+   "title_original": "Jimmy Eat World + The Format at the Hollywood Bowl",
+   "source": "KCRW",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-17T07:00:00+00:00",
+   "title_ja": "Jimmy Eat WorldとThe Formatがハリウッド・ボウルで共演",
+   "summary_ja": "Jimmy Eat WorldとThe Formatが、歴史あるハリウッド・ボウルにてライブを開催する予定であることが伝えられている。",
+   "category": "ライブ・ツアー",
+   "band": "Jimmy Eat World",
+   "artists": [
+    "Jimmy Eat World",
+    "The Format"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "8f3946f4edcff5b9",
@@ -7840,26 +7851,6 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "27e737be8aed308b",
-   "url": "https://www.britannica.com/biography/Travis-Barker",
-   "title_original": "Travis Barker | Biography, Blink-182, 2008 Plane Crash, Marriage, Kourtney Kardashian, & Facts",
-   "source": "Britannica",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-04T05:00:00+00:00",
-   "title_ja": "Blink-182のTravis Barkerの生涯とキャリアの解説",
-   "summary_ja": "Blink-182のドラマーであるTravis Barkerの生い立ち、バンドの経歴、飛行機事故や結婚などの人生の足跡を振り返る伝記記事。",
-   "category": "その他",
-   "band": "Blink-182",
-   "artists": [
-    "Travis Barker"
-   ],
-   "japan": false,
-   "importance": 2,
    "detail_tries": 2
   }
  ]
