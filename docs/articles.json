@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T07:13:56.342168+09:00",
+ "updated_at": "2026-10-20T13:28:56.395465+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -282,19 +282,20 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 370,
- "detail_count": 270,
+ "count": 372,
+ "detail_count": 271,
  "digest": {
-  "headline": "MCRの記念盤関連や各バンドの最新情報が到着",
+  "headline": "Green Dayのプロデューサーが語る名盤の秘密と、MCRやWeezerらの最",
   "points": [
    {
-    "text": "Green Dayのプロデューサーが名盤『Dookie』のドラムサウンドの録音手法やこだわりを語った。",
+    "text": "Green Dayのプロデューサーがアルバム『Dookie』の音作りの秘密や名盤が色褪せない理由について明かしました。",
     "ids": [
+     "facd0e37dbd170df",
      "0d9b6254db55acb4"
     ]
    },
    {
-    "text": "My Chemical Romanceが『The Black Parade』の周年記念再発盤に向け、未発表曲やライブ音源の配信などを次々と発表した。",
+    "text": "My Chemical Romanceが記念再発盤に向けた新曲やライブ音源のリリース、ライブ映像の公開に加え、ワーナー・チャペルと出版契約を締結しました。",
     "ids": [
      "409daa9e318b435e",
      "c8b9b520936fb7de",
@@ -302,33 +303,27 @@
     ]
    },
    {
-    "text": "WeezerやFoo FightersがKROQ主催のクリスマスライブでヘッドライナーを務めることが発表された。",
+    "text": "WeezerがKROQ主催のクリスマス公演への出演やシカゴでのイベント出演、タンパ公演の開催が発表されました。",
     "ids": [
+     "1438978bc865b6b3",
      "843893c170f49abb",
-     "ff6f16af54ef6872",
-     "ec4999fd35b83f6f"
+     "ff6f16af54ef6872"
     ]
    },
    {
-    "text": "Rise AgainstとDropkick MurphysのオーストラリアツアーにHAYWIREが参加することが決まった。",
+    "text": "Rise AgainstとDropkick MurphysのオーストラリアツアーにHAYWIREが参加することが発表されました。",
     "ids": [
      "d85e86922803d8da",
      "20e95470733dae57",
-     "6ba1aad51242b133"
-    ]
-   },
-   {
-    "text": "Fake Namesが新作アルバムの発売に向けて新曲「Punk Ruins」のリリックビデオを初公開した。",
-    "ids": [
-     "f8ff04180cefa4ac"
+     "1106276190d70d1e"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-17T07:15:37.214174+09:00",
-  "generated_at": "2026-10-20T07:15:56.505389+09:00",
+  "from": "2026-10-17T13:29:17.548835+09:00",
+  "generated_at": "2026-10-20T13:29:19.154361+09:00",
   "article_count": 24,
-  "sig": "e2b01bf31b62"
+  "sig": "2203d8daa949"
  },
  "items": [
   {
@@ -373,6 +368,28 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "1438978bc865b6b3",
+   "url": "https://music.mxdwn.com/2026/10/19/news/kroq-almost-acoustic-christmas-2026-lineup-announced-featuring-foo-fighters-weezer-sublime-more/amp",
+   "title_original": "KROQ Almost Acoustic Christmas 2026 Lineup Announced Featuring Foo Fighters, Weezer, Sublime & More",
+   "source": "mxdwn Music",
+   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2018/09/Foo-Fighters_BLS_091418-6646.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-19T20:00:51+00:00",
+   "title_ja": "KROQ主催フェスの出演者が発表",
+   "summary_ja": "2026年開催のKROQ Almost Acoustic Christmasの出演ラインナップが発表され、Weezerらの参加が明らかになりました。",
+   "category": "フェス出演",
+   "band": "Weezer",
+   "artists": [
+    "Foo Fighters",
+    "Weezer",
+    "Sublime"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "3133511b5d9be98c",
@@ -481,6 +498,26 @@
    "has_detail": true
   },
   {
+   "id": "facd0e37dbd170df",
+   "url": "https://www.yahoo.com/entertainment/music/articles/green-day-trusted-producer-breaks-125133413.html",
+   "title_original": "Green Day’s trusted producer breaks down why Dookie still sounds so impactful",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/6de572a9cec6c8b503c7fba617eb49cb1eb5ac22938674113b6c390f20240fcc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmusicradar_907%2F52b0eb9afe7e50177bbb6b3a49b769ba.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-19T12:51:33+00:00",
+   "title_ja": "Green Dayのプロデューサーが名盤を語る",
+   "summary_ja": "Green Dayを手がけてきた信頼厚いプロデューサーが、アルバム『Dookie』が今なお色褪せない理由について語っています。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "0d9b6254db55acb4",
    "url": "https://www.musicradar.com/artists/i-devised-a-way-to-capture-the-first-reflection-of-the-drums-it-really-helps-the-drum-set-grow-teeth-and-you-can-quite-clearly-hear-it-on-dookie-green-days-trusted-producer-breaks-down-why-dookie-still-sounds-so-impactful",
    "title_original": "“I devised a way to capture the first reflection of the drums – it really helps the drum set grow teeth and you can quite clearly hear it on Dookie”: Green Day’s trusted producer breaks down why Dookie still sounds so impactful",
@@ -498,7 +535,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3f686ddc533d82da",
