@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T20:19:07.629550+09:00",
+ "updated_at": "2026-10-21T01:44:00.998153+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -79,6 +79,7 @@
   "HEAVY Magazine",
   "HMV",
   "Happy Mag",
+  "Her Campus",
   "Hit Parader",
   "Hoodline",
   "Houston Press",
@@ -142,6 +143,7 @@
   "People.com",
   "Pioneer Press",
   "PlayDayOne",
+  "PopMatters",
   "Porterville Recorder",
   "Prescott Daily Courier",
   "Punknews.org",
@@ -214,7 +216,6 @@
   "Washington Examiner",
   "We Write About Music",
   "Western Mass News",
-  "Wikimetal",
   "Worthplaying",
   "Yahoo",
   "Yahoo Lifestyle Australia",
@@ -282,20 +283,20 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 373,
- "detail_count": 272,
+ "count": 375,
+ "detail_count": 273,
  "digest": {
-  "headline": "Green Dayのプロデューサーが名盤の裏側を語るほか、MCRやWeezerの",
+  "headline": "Green Dayのプロデューサーが名盤の裏話を語るなど直近3日のパンクニュース",
   "points": [
    {
-    "text": "Green Dayを手がけてきたプロデューサーが、アルバム『Dookie』のドラムサウンドの録音手法や色褪せない理由について語った。",
+    "text": "Green Dayを手がけてきたプロデューサーが、名盤『Dookie』の音作りの秘密や今なお色褪せない理由について明かしました。",
     "ids": [
      "facd0e37dbd170df",
      "0d9b6254db55acb4"
     ]
    },
    {
-    "text": "My Chemical Romanceが『The Black Parade』の記念再発盤に向けた新曲のリリースや、ライブ音源の配信、レア曲のライブ映像公開を行った。",
+    "text": "My Chemical Romanceは『The Black Parade』の記念再発盤に向けた新曲リリースやライブ音源の配信、出版契約の締結など多くの話題がありました。",
     "ids": [
      "409daa9e318b435e",
      "c8b9b520936fb7de",
@@ -303,7 +304,7 @@
     ]
    },
    {
-    "text": "WeezerがKROQ主催のクリスマス公演やシカゴのイベントへの出演が決定したほか、各地でツアーを行っている。",
+    "text": "WeezerやFoo FightersがKROQ主催のクリスマスライブでヘッドライナーを務めるほか、各地のツアー情報が発表されました。",
     "ids": [
      "1438978bc865b6b3",
      "843893c170f49abb",
@@ -311,21 +312,101 @@
     ]
    },
    {
-    "text": "Rise AgainstとDropkick MurphysのオーストラリアツアーにHAYWIREが参加し、日程の調整や発表を行った。",
+    "text": "Blink-182がベルギーのGraspop Metal Meetingでヘッドライナーを務めることが発表されました。",
     "ids": [
-     "d85e86922803d8da",
-     "20e95470733dae57",
-     "1106276190d70d1e"
+     "ec098c6ed3f40e37"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-17T20:19:28.335621+09:00",
-  "generated_at": "2026-10-20T20:19:30.135085+09:00",
-  "article_count": 23,
-  "sig": "418220639923"
+  "from": "2026-10-18T01:45:36.028638+09:00",
+  "generated_at": "2026-10-21T01:45:59.829450+09:00",
+  "article_count": 24,
+  "sig": "18db10aaed06"
  },
  "items": [
+  {
+   "id": "0a3697fa19228f99",
+   "url": "https://rocksound.tv/news/patrick-stump-on-fall-out-boy-playing-snl-it-was-literal-dream-stuff",
+   "title_original": "Patrick Stump On Fall Out Boy Playing SNL: \"It Was Literal Dream Stuff\"",
+   "source": "Rock Sound",
+   "image": "https://spaces.rocksound.tv/uploads/2026/10/Screenshot-2026-10-20-at-16.24.22-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-20T15:33:43+00:00",
+   "title_ja": "Fall Out BoyのPatrick Stumpが語るSNL出演の夢",
+   "summary_ja": "Fall Out BoyのPatrick Stumpが、米人気番組『SNL』への出演を「夢のような出来事だった」と振り返るインタビュー記事。",
+   "category": "メンバー・発言",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy",
+    "Patrick Stump"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a6309c35987a90f8",
+   "url": "https://www.hercampus.com/culture/the-linda-lindas-exclusive",
+   "title_original": "The Linda Lindas Have Something To Say",
+   "source": "Her Campus",
+   "image": "https://cdn.hercampus.com/SH6M70M3/as/6r74wnpxhzbtksvp27wfjfbt/linda_lindas_feature?width=1200&height=630&fit=crop&",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-20T14:38:34+00:00",
+   "title_ja": "The Linda Lindasが放つ新たなメッセージ",
+   "summary_ja": "独自のスタンスで注目を集めるThe Linda Lindasの現在地と、彼女たちが音楽を通じて伝えたいメッセージについて迫る記事。",
+   "category": "メンバー・発言",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "0271dbd315a735ff",
+   "url": "https://www.popmatters.com/iggy-pop-my-chemical-romance",
+   "title_original": "Iggy Pop’s Noise Became My Chemical Romance’s Language in Detroit",
+   "source": "PopMatters",
+   "image": "https://www.popmatters.com/wp-content/uploads/2026/10/Iggy-Pop-by-Bjor-Togemose.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-20T13:55:53+00:00",
+   "title_ja": "Iggy PopのノイズがMy Chemical Romanceへ与えた影響",
+   "summary_ja": "デトロイトにおけるIggy Popの音楽的ノイズが、のちにMy Chemical Romanceのサウンドや表現手法にどう継承されたかを考察する。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "Iggy Pop",
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "ec098c6ed3f40e37",
+   "url": "https://www.kerrang.com/blink-182-are-headlining-graspop-in-belgium-next-year",
+   "title_original": "blink-182 are headlining Graspop in Belgium next year",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/Shaky-Knees-Festival-September-2025-live-credit-Jenn-Five-blink-182-1.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1758626166&s=ad867d6be025c05f9cd62e448e1f2a62",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-20T11:21:00+00:00",
+   "title_ja": "blink-182、ベルギーのGraspopでヘッドライナーへ",
+   "summary_ja": "blink-182が、来年ベルギーで開催される大型ロックフェス「Graspop Metal Meeting」のヘッドライナーを務めることが発表された。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "54e0d2a2817d1264",
    "url": "https://themosh.net/my-chemical-romance-someone-out-there-loves-you-live-video",
@@ -8006,46 +8087,6 @@
    ],
    "japan": false,
    "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "840e57d5893fb273",
-   "url": "https://www.wikimetal.com.br/en/rise-against-rock-in-rio-instruments-borrowed-from-other-bands/amp",
-   "title_original": "Rise Against tocou no Rock in Rio com instrumentos emprestados por outras bandas",
-   "source": "Wikimetal",
-   "image": "https://www.wikimetal.com.br/wp-content/uploads/2026/09/Rise-Against-no-Rock-in-Rio-04-09-2026-Jessica-Marinho-B.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-05T15:22:22+00:00",
-   "title_ja": "Rise Against、Rock in Rioで楽器を借りて演奏",
-   "summary_ja": "Rise AgainstがRock in Rioのステージにおいて、他のバンドから借り受けた楽器を使用して演奏を行った。",
-   "category": "ライブ・ツアー",
-   "band": "Rise Against",
-   "artists": [
-    "Rise Against"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d134c6c9f0368c56",
-   "url": "https://www.wikimetal.com.br/en/rise-against-rock-in-rio-2026",
-   "title_original": "Rise Against brings punk urgency to the Rock in Rio 2026 stage",
-   "source": "Wikimetal",
-   "image": "https://www.wikimetal.com.br/wp-content/uploads/2026/09/Rise-Against-no-Rock-in-Rio-04-09-2026-Jessica-Marinho.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-05T14:59:14+00:00",
-   "title_ja": "Rise AgainstがRock in Rio 2026に出演",
-   "summary_ja": "Rise AgainstがRock in Rio 2026のステージでパンクの切迫感をもたらすパフォーマンスを披露した。",
-   "category": "フェス出演",
-   "band": "Rise Against",
-   "artists": [
-    "Rise Against"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   }
  ]
