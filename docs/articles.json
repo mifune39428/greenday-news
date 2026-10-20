@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T13:28:56.395465+09:00",
+ "updated_at": "2026-10-20T20:19:07.629550+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -282,20 +282,20 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 372,
- "detail_count": 271,
+ "count": 373,
+ "detail_count": 272,
  "digest": {
-  "headline": "Green Dayのプロデューサーが語る名盤の秘密と、MCRやWeezerらの最",
+  "headline": "Green Dayのプロデューサーが名盤の裏側を語るほか、MCRやWeezerの",
   "points": [
    {
-    "text": "Green Dayのプロデューサーがアルバム『Dookie』の音作りの秘密や名盤が色褪せない理由について明かしました。",
+    "text": "Green Dayを手がけてきたプロデューサーが、アルバム『Dookie』のドラムサウンドの録音手法や色褪せない理由について語った。",
     "ids": [
      "facd0e37dbd170df",
      "0d9b6254db55acb4"
     ]
    },
    {
-    "text": "My Chemical Romanceが記念再発盤に向けた新曲やライブ音源のリリース、ライブ映像の公開に加え、ワーナー・チャペルと出版契約を締結しました。",
+    "text": "My Chemical Romanceが『The Black Parade』の記念再発盤に向けた新曲のリリースや、ライブ音源の配信、レア曲のライブ映像公開を行った。",
     "ids": [
      "409daa9e318b435e",
      "c8b9b520936fb7de",
@@ -303,7 +303,7 @@
     ]
    },
    {
-    "text": "WeezerがKROQ主催のクリスマス公演への出演やシカゴでのイベント出演、タンパ公演の開催が発表されました。",
+    "text": "WeezerがKROQ主催のクリスマス公演やシカゴのイベントへの出演が決定したほか、各地でツアーを行っている。",
     "ids": [
      "1438978bc865b6b3",
      "843893c170f49abb",
@@ -311,7 +311,7 @@
     ]
    },
    {
-    "text": "Rise AgainstとDropkick MurphysのオーストラリアツアーにHAYWIREが参加することが発表されました。",
+    "text": "Rise AgainstとDropkick MurphysのオーストラリアツアーにHAYWIREが参加し、日程の調整や発表を行った。",
     "ids": [
      "d85e86922803d8da",
      "20e95470733dae57",
@@ -320,12 +320,32 @@
    }
   ],
   "days": 3,
-  "from": "2026-10-17T13:29:17.548835+09:00",
-  "generated_at": "2026-10-20T13:29:19.154361+09:00",
-  "article_count": 24,
-  "sig": "2203d8daa949"
+  "from": "2026-10-17T20:19:28.335621+09:00",
+  "generated_at": "2026-10-20T20:19:30.135085+09:00",
+  "article_count": 23,
+  "sig": "418220639923"
  },
  "items": [
+  {
+   "id": "54e0d2a2817d1264",
+   "url": "https://themosh.net/my-chemical-romance-someone-out-there-loves-you-live-video",
+   "title_original": "My Chemical Romance Share Official Live Video For Rare Track “Someone Out There Loves You”",
+   "source": "The Mosh Network",
+   "image": "http://themosh.net/wp-content/uploads/2025/08/My-Chemical-Romance-Arlington-TX-2025.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-19T22:41:23+00:00",
+   "title_ja": "MCR、レア曲の公式ライブ映像を公開",
+   "summary_ja": "My Chemical Romanceが、ライブで披露されたレア楽曲「Someone Out There Loves You」の公式ライブ映像を公開しました。",
+   "category": "映像・映画・書籍",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "f8ff04180cefa4ac",
    "url": "https://themosh.net/fake-names-punk-ruins-lyric-video",
@@ -389,7 +409,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3133511b5d9be98c",
