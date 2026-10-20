@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T01:44:00.998153+09:00",
+ "updated_at": "2026-10-21T06:28:24.111809+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -283,20 +283,20 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 375,
- "detail_count": 273,
+ "count": 377,
+ "detail_count": 275,
  "digest": {
-  "headline": "Green Dayのプロデューサーが名盤の裏話を語るなど直近3日のパンクニュース",
+  "headline": "Green Dayの名盤秘話からMCRやWeezerの最新情報まで",
   "points": [
    {
-    "text": "Green Dayを手がけてきたプロデューサーが、名盤『Dookie』の音作りの秘密や今なお色褪せない理由について明かしました。",
+    "text": "Green Dayのプロデューサーがアルバム『Dookie』のドラムサウンドや音作りの秘密、色褪せない理由を明かした。",
     "ids": [
      "facd0e37dbd170df",
      "0d9b6254db55acb4"
     ]
    },
    {
-    "text": "My Chemical Romanceは『The Black Parade』の記念再発盤に向けた新曲リリースやライブ音源の配信、出版契約の締結など多くの話題がありました。",
+    "text": "My Chemical Romanceが『The Black Parade』の記念再発盤に向けた未発表曲やライブ音源の配信、公式映像の公開などを行った。",
     "ids": [
      "409daa9e318b435e",
      "c8b9b520936fb7de",
@@ -304,7 +304,7 @@
     ]
    },
    {
-    "text": "WeezerやFoo FightersがKROQ主催のクリスマスライブでヘッドライナーを務めるほか、各地のツアー情報が発表されました。",
+    "text": "WeezerやFoo FightersらがKROQ主催のコンサートやクリスマス公演のヘッドライナーとして出演することが発表された。",
     "ids": [
      "1438978bc865b6b3",
      "843893c170f49abb",
@@ -312,19 +312,62 @@
     ]
    },
    {
-    "text": "Blink-182がベルギーのGraspop Metal Meetingでヘッドライナーを務めることが発表されました。",
+    "text": "Blink-182がベルギーのロックフェス「Graspop Metal Meeting」のヘッドライナーを務めることが発表された。",
     "ids": [
      "ec098c6ed3f40e37"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-18T01:45:36.028638+09:00",
-  "generated_at": "2026-10-21T01:45:59.829450+09:00",
+  "from": "2026-10-18T06:28:47.536534+09:00",
+  "generated_at": "2026-10-21T06:28:49.051091+09:00",
   "article_count": 24,
-  "sig": "18db10aaed06"
+  "sig": "48cc7ed2cce7"
  },
  "items": [
+  {
+   "id": "3ad11e52bcf4bd37",
+   "url": "https://www.antimusic.com/p/26/r1020ace_frehley_the_offspring_fuel_chevelle_members_to_rock_knac_halloween_party.shtml",
+   "title_original": "Ace Frehley, The Offspring, Fuel, Chevelle Members To Rock KNAC Halloween Party",
+   "source": "antiMusic",
+   "image": "https://www.antimusic.com/news/photos/26/10/20/knac.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-20T18:47:03+00:00",
+   "title_ja": "The Offspringのメンバーがハロウィンに出演",
+   "summary_ja": "The OffspringのメンバーらがKNAC主催のハロウィン・パーティーに登場し、スペシャルなロック演奏を披露する予定。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Ace Frehley"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "fbc51db2f1b47939",
+   "url": "https://lambgoat.com/news/55440/fake-names-ex-refused-bad-religion-present-music-video-for-title-track-park-ruins",
+   "title_original": "FAKE NAMES (ex-Refused, Bad Religion) present music video for title track \"Park Ruins\"",
+   "source": "Lambgoat",
+   "image": "https://lambgoat.com/cdn/2026/fake-names-26-20260902155231.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-20T17:59:00+00:00",
+   "title_ja": "FAKE NAMESが新曲「Park Ruins」のMVを公開",
+   "summary_ja": "RefusedやBad Religionの元メンバーらが在籍するバンド、FAKE NAMESがアルバム表題曲「Park Ruins」のミュージックビデオを公開した。",
+   "category": "新曲・新作",
+   "band": "Bad Religion",
+   "artists": [
+    "Fake Names",
+    "Bad Religion",
+    "Refused"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "0a3697fa19228f99",
    "url": "https://rocksound.tv/news/patrick-stump-on-fall-out-boy-playing-snl-it-was-literal-dream-stuff",
@@ -405,7 +448,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "54e0d2a2817d1264",
