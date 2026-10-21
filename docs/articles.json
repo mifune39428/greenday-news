@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T20:35:09.735477+09:00",
+ "updated_at": "2026-10-22T02:01:26.819727+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -52,6 +52,7 @@
   "Beaver County Times",
   "Big Country News |",
   "Billboard",
+  "Blunt Magazine",
   "California.com",
   "CelebrityAccess",
   "Chaoszine",
@@ -70,7 +71,6 @@
   "Exclaim!",
   "Far Out Magazine",
   "Fightful",
-  "Filmaffinity",
   "Flagpole",
   "Forbes",
   "Glide Magazine",
@@ -284,27 +284,28 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 376,
- "detail_count": 275,
+ "count": 378,
+ "detail_count": 278,
  "digest": {
-  "headline": "Green Dayのプロデューサーが名盤の裏話を語るほか、MCRやWeezerの",
+  "headline": "The OffspringのNoodles活動休止やGreen Dayの話題など",
   "points": [
    {
-    "text": "Green Dayのアルバム『Dookie』について、信頼厚いプロデューサーがドラムサウンドの録音手法や今なお色褪せない理由を明かした。",
+    "text": "The OffspringのギタリストであるNoodlesが、健康上の問題により直近の公演を含めライブ活動を一時休止すると発表した。",
+    "ids": [
+     "6905c0b8ed501ce0",
+     "1d96b05af6edd7e3",
+     "45a474683b59efbe"
+    ]
+   },
+   {
+    "text": "Green Dayのプロデューサーが名盤『Dookie』の音作りの秘密や、今なお色褪せない理由について語った。",
     "ids": [
      "facd0e37dbd170df",
      "0d9b6254db55acb4"
     ]
    },
    {
-    "text": "My Chemical Romanceは、『The Black Parade』の周年記念に向けた未発表曲の復活やレア楽曲のライブ映像を公開した。",
-    "ids": [
-     "409daa9e318b435e",
-     "54e0d2a2817d1264"
-    ]
-   },
-   {
-    "text": "WeezerやFoo Fightersらがヘッドライナーを務める、KROQ主催のクリスマスライブの出演ラインナップが発表された。",
+    "text": "WeezerがFoo Fightersらと共にKROQ主催のクリスマスライブや音楽フェスへの出演が決定した。",
     "ids": [
      "1438978bc865b6b3",
      "843893c170f49abb",
@@ -312,19 +313,104 @@
     ]
    },
    {
-    "text": "Blink-182が来年ベルギーで開催される大型ロックフェス「Graspop Metal Meeting」のヘッドライナーを務めることが決定した。",
+    "text": "My Chemical Romanceが『The Black Parade』の記念盤に向けた未発表曲の復活やライブ映像の公開を行った。",
     "ids": [
-     "ec098c6ed3f40e37"
+     "409daa9e318b435e",
+     "54e0d2a2817d1264",
+     "3133511b5d9be98c"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-18T20:35:33.120607+09:00",
-  "generated_at": "2026-10-21T20:36:02.551514+09:00",
+  "from": "2026-10-19T02:02:17.409532+09:00",
+  "generated_at": "2026-10-22T02:02:18.909392+09:00",
   "article_count": 24,
-  "sig": "0ae8ee424146"
+  "sig": "20e38e06b1e7"
  },
  "items": [
+  {
+   "id": "6905c0b8ed501ce0",
+   "url": "https://themusicuniverse.com/the-offspring-guitarist-noodles-to-step-away-due-to-serious-health-issue",
+   "title_original": "The Offspring guitarist Noodles to step away due to ‘serious health issue’",
+   "source": "The Music Universe",
+   "image": "https://themusicuniverse.com/wp-content/uploads/2025/10/offspringtour26.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-21T16:41:42+00:00",
+   "title_ja": "The OffspringのNoodlesが健康上の理由でライブ活動を一時休止",
+   "summary_ja": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題を理由にライブ活動から一時離脱することを発表した。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "Noodles",
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "1d96b05af6edd7e3",
+   "url": "https://bluntmag.com.au/news/the-offspring-noodles-steps-away-live-shows-health-issue",
+   "title_original": "The Offspring’s Noodles Steps Away From Live Shows Due To Health Issue",
+   "source": "Blunt Magazine",
+   "image": "https://images-1.bluntmag.com.au/cdn-cgi/image/f=auto,quality=80,fit=scale-down/https://images-1.bluntmag.com.au/uploads/2026/10/noodles-the-offspring-sea-hear-now-2026-getty.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-21T16:07:59+00:00",
+   "title_ja": "The OffspringのNoodlesが健康問題によりライブ出演を見合わせ",
+   "summary_ja": "The OffspringのNoodlesが健康上の理由からライブ活動から一時的に離れることを決断し、ファンに向けて発表を行った。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "Noodles",
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "45a474683b59efbe",
+   "url": "https://twaslnews1.twaslnews.com/6364322",
+   "title_original": "Noodles Offspring: Kevin Wasserman Steps Away Before 3 Shows",
+   "source": "شبكة تواصل الإخبارية",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-21T16:07:51+00:00",
+   "title_ja": "The OffspringのNoodlesが直近の3公演を欠場",
+   "summary_ja": "The OffspringのギタリストであるNoodles（Kevin Wasserman）が、直近の3つのライブパフォーマンスを一時的に離れることが明らかになった。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Noodles"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "81bbbb11dee307b5",
+   "url": "https://www.orlandoweekly.com/music/this-little-underground/see-the-linda-lindas-at-the-social-before-they-break-really-big",
+   "title_original": "See the Linda Lindas at the Social before they break really big",
+   "source": "Orlando Weekly",
+   "image": "https://www.orlandoweekly.com/wp-content/uploads/2026/10/Photo20Jun20152020262C2052041202320PM2028529-l5pI5rV7y8cit7KGTKFI8xE5W5rB8q.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-20T20:59:37+00:00",
+   "title_ja": "The Linda Lindasのライブが間近で体感できるチャンス",
+   "summary_ja": "ブレイク寸前の注目を集めるThe Linda Lindasが、The Socialでのライブを控えている。大きな人気を獲得する前にその演奏を間近で観る絶好の機会となっている。",
+   "category": "ライブ・ツアー",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "d371f70102df9644",
    "url": "https://veniceoarsman.com/16377/showcase/with-new-album-the-linda-lindas-reflect-on-youth",
@@ -8065,48 +8151,6 @@
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "b76dac23350b66fb",
-   "url": "https://www.ultimate-guitar.com/articles/features/an-obscure-lynyrd-skynyrd-song-angered-billie-joe-armstrong-he-wrote-american-idiot-as-a-response-187916",
-   "title_original": "An Obscure Lynyrd Skynyrd Song Angered Billie Joe Armstrong. He Wrote 'American Idiot' as a Response",
-   "source": "Ultimate Guitar",
-   "image": "https://www.ultimate-guitar.com/static/article/news/6/187916_0_wide_ver1788710425.jpg@1200",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-06T16:00:25+00:00",
-   "title_ja": "Billie Joe Armstrongが語る『American Idiot』誕生の裏側",
-   "summary_ja": "Billie Joe Armstrongが怒りを感じたLynyrd Skynyrdの楽曲への反発として『American Idiot』を書いたことが明らかになった。名作アルバム誕生の興味深い背景を振り返る記事。",
-   "category": "メンバー・発言",
-   "band": "Green Day",
-   "artists": [
-    "Green Day",
-    "Billie Joe Armstrong",
-    "Lynyrd Skynyrd"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "8f9b9cbf5bee5d86",
-   "url": "https://www.filmaffinity.com/us/evideos.php?movie_id=235227",
-   "title_original": "Videos - Weezer: C.E.O. (Music Video) (2026)",
-   "source": "Filmaffinity",
-   "image": "https://pics.filmaffinity.com/weezer_c_e_o-631490481-large.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-06T12:39:18+00:00",
-   "title_ja": "Weezerが2026年新作ミュージックビデオ「C.E.O.」を公開",
-   "summary_ja": "Weezerが2026年に公開した新しいミュージックビデオ「C.E.O.」の映像作品についての情報が掲載されています。",
-   "category": "映像・映画・書籍",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
    ],
    "japan": false,
    "importance": 3,
