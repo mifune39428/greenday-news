@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T02:01:26.819727+09:00",
+ "updated_at": "2026-10-22T06:30:20.389655+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -284,36 +284,36 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 378,
- "detail_count": 278,
+ "count": 380,
+ "detail_count": 279,
  "digest": {
-  "headline": "The OffspringのNoodles活動休止やGreen Dayの話題など",
+  "headline": "パンク・ロック界の最新ニュースまとめ",
   "points": [
    {
-    "text": "The OffspringのギタリストであるNoodlesが、健康上の問題により直近の公演を含めライブ活動を一時休止すると発表した。",
+    "text": "The OffspringのギタリストであるNoodlesが、健康上の問題によりライブ活動の一時休止を発表した。",
     "ids": [
      "6905c0b8ed501ce0",
-     "1d96b05af6edd7e3",
-     "45a474683b59efbe"
+     "c067f49d3dce6c11",
+     "1d96b05af6edd7e3"
     ]
    },
    {
-    "text": "Green Dayのプロデューサーが名盤『Dookie』の音作りの秘密や、今なお色褪せない理由について語った。",
+    "text": "Green Dayのプロデューサーが、名盤『Dookie』のドラムサウンドや音作りの秘密について語った。",
     "ids": [
      "facd0e37dbd170df",
      "0d9b6254db55acb4"
     ]
    },
    {
-    "text": "WeezerがFoo Fightersらと共にKROQ主催のクリスマスライブや音楽フェスへの出演が決定した。",
+    "text": "WeezerやFoo FightersらがKROQ主催のクリスマス公演などの大型フェスに出演することが発表された。",
     "ids": [
+     "ec098c6ed3f40e37",
      "1438978bc865b6b3",
-     "843893c170f49abb",
-     "ec4999fd35b83f6f"
+     "843893c170f49abb"
     ]
    },
    {
-    "text": "My Chemical Romanceが『The Black Parade』の記念盤に向けた未発表曲の復活やライブ映像の公開を行った。",
+    "text": "My Chemical Romanceが名盤の記念盤に向けて未発表曲を復活させたほか、レア曲のライブ映像も公開した。",
     "ids": [
      "409daa9e318b435e",
      "54e0d2a2817d1264",
@@ -322,12 +322,33 @@
    }
   ],
   "days": 3,
-  "from": "2026-10-19T02:02:17.409532+09:00",
-  "generated_at": "2026-10-22T02:02:18.909392+09:00",
+  "from": "2026-10-19T06:30:49.718196+09:00",
+  "generated_at": "2026-10-22T06:30:51.519953+09:00",
   "article_count": 24,
-  "sig": "20e38e06b1e7"
+  "sig": "9ccbcaa257ef"
  },
  "items": [
+  {
+   "id": "9b1e184976f53622",
+   "url": "https://www.cltampa.com/music-2/now-on-major-label-and-fresh-off-hayley-williams-collab-la-punk-band-the-linda-lindas-comes-to-tampa",
+   "title_original": "Now on major label, and fresh off Hayley Williams collab, LA punk band The Linda Lindas comes to Tampa",
+   "source": "Creative Loafing Tampa",
+   "image": "https://www.cltampa.com/wp-content/uploads/2026/10/The-Linda-Lindas-by-Jaxon-Whittington.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-21T19:11:45+00:00",
+   "title_ja": "メジャー移籍とコラボを経たThe Linda Lindasがタンパ公演",
+   "summary_ja": "メジャーレーベルへの移籍を果たし、Hayley Williamsとのコラボレーション直後であるLAのパンクバンドThe Linda Lindasが、タンパでのライブ公演を開催する。",
+   "category": "ライブ・ツアー",
+   "band": "その他",
+   "artists": [
+    "The Linda Lindas",
+    "Hayley Williams"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "6905c0b8ed501ce0",
    "url": "https://themusicuniverse.com/the-offspring-guitarist-noodles-to-step-away-due-to-serious-health-issue",
@@ -350,6 +371,27 @@
    "has_detail": true
   },
   {
+   "id": "c067f49d3dce6c11",
+   "url": "https://amass.jp/192557",
+   "title_original": "オフスプリングのヌードルズ「かなり深刻な健康上の問題に対処するため」、しばらくの間、ライヴ活動を休止すると発表",
+   "source": "amass",
+   "image": "https://amassing2.sakura.ne.jp/image/jacket/large/2026b/143410.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T16:27:00+00:00",
+   "title_ja": "オフスプリングのヌードルズ、深刻な健康問題でライヴ活動休止へ",
+   "summary_ja": "The Offspringのヌードルズが、かなり深刻な健康上の問題に対処するため、しばらくの間ライヴ活動を休止すると発表した。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "Noodles",
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "1d96b05af6edd7e3",
    "url": "https://bluntmag.com.au/news/the-offspring-noodles-steps-away-live-shows-health-issue",
    "title_original": "The Offspring’s Noodles Steps Away From Live Shows Due To Health Issue",
@@ -369,27 +411,6 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "45a474683b59efbe",
-   "url": "https://twaslnews1.twaslnews.com/6364322",
-   "title_original": "Noodles Offspring: Kevin Wasserman Steps Away Before 3 Shows",
-   "source": "شبكة تواصل الإخبارية",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-21T16:07:51+00:00",
-   "title_ja": "The OffspringのNoodlesが直近の3公演を欠場",
-   "summary_ja": "The OffspringのギタリストであるNoodles（Kevin Wasserman）が、直近の3つのライブパフォーマンスを一時的に離れることが明らかになった。",
-   "category": "メンバー・発言",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring",
-    "Noodles"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 1
   },
   {
    "id": "81bbbb11dee307b5",
@@ -973,6 +994,27 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "d1265e84625a458d",
+   "url": "https://people.com/the-offspring-noodles-stepping-away-from-stage-fairly-serious-health-issue-12186378",
+   "title_original": "The Offspring’s Noodles Stepping Away from Stage Due to ‘Fairly Serious Health Issue’",
+   "source": "People.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-18T07:00:00+00:00",
+   "title_ja": "Noodlesが健康上の理由でツアー活動を一時離脱",
+   "summary_ja": "The OffspringのNoodlesが、比較的深刻な健康上の問題を理由に、一時的にステージから離れることになりました。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Noodles"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "4c9074a7b1720828",
