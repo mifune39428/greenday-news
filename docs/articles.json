@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T06:28:24.111809+09:00",
+ "updated_at": "2026-10-21T13:20:57.602209+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -191,6 +191,7 @@
   "The Music Universe",
   "The Needle Drop",
   "The Oakland Press",
+  "The Oarsman",
   "The PRP",
   "The Real Deal",
   "The Red & Black",
@@ -286,17 +287,17 @@
  "count": 377,
  "detail_count": 275,
  "digest": {
-  "headline": "Green Dayの名盤秘話からMCRやWeezerの最新情報まで",
+  "headline": "Green Dayのプロデューサーが名盤の秘密を語り、各バンドの新曲やライブ情報",
   "points": [
    {
-    "text": "Green Dayのプロデューサーがアルバム『Dookie』のドラムサウンドや音作りの秘密、色褪せない理由を明かした。",
+    "text": "Green Dayのプロデューサーが、『Dookie』の音作りの秘密やドラムサウンドのこだわりについて明かしました。",
     "ids": [
      "facd0e37dbd170df",
      "0d9b6254db55acb4"
     ]
    },
    {
-    "text": "My Chemical Romanceが『The Black Parade』の記念再発盤に向けた未発表曲やライブ音源の配信、公式映像の公開などを行った。",
+    "text": "My Chemical Romanceが『The Black Parade』の周年記念に向けた未発表曲の復活やライブ音源の配信を行いました。",
     "ids": [
      "409daa9e318b435e",
      "c8b9b520936fb7de",
@@ -304,7 +305,7 @@
     ]
    },
    {
-    "text": "WeezerやFoo FightersらがKROQ主催のコンサートやクリスマス公演のヘッドライナーとして出演することが発表された。",
+    "text": "WeezerやFoo FightersらがKROQ主催のクリスマスライブやアコースティック公演のヘッドライナーを務めることが発表されました。",
     "ids": [
      "1438978bc865b6b3",
      "843893c170f49abb",
@@ -312,19 +313,48 @@
     ]
    },
    {
-    "text": "Blink-182がベルギーのロックフェス「Graspop Metal Meeting」のヘッドライナーを務めることが発表された。",
+    "text": "Blink-182がベルギーのGraspop Metal Meetingのヘッドライナーに決定し、ビリー・コーガンがトラヴィス・バーカーを絶賛しました。",
     "ids": [
-     "ec098c6ed3f40e37"
+     "ec098c6ed3f40e37",
+     "6adf9887d9af8f43"
+    ]
+   },
+   {
+    "text": "The Linda Lindasの新作アルバム発表や、Fake Namesの新曲公開、Rise Againstのオーストラリアツアー情報などが届いています。",
+    "ids": [
+     "d371f70102df9644",
+     "fbc51db2f1b47939",
+     "f8ff04180cefa4ac"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-18T06:28:47.536534+09:00",
-  "generated_at": "2026-10-21T06:28:49.051091+09:00",
+  "from": "2026-10-18T13:21:16.236846+09:00",
+  "generated_at": "2026-10-21T13:21:17.970846+09:00",
   "article_count": 24,
-  "sig": "48cc7ed2cce7"
+  "sig": "daa879832adb"
  },
  "items": [
+  {
+   "id": "d371f70102df9644",
+   "url": "https://veniceoarsman.com/16377/showcase/with-new-album-the-linda-lindas-reflect-on-youth",
+   "title_original": "With New Album, The Linda Lindas Reflect On Youth",
+   "source": "The Oarsman",
+   "image": "https://veniceoarsman.com/wp-content/uploads/2026/10/The-Linda-Lindas.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-20T20:20:16+00:00",
+   "title_ja": "The Linda Lindasが新作アルバムで青春を振り返る",
+   "summary_ja": "The Linda Lindasが新作アルバムを発表し、ユースカルチャーや自身の青春時代をテーマにした楽曲について振り返っている。",
+   "category": "新曲・新作",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "3ad11e52bcf4bd37",
    "url": "https://www.antimusic.com/p/26/r1020ace_frehley_the_offspring_fuel_chevelle_members_to_rock_knac_halloween_party.shtml",
@@ -8111,26 +8141,6 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "4c7bde397925e9e2",
-   "url": "https://www.broadwayworld.com/new-hampshire/article/Review-GREEN-DAYS-AMERICAN-IDIOT-at-Seacoast-Repertory-Theatre-20260905",
-   "title_original": "Review: GREEN DAY'S AMERICAN IDIOT at Seacoast Repertory Theatre",
-   "source": "broadwayworld.com",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/Review-GREEN-DAY-S-AMERICAN-IDIOT-at-Seacoast-Repertory-Theatre-1788645208.jpg?width=1200&format=jpeg&quality=80",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-05T23:22:43+00:00",
-   "title_ja": "Green Dayのミュージカル『American Idiot』公演のレビュー",
-   "summary_ja": "シーコースト・レパートリー・シアターにて上演されたGreen Dayのアルバムを原作としたミュージカル『American Idiot』の劇評が公開された。",
-   "category": "映像・映画・書籍",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
   }
  ]
 }
