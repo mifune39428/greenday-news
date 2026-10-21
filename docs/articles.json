@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T13:20:57.602209+09:00",
+ "updated_at": "2026-10-21T20:35:09.735477+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -284,55 +284,45 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 377,
+ "count": 376,
  "detail_count": 275,
  "digest": {
-  "headline": "Green Dayのプロデューサーが名盤の秘密を語り、各バンドの新曲やライブ情報",
+  "headline": "Green Dayのプロデューサーが名盤の裏話を語るほか、MCRやWeezerの",
   "points": [
    {
-    "text": "Green Dayのプロデューサーが、『Dookie』の音作りの秘密やドラムサウンドのこだわりについて明かしました。",
+    "text": "Green Dayのアルバム『Dookie』について、信頼厚いプロデューサーがドラムサウンドの録音手法や今なお色褪せない理由を明かした。",
     "ids": [
      "facd0e37dbd170df",
      "0d9b6254db55acb4"
     ]
    },
    {
-    "text": "My Chemical Romanceが『The Black Parade』の周年記念に向けた未発表曲の復活やライブ音源の配信を行いました。",
+    "text": "My Chemical Romanceは、『The Black Parade』の周年記念に向けた未発表曲の復活やレア楽曲のライブ映像を公開した。",
     "ids": [
      "409daa9e318b435e",
-     "c8b9b520936fb7de",
-     "208963505ceb6a4f"
+     "54e0d2a2817d1264"
     ]
    },
    {
-    "text": "WeezerやFoo FightersらがKROQ主催のクリスマスライブやアコースティック公演のヘッドライナーを務めることが発表されました。",
+    "text": "WeezerやFoo Fightersらがヘッドライナーを務める、KROQ主催のクリスマスライブの出演ラインナップが発表された。",
     "ids": [
      "1438978bc865b6b3",
      "843893c170f49abb",
-     "ff6f16af54ef6872"
+     "ec4999fd35b83f6f"
     ]
    },
    {
-    "text": "Blink-182がベルギーのGraspop Metal Meetingのヘッドライナーに決定し、ビリー・コーガンがトラヴィス・バーカーを絶賛しました。",
+    "text": "Blink-182が来年ベルギーで開催される大型ロックフェス「Graspop Metal Meeting」のヘッドライナーを務めることが決定した。",
     "ids": [
-     "ec098c6ed3f40e37",
-     "6adf9887d9af8f43"
-    ]
-   },
-   {
-    "text": "The Linda Lindasの新作アルバム発表や、Fake Namesの新曲公開、Rise Againstのオーストラリアツアー情報などが届いています。",
-    "ids": [
-     "d371f70102df9644",
-     "fbc51db2f1b47939",
-     "f8ff04180cefa4ac"
+     "ec098c6ed3f40e37"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-18T13:21:16.236846+09:00",
-  "generated_at": "2026-10-21T13:21:17.970846+09:00",
+  "from": "2026-10-18T20:35:33.120607+09:00",
+  "generated_at": "2026-10-21T20:36:02.551514+09:00",
   "article_count": 24,
-  "sig": "daa879832adb"
+  "sig": "0ae8ee424146"
  },
  "items": [
   {
@@ -8117,26 +8107,6 @@
    "band": "Weezer",
    "artists": [
     "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "1673734a6e4ca769",
-   "url": "https://www.billboard.com/music/rock/blink-182-take-off-your-pants-and-jacket-teaser-1236267844",
-   "title_original": "Blink-182 Appear to Be Planning Something for the 25th Anniversary of ‘Take Off Your Pants and Jacket’",
-   "source": "Billboard",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-06T07:00:00+00:00",
-   "title_ja": "Blink-182が「Take Off Your Pants and Jacket」25周年で計画中か",
-   "summary_ja": "Blink-182が名盤「Take Off Your Pants and Jacket」のリリース25周年へ向けて、何らかの企画を準備している模様だ。",
-   "category": "再発・記念盤",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182"
    ],
    "japan": false,
    "importance": 3,
