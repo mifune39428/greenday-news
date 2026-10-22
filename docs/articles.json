@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T13:20:09.776757+09:00",
+ "updated_at": "2026-10-22T20:34:49.305470+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -52,7 +52,6 @@
   "Beaver County Times",
   "Big Country News |",
   "Billboard",
-  "Blunt Magazine",
   "California.com",
   "CelebrityAccess",
   "Chaoszine",
@@ -86,6 +85,7 @@
   "IMDb",
   "Impericon",
   "InspireMore",
+  "InterSpace Distribution",
   "International Business Times UK",
   "Irish Mirror",
   "Irish Star",
@@ -114,6 +114,7 @@
   "Metal Injection",
   "Metal Insider",
   "Metal Planet Music",
+  "Metal Underground.com",
   "Metalhead Zone",
   "Mid-Day",
   "Mikiki by TOWER RECORDS",
@@ -153,6 +154,7 @@
   "Raleigh News & Observer",
   "Reckless Press",
   "Richmond Times-Dispatch",
+  "River 949",
   "Rock Celebrities",
   "Rock Cellar Magazine",
   "Rock DNA Magazine",
@@ -210,6 +212,7 @@
   "WEBN",
   "WIXY.com |",
   "WKFR",
+  "WMNF",
   "WMTW",
   "WOMI Owensboro",
   "WRIF Rocks Detroit",
@@ -223,6 +226,7 @@
   "Yahoo Lifestyle Australia",
   "Yahoo News Canada",
   "Yahoo News New Zealand",
+  "Yahoo!ニュース",
   "ad-hoc-news.de",
   "amass",
   "antiMusic",
@@ -285,50 +289,132 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 382,
- "detail_count": 281,
+ "count": 386,
+ "detail_count": 282,
  "digest": {
-  "headline": "ここ3日のパンク・ロックシーンの主なニュースまとめ",
+  "headline": "The Offspringのギタリストが活動休止ほか最新ニュース",
   "points": [
    {
-    "text": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題によりライブ活動の一時休止を発表した。",
+    "text": "The OffspringのギタリストであるNoodles（ヌードルズ）が、深刻な健康上の問題によりライブ活動の一時休止を発表した。",
     "ids": [
-     "6905c0b8ed501ce0",
-     "c067f49d3dce6c11",
-     "1d96b05af6edd7e3"
+     "d786770a9c01a455",
+     "41216b902c3fb970",
+     "6905c0b8ed501ce0"
     ]
    },
    {
-    "text": "Green Dayの名盤『Dookie』の音作りやドラムサウンドの秘密について、プロデューサーがそのこだわりを語った。",
+    "text": "My Chemical Romanceは『The Black Parade』の周年記念に向けた未発表曲の復活やレア曲のライブ映像公開に加え、Warner Chappellとの新たな音楽出版契約の締結が報じられた。",
+    "ids": [
+     "409daa9e318b435e",
+     "54914cadf119af7c",
+     "54e0d2a2817d1264"
+    ]
+   },
+   {
+    "text": "WeezerやFoo Fightersらが、KROQ主催の「Almost Acoustic Christmas」など大型フェスやイベントのヘッドライナーや出演ラインナップに名を連ねた。",
+    "ids": [
+     "1438978bc865b6b3",
+     "843893c170f49abb",
+     "ff6f16af54ef6872"
+    ]
+   },
+   {
+    "text": "Green Dayのプロデューサーが、名盤『Dookie』の今なお色褪せないドラムサウンドの音作りの秘密や独自の録音手法について明かした。",
     "ids": [
      "facd0e37dbd170df",
      "0d9b6254db55acb4"
     ]
-   },
-   {
-    "text": "Weezerやblink-182、My Chemical Romanceなどによるフェス出演や新曲、記念盤に向けた動きが報じられた。",
-    "ids": [
-     "ec098c6ed3f40e37",
-     "1438978bc865b6b3",
-     "409daa9e318b435e"
-    ]
-   },
-   {
-    "text": "The Linda Lindasがタンパやナッシュビルでのライブ開催や新作アルバムについて語るなど、各所で活動を展開している。",
-    "ids": [
-     "9b1e184976f53622",
-     "d371f70102df9644",
-     "a4181149e7b2dde3"
-    ]
    }
   ],
   "days": 3,
-  "from": "2026-10-19T13:20:49.149496+09:00",
-  "generated_at": "2026-10-22T13:20:50.828757+09:00",
+  "from": "2026-10-19T20:36:30.326644+09:00",
+  "generated_at": "2026-10-22T20:36:39.264882+09:00",
   "article_count": 24,
-  "sig": "1761643b0fe1"
+  "sig": "756dc4d62b17"
  },
  "items": [
+  {
+   "id": "d786770a9c01a455",
+   "url": "https://www.bigcountrynewsconnection.com/the-offsprings-guitarist-noodles-stepping-back-from-performing-due-to-unspecified-health-issue",
+   "title_original": "The Offspring's guitarist Noodles stepping back from performing due to unspecified health issue",
+   "source": "Big Country News |",
+   "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2801/2026/10/22084044/shutterstock_262351658-resized-to-large-1420118.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-22T15:40:44+00:00",
+   "title_ja": "The Offspringのギタリストが健康問題で活動休止",
+   "summary_ja": "The OffspringのギタリストであるNoodlesが、突発的な健康上の問題によりライブ活動を一時的に休止すると発表した。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "Noodles",
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "41216b902c3fb970",
+   "url": "https://news.yahoo.co.jp/articles/0484814b70f45ff30532bc5322b3f703260dc91a",
+   "title_original": "「オフスプリング」ギタリスト・ヌードルズ 当面活動休止「深刻な健康上の問題に対処するため」（スポニチアネックス）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00000217-spnannex-000-4-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-22T05:11:46+00:00",
+   "title_ja": "The Offspringのヌードルズ、深刻な健康問題で活動休止へ",
+   "summary_ja": "The Offspringのギタリストであるヌードルズが、深刻な健康上の問題に対処するため、当面の活動休止を発表した。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Noodles"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "dd70e1101b2b4a11",
+   "url": "https://www.wmnf.org/sotd-10-22-26-gotta-get-out-by-the-linda-lindas",
+   "title_original": "SOTD 10/22/26: Gotta Get Out by The Linda Lindas",
+   "source": "WMNF",
+   "image": "https://cdn.wmnf.org/wp-content/uploads/2026/10/1022-1.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-22T05:00:00+00:00",
+   "title_ja": "The Linda Lindasの楽曲「Gotta Get Out」が選出",
+   "summary_ja": "The Linda Lindasの「Gotta Get Out」が本日のソング・オブ・ザ・デイとして紹介された。",
+   "category": "新曲・新作",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "2d28062cb65db7c5",
+   "url": "https://www.river949.com.au/trending/entertainment/20-years-later-my-chemical-romances-the-black-parade-still-speaks-to-a-generation-of-outsiders",
+   "title_original": "20 Years Later, My Chemical Romance’s ‘The Black Parade’ Still Speaks to a Generation of Outsiders",
+   "source": "River 949",
+   "image": "https://www.river949.com.au/wp-content/uploads/sites/20/2026/10/20261023-black-parade-20-anniversary-feature.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-22T04:30:00+00:00",
+   "title_ja": "My Chemical Romance『The Black Parade』が持つ影響力",
+   "summary_ja": "名盤『The Black Parade』のリリースから20年が経った今もなお、同作が世代を超えてアウトサイダーたちに共鳴し続けている理由を振り返る。",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "a4181149e7b2dde3",
    "url": "https://vanderbilthustler.com/2026/10/21/nashvilles-gotta-get-out-and-dance-with-the-linda-lindas",
@@ -413,27 +499,6 @@
    "detail_tries": 2
   },
   {
-   "id": "1d96b05af6edd7e3",
-   "url": "https://bluntmag.com.au/news/the-offspring-noodles-steps-away-live-shows-health-issue",
-   "title_original": "The Offspring’s Noodles Steps Away From Live Shows Due To Health Issue",
-   "source": "Blunt Magazine",
-   "image": "https://images-1.bluntmag.com.au/cdn-cgi/image/f=auto,quality=80,fit=scale-down/https://images-1.bluntmag.com.au/uploads/2026/10/noodles-the-offspring-sea-hear-now-2026-getty.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-21T16:07:59+00:00",
-   "title_ja": "The OffspringのNoodlesが健康問題によりライブ出演を見合わせ",
-   "summary_ja": "The OffspringのNoodlesが健康上の理由からライブ活動から一時的に離れることを決断し、ファンに向けて発表を行った。",
-   "category": "メンバー・発言",
-   "band": "The Offspring",
-   "artists": [
-    "Noodles",
-    "The Offspring"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
    "id": "c2185291541e4592",
    "url": "https://routenote.com/radar/vans-warped-tour-orlando-2026-lineup-sublime-simple-plan-jimmy-eat-world-and-more",
    "title_original": "Vans Warped Tour Orlando 2026 Lineup: Sublime, Simple Plan, Jimmy Eat World and More",
@@ -454,6 +519,27 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "54914cadf119af7c",
+   "url": "https://interspacemusic.com/blog/my-chemical-romance-signs-warner-chappell-publishing-deal",
+   "title_original": "Fresh Ink: My Chemical Romance Pen Publishing Deal with Warner Chappell, Band Of Skulls Land at FLG Records",
+   "source": "InterSpace Distribution",
+   "image": "https://d2n07ae9429qri.cloudfront.net/wp-content/uploads/2026/10/21172715/91CHGC3FYsyiLzfl9nJU7riWWE-1024x482.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-21T00:00:00+00:00",
+   "title_ja": "My Chemical RomanceがWarner Chappellと契約",
+   "summary_ja": "My Chemical RomanceがWarner Chappellとの間で新たな音楽出版契約を締結したことが報じられました。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Band Of Skulls"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "81bbbb11dee307b5",
@@ -850,6 +936,26 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "74313c3bdc6c8c8d",
+   "url": "https://www.metalunderground.com/news/details.cfm?newsid=162319",
+   "title_original": "My Chemical Romance Premiere New Live Music Video For \"Someone Out There Loves You\"",
+   "source": "Metal Underground.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-19T06:19:00+00:00",
+   "title_ja": "My Chemical Romanceが新ライブ映像「Someone Out There Loves You」を公開",
+   "summary_ja": "My Chemical Romanceが「Someone Out There Loves You」の新しいライブミュージックビデオを初公開した。",
+   "category": "映像・映画・書籍",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "3f686ddc533d82da",
@@ -8216,26 +8322,6 @@
    "artists": [
     "The Offspring",
     "Brian May"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "0d9c3fe5d4bd0390",
-   "url": "https://www.billboard.com/music/concerts/my-chemical-romance-london-wembley-stadium-set-list-1236290430",
-   "title_original": "My Chemical Romance Takes Over London’s Wembley Stadium: Check Out the Full Set List",
-   "source": "Billboard",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-07T07:00:00+00:00",
-   "title_ja": "My Chemical Romance、ロンドンのウェンブリー・スタジアム公演を開催",
-   "summary_ja": "My Chemical Romanceがロンドンのウェンブリー・スタジアムで行ったライブのセットリストが公開されました。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
    ],
    "japan": false,
    "importance": 3,
