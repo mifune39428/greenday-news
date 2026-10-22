@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T02:00:13.837139+09:00",
+ "updated_at": "2026-10-23T06:25:17.973486+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -38,7 +38,6 @@
   "100% ROCK MAGAZINE",
   "103.9 Wayne FM",
   "2YOU MAGAZINE",
-  "411Mania",
   "92.9 WBUF",
   "930 WFMD Free Talk",
   "95.9 The RAT",
@@ -69,7 +68,6 @@
   "Evrim Ağacı",
   "Exclaim!",
   "Far Out Magazine",
-  "Fightful",
   "Flagpole",
   "Forbes",
   "Glide Magazine",
@@ -80,7 +78,6 @@
   "Happy Mag",
   "Her Campus",
   "Hit Parader",
-  "Hits Daily Double",
   "Hoodline",
   "Houston Press",
   "IMDb",
@@ -131,6 +128,7 @@
   "Nashville Scene",
   "Netto's Game Room",
   "New Noise Magazine",
+  "Noise11",
   "Northern Transmissions",
   "Oh No They Didn't! — LiveJournal",
   "OnMilwaukee",
@@ -145,6 +143,7 @@
   "People.com",
   "Pioneer Press",
   "PlayDayOne",
+  "Pollstar News",
   "PopMatters",
   "Porterville Recorder",
   "Prescott Daily Courier",
@@ -154,6 +153,7 @@
   "RTTNews",
   "Raleigh News & Observer",
   "Reckless Press",
+  "Richland Source",
   "Richmond Times-Dispatch",
   "River 949",
   "Rock Celebrities",
@@ -166,10 +166,10 @@
   "SSBCrack",
   "Sada Elbalad english",
   "San Bernardino Sun",
+  "SanDiegoVille",
   "Secret Los Angeles",
   "Sonic Perspectives",
   "Spectrum Culture",
-  "Splice Today",
   "Sports Illustrated",
   "Star Tribune",
   "Stereogum",
@@ -178,7 +178,6 @@
   "That Eric Alper",
   "The Aquarian",
   "The Business Journals",
-  "The Columbus Dispatch",
   "The Concordian",
   "The Courier-Journal",
   "The Daily Aztec",
@@ -225,6 +224,7 @@
   "We Write About Music",
   "Western Mass News",
   "Worthplaying",
+  "XS ROCK",
   "Yahoo",
   "Yahoo Lifestyle Australia",
   "Yahoo News Canada",
@@ -292,46 +292,91 @@
   "씨네플레이"
  ],
  "count": 396,
- "detail_count": 291,
+ "detail_count": 292,
  "digest": {
-  "headline": "パンク・ロック界の最新ニュース：Blink-182やオフスプリングの話題など",
+  "headline": "パンク・ロックシーンの最新動向まとめ",
   "points": [
    {
-    "text": "Blink-182が大規模音楽フェスSonic Temple 2027やベルギーのGraspopでヘッドライナーを務めることが発表された。",
-    "ids": [
-     "eb4a1c63ba67d6f7",
-     "eb35effe7093a94d",
-     "ec098c6ed3f40e37"
-    ]
-   },
-   {
-    "text": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題によりライブ活動を一時休止すると発表した。",
-    "ids": [
-     "d786770a9c01a455",
-     "41216b902c3fb970",
-     "6905c0b8ed501ce0"
-    ]
-   },
-   {
-    "text": "Green DayのサイドプロジェクトであるPinhead Gunpowderが、バークレーの924 Gilman St.で公演を発表した。",
+    "text": "Green DayのサイドプロジェクトであるPinhead Gunpowderが、バークレーの924 Gilman St.でライブの開催を発表した。",
     "ids": [
      "e4930e08d1961f2f"
     ]
    },
    {
-    "text": "Weezerが11月10日にLegend of Live Awardを受賞することが発表され、今後の動向に注目が集まっている。",
+    "text": "The OffspringのギタリストであるKevin 'Noodles' Wassermanが、深刻な健康上の問題により当面のツアー活動から一時離脱することを発表した。",
     "ids": [
-     "d229acd24b2f7714"
+     "2b1e5372f41b72bb",
+     "d786770a9c01a455",
+     "b51522a452dce620"
+    ]
+   },
+   {
+    "text": "Blink-182が2027年開催のSonic Templeフェスティバルのヘッドライナーを務めるほか、ベルギーのGraspop Metal Meetingにも出演が決定した。",
+    "ids": [
+     "d3c1cecb22e1f86f",
+     "eb35effe7093a94d",
+     "ec098c6ed3f40e37"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceのアルバム『The Black Parade』が20周年を迎え、ライブ音源の公開や影響力を振り返る記事などが話題となっている。",
+    "ids": [
+     "818c16056d56048a",
+     "2d28062cb65db7c5"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-20T02:08:08.385402+09:00",
-  "generated_at": "2026-10-23T02:08:27.756172+09:00",
+  "from": "2026-10-20T06:26:51.562882+09:00",
+  "generated_at": "2026-10-23T06:26:53.151866+09:00",
   "article_count": 24,
-  "sig": "dced8d39f0b5"
+  "sig": "5b845a01c16e"
  },
  "items": [
+  {
+   "id": "2b1e5372f41b72bb",
+   "url": "https://www.yahoo.com/entertainment/music/articles/offspring-guitarist-kevin-noodles-wasserman-175851496.html",
+   "title_original": "The Offspring guitarist Kevin ‘Noodles’ Wasserman steps away from touring over ‘serious health issue’",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/f1222a8459f40cbe91ee0ae62f88288d979369e57d534e299656bd84ba158e10/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fb40327de6483e99f0d61a1e140ad95a7.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-22T17:58:51+00:00",
+   "title_ja": "The Offspringのギタリストがツアー活動を一時離脱",
+   "summary_ja": "The OffspringのギタリストであるKevin 'Noodles' Wassermanが、深刻な健康上の問題により当面のツアー活動から離脱することが発表された。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "Kevin 'Noodles' Wasserman",
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "d3c1cecb22e1f86f",
+   "url": "https://xsrock.com/sonic-temple-festival-to-feature-iron-maiden-korn-blink-182-turnstile-prodigy-and-over-100-more-bands",
+   "title_original": "Sonic Temple Festival To Feature Iron Maiden, Korn, Blink-182, Turnstile, Prodigy, and Over 100 More Bands",
+   "source": "XS ROCK",
+   "image": "https://xsrock.com/wp-content/uploads/2026/10/sonic-temple-2027-poster.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-22T17:56:33+00:00",
+   "title_ja": "Sonic Temple 2027に100組以上のバンドが集結",
+   "summary_ja": "大規模フェス「Sonic Temple Festival」が開催を発表し、Blink-182やIron Maiden、Kornら100組以上のアーティストが出演する。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Iron Maiden",
+    "Korn",
+    "Blink-182",
+    "Turnstile"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "2311619d3aba38b9",
    "url": "https://www.rollingstone.com/music/music-live-reviews/my-chemical-romance-black-parade-hollywood-bowl-setlist-1235645418",
@@ -419,6 +464,27 @@
    "has_detail": true
   },
   {
+   "id": "96cc815fb07208df",
+   "url": "https://www.sandiegoville.com/2026/10/review-weezer-shins-and-songs-that.html",
+   "title_original": "REVIEW: Weezer, The Shins And The Songs That Outlive The People We Used To Be",
+   "source": "SanDiegoVille",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjROB3UaVA1jESNYiC1szHk0aEA_gW02UCjWWVAjLVvsNsUJdE7D-TidUAYy2AP2fvZMrQBuRs4-lIPBLjReQK80QiQpuIFNob_Z0WsNo0nKkvEMbODwGIMNtmmFkphp8_WgLtmRuTEQUbF3hoMug2M6PWDmugMVoLu1FaLpoAOorw4n9izNe9ygBzyL2I/w1200-h630-p-k-no-nu/Vibrant%20Rock%20Concert%20Under%20Neon%20Lights.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-22T15:50:02+00:00",
+   "title_ja": "WeezerやThe Shinsを取り上げたレビュー記事が公開",
+   "summary_ja": "WeezerやThe Shinsの楽曲に焦点を当てたレビュー記事が公開されました。自分たちの過去を超えて長く愛され続ける名曲の数々や、バンドの音楽が持つ普遍的な魅力について綴られています。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "The Shins"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
    "id": "d786770a9c01a455",
    "url": "https://www.bigcountrynewsconnection.com/the-offsprings-guitarist-noodles-stepping-back-from-performing-due-to-unspecified-health-issue",
    "title_original": "The Offspring's guitarist Noodles stepping back from performing due to unspecified health issue",
@@ -438,6 +504,27 @@
    "japan": false,
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "b51522a452dce620",
+   "url": "https://www.iheart.com/alternate/amp/2026-10-22-the-offsprings-kevin-noodles-wasserman-steps-away-from-stage-due-to-serious-health-issue",
+   "title_original": "The Offspring's Kevin 'Noodles' Wasserman Steps Away From Stage Due To 'Serious' Health Issue",
+   "source": "iHeart",
+   "image": "https://i.iheart.com/v3/re/assets.getty/6ada1b5e61fe2e0abb401a32?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-22T15:20:00+00:00",
+   "title_ja": "The OffspringのNoodles、深刻な健康問題で一時ライブ離脱へ",
+   "summary_ja": "The OffspringのギタリストであるKevin 'Noodles' Wassermanが、深刻な健康上の問題のためステージ活動から離れることが発表されました。早期の回復とステージ復帰が待たれています。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Kevin 'Noodles' Wasserman"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "d229acd24b2f7714",
@@ -523,21 +610,45 @@
    "has_detail": true
   },
   {
-   "id": "7f72e422de2c2a6c",
-   "url": "https://www.hitsdailydouble.com/news/live/sonic-temple-lineup-2026-10-22",
-   "title_original": "Iron Maiden, blink-182, Korn Coming to Sonic Temple",
-   "source": "Hits Daily Double",
-   "image": "",
+   "id": "7220f78cc5dcf0a3",
+   "url": "https://www.richlandsource.com/2026/10/22/blink-182-iron-maiden-falling-in-reverse-and-korn-to-headline-sonic-temple-festival-in-2027",
+   "title_original": "Blink-182, Iron Maiden, Falling in Reverse and Korn to headline Sonic Temple festival in 2027",
+   "source": "Richland Source",
+   "image": "https://www.richlandsource.com/wp-content/uploads/2026/05/2026-0515-Sonic-Temple-2026-Experience-@nathanzucker-5300-scaled-1.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-10-22T14:28:24+00:00",
-   "title_ja": "Sonic Templeフェスティバル、2027年の出演者を発表",
-   "summary_ja": "来たるSonic Templeフェスティバルにおいて、Iron Maiden、Blink-182、Kornがヘッドライナーとして出演することが明らかになった。",
+   "published": "2026-10-22T14:29:13+00:00",
+   "title_ja": "Blink-182ら豪華バンドが集結、Sonic Temple 2027開催へ",
+   "summary_ja": "2027年のSonic Templeフェスティバルにおいて、Blink-182やIron Maiden、Falling in Reverse、Kornらがヘッドライナーを務めることが決定しました。",
    "category": "フェス出演",
    "band": "Blink-182",
    "artists": [
-    "Iron Maiden",
     "Blink-182",
+    "Iron Maiden",
+    "Falling in Reverse",
+    "Korn"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "5839908442ffeb92",
+   "url": "https://news.pollstar.com/2026/10/22/sonic-temple-topped-by-blink-182-iron-maiden-falling-in-reverse-korn-may-13-16-in-columbus-ohio",
+   "title_original": "Sonic Temple Headlined By Blink-182, Iron Maiden, Falling In Reverse & Korn",
+   "source": "Pollstar News",
+   "image": "https://static.pollstar.com/wp-content/uploads/2026/10/ST27_Admat_FinalArt-final.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-22T13:53:59+00:00",
+   "title_ja": "Sonic Temple 2027のヘッドライナーにBlink-182やIron Maidenら",
+   "summary_ja": "米音楽フェス「Sonic Temple 2027」のヘッドライナーとして、Blink-182、Iron Maiden、Falling In Reverse、Kornの出演が発表された。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Iron Maiden",
+    "Falling In Reverse",
     "Korn"
    ],
    "japan": false,
@@ -545,25 +656,24 @@
    "detail_tries": 1
   },
   {
-   "id": "87841ef282abc3e4",
-   "url": "https://www.thisweeknews.com/story/entertainment/music/2026/10/22/sonic-temple-art-music-festival-2027-lineup-korn-blink-182/92364185007",
-   "title_original": "Korn, blink-182, more to headline Sonic Temple 2027",
-   "source": "The Columbus Dispatch",
-   "image": "",
+   "id": "818c16056d56048a",
+   "url": "https://www.noise11.com/news/black-parade-20th-anniversary-20261023",
+   "title_original": "My Chemical Romance’s The Black Parade Turns 20 With Long-Awaited Live Track",
+   "source": "Noise11",
+   "image": "https://i0.wp.com/www.noise11.com/wp/wp-content/uploads/2026/10/My-Chemical-Romance-The-Black-Parade.jpeg?fit=220%2C220&ssl=1",
    "lang": "en",
    "region": "global",
-   "published": "2026-10-22T13:10:00+00:00",
-   "title_ja": "KornとBlink-182がSonic Temple 2027でヘッドライナー",
-   "summary_ja": "KornやBlink-182らが、大型音楽フェスSonic Temple 2027のヘッドライナーを務めることが報じられた。",
-   "category": "フェス出演",
-   "band": "Blink-182",
+   "published": "2026-10-22T13:00:42+00:00",
+   "title_ja": "My Chemical Romanceの名盤が20周年",
+   "summary_ja": "My Chemical Romanceのアルバム『The Black Parade』が20周年を迎え、長年待たれていたライブ音源が公開されるなど盛り上がりを見せている。",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
    "artists": [
-    "Korn",
-    "Blink-182"
+    "My Chemical Romance"
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "e4930e08d1961f2f",
@@ -8434,109 +8544,6 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "f0580576736e4208",
-   "url": "https://www.splicetoday.com/music/green-day-live-at-santa-rosa-high-school-1991",
-   "title_original": "Green Day - Live at Santa Rosa High School (1991)",
-   "source": "Splice Today",
-   "image": "https://img.youtube.com/vi/8IGGK6pIu7Q/hqdefault.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-08T04:01:56+00:00",
-   "title_ja": "Green Dayの1991年サンタローザ高校ライブ映像",
-   "summary_ja": "1991年にGreen Dayがサンタローザ高校で行った貴重なライブの様子をとらえた映像が話題となっている。初期の勢い溢れるパフォーマンスを確認できるアーカイブ作品だ。",
-   "category": "映像・映画・書籍",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "974a33c57377089b",
-   "url": "https://happymag.tv/my-chemical-romance-the-light-behind-your-eyes-live",
-   "title_original": "My Chemical Romance finally play ‘The Light Behind Your Eyes’ live -",
-   "source": "Happy Mag",
-   "image": "https://happymag.tv/wp-content/uploads/2026/09/my-chemical-romance.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-07T22:31:21+00:00",
-   "title_ja": "My Chemical Romanceがついに『The Light Behind Your Eyes』をライブ初披露",
-   "summary_ja": "My Chemical Romanceがライブで『The Light Behind Your Eyes』を初めて演奏した。ファン待望の楽曲の初披露となり、大きな盛り上がりを見せたステージとなった。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "f25e1cdefe023cd6",
-   "url": "https://www.yahoo.com/entertainment/music/articles/weezers-buddy-holly-celebrates-32-203748474.html",
-   "title_original": "Weezer's 'Buddy Holly' Celebrates 32 Years and Ranks Among Rolling Stone's Greatest Songs",
-   "source": "Yahoo",
-   "image": "https://s.yimg.com/lo/mysterio/api/4aac94faac8dd4f51cd41b59fada378782bbc67b0f66ff937340c3fd4fdd22df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2F0b00319edcf0672ce947434b5f872a81.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-07T20:37:48+00:00",
-   "title_ja": "Weezerの「Buddy Holly」がリリースから32年を迎え高く評価",
-   "summary_ja": "Weezerの代表曲「Buddy Holly」が発表から32周年を迎え、ローリング・ストーン誌の歴代最高楽曲ランキングにも選出されるなど今なお愛され続けている。",
-   "category": "チャート・受賞",
-   "band": "Weezer",
-   "artists": [
-    "Weezer",
-    "Rivers Cuomo"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "56d28a99ae41e4dc",
-   "url": "https://411mania.com/wrestling/my-chemical-romance-dedicate-song-the-butcher-concert",
-   "title_original": "My Chemical Romance Dedicate Song To The Butcher During Concert",
-   "source": "411Mania",
-   "image": "https://411mania.com/wp-content/uploads/2026/09/The-Butcher-Andy-Williams.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-07T20:30:52+00:00",
-   "title_ja": "My Chemical Romanceがライブでアンディ・ウィリアムズに曲を捧げる",
-   "summary_ja": "コンサートの中で、My Chemical Romanceがアンディ・“ザ・ブッチャー”・ウィリアムズに楽曲を捧げたことが各メディアで報じられた。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "Andy Williams"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "c922fafeacaf5903",
-   "url": "https://www.fightful.com/wrestling/my-chemical-romance-dedicates-song-to-the-butcher-andy-williams-at-concert",
-   "title_original": "My Chemical Romance Dedicates Song To ‘The Butcher’ Andy Williams At Concert",
-   "source": "Fightful",
-   "image": "https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/09/07153243/HRi0-xdWIAMl5lr.jpeg?v=20260907193419",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-07T19:34:19+00:00",
-   "title_ja": "MCRがフェニックス公演でアンディ・ウィリアムズに曲を献呈",
-   "summary_ja": "My Chemical Romanceがコンサートのパフォーマンス中に、アンディ・“ザ・ブッチャー”・ウィリアムズへ向けて曲を捧げたことが明らかになった。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "Andy Williams"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
