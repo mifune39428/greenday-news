@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T01:52:46.377503+09:00",
+ "updated_at": "2026-10-24T06:16:56.273432+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -250,9 +250,11 @@
   "hercampus.com",
   "hoodline.com",
   "https://rocknloadmag.com/",
+  "https://theriffreport.co.uk/",
   "iHeart",
   "indieofilo.com",
   "inkl",
+  "khorasantimes.com",
   "killthemusic.net",
   "knotfest.com",
   "lamag.com",
@@ -292,50 +294,135 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 392,
- "detail_count": 289,
+ "count": 396,
+ "detail_count": 291,
  "digest": {
-  "headline": "パンク・ロック界の最新ニュース：大型フェスやバンドの動向",
+  "headline": "パンク・ロック界の最新ニュース：Green DayやMCRの話題など",
   "points": [
    {
-    "text": "Blink-182らがヘッドライナーを務める、2027年開催の大規模音楽フェスティバルSonic Templeのラインナップが発表された。",
-    "ids": [
-     "d3c1cecb22e1f86f",
-     "eb35effe7093a94d",
-     "5839908442ffeb92"
-    ]
-   },
-   {
-    "text": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題によりライブ活動の一時休止を発表した。",
-    "ids": [
-     "d786770a9c01a455",
-     "6905c0b8ed501ce0",
-     "62f2ef99c4f39ceb"
-    ]
-   },
-   {
-    "text": "Green DayのBillie Joe Armstrongがお気に入りのライブハウスについて語ったほか、サイドプロジェクトのPinhead Gunpowderが公演を発表した。",
+    "text": "Green Dayのフロントマンが好きなライブハウスを語り、サイドプロジェクトのPinhead Gunpowderがライブ開催を発表した。",
     "ids": [
      "e02c68047a62d563",
      "e4930e08d1961f2f"
     ]
    },
    {
-    "text": "My Chemical Romanceの名盤『The Black Parade』の20周年を記念したハリウッド・ボウルでの公演やライブ音源の公開が話題となっている。",
+    "text": "My Chemical Romanceは『The Black Parade』の20周年記念デラックス盤リリースやハリウッド・ボウル公演を行った。",
     "ids": [
+     "2ecee84d2382112f",
      "659f6a191b57d877",
-     "818c16056d56048a",
-     "2d28062cb65db7c5"
+     "818c16056d56048a"
+    ]
+   },
+   {
+    "text": "Blink-182らが2027年開催の大型音楽フェス「Sonic Temple Festival」のヘッドライナーとして発表された。",
+    "ids": [
+     "63fe334c40347295",
+     "d3c1cecb22e1f86f",
+     "eb35effe7093a94d"
+    ]
+   },
+   {
+    "text": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題によりライブ活動を一時休止すると発表した。",
+    "ids": [
+     "d786770a9c01a455",
+     "b51522a452dce620",
+     "41216b902c3fb970"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-21T01:55:39.186675+09:00",
-  "generated_at": "2026-10-24T01:55:40.831772+09:00",
+  "from": "2026-10-21T06:17:58.087710+09:00",
+  "generated_at": "2026-10-24T06:17:59.745643+09:00",
   "article_count": 24,
-  "sig": "4b8bd96aaab1"
+  "sig": "820ec837b425"
  },
  "items": [
+  {
+   "id": "2ecee84d2382112f",
+   "url": "https://www.antimusic.com/p/26/r1023my_chemical_romance_release_the_black_parade_20th_anniversary_expanded_deluxe_collection.shtml",
+   "title_original": "My Chemical Romance Release 'The Black Parade (20th Anniversary)' Expanded Deluxe Collection",
+   "source": "antiMusic",
+   "image": "https://www.antimusic.com/news/photos/26/10/23/my-chemical-romance.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-23T20:32:44+00:00",
+   "title_ja": "My Chemical Romanceが名盤の20周年記念デラックス盤をリリース",
+   "summary_ja": "My Chemical Romanceが『The Black Parade』の20周年を記念した拡張デラックス・コレクションをリリースした。（119文字）",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "8576f6dba38d9385",
+   "url": "https://khorasantimes.com/?kh=2119009",
+   "title_original": "GREEN DAY FESTIVAL Flyer and MONGOL800, GOING STEADY",
+   "source": "khorasantimes.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-23T18:40:17+00:00",
+   "title_ja": "Green Dayのフェス関連フライヤーが公開され話題に",
+   "summary_ja": "Green Dayが出演するフェスに関連して、MONGOL800やGOING STEADYの名前が挙がるフライヤー情報が報じられている。（109文字）",
+   "category": "フェス出演",
+   "band": "Green Day",
+   "artists": [
+    "Green Day",
+    "MONGOL800",
+    "GOING STEADY"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "63fe334c40347295",
+   "url": "https://theriffreport.co.uk/%F0%9F%A4%98%F0%9F%94%A5-sonic-temple-festival-2027-unleashes-monster-line-up-iron-maiden-korn-blink-182-and-falling-in-reverse-lead-four-days-of-metal-mayhem",
+   "title_original": "SONIC TEMPLE FESTIVAL 2027 Unleashes MONSTER Line-Up – IRON MAIDEN, KORN, BLINK-182 And FALLING IN REVERSE Lead Four Days Of Metal Mayhem!",
+   "source": "https://theriffreport.co.uk/",
+   "image": "https://theriffreport.co.uk/wp-content/uploads/2026/09/7CAB571D-4AE1-41A2-999B-4EBB8DD67E65.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-23T17:11:09+00:00",
+   "title_ja": "SONIC TEMPLE FESTIVAL 2027の出演者が発表",
+   "summary_ja": "2027年開催のSONIC TEMPLE FESTIVALのヘッドライナーとして、BLINK-182やIRON MAIDENらの出演が発表された。（114文字）",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "BLINK-182",
+    "IRON MAIDEN",
+    "KORN",
+    "FALLING IN REVERSE"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "3184fbd312987b76",
+   "url": "https://glidemagazine.com/331975/twenty-years-later-emo-gets-defined-via-cinematic-storytelling-on-my-chemical-romances-the-black-parade",
+   "title_original": "TWENTY YEARS LATER: Emo Gets Defined Via Cinematic Storytelling On My Chemical Romance's 'The Black Parade'",
+   "source": "Glide Magazine",
+   "image": "https://cdn.glidemagazine.com/wp-content/uploads/2026/10/23105438/NEW_Blackparadecover-e1792767666517.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-23T15:01:48+00:00",
+   "title_ja": "My Chemical Romanceの名盤がエモに与えた影響を振り返る",
+   "summary_ja": "『The Black Parade』がシネマティックなストーリーテリングを通じて、エモというジャンルをどのように定義づけたかを回想する。（120文字）",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "366702bcf2df07a2",
    "url": "https://parade.com/entertainment/rock-legends-from-blink-182-to-iron-maiden-unite-for-massive-2027-music-festival",
@@ -355,7 +442,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e02c68047a62d563",
