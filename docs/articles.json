@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T13:24:30.171686+09:00",
+ "updated_at": "2026-10-23T20:24:19.365605+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -51,6 +51,7 @@
   "Beaver County Times",
   "Big Country News |",
   "Billboard",
+  "Blunt Magazine",
   "California.com",
   "CelebrityAccess",
   "Chaoszine",
@@ -92,7 +93,6 @@
   "KCRW",
   "KLBJ-FM",
   "KQED",
-  "KTLA",
   "KTVU",
   "KarloBag.eu",
   "KelownaNow",
@@ -109,6 +109,7 @@
   "Maine AFL-CIO",
   "MassLive.com",
   "Men's Journal",
+  "Metal Addicts",
   "Metal Injection",
   "Metal Insider",
   "Metal Planet Music",
@@ -163,6 +164,7 @@
   "Rolling Stone",
   "Rolling Stone Japan(ローリングストーン ジャパン）",
   "RouteNote",
+  "SFGATE",
   "SSBCrack",
   "Sada Elbalad english",
   "San Bernardino Sun",
@@ -180,7 +182,6 @@
   "The Business Journals",
   "The Concordian",
   "The Courier-Journal",
-  "The Daily Aztec",
   "The Daily Texan",
   "The Day",
   "The Detroit News",
@@ -238,7 +239,6 @@
   "article.auone.jp",
   "azat.tv",
   "backseatmafia.com",
-  "broadwayworld.com",
   "chaoszine.net",
   "chorus.fm",
   "dailycal.org",
@@ -270,7 +270,6 @@
   "nme.com",
   "noise11.com",
   "parade.com",
-  "phoenix.org",
   "pressdemocrat.com",
   "punknews.org",
   "rockin'on",
@@ -293,48 +292,91 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 395,
- "detail_count": 289,
+ "count": 392,
+ "detail_count": 290,
  "digest": {
-  "headline": "Blink-182フェス出演やオフスプリング活動休止などの最新ニュース",
+  "headline": "Green Day関連の動きや各バンドの最新ニュース",
   "points": [
    {
-    "text": "Blink-182が大規模音楽フェスSonic Temple 2027やGraspop Metal Meetingのヘッドライナーを務めることが発表された。",
+    "text": "Green Dayのフロントマンが好きなライブハウスを語り、サイドプロジェクトのPinhead Gunpowderもライブを発表した。",
     "ids": [
-     "d3c1cecb22e1f86f",
-     "eb35effe7093a94d",
-     "ec098c6ed3f40e37"
+     "e02c68047a62d563",
+     "e4930e08d1961f2f"
     ]
    },
    {
-    "text": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題によりライブ活動を一時的に休止すると発表された。",
+    "text": "My Chemical Romanceは名盤の20周年やハリウッド・ボウルでの公演、カバーアルバムの発表で話題を集めている。",
+    "ids": [
+     "659f6a191b57d877",
+     "818c16056d56048a",
+     "f81a29ade1e49e6d"
+    ]
+   },
+   {
+    "text": "Blink-182らが2027年開催のSonic Templeフェスティバルのヘッドライナーとして出演することが発表された。",
+    "ids": [
+     "d3c1cecb22e1f86f",
+     "eb35effe7093a94d",
+     "5839908442ffeb92"
+    ]
+   },
+   {
+    "text": "The OffspringのギタリストであるNoodlesが深刻な健康上の問題によりライブ活動の一時休止を発表した。",
     "ids": [
      "d786770a9c01a455",
      "b51522a452dce620",
      "62f2ef99c4f39ceb"
     ]
-   },
-   {
-    "text": "My Chemical Romanceの名盤『The Black Parade』が20周年を迎え、ライブ音源の公開などで盛り上がりを見せている。",
-    "ids": [
-     "818c16056d56048a",
-     "2d28062cb65db7c5"
-    ]
-   },
-   {
-    "text": "Green DayのサイドプロジェクトであるPinhead Gunpowderが、バークレーのライブハウス924 Gilman St.での公演を発表した。",
-    "ids": [
-     "e4930e08d1961f2f"
-    ]
    }
   ],
   "days": 3,
-  "from": "2026-10-20T13:25:18.688601+09:00",
-  "generated_at": "2026-10-23T13:25:20.170820+09:00",
+  "from": "2026-10-20T20:25:07.711973+09:00",
+  "generated_at": "2026-10-23T20:25:09.099975+09:00",
   "article_count": 24,
-  "sig": "d94d374a5df5"
+  "sig": "61a2610a0345"
  },
  "items": [
+  {
+   "id": "e02c68047a62d563",
+   "url": "https://www.sfgate.com/sf-culture/article/ivy-room-albany-green-day-22463974.php",
+   "title_original": "How Albany's Ivy Room became Green Day frontman's favorite place to play",
+   "source": "SFGATE",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-23T11:04:37+00:00",
+   "title_ja": "Green Dayのフロントマンが語るお気に入りのライブハウス",
+   "summary_ja": "Green DayのフロントマンであるBillie Joe Armstrongが、アルバニーのライブハウス「Ivy Room」を大好きな演奏場所として挙げる理由について迫る。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Green Day",
+    "Billie Joe Armstrong"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "659f6a191b57d877",
+   "url": "https://metaladdicts.com/my-chemical-romance-brings-the-black-parade-to-life-at-the-hollywood-bowl",
+   "title_original": "MY CHEMICAL ROMANCE Brings ‘The Black Parade’ To Life At The Hollywood Bowl",
+   "source": "Metal Addicts",
+   "image": "https://metaladdicts.com/wp-content/uploads/2026/10/My-Chemical-Romance-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-23T07:58:38+00:00",
+   "title_ja": "MCRがハリウッド・ボウルで名盤の世界を完全再現",
+   "summary_ja": "My Chemical Romanceがハリウッド・ボウルにて、伝説のコンセプトアルバム『The Black Parade』をライブで鮮烈に蘇らせた公演のレポート。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "820e4bbe334c9151",
    "url": "https://www.audacy.com/kroq/news/kroq-playlist-october-19-2026",
@@ -355,14 +397,14 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e917fdb831249c5b",
    "url": "https://thedailytexan.com/2026/10/22/photo-gallery-weezer-at-moody-center",
    "title_original": "Photo Gallery: Weezer at Moody Center",
    "source": "The Daily Texan",
-   "image": "",
+   "image": "https://thedailytexan.com/wp-content/uploads/2026/10/10-18-26_Weezer_AtyannaSiller-8.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-10-22T22:57:00+00:00",
@@ -375,27 +417,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
-  },
-  {
-   "id": "12b034172d79608e",
-   "url": "https://ktla.com/entertainment/my-chemical-romance-hollywood-bowl-new-music",
-   "title_original": "My Chemical Romance begins historic Hollywood Bowl run, lead singer’s dad hints at new music",
-   "source": "KTLA",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-22T19:47:29+00:00",
-   "title_ja": "MCRがハリウッド・ボウル公演を開始、新曲の匂わせも",
-   "summary_ja": "My Chemical Romanceがハリウッド・ボウルでの歴史的な公演シリーズを開始し、ボーカルの父親が新曲の可能性をほのめかした。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "d3c1cecb22e1f86f",
@@ -628,7 +650,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "eb35effe7093a94d",
@@ -921,6 +943,27 @@
     "Sublime",
     "Simple Plan",
     "Jimmy Eat World"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "4b6ca901585cca27",
+   "url": "https://bluntmag.com.au/news/good-things-festival-reveals-2026-set-times-with-limp-bizkit-and-bad-religion-clashing",
+   "title_original": "Good Things Festival Reveals 2026 Set Times, With Limp Bizkit And Bad Religion Clashing",
+   "source": "Blunt Magazine",
+   "image": "https://images-1.bluntmag.com.au/cdn-cgi/image/f=auto,quality=80,fit=scale-down/https://images-1.bluntmag.com.au/uploads/2026/10/1500x500-73b61d9e6b4ea3f1cbcb7a1017058f00.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-21T04:06:33+00:00",
+   "title_ja": "Good Things Festival 2026のタイムテーブル発表",
+   "summary_ja": "オーストラリアのGood Things Festival 2026がタイムテーブルを公開し、Limp BizkitとBad Religionの出演時間が重なっていることが明らかになりました。",
+   "category": "フェス出演",
+   "band": "Bad Religion",
+   "artists": [
+    "Bad Religion",
+    "Limp Bizkit"
    ],
    "japan": false,
    "importance": 3,
@@ -8419,108 +8462,6 @@
    "band": "The Linda Lindas",
    "artists": [
     "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "eeaa2b1c94597509",
-   "url": "https://music.mxdwn.com/2026/09/08/news/my-chemical-romance-plays-the-light-behind-your-eyes-live-for-the-first-time-and-dedicate-boy-division-to-andy-williams-of-everytime-i-die",
-   "title_original": "My Chemical Romance Plays “The Light Behind Your Eyes” Live For The First Time and Dedicate “Boy Divi...",
-   "source": "mxdwn Music",
-   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2025/07/my-chemical-romance_owen-ela_07272025-3.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-09T01:52:33+00:00",
-   "title_ja": "My Chemical Romanceが初披露曲を演奏",
-   "summary_ja": "My Chemical Romanceがライブで「The Light Behind Your Eyes」を初めて演奏し、ファンを沸かせた。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "3eff148a6d09df04",
-   "url": "https://www.loudersound.com/bands-artists/the-story-of-weezer-frontman-rivers-cuoms-high-school-prog-metal-band-avant-garde",
-   "title_original": "\"By 12th grade, people gave us a certain amount of respect. But we were never rock stars, just the weird guys who did music.\" The story of Weezer frontman Rivers Cuomo's high school prog metal band Avant Garde",
-   "source": "Louder",
-   "image": "https://cdn.mos.cms.futurecdn.net/3f48HmLXTMRTeky74DRjCK-1280-80.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-09T01:00:00+00:00",
-   "title_ja": "WeezerのRivers Cuomoが語る高校時代のプログレッシブ・メタルバンド",
-   "summary_ja": "WeezerのフロントマンであるRivers Cuomoが、高校時代に組んでいたプログレッシブ・メタルバンド「Avant Garde」の知られざる歴史を振り返る。",
-   "category": "メンバー・発言",
-   "band": "Weezer",
-   "artists": [
-    "Rivers Cuomo",
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "e7db71da9bf50068",
-   "url": "https://thedailyaztec.com/128631/showcase/the-world-is-ugly-my-chemical-romances-theatrical-tour-portrays-an-authoritarian-dystopia",
-   "title_original": "‘The World Is Ugly’: My Chemical Romance’s theatrical tour portrays an authoritarian dystopia",
-   "source": "The Daily Aztec",
-   "image": "https://thedailyaztec.com/wp-content/uploads/2026/09/IMG_7006-e1788907087897.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-09T00:26:09+00:00",
-   "title_ja": "My Chemical Romanceの演劇的なツアーが描くディストピア",
-   "summary_ja": "My Chemical Romanceが展開する劇的な演出のツアーについて、権威主義的なディストピアの世界観をどのように表現しているのか報じている。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "bf49b27c75d6eb27",
-   "url": "https://www.phoenix.org/entertainer/music/review-my-chemical-romance-with-jimmy-eat-world-at-chase-field-sept-6-2026/article_9963847f-c5e2-4aa6-b816-b5de5ae446cc.html",
-   "title_original": "Review: My Chemical Romance with Jimmy Eat World at Chase Field, Sept. 6, 2026",
-   "source": "phoenix.org",
-   "image": "https://bloximages.chicago2.vip.townnews.com/phoenix.org/content/tncms/assets/v3/editorial/4/74/474b15ac-03b1-489e-964a-e53e49753282/6aa088c1ba373.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-08T22:17:00+00:00",
-   "title_ja": "My Chemical Romance、チェイス・フィールド公演のライブ・レビュー",
-   "summary_ja": "Jimmy Eat Worldを迎えて開催された、My Chemical Romanceのチェイス・フィールドでのライブ公演の模様を振り返る。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "Jimmy Eat World"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "ae770885dae24ff4",
-   "url": "https://www.broadwayworld.com/bwwtv/article/NIMRODS-GREEN-DAY-Comedy-to-Arrive-on-Digital-in-September-20260908",
-   "title_original": "NIMRODS, GREEN DAY Comedy, to Arrive on Digital in September",
-   "source": "broadwayworld.com",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/NIMRODS-GREEN-DAY-Comedy-to-Arrive-on-Digital-in-September-1788889976.jpg?width=1200&format=jpeg&quality=80",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-08T19:15:07+00:00",
-   "title_ja": "グリーン・デイのコメディ映画『Nimrods』が9月に配信へ",
-   "summary_ja": "グリーン・デイに関連するコメディ作品『Nimrods』が、9月にデジタル配信されることが明らかになった。（83文字）",
-   "category": "映像・映画・書籍",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
    ],
    "japan": false,
    "importance": 3,
