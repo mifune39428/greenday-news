@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T20:24:19.365605+09:00",
+ "updated_at": "2026-10-24T01:52:46.377503+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -116,7 +116,6 @@
   "Metal Underground.com",
   "Metalhead Zone",
   "Mid-Day",
-  "Mikiki by TOWER RECORDS",
   "Milwaukee Journal Sentinel",
   "Music Connection Magazine",
   "Music In Minnesota",
@@ -137,6 +136,7 @@
   "Orlando Weekly",
   "Our Culture Mag",
   "PUNKLOID",
+  "Parade Magazine",
   "Parklife DC",
   "Parksville Qualicum News",
   "Paste Magazine",
@@ -293,27 +293,12 @@
   "씨네플레이"
  ],
  "count": 392,
- "detail_count": 290,
+ "detail_count": 289,
  "digest": {
-  "headline": "Green Day関連の動きや各バンドの最新ニュース",
+  "headline": "パンク・ロック界の最新ニュース：大型フェスやバンドの動向",
   "points": [
    {
-    "text": "Green Dayのフロントマンが好きなライブハウスを語り、サイドプロジェクトのPinhead Gunpowderもライブを発表した。",
-    "ids": [
-     "e02c68047a62d563",
-     "e4930e08d1961f2f"
-    ]
-   },
-   {
-    "text": "My Chemical Romanceは名盤の20周年やハリウッド・ボウルでの公演、カバーアルバムの発表で話題を集めている。",
-    "ids": [
-     "659f6a191b57d877",
-     "818c16056d56048a",
-     "f81a29ade1e49e6d"
-    ]
-   },
-   {
-    "text": "Blink-182らが2027年開催のSonic Templeフェスティバルのヘッドライナーとして出演することが発表された。",
+    "text": "Blink-182らがヘッドライナーを務める、2027年開催の大規模音楽フェスティバルSonic Templeのラインナップが発表された。",
     "ids": [
      "d3c1cecb22e1f86f",
      "eb35effe7093a94d",
@@ -321,21 +306,57 @@
     ]
    },
    {
-    "text": "The OffspringのギタリストであるNoodlesが深刻な健康上の問題によりライブ活動の一時休止を発表した。",
+    "text": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題によりライブ活動の一時休止を発表した。",
     "ids": [
      "d786770a9c01a455",
-     "b51522a452dce620",
+     "6905c0b8ed501ce0",
      "62f2ef99c4f39ceb"
+    ]
+   },
+   {
+    "text": "Green DayのBillie Joe Armstrongがお気に入りのライブハウスについて語ったほか、サイドプロジェクトのPinhead Gunpowderが公演を発表した。",
+    "ids": [
+     "e02c68047a62d563",
+     "e4930e08d1961f2f"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceの名盤『The Black Parade』の20周年を記念したハリウッド・ボウルでの公演やライブ音源の公開が話題となっている。",
+    "ids": [
+     "659f6a191b57d877",
+     "818c16056d56048a",
+     "2d28062cb65db7c5"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-20T20:25:07.711973+09:00",
-  "generated_at": "2026-10-23T20:25:09.099975+09:00",
+  "from": "2026-10-21T01:55:39.186675+09:00",
+  "generated_at": "2026-10-24T01:55:40.831772+09:00",
   "article_count": 24,
-  "sig": "61a2610a0345"
+  "sig": "4b8bd96aaab1"
  },
  "items": [
+  {
+   "id": "366702bcf2df07a2",
+   "url": "https://parade.com/entertainment/rock-legends-from-blink-182-to-iron-maiden-unite-for-massive-2027-music-festival",
+   "title_original": "Rock Legends From Blink-182 to Iron Maiden Unite for Massive 2027 Music Festival",
+   "source": "Parade Magazine",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-23T15:01:31+00:00",
+   "title_ja": "Blink-182らが集結する2027年開催の大型音楽フェス",
+   "summary_ja": "Blink-182をはじめとするロックのレジェンドたちが一堂に会し、2027年に大規模な音楽フェスティバルを開催することが明らかになった。豪華出演アーティストの共演に早くも注目が集まっている。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Iron Maiden"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "e02c68047a62d563",
    "url": "https://www.sfgate.com/sf-culture/article/ivy-room-albany-green-day-22463974.php",
@@ -355,7 +376,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "659f6a191b57d877",
@@ -8442,26 +8463,6 @@
     "Weezer",
     "The Shins",
     "Silversun Pickups"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e662c7033ee04d66",
-   "url": "https://mikiki.tokyo.jp/articles/-/45986",
-   "title_original": "ザ・リンダ・リンダズ（The Linda Lindas）が〈Z世代のパンクバンド〉から脱皮! メジャー初作『GOTTA GET OUT』に聴く現在地",
-   "source": "Mikiki by TOWER RECORDS",
-   "image": "https://mikiki.ismcdn.jp/mwimgs/e/4/-/img_e4d338fc4f6f03146974438dfa13b3e9356335.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-09T02:45:00+00:00",
-   "title_ja": "The Linda Lindasがメジャー初作『GOTTA GET OUT』で魅せる現在地",
-   "summary_ja": "Z世代のパンクバンドとして注目を集めるThe Linda Lindasが、メジャー初アルバム『GOTTA GET OUT』を通してバンドとしての新たなステージへと進化を遂げた姿に迫る。",
-   "category": "新曲・新作",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas"
    ],
    "japan": false,
    "importance": 3,
