@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T06:25:17.973486+09:00",
+ "updated_at": "2026-10-23T13:24:30.171686+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -92,6 +92,7 @@
   "KCRW",
   "KLBJ-FM",
   "KQED",
+  "KTLA",
   "KTVU",
   "KarloBag.eu",
   "KelownaNow",
@@ -107,7 +108,6 @@
   "MELODIC Magazine",
   "Maine AFL-CIO",
   "MassLive.com",
-  "Media Play News",
   "Men's Journal",
   "Metal Injection",
   "Metal Insider",
@@ -181,6 +181,7 @@
   "The Concordian",
   "The Courier-Journal",
   "The Daily Aztec",
+  "The Daily Texan",
   "The Day",
   "The Detroit News",
   "The Drum",
@@ -288,30 +289,17 @@
   "vijesti.me",
   "wfmd.com",
   "شبكة تواصل الإخبارية",
+  "山陽新聞デジタル｜さんデジ",
   "激ロック",
   "씨네플레이"
  ],
- "count": 396,
- "detail_count": 292,
+ "count": 395,
+ "detail_count": 289,
  "digest": {
-  "headline": "パンク・ロックシーンの最新動向まとめ",
+  "headline": "Blink-182フェス出演やオフスプリング活動休止などの最新ニュース",
   "points": [
    {
-    "text": "Green DayのサイドプロジェクトであるPinhead Gunpowderが、バークレーの924 Gilman St.でライブの開催を発表した。",
-    "ids": [
-     "e4930e08d1961f2f"
-    ]
-   },
-   {
-    "text": "The OffspringのギタリストであるKevin 'Noodles' Wassermanが、深刻な健康上の問題により当面のツアー活動から一時離脱することを発表した。",
-    "ids": [
-     "2b1e5372f41b72bb",
-     "d786770a9c01a455",
-     "b51522a452dce620"
-    ]
-   },
-   {
-    "text": "Blink-182が2027年開催のSonic Templeフェスティバルのヘッドライナーを務めるほか、ベルギーのGraspop Metal Meetingにも出演が決定した。",
+    "text": "Blink-182が大規模音楽フェスSonic Temple 2027やGraspop Metal Meetingのヘッドライナーを務めることが発表された。",
     "ids": [
      "d3c1cecb22e1f86f",
      "eb35effe7093a94d",
@@ -319,40 +307,95 @@
     ]
    },
    {
-    "text": "My Chemical Romanceのアルバム『The Black Parade』が20周年を迎え、ライブ音源の公開や影響力を振り返る記事などが話題となっている。",
+    "text": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題によりライブ活動を一時的に休止すると発表された。",
+    "ids": [
+     "d786770a9c01a455",
+     "b51522a452dce620",
+     "62f2ef99c4f39ceb"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceの名盤『The Black Parade』が20周年を迎え、ライブ音源の公開などで盛り上がりを見せている。",
     "ids": [
      "818c16056d56048a",
      "2d28062cb65db7c5"
     ]
+   },
+   {
+    "text": "Green DayのサイドプロジェクトであるPinhead Gunpowderが、バークレーのライブハウス924 Gilman St.での公演を発表した。",
+    "ids": [
+     "e4930e08d1961f2f"
+    ]
    }
   ],
   "days": 3,
-  "from": "2026-10-20T06:26:51.562882+09:00",
-  "generated_at": "2026-10-23T06:26:53.151866+09:00",
+  "from": "2026-10-20T13:25:18.688601+09:00",
+  "generated_at": "2026-10-23T13:25:20.170820+09:00",
   "article_count": 24,
-  "sig": "5b845a01c16e"
+  "sig": "d94d374a5df5"
  },
  "items": [
   {
-   "id": "2b1e5372f41b72bb",
-   "url": "https://www.yahoo.com/entertainment/music/articles/offspring-guitarist-kevin-noodles-wasserman-175851496.html",
-   "title_original": "The Offspring guitarist Kevin ‘Noodles’ Wasserman steps away from touring over ‘serious health issue’",
-   "source": "Yahoo",
-   "image": "https://s.yimg.com/lo/mysterio/api/f1222a8459f40cbe91ee0ae62f88288d979369e57d534e299656bd84ba158e10/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fb40327de6483e99f0d61a1e140ad95a7.jpg",
+   "id": "820e4bbe334c9151",
+   "url": "https://www.audacy.com/kroq/news/kroq-playlist-october-19-2026",
+   "title_original": "New music from Justice, The Smashing Pumpkins, and The Linda Lindas is added to the KROQ playlist",
+   "source": "Audacy",
+   "image": "https://www.audacy.com/media-library/justice.jpg?id=68512339&width=1200&height=600&coordinates=0%2C37%2C0%2C38",
    "lang": "en",
    "region": "global",
-   "published": "2026-10-22T17:58:51+00:00",
-   "title_ja": "The Offspringのギタリストがツアー活動を一時離脱",
-   "summary_ja": "The OffspringのギタリストであるKevin 'Noodles' Wassermanが、深刻な健康上の問題により当面のツアー活動から離脱することが発表された。",
-   "category": "メンバー・発言",
-   "band": "The Offspring",
+   "published": "2026-10-23T00:38:26+00:00",
+   "title_ja": "The Linda Lindasらの楽曲がKROQのプレイリストに追加",
+   "summary_ja": "米ラジオ局KROQのプレイリストに、The Linda Lindasをはじめ、JusticeやThe Smashing Pumpkinsの楽曲が新たに追加されたことが明らかになった。",
+   "category": "新曲・新作",
+   "band": "The Linda Lindas",
    "artists": [
-    "Kevin 'Noodles' Wasserman",
-    "The Offspring"
+    "Justice",
+    "The Smashing Pumpkins",
+    "The Linda Lindas"
    ],
    "japan": false,
-   "importance": 4,
-   "has_detail": true
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "e917fdb831249c5b",
+   "url": "https://thedailytexan.com/2026/10/22/photo-gallery-weezer-at-moody-center",
+   "title_original": "Photo Gallery: Weezer at Moody Center",
+   "source": "The Daily Texan",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-22T22:57:00+00:00",
+   "title_ja": "WeezerのMoody Center公演を記録したライブ写真ギャラリーが公開",
+   "summary_ja": "Moody Centerにて行われたWeezerのライブパフォーマンスを記録したフォトギャラリーが公開された。ステージ上のメンバーを捉えたライブ写真が多数掲載されている。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "12b034172d79608e",
+   "url": "https://ktla.com/entertainment/my-chemical-romance-hollywood-bowl-new-music",
+   "title_original": "My Chemical Romance begins historic Hollywood Bowl run, lead singer’s dad hints at new music",
+   "source": "KTLA",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-22T19:47:29+00:00",
+   "title_ja": "MCRがハリウッド・ボウル公演を開始、新曲の匂わせも",
+   "summary_ja": "My Chemical Romanceがハリウッド・ボウルでの歴史的な公演シリーズを開始し、ボーカルの父親が新曲の可能性をほのめかした。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "d3c1cecb22e1f86f",
@@ -482,7 +525,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d786770a9c01a455",
@@ -565,6 +608,27 @@
    "japan": false,
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "62f2ef99c4f39ceb",
+   "url": "https://www.sanyonews.jp/article/2008964",
+   "title_original": "オフスプリングのギタリスト・ヌードルズ、深刻な健康問題でライブ活動を一時休止「できるだけ早くステージに戻りたい」",
+   "source": "山陽新聞デジタル｜さんデジ",
+   "image": "https://static.sanyonews.jp/image/article/size1/5/5/1/5/5515bb255d0c2a92ea884b5d452228a0_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-22T15:11:15+00:00",
+   "title_ja": "The Offspringのギタリストが健康問題でライブ活動を一時休止",
+   "summary_ja": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題によりライブ活動を一時休止すると発表した。「できるだけ早くステージに戻りたい」とコメントしている。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Noodles"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "eb35effe7093a94d",
@@ -653,7 +717,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "818c16056d56048a",
@@ -8461,89 +8525,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "9efbe772ae81c481",
-   "url": "https://www.mediaplaynews.com/green-day-comedy-nimrods-available-digitally-sept-15",
-   "title_original": "Green Day Comedy ‘Nimrods’ Available Digitally Sept. 15",
-   "source": "Media Play News",
-   "image": "https://cdn.mediaplaynews.com/wp-content/uploads/2026/09/Nimrods-drive.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-08T18:29:19+00:00",
-   "title_ja": "コメディ映画『Nimrods』が9月15日にデジタル配信開始",
-   "summary_ja": "グリーン・デイをフィーチャーしたコメディ作品『Nimrods』が、9月15日よりデジタルプラットフォームで配信される予定。（90文字）",
-   "category": "映像・映画・書籍",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7578b7404ab5f90b",
-   "url": "https://www.kerrang.com/the-linda-lindas-its-so-important-to-speak-up-for-what-you-believe-in-because-then-other-people-feel-less-alone",
-   "title_original": "The Linda Lindas: “It’s so important to speak up for what you believe in because then other people feel less alone”",
-   "source": "Kerrang!",
-   "image": "https://transforms.kerrang.com/production/images/2026/09/LINDA-LINDAS-HEADER-2026-CREDIT.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1788883461&s=69d86f4c92fd9813f262d6f544fbe4b7",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-08T16:18:00+00:00",
-   "title_ja": "The Linda Lindasが信念を発信することの大切さを語る",
-   "summary_ja": "The Linda Lindasが自身の信念について声を上げることの重要性を語った。自らが思いを発信することで、同じように悩む他の人々が一人ではないと感じられるようになるとその真意を明かしている。",
-   "category": "メンバー・発言",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "7e4e47c9f21d6da8",
-   "url": "https://www.yahoo.com/entertainment/music/articles/weezer-brian-bell-polarizing-fans-102211515.html",
-   "title_original": "Weezer’s Brian Bell on polarizing fans (and the band), proving the critics wrong, and making the Gold Album",
-   "source": "Yahoo",
-   "image": "https://s.yimg.com/lo/mysterio/api/3a1f85a54e2c4a689f653bb277925b9526b797f4e07fafad374926cb6c5a040d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fguitar_world_625%2F2f151a99ecdb715f6bedca8a3ff4f216.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-08T10:22:11+00:00",
-   "title_ja": "WeezerのBrian Bell、ファンや批評家、ゴールド盤を語る",
-   "summary_ja": "WeezerのギタリストであるBrian Bellがインタビューに応じ、ファンの意見の二極化やバンドへの評価、批評家たちの誤りを証明すること、そしてゴールド・アルバムの制作について語りました。メンバー自身の視点からバンドの歩みを振り返る内容となっています。",
-   "category": "メンバー・発言",
-   "band": "Weezer",
-   "artists": [
-    "Weezer",
-    "Brian Bell"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "329e8ac2c9bfaf27",
-   "url": "https://www.guitarworld.com/artists/guitarists/brian-bell-weezer-gold-album-interview",
-   "title_original": "“There was this D-Day where everybody in rock music got dropped except for us and Beck. I felt the immediate hatred in town”: Weezer’s Brian Bell on polarizing fans (and the band), proving the critics wrong, and making the Gold Album",
-   "source": "Guitar World",
-   "image": "https://cdn.mos.cms.futurecdn.net/T8E4X7XjZ8MKaYUXn6E8Lk-2000-80.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-08T10:22:11+00:00",
-   "title_ja": "WeezerのBrian Bellが語るバンドのキャリアと批判への向き合い方",
-   "summary_ja": "WeezerのBrian Bellがインタビューに応じ、かつて多くのロックバンドが契約を解除される中で生き残った当時の心境や、ファンの賛否両論に直面した経験について振り返っている。",
-   "category": "メンバー・発言",
-   "band": "Weezer",
-   "artists": [
-    "Weezer",
-    "Brian Bell",
-    "Beck"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
