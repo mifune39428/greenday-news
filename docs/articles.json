@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T00:45:27.030973+09:00",
+ "updated_at": "2026-10-25T05:34:23.468204+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -172,6 +172,7 @@
   "Sports Illustrated",
   "Star Tribune",
   "Stereogum",
+  "TODAY.com",
   "TPI Media Group",
   "TacomaWeekly",
   "That Eric Alper",
@@ -290,32 +291,25 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 392,
- "detail_count": 289,
+ "count": 390,
+ "detail_count": 288,
  "digest": {
-  "headline": "Blink-182の新曲制作や大規模フェス出演情報が続々",
+  "headline": "パンク・ロック界の最新ニュース：Blink-182、MCRほか",
   "points": [
    {
-    "text": "Blink-182は新レーベル契約を結び、マーク・ホッパスによるとスラッシーで勢いのあるパンク路線の新型アルバムを制作中で、今後のツアーについても語っている。",
+    "text": "Blink-182は新レーベル契約やアグレッシブな新作アルバムの準備を進め、Sonic Temple 2027やGraspop 2027への出演が決定した。",
     "ids": [
      "550d1a1cd50806e8",
-     "3068f9066bb6572d"
+     "3068f9066bb6572d",
+     "2d7c08ee0aaa76b6"
     ]
    },
    {
-    "text": "Blink-182はベルギーのGraspop Metal Meeting 2027やSonic Temple 2027などの大型音楽フェスでヘッドライナーを務めることが発表された。",
-    "ids": [
-     "2d7c08ee0aaa76b6",
-     "eb35effe7093a94d",
-     "5839908442ffeb92"
-    ]
-   },
-   {
-    "text": "My Chemical Romanceは『The Black Parade』の20周年を記念した拡張デラックス・コレクションのリリースやハリウッド・ボウルでのライブ公演を行った。",
+    "text": "My Chemical Romanceは『The Black Parade』の20周年記念デラックス盤リリースやハリウッド・ボウルでの公演を行った一方、ライブ演出を巡る法的措置にも直面している。",
     "ids": [
      "2ecee84d2382112f",
      "659f6a191b57d877",
-     "818c16056d56048a"
+     "0207d0846ff7be9f"
     ]
    },
    {
@@ -323,23 +317,63 @@
     "ids": [
      "68e5bd52ec29293a",
      "b51522a452dce620",
-     "c067f49d3dce6c11"
+     "41216b902c3fb970"
     ]
    },
    {
-    "text": "Green DayのフロントマンであるBillie Joe Armstrongが、お気に入りのライブハウスとしてアルバニーのIvy Roomについて語っている。",
+    "text": "Green DayのフロントマンであるBillie Joe Armstrongが、お気に入りのライブハウスとしてアルバニーのIvy Roomについて語った。",
     "ids": [
      "e02c68047a62d563"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-22T00:47:31.973505+09:00",
-  "generated_at": "2026-10-25T00:47:57.219730+09:00",
+  "from": "2026-10-22T05:35:11.185526+09:00",
+  "generated_at": "2026-10-25T05:35:13.253734+09:00",
   "article_count": 24,
-  "sig": "05ed6d51b2e3"
+  "sig": "4517261d9412"
  },
  "items": [
+  {
+   "id": "0207d0846ff7be9f",
+   "url": "https://www.theprp.com/2026/10/24/news/my-chemical-romance-hit-with-legal-action-over-recent-onstage-depictions-of-dallas-cowboys-cheerleaders",
+   "title_original": "My Chemical Romance Hit With Legal Action Over Recent Onstage Depictions Of Dallas Cowboys Cheerleaders",
+   "source": "The PRP",
+   "image": "https://www.theprp.com/app/uploads/2026/10/mcrdallas-1200x675.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-24T19:05:24+00:00",
+   "title_ja": "MCR、近年のステージ演出で法的措置を受ける",
+   "summary_ja": "My Chemical Romanceが最近のライブで行った、ダラス・カウボーイズ・チアリーダーズに似せた演出に関して法的措置を受けていることが伝えられた。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "e428d6ab89657e4c",
+   "url": "https://www.today.com/news/sports/dallas-cowboys-cheerleaders-legal-action-my-chemical-romance-rcna605391",
+   "title_original": "Dallas Cowboys Cheerleaders Take Legal Action Against Band My Chemical Romance",
+   "source": "TODAY.com",
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/dallas-cowboys-mcr-ky-261024-30d886.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-24T17:43:39.736000+00:00",
+   "title_ja": "My Chemical Romanceに対しダラス・カウボーイズ・チアリーダーズが法的措置",
+   "summary_ja": "ダラス・カウボーイズ・チアリーダーズがMy Chemical Romanceに対して法的手続きを開始したことが報じられた。",
+   "category": "メンバー・発言",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "940bc6ab75fb5d6e",
    "url": "https://news.ssbcrack.com/cowboys-cheerleaders-demand-action-against-my-chemical-romance-over-controversial-concert-segment",
@@ -359,27 +393,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "989c3b37fafdf1f9",
-   "url": "https://twaslnews1.twaslnews.com/6523575",
-   "title_original": "Stephanie Roberts backs 77 in My Chemical Romance Hollywood Bowl Lawsuit",
-   "source": "شبكة تواصل الإخبارية",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-24T15:34:28+00:00",
-   "title_ja": "ステファニー・ロバートツがハリウッドボウル訴訟を支持",
-   "summary_ja": "ステファニー・ロバートツが、My Chemical Romanceのハリウッド・ボウル公演をめぐる訴訟について支持を表明している。",
-   "category": "その他",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "Stephanie Roberts"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 1
   },
   {
    "id": "550d1a1cd50806e8",
@@ -8410,66 +8423,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7dfa89c1255355a2",
-   "url": "https://www.antimusic.com/p/26/r0910my_chemical_romance_expanding_the_black_parade_for_20th_anniversary.shtml",
-   "title_original": "My Chemical Romance Expanding 'The Black Parade' For 20th Anniversary",
-   "source": "antiMusic",
-   "image": "https://www.antimusic.com/news/photos/26/09/10/my-chemical-romance.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-10T21:06:56+00:00",
-   "title_ja": "My Chemical Romanceが名作を拡大リイシュー",
-   "summary_ja": "My Chemical Romanceの名盤『The Black Parade』が発売20周年を記念して拡大盤としてリリースされることが明らかになった。",
-   "category": "再発・記念盤",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "814390c02706cc70",
-   "url": "https://www.nme.com/news/music/my-chemical-romance-expanded-20th-anniversary-black-parade-reissue-bonus-tracks-3968126",
-   "title_original": "My Chemical Romance announce expanded 20th anniversary 'The Black Parade' reissue with 'The Sharpest Lives (Live from Hoboken)'",
-   "source": "NME",
-   "image": "https://www.nme.com/wp-content/uploads/2026/09/my-chemical-romance@2000x1270.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-10T16:09:54+00:00",
-   "title_ja": "MCRが20周年記念盤にライブ音源を追加して発売",
-   "summary_ja": "My Chemical Romanceが『The Black Parade』20周年記念リイシュー盤の発売を発表。ライブ音源「The Sharpest Lives (Live from Hoboken)」などが追加される。",
-   "category": "再発・記念盤",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "b8526049d67d3b97",
-   "url": "https://celebrityaccess.com/2026/09/10/weezer-launches-massive-weezer-the-gathering-north-american-tour",
-   "title_original": "Weezer Launches Massive ‘Weezer: The Gathering’ North American Tour’",
-   "source": "CelebrityAccess",
-   "image": "https://celebrityaccess.com/wp-content/uploads/2026/09/WEEZER-GATHERING_CreditBrendan-Walters.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-10T15:48:27+00:00",
-   "title_ja": "Weezer、北米で大規模な「Weezer: The Gathering」ツアーを開始",
-   "summary_ja": "Weezerが北米を巡る大規模なヘッドラインツアー「Weezer: The Gathering」を新たにスタートさせた。各地の会場で精力的なライブパフォーマンスを展開している。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 4,
    "has_detail": true
   }
  ]
