@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T13:15:00.520248+09:00",
+ "updated_at": "2026-10-24T19:43:20.162342+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -146,8 +146,8 @@
   "Pollstar News",
   "PopMatters",
   "Porterville Recorder",
-  "Prescott Daily Courier",
   "Punknews.org",
+  "RAMzine",
   "RIFF Magazine",
   "ROCK 105.3",
   "RTTNews",
@@ -293,29 +293,27 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 394,
- "detail_count": 289,
+ "count": 393,
+ "detail_count": 288,
  "digest": {
-  "headline": "パンク・ロック界の最新動向：大型フェスや活動休止情報など",
+  "headline": "Green Day、Blink-182、MCRなどパンク・ロック界の最新動向まと",
   "points": [
    {
-    "text": "Blink-182がヘッドライナーとして出演する2027年開催の大規模音楽フェスSonic Temple Festivalのラインナップが発表された。",
+    "text": "Green DayのフロントマンBillie Joe Armstrongがお気に入りのライブハウスについて語った。",
     "ids": [
+     "e02c68047a62d563"
+    ]
+   },
+   {
+    "text": "Blink-182が2027年開催の大型音楽フェス「Sonic Temple Festival」や「Graspop Metal Meeting 2027」のヘッドライナーに決定した。",
+    "ids": [
+     "2d7c08ee0aaa76b6",
      "63fe334c40347295",
-     "d3c1cecb22e1f86f",
-     "eb35effe7093a94d"
+     "366702bcf2df07a2"
     ]
    },
    {
-    "text": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題によりライブ活動を一時休止すると発表した。",
-    "ids": [
-     "d786770a9c01a455",
-     "b51522a452dce620",
-     "6905c0b8ed501ce0"
-    ]
-   },
-   {
-    "text": "My Chemical Romanceの名盤『The Black Parade』の20周年記念デラックス盤のリリースやライブ公演が話題となっている。",
+    "text": "My Chemical Romanceは『The Black Parade』の20周年記念デラックス盤リリースやハリウッド・ボウルでのライブ公演を行った。",
     "ids": [
      "2ecee84d2382112f",
      "659f6a191b57d877",
@@ -323,19 +321,43 @@
     ]
    },
    {
-    "text": "Green DayのフロントマンであるBillie Joe Armstrongが、お気に入りのライブハウスについて語るインタビューが公開された。",
+    "text": "The OffspringのギタリストNoodlesが深刻な健康上の問題を理由にライブ活動の一時休止を発表した。",
     "ids": [
-     "e02c68047a62d563"
+     "68e5bd52ec29293a",
+     "b51522a452dce620",
+     "41216b902c3fb970"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-21T13:16:02.884026+09:00",
-  "generated_at": "2026-10-24T13:16:05.075571+09:00",
+  "from": "2026-10-21T19:44:37.528452+09:00",
+  "generated_at": "2026-10-24T19:44:39.690131+09:00",
   "article_count": 24,
-  "sig": "157f3410fc51"
+  "sig": "ef5b82068f63"
  },
  "items": [
+  {
+   "id": "2d7c08ee0aaa76b6",
+   "url": "https://ramzine.co.uk/news/graspop-2027-blink-182-parkway-drive-and-faith-no-more",
+   "title_original": "Graspop 2027: blink-182, Parkway Drive and Faith No More",
+   "source": "RAMzine",
+   "image": "https://ramzine.co.uk/wp-content/uploads/2025/10/IMG_1237.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-24T07:19:41+00:00",
+   "title_ja": "blink-182がGraspop 2027のヘッドライナーに決定",
+   "summary_ja": "ベルギーで開催される大型音楽フェス「Graspop Metal Meeting 2027」に、blink-182の出演が発表された。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "blink-182",
+    "Parkway Drive",
+    "Faith No More"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "c7e856ff011b87db",
    "url": "https://www.thewrap.com/creative-content/music/dallas-cowboys-cheerleaders-legal-action-my-chemical-romance-concert-uniforms",
@@ -547,6 +569,27 @@
    "has_detail": true
   },
   {
+   "id": "68e5bd52ec29293a",
+   "url": "https://www.ultimate-guitar.com/news/general_music_news/the-offspring-guitarist-noodles-steps-away-from-touring-over-serious-health-issue",
+   "title_original": "The Offspring Guitarist Noodles Steps Away From Touring Over Serious Health Issue",
+   "source": "Ultimate Guitar",
+   "image": "https://www.ultimate-guitar.com/static/article/news/7/189077_0_wide_ver1792708209.jpg@1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-22T22:30:09+00:00",
+   "title_ja": "The OffspringのギタリストNoodles、健康上の理由でツアー休演へ",
+   "summary_ja": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題を理由にライブツアー活動から一時離脱することが明らかになった。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Noodles"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "d3c1cecb22e1f86f",
    "url": "https://xsrock.com/sonic-temple-festival-to-feature-iron-maiden-korn-blink-182-turnstile-prodigy-and-over-100-more-bands",
    "title_original": "Sonic Temple Festival To Feature Iron Maiden, Korn, Blink-182, Turnstile, Prodigy, and Over 100 More Bands",
@@ -674,27 +717,6 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "d786770a9c01a455",
-   "url": "https://www.bigcountrynewsconnection.com/the-offsprings-guitarist-noodles-stepping-back-from-performing-due-to-unspecified-health-issue",
-   "title_original": "The Offspring's guitarist Noodles stepping back from performing due to unspecified health issue",
-   "source": "Big Country News |",
-   "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2801/2026/10/22084044/shutterstock_262351658-resized-to-large-1420118.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-22T15:40:44+00:00",
-   "title_ja": "The Offspringのギタリストが健康問題で活動休止",
-   "summary_ja": "The OffspringのギタリストであるNoodlesが、突発的な健康上の問題によりライブ活動を一時的に休止すると発表した。",
-   "category": "メンバー・発言",
-   "band": "The Offspring",
-   "artists": [
-    "Noodles",
-    "The Offspring"
-   ],
-   "japan": false,
-   "importance": 4,
    "detail_tries": 2
   },
   {
@@ -8466,47 +8488,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7bea43303ca3cb3b",
-   "url": "https://www.dcourier.com/news/emo-icons-collide-at-chase-field-jimmy-eat-world-and-my-chemical-romance-deliver-a/article_fd5bf4e3-95a2-4f20-a352-158f9e91cd76.html",
-   "title_original": "Emo icons collide at Chase Field: Jimmy Eat World and My Chemical Romance deliver a night to remember in Phoenix",
-   "source": "Prescott Daily Courier",
-   "image": "https://bloximages.chicago2.vip.townnews.com/dcourier.com/content/tncms/assets/v3/editorial/f/d5/fd5bf4e3-95a2-4f20-a352-158f9e91cd76/6aa092688eea0.preview.jpg?crop=1367%2C718%2C0%2C371&resize=1200%2C630&order=crop%2Cresize",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-10T01:15:00+00:00",
-   "title_ja": "Jimmy Eat WorldとMy Chemical Romanceがフェニックスで共演",
-   "summary_ja": "エモを代表するJimmy Eat WorldとMy Chemical Romanceが、チェイス・フィールドで記憶に残る素晴らしいライブをフェニックスで披露した。",
-   "category": "ライブ・ツアー",
-   "band": "Jimmy Eat World",
-   "artists": [
-    "Jimmy Eat World",
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "00a7dfd31316e58f",
-   "url": "https://lambgoat.com/news/54749/my-chemical-romance-announce-20th-anniversary-edition-of-the-black-parade",
-   "title_original": "MY CHEMICAL ROMANCE announce 20th anniversary edition of “The Black Parade”",
-   "source": "lambgoat.com",
-   "image": "https://lambgoat.com/cdn/2025/my-chemical-romance-20250707143752.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-10T00:40:00+00:00",
-   "title_ja": "My Chemical Romance、名盤の20周年記念盤をリリースへ",
-   "summary_ja": "My Chemical Romanceが『The Black Parade』の20周年記念エディションの発売を明らかにしました。",
-   "category": "再発・記念盤",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
    "has_detail": true
   }
  ]
