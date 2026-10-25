@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T13:17:54.623087+09:00",
+ "updated_at": "2026-10-25T20:08:43.928407+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -289,13 +289,13 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 386,
- "detail_count": 285,
+ "count": 387,
+ "detail_count": 286,
  "digest": {
-  "headline": "パンク・ロック界の最新ニュース：MCR、Blink-182、Green Dayな",
+  "headline": "パンク・ロック界の最新ニュース：MCRの新曲やBlink-182のフェス出演情報",
   "points": [
    {
-    "text": "My Chemical Romanceが新曲「Someone Out There Loves You」を発表したほか、名盤の20周年記念デラックス盤のリリースやライブを行っています。",
+    "text": "My Chemical Romanceが新曲「Someone Out There Loves You」を発表し、名盤の20周年記念盤リリースやライブも話題です。",
     "ids": [
      "3adfde32ed998a5b",
      "2ecee84d2382112f",
@@ -303,7 +303,7 @@
     ]
    },
    {
-    "text": "Blink-182は新レーベル契約を結び、スラッシーで勢いのあるパンク路線を目指した新作アルバムを準備中のほか、Graspop 2027やSonic Temple 2027への出演が決定しています。",
+    "text": "Blink-182が新レーベル契約を結び、スラッシーで勢いのある新型アルバムを準備中であるほか、大型フェスへの出演が続々と決定しています。",
     "ids": [
      "550d1a1cd50806e8",
      "3068f9066bb6572d",
@@ -311,27 +311,46 @@
     ]
    },
    {
-    "text": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題を理由にライブツアー活動から一時離脱することが明らかになりました。",
+    "text": "The OffspringのギタリストNoodlesが深刻な健康上の問題を理由に、ライブツアー活動から一時離脱することが明らかになりました。",
     "ids": [
      "68e5bd52ec29293a",
-     "b51522a452dce620",
-     "41216b902c3fb970"
+     "b51522a452dce620"
     ]
    },
    {
-    "text": "Green DayのフロントマンであるBillie Joe Armstrongが、アルバニーのライブハウス「Ivy Room」を大好きな演奏場所として挙げる理由について語っています。",
+    "text": "Green DayのフロントマンBillie Joe Armstrongが、お気に入りのライブハウスについて語る話題が伝えられています。",
     "ids": [
      "e02c68047a62d563"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-22T13:18:44.972668+09:00",
-  "generated_at": "2026-10-25T13:18:46.779700+09:00",
+  "from": "2026-10-22T20:09:41.270720+09:00",
+  "generated_at": "2026-10-25T20:09:42.694571+09:00",
   "article_count": 24,
-  "sig": "d15de24c7974"
+  "sig": "cdd0a51e491c"
  },
  "items": [
+  {
+   "id": "3bc8ccec3cbda818",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/blink-182-were-named-sonic-temple-headliners-in-columbus-on-22-october/70408205",
+   "title_original": "Blink-182 were named Sonic Temple headliners in Columbus on 22 October",
+   "source": "ad-hoc-news.de",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403761_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-25T08:33:14+00:00",
+   "title_ja": "Blink-182、米フェス「Sonic Temple」のヘッドライナーに決定",
+   "summary_ja": "Blink-182が、米オハイオ州コロンバスで開催されるフェスティバル「Sonic Temple」のヘッドライナーを務めることが決定した。10月22日に出演が発表されている。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "3adfde32ed998a5b",
    "url": "https://www.wecb.fm/my-chemical-romance-releases-someone-out-there-loves-you",
