@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T05:34:23.468204+09:00",
+ "updated_at": "2026-10-25T13:17:54.623087+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -213,6 +213,7 @@
   "WBEZ Chicago",
   "WDHA FM",
   "WEBN",
+  "WECB",
   "WIXY.com |",
   "WKFR",
   "WMNF",
@@ -235,7 +236,6 @@
   "amass",
   "antiMusic",
   "aol.com",
-  "article.auone.jp",
   "azat.tv",
   "backseatmafia.com",
   "chaoszine.net",
@@ -245,7 +245,6 @@
   "dispatch.com",
   "durhamregion.com",
   "femalefirst.co.uk",
-  "happymag.tv",
   "hercampus.com",
   "hoodline.com",
   "https://rocknloadmag.com/",
@@ -258,7 +257,6 @@
   "lamag.com",
   "lambgoat.com",
   "live in limbo",
-  "lmusic.tokyo",
   "loudwire.com",
   "lpm.org",
   "mdcthereporter.com",
@@ -291,13 +289,21 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 390,
- "detail_count": 288,
+ "count": 386,
+ "detail_count": 285,
  "digest": {
-  "headline": "パンク・ロック界の最新ニュース：Blink-182、MCRほか",
+  "headline": "パンク・ロック界の最新ニュース：MCR、Blink-182、Green Dayな",
   "points": [
    {
-    "text": "Blink-182は新レーベル契約やアグレッシブな新作アルバムの準備を進め、Sonic Temple 2027やGraspop 2027への出演が決定した。",
+    "text": "My Chemical Romanceが新曲「Someone Out There Loves You」を発表したほか、名盤の20周年記念デラックス盤のリリースやライブを行っています。",
+    "ids": [
+     "3adfde32ed998a5b",
+     "2ecee84d2382112f",
+     "659f6a191b57d877"
+    ]
+   },
+   {
+    "text": "Blink-182は新レーベル契約を結び、スラッシーで勢いのあるパンク路線を目指した新作アルバムを準備中のほか、Graspop 2027やSonic Temple 2027への出演が決定しています。",
     "ids": [
      "550d1a1cd50806e8",
      "3068f9066bb6572d",
@@ -305,15 +311,7 @@
     ]
    },
    {
-    "text": "My Chemical Romanceは『The Black Parade』の20周年記念デラックス盤リリースやハリウッド・ボウルでの公演を行った一方、ライブ演出を巡る法的措置にも直面している。",
-    "ids": [
-     "2ecee84d2382112f",
-     "659f6a191b57d877",
-     "0207d0846ff7be9f"
-    ]
-   },
-   {
-    "text": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題を理由にライブツアー活動から一時離脱することが明らかになった。",
+    "text": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題を理由にライブツアー活動から一時離脱することが明らかになりました。",
     "ids": [
      "68e5bd52ec29293a",
      "b51522a452dce620",
@@ -321,19 +319,39 @@
     ]
    },
    {
-    "text": "Green DayのフロントマンであるBillie Joe Armstrongが、お気に入りのライブハウスとしてアルバニーのIvy Roomについて語った。",
+    "text": "Green DayのフロントマンであるBillie Joe Armstrongが、アルバニーのライブハウス「Ivy Room」を大好きな演奏場所として挙げる理由について語っています。",
     "ids": [
      "e02c68047a62d563"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-22T05:35:11.185526+09:00",
-  "generated_at": "2026-10-25T05:35:13.253734+09:00",
+  "from": "2026-10-22T13:18:44.972668+09:00",
+  "generated_at": "2026-10-25T13:18:46.779700+09:00",
   "article_count": 24,
-  "sig": "4517261d9412"
+  "sig": "d15de24c7974"
  },
  "items": [
+  {
+   "id": "3adfde32ed998a5b",
+   "url": "https://www.wecb.fm/my-chemical-romance-releases-someone-out-there-loves-you",
+   "title_original": "My Chemical Romance releases “Someone Out There Loves You”",
+   "source": "WECB",
+   "image": "https://www.wecb.fm/wp-content/uploads/2026/10/My-Chemical-Romance-releases-Someone-Out-There-Loves-You.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-25T02:27:14+00:00",
+   "title_ja": "My Chemical Romanceが新曲「Someone Out There Loves You」を発表",
+   "summary_ja": "My Chemical Romanceが新曲「Someone Out There Loves You」をリリースした。話題の新曲発表としてファンの間で大きな注目を集めている。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "0207d0846ff7be9f",
    "url": "https://www.theprp.com/2026/10/24/news/my-chemical-romance-hit-with-legal-action-over-recent-onstage-depictions-of-dallas-cowboys-cheerleaders",
@@ -366,26 +384,6 @@
    "title_ja": "My Chemical Romanceに対しダラス・カウボーイズ・チアリーダーズが法的措置",
    "summary_ja": "ダラス・カウボーイズ・チアリーダーズがMy Chemical Romanceに対して法的手続きを開始したことが報じられた。",
    "category": "メンバー・発言",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "940bc6ab75fb5d6e",
-   "url": "https://news.ssbcrack.com/cowboys-cheerleaders-demand-action-against-my-chemical-romance-over-controversial-concert-segment",
-   "title_original": "Cowboys Cheerleaders Demand Action Against My Chemical Romance Over Controversial Concert Segment",
-   "source": "SSBCrack",
-   "image": "https://news.ssbcrack.com/wp-content/uploads/2026/10/Cowboys-Cheerleaders-Demand-Action-Against-My-Chemical-Romance-Over-Controversial.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-24T15:35:36+00:00",
-   "title_ja": "MCRのコンサート演出巡りチアチームが問題視",
-   "summary_ja": "ダラス・カウボーイズ・チアリーダーズが、My Chemical Romanceの物議を醸すコンサートの演出について対応を要求している。",
-   "category": "その他",
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
@@ -8342,87 +8340,6 @@
    ],
    "japan": false,
    "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "3b77cc977f1af4dd",
-   "url": "https://www.punknews.org/article/89075/my-chemical-romance-announce-20th-anniversary-black-parade-reissue",
-   "title_original": "My Chemical Romance announce 20th anniversary 'Black Parade' reissue",
-   "source": "Punknews.org",
-   "image": "https://static.punknews.org/images/bands/mychemicalromance-1789132098.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-11T13:30:01+00:00",
-   "title_ja": "My Chemical Romance、『The Black Parade』20周年記念盤を発表",
-   "summary_ja": "My Chemical Romanceが名盤『The Black Parade』の発売20周年を記念したリイシュー盤のリリースを発表した。",
-   "category": "再発・記念盤",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "d588ebb0fcaeda76",
-   "url": "https://happymag.tv/weezer-the-gathering-tour-setlist-2026",
-   "title_original": "Here is the setlist for Weezer's 'The Gathering' tour 2026 -",
-   "source": "happymag.tv",
-   "image": "https://happymag.tv/wp-content/uploads/2026/09/weezer.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-11T05:35:48+00:00",
-   "title_ja": "Weezerの2026年ツアー『The Gathering』セットリスト",
-   "summary_ja": "2026年に開催されているWeezerの『The Gathering』ツアーにおける、実際のセットリストの情報を公開。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "85a3a5ac377361e8",
-   "url": "https://article.auone.jp/article/906231f6-8286-438c-805a-5d43550e6e1a",
-   "title_original": "中古300円で買ったGreen Dayの『Dookie』⇒ 歌詞カードを開いたら…〝お宝発見〟30年前のライブチケットに「タイムスリップ感が味わえる」と反響続々",
-   "source": "article.auone.jp",
-   "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/11/https___news_jp_i_1470978281147531361.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T04:45:10+00:00",
-   "title_ja": "Green Dayの名盤『Dookie』の中古盤から30年前のライブ券を発見",
-   "summary_ja": "中古で購入したGreen Dayのアルバム『Dookie』の歌詞カードから、30年前のライブチケットが見つかり、当時の雰囲気が味わえるとSNSで話題を集めている。",
-   "category": "その他",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "fd5fb8abc95af118",
-   "url": "https://lmusic.tokyo/news/314035",
-   "title_original": "Billie Joe Armstrongら、Ramonesのトリビュート・ライヴを行う",
-   "source": "lmusic.tokyo",
-   "image": "https://lmusic.tokyo/wp-content/uploads/2026/09/Green-Day.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T03:50:15+00:00",
-   "title_ja": "Billie Joe ArmstrongらがRamonesのトリビュート公演を開催",
-   "summary_ja": "Green DayのBillie Joe Armstrongらが、伝説的パンクバンドRamonesの楽曲を演奏するトリビュート・ライヴを行うことが明らかになった。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong",
-    "Ramones"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   }
  ]
