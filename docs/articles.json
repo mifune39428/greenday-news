@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T00:56:35.831259+09:00",
+ "updated_at": "2026-10-26T05:41:33.495912+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -71,6 +71,7 @@
   "Far Out Magazine",
   "Flagpole",
   "Forbes",
+  "Foro3D",
   "Glide Magazine",
   "Guitar World",
   "Guitar.com",
@@ -99,6 +100,7 @@
   "Lambgoat",
   "Lexington Herald Leader",
   "Live Music Blog",
+  "Los Angeles Daily News",
   "Los Angeles Times",
   "Loud Hailer Magazine",
   "Louder",
@@ -119,6 +121,7 @@
   "Music In Minnesota",
   "Music Wee",
   "MusicRadar",
+  "NBC News",
   "NME",
   "NME Japan",
   "NYS Music",
@@ -172,7 +175,6 @@
   "Sports Illustrated",
   "Star Tribune",
   "Stereogum",
-  "TODAY.com",
   "TPI Media Group",
   "TacomaWeekly",
   "That Eric Alper",
@@ -289,21 +291,20 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 387,
- "detail_count": 286,
+ "count": 392,
+ "detail_count": 289,
  "digest": {
-  "headline": "Blink-182、MCR、The Offspringら主要バンドの最新動向まと",
+  "headline": "パンク・ロックシーンの最新動向：MCR訴訟や各バンドの新作・大型フェス出演が続々",
   "points": [
    {
-    "text": "Blink-182は新レーベル契約を結んでスラッシーな新作アルバムを準備中のほか、Graspop 2027やSonic Temple 2027への出演が決定した。",
+    "text": "Green DayのBillie Joe Armstrongがお気に入りのライブハウスについて語ったほか、フェス関連のフライヤー情報が話題となった。",
     "ids": [
-     "550d1a1cd50806e8",
-     "3068f9066bb6572d",
-     "2d7c08ee0aaa76b6"
+     "e02c68047a62d563",
+     "8576f6dba38d9385"
     ]
    },
    {
-    "text": "My Chemical Romanceは新曲「Someone Out There Loves You」の発表や『The Black Parade』の20周年記念デラックス盤リリースに加え、ハリウッド・ボウル公演を開催した。",
+    "text": "My Chemical Romanceの新曲発表や20周年記念デラックス盤のリリース、ハリウッド・ボウル公演の一方で、コンサート衣装を巡る訴訟問題が浮上している。",
     "ids": [
      "3adfde32ed998a5b",
      "2ecee84d2382112f",
@@ -311,28 +312,118 @@
     ]
    },
    {
-    "text": "The OffspringのギタリストNoodlesが健康上の問題でツアー休演を余儀なくされる中、バンドはラスベガスのSEMA Festのヘッドライナーを務めることが発表された。",
+    "text": "Blink-182は新レーベル契約やアグレッシブな新作アルバムの準備を進めるほか、GraspopやSonic Templeなどの大型フェスへのヘッドライナー出演が決定した。",
+    "ids": [
+     "550d1a1cd50806e8",
+     "3068f9066bb6572d",
+     "2d7c08ee0aaa76b6"
+    ]
+   },
+   {
+    "text": "The OffspringはラスベガスのSEMA Festへの出演が決まる一方、ギタリストのNoodlesが健康上の理由でツアーを一時休演することが発表された。",
     "ids": [
      "2b2d7e6d33235bd4",
      "68e5bd52ec29293a"
     ]
    },
    {
-    "text": "My Chemical Romanceに対し、ライブの演出やユニフォームをめぐりダラス・カウボーイズ・チアリーダーズが法的措置を開始したことが報じられている。",
+    "text": "Weezerは名盤の30周年記念映像の公開や大規模なアリーナライブを開催し、ライブ写真ギャラリーも公開された。",
     "ids": [
-     "0207d0846ff7be9f",
-     "e428d6ab89657e4c",
-     "c7e856ff011b87db"
+     "68f4333ebeb125bc",
+     "d277cceca0a09089",
+     "e917fdb831249c5b"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-23T00:57:08.110972+09:00",
-  "generated_at": "2026-10-26T00:57:09.650467+09:00",
+  "from": "2026-10-23T05:42:07.947794+09:00",
+  "generated_at": "2026-10-26T05:42:09.910173+09:00",
   "article_count": 22,
-  "sig": "76c214c16c19"
+  "sig": "1f94c3c76141"
  },
  "items": [
+  {
+   "id": "23ff74496882aef5",
+   "url": "https://www.pastemagazine.com/article/dallas-cowboys-cheerleaders-sue-my-chemical-romance-over-costumes",
+   "title_original": "Dallas Cowboys Cheerleaders sue My Chemical Romance over costumes",
+   "source": "Paste Magazine",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-25T20:12:00+00:00",
+   "title_ja": "My Chemical Romanceが衣装問題で提訴される",
+   "summary_ja": "ダラス・カウボーイズ・チアリーダーズが、My Chemical Romanceのコンサート衣装を巡り提訴したことが報じられた。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Dallas Cowboys Cheerleaders"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "68f4333ebeb125bc",
+   "url": "https://www.thatericalper.com/2026/10/25/watch-weezer-revisit-every-song-on-the-blue-album-in-intimate-30th-anniversary-spotify-performance",
+   "title_original": "Watch Weezer Revisit Every Song On 'The Blue Album' In Intimate 30th Anniversary Spotify Performance",
+   "source": "That Eric Alper",
+   "image": "https://www.thatericalper.com/wp-content/uploads/2026/10/download-2026-10-25T145546.622.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-25T18:56:50+00:00",
+   "title_ja": "Weezerが『The Blue Album』30周年記念映像を公開",
+   "summary_ja": "Weezerが名盤『The Blue Album』の全曲を披露したSpotifyでの30周年記念パフォーマンス映像を公開した。",
+   "category": "映像・映画・書籍",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "8cf461ecc3b39221",
+   "url": "https://www.imdb.com/es/news/ni66079393",
+   "title_original": "My Chemical Romance Sued Over Dallas Cowboys Cheerleaders-Inspired Outfits Worn During Concert",
+   "source": "IMDb",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-25T18:12:55+00:00",
+   "title_ja": "MCRがライブ衣装めぐりチアリーダーズから訴訟沙汰に",
+   "summary_ja": "コンサートで着用した衣装のデザインを巡り、My Chemical Romanceがダラス・カウボーイズ・チアリーダーズから提訴された。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Dallas Cowboys Cheerleaders"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "d277cceca0a09089",
+   "url": "https://www.dailynews.com/2026/10/25/weezer-turns-crypto-com-arena-into-the-ultimate-backyard-party",
+   "title_original": "Weezer turns Crypto.com Arena into the ultimate backyard party",
+   "source": "Los Angeles Daily News",
+   "image": "https://www.dailynews.com/wp-content/uploads/2026/10/LDN-L-WEEZER-1026-01-1.jpg?w=4000&h=2716",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-25T17:38:50+00:00",
+   "title_ja": "WeezerがCrypto.com Arenaで大規模なライブを開催",
+   "summary_ja": "WeezerがCrypto.com Arenaのステージを自宅の裏庭のようなアットホームな空間に変え、ファンを魅了するライブを行った。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "2b2d7e6d33235bd4",
    "url": "https://www.ad-hoc-news.de/unterhaltung/musik/the-offspring-headline-sema-fest-in-las-vegas-on-6-november/70409072",
@@ -414,23 +505,23 @@
    "has_detail": true
   },
   {
-   "id": "e428d6ab89657e4c",
-   "url": "https://www.today.com/news/sports/dallas-cowboys-cheerleaders-legal-action-my-chemical-romance-rcna605391",
-   "title_original": "Dallas Cowboys Cheerleaders Take Legal Action Against Band My Chemical Romance",
-   "source": "TODAY.com",
-   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/dallas-cowboys-mcr-ky-261024-30d886.jpg",
+   "id": "4ef64f0538d1964b",
+   "url": "https://www.nbcnews.com/news/us-news/dallas-cowboys-cheerleaders-seek-legal-action-chemical-romance-rcna605375",
+   "title_original": "Dallas Cowboys Cheerleaders take legal action against My Chemical Romance over onstage costumes",
+   "source": "NBC News",
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261024-Dallas-Cowboys-Cheerleaders-ch-0938-50117b.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-10-24T17:43:39.736000+00:00",
-   "title_ja": "My Chemical Romanceに対しダラス・カウボーイズ・チアリーダーズが法的措置",
-   "summary_ja": "ダラス・カウボーイズ・チアリーダーズがMy Chemical Romanceに対して法的手続きを開始したことが報じられた。",
-   "category": "メンバー・発言",
+   "published": "2026-10-24T15:43:25.384000+00:00",
+   "title_ja": "ダラス・カウボーイズのチアリーダーがMCRのステージ衣装で法的措置",
+   "summary_ja": "ダラス・カウボーイズのチアリーダー側が、ステージ衣装をめぐる問題でMy Chemical Romanceに対して法的な行動を起こしました。",
+   "category": "その他",
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
    ],
    "japan": false,
-   "importance": 3,
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -575,6 +666,27 @@
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "2e49573ae3420f6c",
+   "url": "https://foro3d.com/en/2026/octubre/noodles-de-the-offspring-se-retira-temporalmente-por-un-problema-de-sa.html",
+   "title_original": "Noodles from The Offspring temporarily steps back due to a health issue",
+   "source": "Foro3D",
+   "image": "https://foro3d.com/2026/octubre/imagenes/noodles-de-the-offspring-se-retira-temporalmente-por-un-problema-de-sa.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-23T13:03:46+00:00",
+   "title_ja": "The OffspringのNoodlesが健康上の理由で一時的に活動を控えへ",
+   "summary_ja": "The OffspringのギタリストであるNoodlesが、健康上の問題により一時的にバンドの活動から離脱することが報じられた。（抜粋なしのため見出しから構成）",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "Noodles",
+    "The Offspring"
    ],
    "japan": false,
    "importance": 3,
