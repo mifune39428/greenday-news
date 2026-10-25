@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T20:08:43.928407+09:00",
+ "updated_at": "2026-10-26T00:56:35.831259+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -292,18 +292,10 @@
  "count": 387,
  "detail_count": 286,
  "digest": {
-  "headline": "パンク・ロック界の最新ニュース：MCRの新曲やBlink-182のフェス出演情報",
+  "headline": "Blink-182、MCR、The Offspringら主要バンドの最新動向まと",
   "points": [
    {
-    "text": "My Chemical Romanceが新曲「Someone Out There Loves You」を発表し、名盤の20周年記念盤リリースやライブも話題です。",
-    "ids": [
-     "3adfde32ed998a5b",
-     "2ecee84d2382112f",
-     "659f6a191b57d877"
-    ]
-   },
-   {
-    "text": "Blink-182が新レーベル契約を結び、スラッシーで勢いのある新型アルバムを準備中であるほか、大型フェスへの出演が続々と決定しています。",
+    "text": "Blink-182は新レーベル契約を結んでスラッシーな新作アルバムを準備中のほか、Graspop 2027やSonic Temple 2027への出演が決定した。",
     "ids": [
      "550d1a1cd50806e8",
      "3068f9066bb6572d",
@@ -311,26 +303,56 @@
     ]
    },
    {
-    "text": "The OffspringのギタリストNoodlesが深刻な健康上の問題を理由に、ライブツアー活動から一時離脱することが明らかになりました。",
+    "text": "My Chemical Romanceは新曲「Someone Out There Loves You」の発表や『The Black Parade』の20周年記念デラックス盤リリースに加え、ハリウッド・ボウル公演を開催した。",
     "ids": [
-     "68e5bd52ec29293a",
-     "b51522a452dce620"
+     "3adfde32ed998a5b",
+     "2ecee84d2382112f",
+     "659f6a191b57d877"
     ]
    },
    {
-    "text": "Green DayのフロントマンBillie Joe Armstrongが、お気に入りのライブハウスについて語る話題が伝えられています。",
+    "text": "The OffspringのギタリストNoodlesが健康上の問題でツアー休演を余儀なくされる中、バンドはラスベガスのSEMA Festのヘッドライナーを務めることが発表された。",
     "ids": [
-     "e02c68047a62d563"
+     "2b2d7e6d33235bd4",
+     "68e5bd52ec29293a"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceに対し、ライブの演出やユニフォームをめぐりダラス・カウボーイズ・チアリーダーズが法的措置を開始したことが報じられている。",
+    "ids": [
+     "0207d0846ff7be9f",
+     "e428d6ab89657e4c",
+     "c7e856ff011b87db"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-22T20:09:41.270720+09:00",
-  "generated_at": "2026-10-25T20:09:42.694571+09:00",
-  "article_count": 24,
-  "sig": "cdd0a51e491c"
+  "from": "2026-10-23T00:57:08.110972+09:00",
+  "generated_at": "2026-10-26T00:57:09.650467+09:00",
+  "article_count": 22,
+  "sig": "76c214c16c19"
  },
  "items": [
+  {
+   "id": "2b2d7e6d33235bd4",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/the-offspring-headline-sema-fest-in-las-vegas-on-6-november/70409072",
+   "title_original": "The Offspring headline SEMA Fest in Las Vegas on 6 November",
+   "source": "ad-hoc-news.de",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403764_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-25T13:22:58+00:00",
+   "title_ja": "The Offspring、ラスベガスのSEMA Festに出演へ",
+   "summary_ja": "The Offspringが11月6日にラスベガスで開催されるSEMA Festのヘッドライナーを務めることが発表された。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "3bc8ccec3cbda818",
    "url": "https://www.ad-hoc-news.de/unterhaltung/musik/blink-182-were-named-sonic-temple-headliners-in-columbus-on-22-october/70408205",
@@ -793,27 +815,6 @@
    "detail_tries": 2
   },
   {
-   "id": "b51522a452dce620",
-   "url": "https://www.iheart.com/alternate/amp/2026-10-22-the-offsprings-kevin-noodles-wasserman-steps-away-from-stage-due-to-serious-health-issue",
-   "title_original": "The Offspring's Kevin 'Noodles' Wasserman Steps Away From Stage Due To 'Serious' Health Issue",
-   "source": "iHeart",
-   "image": "https://i.iheart.com/v3/re/assets.getty/6ada1b5e61fe2e0abb401a32?ops=gravity(%22north%22),fit(1200,675),quality(65)",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-22T15:20:00+00:00",
-   "title_ja": "The OffspringのNoodles、深刻な健康問題で一時ライブ離脱へ",
-   "summary_ja": "The OffspringのギタリストであるKevin 'Noodles' Wassermanが、深刻な健康上の問題のためステージ活動から離れることが発表されました。早期の回復とステージ復帰が待たれています。",
-   "category": "メンバー・発言",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring",
-    "Kevin 'Noodles' Wasserman"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
    "id": "d229acd24b2f7714",
    "url": "https://www.ad-hoc-news.de/unterhaltung/musik/weezer-receive-legend-of-live-award-on-10-november/70394470",
    "title_original": "Weezer receive Legend of Live Award on 10 November",
@@ -1005,6 +1006,27 @@
    "has_detail": true
   },
   {
+   "id": "8fd0d6d047dddfce",
+   "url": "https://gekirock.com/news/2026/10/the_offspring_noodles.php",
+   "title_original": "THE OFFSPRINGのギタリスト Noodles、深刻な健康上の問題により当面の間ライヴ活動離脱を発表",
+   "source": "激ロック",
+   "image": "https://gekirock.com/news/2026/10/22/images/FullbandDSC01331_DaveedBenito-EXCLUSIVE.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-22T06:30:00+00:00",
+   "title_ja": "The OffspringのNoodles、深刻な健康問題でライブ活動離脱へ",
+   "summary_ja": "The OffspringのギタリストNoodlesが、深刻な健康上の問題を抱えているため、当面の間ライヴ活動から離脱することを発表した。ファンに衝撃を与えている。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "Noodles",
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "41216b902c3fb970",
    "url": "https://news.yahoo.co.jp/articles/0484814b70f45ff30532bc5322b3f703260dc91a",
    "title_original": "「オフスプリング」ギタリスト・ヌードルズ 当面活動休止「深刻な健康上の問題に対処するため」（スポニチアネックス）",
@@ -1104,27 +1126,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6905c0b8ed501ce0",
-   "url": "https://themusicuniverse.com/the-offspring-guitarist-noodles-to-step-away-due-to-serious-health-issue",
-   "title_original": "The Offspring guitarist Noodles to step away due to ‘serious health issue’",
-   "source": "The Music Universe",
-   "image": "https://themusicuniverse.com/wp-content/uploads/2025/10/offspringtour26.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-21T16:41:42+00:00",
-   "title_ja": "The OffspringのNoodlesが健康上の理由でライブ活動を一時休止",
-   "summary_ja": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題を理由にライブ活動から一時離脱することを発表した。",
-   "category": "メンバー・発言",
-   "band": "The Offspring",
-   "artists": [
-    "Noodles",
-    "The Offspring"
-   ],
-   "japan": false,
-   "importance": 4,
    "has_detail": true
   },
   {
