@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T13:21:38.940143+09:00",
+ "updated_at": "2026-10-26T21:42:29.344508+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -296,32 +296,33 @@
  "count": 394,
  "detail_count": 293,
  "digest": {
-  "headline": "パンク・ロックシーンの最新動向と各バンドの活動まとめ",
+  "headline": "主要パンクバンドの最新ニュースまとめ",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongが1970年の伝説的ライブや、お気に入りのライブハウスについて語った。",
+    "text": "Green DayのBillie Joe Armstrongが1970年の伝説的ライブについて語ったほか、フェス関連フライヤーが話題となっている。",
     "ids": [
      "ca16acfb6a595443",
-     "e02c68047a62d563"
+     "8576f6dba38d9385"
     ]
    },
    {
-    "text": "My Chemical Romanceは新曲の発表や名盤の20周年記念盤リリース、ハリウッド・ボウル公演を行う一方で、ステージ演出を巡り法的措置を受けている。",
+    "text": "The OffspringのNoodlesが深刻な健康上の問題によりツアー活動を一時離脱し、バンドはラスベガスのSEMA Festに出演予定。",
+    "ids": [
+     "afca188863822a82",
+     "2b2d7e6d33235bd4",
+     "2e49573ae3420f6c"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceは新曲発表や名盤の20周年記念盤をリリースした一方、ステージ衣装を巡り法的措置を受けている。",
     "ids": [
      "3adfde32ed998a5b",
      "2ecee84d2382112f",
-     "659f6a191b57d877"
+     "4ef64f0538d1964b"
     ]
    },
    {
-    "text": "The OffspringのNoodlesが深刻な健康上の問題によりツアー活動を一時離脱し、バンドはラスベガスのSEMA Festに出演予定である。",
-    "ids": [
-     "afca188863822a82",
-     "2b2d7e6d33235bd4"
-    ]
-   },
-   {
-    "text": "Blink-182は新レーベル契約やアグレッシブな新作アルバムの準備を進め、各種フェスのヘッドライナー決定が発表された。",
+    "text": "Blink-182は新レーベル契約や新作アルバムの準備を進め、Graspop 2027やSonic Templeのヘッドライナーに決定した。",
     "ids": [
      "550d1a1cd50806e8",
      "3068f9066bb6572d",
@@ -329,18 +330,19 @@
     ]
    },
    {
-    "text": "Weezerはツアーファイナルを完走し、『The Blue Album』30周年記念映像を公開した。",
+    "text": "Weezerはツアーファイナル公演を成功させ、『The Blue Album』30周年記念のパフォーマンス映像を公開した。",
     "ids": [
      "bc310dd9bb123109",
-     "68f4333ebeb125bc"
+     "68f4333ebeb125bc",
+     "d277cceca0a09089"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-23T13:23:22.722536+09:00",
-  "generated_at": "2026-10-26T13:23:24.563211+09:00",
-  "article_count": 24,
-  "sig": "8a70da418242"
+  "from": "2026-10-23T21:43:56.994009+09:00",
+  "generated_at": "2026-10-26T21:44:26.180560+09:00",
+  "article_count": 22,
+  "sig": "58fc4d29f520"
  },
  "items": [
   {
@@ -1403,7 +1405,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4b6ca901585cca27",
