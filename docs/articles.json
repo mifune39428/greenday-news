@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T21:42:29.344508+09:00",
+ "updated_at": "2026-10-27T07:33:22.939176+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -54,6 +54,7 @@
   "California.com",
   "CelebrityAccess",
   "Chaoszine",
+  "Cleveland Scene",
   "Consequence",
   "Creative Loafing Tampa",
   "Creepy Catalog",
@@ -74,6 +75,7 @@
   "Forbes",
   "Foro3D",
   "Glide Magazine",
+  "Global News",
   "Guitar World",
   "Guitar.com",
   "HEAVY Magazine",
@@ -133,6 +135,7 @@
   "New Noise Magazine",
   "Noise11",
   "Northern Transmissions",
+  "Official Charts",
   "Oh No They Didn't! — LiveJournal",
   "OnMilwaukee",
   "Orlando Sentinel",
@@ -166,18 +169,16 @@
   "Rolling Stone",
   "Rolling Stone Japan(ローリングストーン ジャパン）",
   "RouteNote",
+  "SB Nation",
   "SFGATE",
   "SSBCrack",
-  "Sada Elbalad english",
   "San Bernardino Sun",
   "SanDiegoVille",
   "Secret Los Angeles",
   "Sonic Perspectives",
-  "Spectrum Culture",
   "Sports Illustrated",
   "Star Tribune",
   "Stereogum",
-  "TPI Media Group",
   "TacomaWeekly",
   "That Eric Alper",
   "The Aquarian",
@@ -199,7 +200,6 @@
   "The Oakland Press",
   "The Oarsman",
   "The PRP",
-  "The Real Deal",
   "The Red & Black",
   "The Rock Revival",
   "The Showbiz Journal",
@@ -213,7 +213,6 @@
   "V13 Media",
   "VICE",
   "Variety",
-  "Vulture",
   "WBEZ Chicago",
   "WDHA FM",
   "WEBN",
@@ -229,6 +228,7 @@
   "Washington Examiner",
   "We Write About Music",
   "Western Mass News",
+  "Wikimetal",
   "Worthplaying",
   "XS ROCK",
   "Yahoo",
@@ -278,73 +278,232 @@
   "rova",
   "sfchronicle.com",
   "superdeluxeedition.com",
-  "themusic.com.au",
   "theneedledrop.com",
   "thepost.co.nz",
-  "theriffreport.co.uk",
   "trillmag.com",
   "uDiscoverMusic",
   "ubspectrum.com",
   "v13.net",
-  "vijesti.me",
   "wfmd.com",
   "شبكة تواصل الإخبارية",
   "山陽新聞デジタル｜さんデジ",
   "激ロック",
   "씨네플레이"
  ],
- "count": 394,
- "detail_count": 293,
+ "count": 388,
+ "detail_count": 292,
  "digest": {
-  "headline": "主要パンクバンドの最新ニュースまとめ",
+  "headline": "MCR新作やBlink-182フェス出演などパンク・ロック界の最新ニュース",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongが1970年の伝説的ライブについて語ったほか、フェス関連フライヤーが話題となっている。",
+    "text": "My Chemical Romanceは新曲「Someone Out There Loves You」を発表したほか、名盤の20周年盤がUKチャートで首位を狙う好調な動きを見せている。",
     "ids": [
-     "ca16acfb6a595443",
-     "8576f6dba38d9385"
+     "90acdeb88f59fd25",
+     "3adfde32ed998a5b"
     ]
    },
    {
-    "text": "The OffspringのNoodlesが深刻な健康上の問題によりツアー活動を一時離脱し、バンドはラスベガスのSEMA Festに出演予定。",
+    "text": "Blink-182は新レーベル契約や新作アルバムの準備を進める中、「Sonic Temple」や「Graspop Metal Meeting」といった大型フェスのヘッドライナーに決定した。",
+    "ids": [
+     "08f0f678182f54ea",
+     "550d1a1cd50806e8",
+     "3068f9066bb6572d"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceのステージ演出や衣装を巡り、ダラス・カウボーイズのチアリーダー側から商標権侵害や法的措置が取られていることが複数報じられている。",
+    "ids": [
+     "4ef64f0538d1964b",
+     "acca1973eecff3c8",
+     "c9e64c554e5237ad"
+    ]
+   },
+   {
+    "text": "The OffspringのギタリストであるNoodlesが深刻な健康上の問題によりライブ活動の一時離脱を発表したほか、バンドはSEMA Festへの出演を控えている。",
     "ids": [
      "afca188863822a82",
-     "2b2d7e6d33235bd4",
-     "2e49573ae3420f6c"
+     "2b2d7e6d33235bd4"
     ]
    },
    {
-    "text": "My Chemical Romanceは新曲発表や名盤の20周年記念盤をリリースした一方、ステージ衣装を巡り法的措置を受けている。",
+    "text": "Green DayのBillie Joe Armstrongがタイムマシンで行きたい1970年の伝説的ライブについて語ったほか、WeezerやBlink-182、NOFXなどの話題が伝えられている。",
     "ids": [
-     "3adfde32ed998a5b",
-     "2ecee84d2382112f",
-     "4ef64f0538d1964b"
-    ]
-   },
-   {
-    "text": "Blink-182は新レーベル契約や新作アルバムの準備を進め、Graspop 2027やSonic Templeのヘッドライナーに決定した。",
-    "ids": [
-     "550d1a1cd50806e8",
-     "3068f9066bb6572d",
-     "2d7c08ee0aaa76b6"
-    ]
-   },
-   {
-    "text": "Weezerはツアーファイナル公演を成功させ、『The Blue Album』30周年記念のパフォーマンス映像を公開した。",
-    "ids": [
-     "bc310dd9bb123109",
-     "68f4333ebeb125bc",
-     "d277cceca0a09089"
+     "ca16acfb6a595443"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-23T21:43:56.994009+09:00",
-  "generated_at": "2026-10-26T21:44:26.180560+09:00",
-  "article_count": 22,
-  "sig": "58fc4d29f520"
+  "from": "2026-10-24T07:34:36.247315+09:00",
+  "generated_at": "2026-10-27T07:34:38.478535+09:00",
+  "article_count": 24,
+  "sig": "42128407a7dc"
  },
  "items": [
+  {
+   "id": "9aca4edde438331f",
+   "url": "https://www.imdb.com/it/news/ni49118720",
+   "title_original": "Yale Rep Announces 2013-14 Season, Including Billie Joe Armstrong's Much Ado About Nothing Musical",
+   "source": "IMDb",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T19:27:37+00:00",
+   "title_ja": "イェール・レプがBillie Joe参加のミュージカルを発表",
+   "summary_ja": "イェール・レプが2013-14年シーズンを発表し、Billie Joe Armstrongが参加する「から騒ぎ」のミュージカルが含まれている。",
+   "category": "映像・映画・書籍",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "acca1973eecff3c8",
+   "url": "https://globalnews.ca/news/12121497/my-chemical-romance-faces-legal-action-dallas-cowboys-cheerleaders-pro-silver-star",
+   "title_original": "My Chemical Romance faces legal action over Dallas Cowboys Cheerleaders stunt",
+   "source": "Global News",
+   "image": "https://globalnews.ca/wp-content/uploads/2026/10/my-chemical-romance-dallas-cowboys-cheerleaders-lawsuit.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T19:14:04+00:00",
+   "title_ja": "MCR、ダラスのチアリーダー関連の演出で法的手続きに直面",
+   "summary_ja": "My Chemical Romanceがダラス・カウボーイズ・チアリーダーに関する演出を理由に法的措置を受けている。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c9e64c554e5237ad",
+   "url": "https://www.sbnation.com/nfl/1133829/dallas-cowboys-cheerleaders-sue-my-chemical-romance",
+   "title_original": "Dallas Cowboys cheerleaders sue My Chemical Romance over brand infringement",
+   "source": "SB Nation",
+   "image": "https://platform.sbnation.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-2.16.05-PM.png?quality=90&strip=all&crop=0%2C0.12362822265833%2C100%2C99.752743554683&w=1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T18:56:04+00:00",
+   "title_ja": "ダラスのチアリーダーがMCRを商標侵害で提訴",
+   "summary_ja": "ダラス・カウボーイズのチアリーダーたちが、ブランドの商標権を侵害されたとしてMy Chemical Romanceを提訴した。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "437b6dd1ea3a3802",
+   "url": "https://www.wikimetal.com.br/en/my-chemical-romance-faces-lawsuit-over-costumes-used-in-show",
+   "title_original": "My Chemical Romance faces lawsuit over costumes used in concert",
+   "source": "Wikimetal",
+   "image": "https://www.wikimetal.com.br/wp-content/uploads/2026/01/my-chemical-romance.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T16:46:58+00:00",
+   "title_ja": "My Chemical Romanceがライブ衣装を巡り提訴される",
+   "summary_ja": "My Chemical Romanceがコンサートで使用した衣装を巡り、法的紛争に直面していることが明らかになった。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "622f15545c9d624a",
+   "url": "https://www.kerrang.com/film-review-nofx-40-years-of-fuckin-up",
+   "title_original": "Film review: NOFX: 40 Years Of Fuckin’ Up",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/2026/10/nofx-movie-header-2026.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1793030010&s=42c0a2d6d0c9842699920f835dce76f2",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T15:56:00+00:00",
+   "title_ja": "ドキュメンタリー映画『NOFX: 40 Years Of Fuckin’ Up』のレビュー",
+   "summary_ja": "40年の歴史を持つNOFXの軌跡を描いたドキュメンタリー映画『NOFX: 40 Years Of Fuckin’ Up』の内容を振り返るレビュー記事。",
+   "category": "映像・映画・書籍",
+   "band": "NOFX",
+   "artists": [
+    "NOFX"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "08f0f678182f54ea",
+   "url": "https://www.bigcountrynewsconnection.com/blink-182-korn-iron-maiden-falling-in-reverse-to-headline-sonic-temple-2027",
+   "title_original": "Blink-182, Korn, Iron Maiden, Falling in Reverse to headline Sonic Temple 2027",
+   "source": "Big Country News |",
+   "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2801/2026/10/26083014/shutterstock_2366628355-1337989.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T15:30:14+00:00",
+   "title_ja": "Sonic Temple 2027のヘッドライナーが発表",
+   "summary_ja": "Blink-182やKornらが、2027年に開催されるフェス「Sonic Temple」のヘッドライナーを務めることが発表された。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Korn",
+    "Iron Maiden",
+    "Falling in Reverse"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "b7f14c179a16398f",
+   "url": "https://chorus.fm/linked/mark-hoppus-talks-bass-and-blink-182",
+   "title_original": "Mark Hoppus Talks Bass and Blink-182",
+   "source": "chorus.fm",
+   "image": "https://chorus.fm/wp-content/uploads/2017/03/mark-hoppus.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T15:16:56+00:00",
+   "title_ja": "Mark HoppusがベースとBlink-182について語る",
+   "summary_ja": "Blink-182のMark Hoppusがインタビューに応じ、自身のベースプレイやバンドの活動について語っている。",
+   "category": "メンバー・発言",
+   "band": "Blink-182",
+   "artists": [
+    "Mark Hoppus",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "60f0c9a08598ec8f",
+   "url": "https://www.clevescene.com/music/music-news/photos-dropkick-murphys-rally-around-brian-poindexter-in-brook-park",
+   "title_original": "Photos: Dropkick Murphys Rally Around Brian Poindexter in Brook Park",
+   "source": "Cleveland Scene",
+   "image": "https://www.clevescene.com/wp-content/uploads/2026/10/BML_Photography_263977_RT_Working-Class-Rally_UAW-Hall_Brookpark_10_23_2026_LR-scaled.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T14:37:19+00:00",
+   "title_ja": "Dropkick Murphysのブルックパーク公演ライブ写真",
+   "summary_ja": "ブルックパークにてBrian Poindexterを囲んで開催されたDropkick Murphysのライブの様子を捉えた写真が公開された。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys",
+    "Brian Poindexter"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "bc310dd9bb123109",
    "url": "https://dailybruin.com/2026/10/25/concert-review-weezer-leans-into-its-classics-at-sold-out-crypto-com-arena-to-close-the-gathering-tour",
@@ -403,6 +562,26 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "90acdeb88f59fd25",
+   "url": "https://www.officialcharts.com/chart-news/my-chemical-romance-the-black-parade-number-1-album-update",
+   "title_original": "My Chemical Romance look to earn first-ever Number 1 album with The Black Parade following 20th anniversary reissue",
+   "source": "Official Charts",
+   "image": "https://backstage.officialcharts.com/sites/default/files/2026-10/my-chemical-romance-the-black-parade-number-1-album-update.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T00:00:00+00:00",
+   "title_ja": "MCR『The Black Parade』20周年盤で初の首位浮上か",
+   "summary_ja": "My Chemical Romanceの名盤『The Black Parade』の20周年記念再発盤が、UKチャートでバンド初となる1位獲得を目指して好調な動きを見せている。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -485,27 +664,6 @@
    ],
    "japan": false,
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "5f9b0d75be5468ff",
-   "url": "https://www.yahoo.com/entertainment/music/articles/chemical-romance-faces-legal-action-155555014.html",
-   "title_original": "My Chemical Romance Faces Legal Action From Cowboys Cheerleaders Over Using Likeness During Hollywood Bowl Concert",
-   "source": "Yahoo",
-   "image": "https://s.yimg.com/lo/mysterio/api/b59ea210741a044df24073f69b9de59b753cf2afa2e4f13b34907258b9e02039/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F1ee79f4b4d8dba1027d581204dbebdc1.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-25T15:55:55+00:00",
-   "title_ja": "My Chemical Romance、Hollywood Bowl公演の演出を巡り提訴",
-   "summary_ja": "My Chemical RomanceがHollywood Bowl公演にて衣装などの肖像を用いた演出を行ったとして、Cowboys Cheerleaders側から法的措置を起こされていることが判明した。",
-   "category": "その他",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "Cowboys Cheerleaders"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   },
   {
@@ -8227,294 +8385,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "96df7be4398c4147",
-   "url": "https://therealdeal.com/san-francisco/2026/09/14/oakland-music-studio-with-green-day-history-up-for-sale",
-   "title_original": "“American Idiot”: Oakland recording studio with Green Day history hits market",
-   "source": "The Real Deal",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T17:34:00+00:00",
-   "title_ja": "Green Dayゆかりのオークランドのスタジオが売り出し中",
-   "summary_ja": "Green Dayの歴史が刻まれたオークランドのレコーディングスタジオ物件が不動産市場に登場し、話題を集めています。",
-   "category": "その他",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "823d68ddea1d0c4a",
-   "url": "https://stereogum.com/2511311/my-chemical-romance-tease-new-album-bring-out-king-diamond/news",
-   "title_original": "My Chemical Romance Tease New Album, Bring Out King Diamond",
-   "source": "Stereogum",
-   "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/09/mcr.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T15:43:04+00:00",
-   "title_ja": "My Chemical Romanceが新アルバムを匂わせKing Diamondが登場",
-   "summary_ja": "My Chemical Romanceが新作アルバムの匂わせを行うとともに、ステージにKing Diamondを迎え入れたことが報じられている。バンドの今後の展開やライブ演出について話題となっている。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "King Diamond"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "55fa71e06a084b02",
-   "url": "https://www.tpimediagroup.org/sports/national/urban-outfitters-announces-uo-game-day-2026-campus-tour-with-alison-wonderland-the-linda-lindas/article_95f9d72a-0715-5604-8aea-449649e39b74.html",
-   "title_original": "URBAN OUTFITTERS ANNOUNCES UO GAME DAY 2026 CAMPUS TOUR WITH ALISON WONDERLAND, THE LINDA LINDAS, MACK KEANE, AND MORE",
-   "source": "TPI Media Group",
-   "image": "https://bloximages.chicago2.vip.townnews.com/tpimediagroup.org/content/tncms/assets/v3/editorial/8/f5/8f57133b-85af-5b83-8040-ab8cea921f36/6aa801cc726f3.image.jpg?crop=1177%2C618%2C0%2C571",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T14:00:00+00:00",
-   "title_ja": "The Linda Lindas出演のキャンパスツアー発表",
-   "summary_ja": "Urban Outfittersが主催する2026年のキャンパスツアー「UO Game Day」にThe Linda Lindasらの出演が発表されました。",
-   "category": "ライブ・ツアー",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas",
-    "Alison Wonderland",
-    "Mack Keane"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6d21f69cf7b99d51",
-   "url": "https://see.news/my-chemical-romance-tease-new-album-you-guys-deserve-another-record",
-   "title_original": "My Chemical Romance Tease New Album: 'You Guys Deserve Another Record'",
-   "source": "Sada Elbalad english",
-   "image": "https://i2.wp.com/see.news/images/2026/09/gerard-way-1789381802-0.jpg?resize=920%2C550&ssl=1",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T13:30:08+00:00",
-   "title_ja": "My Chemical Romanceが新アルバムを予告「君たちには新しい作品が必要だ」",
-   "summary_ja": "My Chemical Romanceがファンに向けて新たなアルバムのリリースをにおわせ、「君たちにはもう一枚のレコードが必要だ」と語った。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "aeba4b4b27257262",
-   "url": "https://www.pastemagazine.com/music/weezer/weezer-digital-cover-story-september-2026",
-   "title_original": "Weezer has outlived the jokes",
-   "source": "Paste Magazine",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T13:00:00+00:00",
-   "title_ja": "Weezerの歩みと現在の立ち位置を振り返る",
-   "summary_ja": "Weezerがこれまでの道のりを経て、過去のジョークや偏見を超えた独自のキャリアを築き上げてきたことを伝えています。",
-   "category": "その他",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "9f14c2adb325fc0d",
-   "url": "https://theriffreport.co.uk/%F0%9F%8E%B8-fall-out-boys-joe-trohman-to-miss-2025-touring-im-not-okay-i-promise-%F0%9F%98%AD%F0%9F%A4%98",
-   "title_original": "🎸 FALL OUT BOY’S JOE TROHMAN TO MISS 2025 TOURING – “I’M NOT OKAY, I PROMISE” 😭🤘",
-   "source": "theriffreport.co.uk",
-   "image": "https://theriffreport.co.uk/wp-content/uploads/2025/07/Joe-Trohman-Steps-Back-from-Tour-1.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T07:00:00+00:00",
-   "title_ja": "Fall Out BoyのJoe Trohmanが2025年のツアーを欠場",
-   "summary_ja": "Fall Out BoyのギタリストであるJoe Trohmanが、2025年のツアーを欠場することを自身のSNSで発表した。体調面や精神的な健康を最優先にするための判断としてファンに報告されている。",
-   "category": "メンバー・発言",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Joe Trohman",
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "9d4655968823e27f",
-   "url": "https://music.mxdwn.com/2026/09/13/news/my-chemical-romance-invite-king-diamond-onstage-for-performance-of-mama-tease-potential-new-album/amp",
-   "title_original": "My Chemical Romance Invite King Diamond Onstage For Performance Of “Mama,” Tease Potential New Album",
-   "source": "mxdwn Music",
-   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2025/07/my-chemical-romance_owen-ela_07272025-2.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T06:54:17+00:00",
-   "title_ja": "My Chemical RomanceがライブでKing Diamondと共演し新作を匂わせる",
-   "summary_ja": "My Chemical RomanceがステージにKing Diamondを招いて「Mama」を共演し、あわせて新たなアルバムの可能性についても言及した。（114文字）",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "King Diamond"
-   ],
-   "japan": false,
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "bb4b4a158424c706",
-   "url": "https://spectrumculture.com/2026/09/13/concert-review-weezer-3",
-   "title_original": "Concert Review: Weezer",
-   "source": "Spectrum Culture",
-   "image": "https://spectrumculture.com/wp-content/uploads/2026/09/3f23be10-9cef-4f7f-9cc5-5ee6c4d1e3d7-e1789336154538.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T05:05:22+00:00",
-   "title_ja": "Weezerの最新コンサートの模様を伝える海外レビュー",
-   "summary_ja": "Weezerによる白熱したライブステージの様子が海外の音楽メディアによって詳細にレビューされています。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "cbdac3c38393a7a0",
-   "url": "https://www.vulture.com/article/my-chemical-romance-new-album.html",
-   "title_original": "Gerard Way Teases First New My Chemical Romance Album in 16 Years",
-   "source": "Vulture",
-   "image": "https://pyxis.nymag.com/v1/imgs/55d/24e/db4d604603e9188a8a8de5713d8309efc6-my-chem.2x.rsocial.w600.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T01:20:21.953000+00:00",
-   "title_ja": "Gerard Wayが16年ぶりとなる新作の可能性をほのめかす",
-   "summary_ja": "My Chemical RomanceのGerard Wayが、実に16年ぶりとなるニューアルバムのリリースを示唆する発言を行いました。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "Gerard Way"
-   ],
-   "japan": false,
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "849a84e402744e5a",
-   "url": "https://www.billboard.com/music/music-news/my-chemical-romance-tease-possible-new-album-1236339172",
-   "title_original": "My Chemical Romance Tease Possible New Album During Tour-Closing Show",
-   "source": "Billboard",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-13T12:27:05+00:00",
-   "title_ja": "My Chemical Romanceがツアー最終公演で新作をほのめかす",
-   "summary_ja": "My Chemical Romanceがツアーの最終公演にて、新たなアルバムの可能性について匂わせる発言を行った。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "634cfe2ef402008c",
-   "url": "https://en.vijesti.me/fun/muzika/826467/My-Chemical-Romance-hint-at-new-album-after-15-years",
-   "title_original": "My Chemical Romance hints at new album, after 15 years",
-   "source": "vijesti.me",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-13T11:45:53+00:00",
-   "title_ja": "My Chemical Romanceが15年ぶりの新作アルバムを予告",
-   "summary_ja": "My Chemical Romanceが、およそ15年ぶりとなる新しいアルバムのリリースをほのめかしている。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "185a13ac50f2eb31",
-   "url": "https://www.nme.com/news/music/my-chemical-romance-tease-potential-new-album-as-they-wrap-the-black-parade-tour-3968503",
-   "title_original": "My Chemical Romance tease potential new album as they wrap 'Long Live The Black Parade' tour",
-   "source": "nme.com",
-   "image": "https://www.nme.com/wp-content/uploads/2026/09/live-my-chemical-romance.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-13T07:55:15+00:00",
-   "title_ja": "MCRがツアー閉幕時に新アルバムの可能性を匂わせる",
-   "summary_ja": "My Chemical Romanceが「Long Live The Black Parade」ツアーの終了に合わせて、新作の可能性を示唆した。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "cd174bf4f5029fb5",
-   "url": "https://themusic.com.au/news/sum-41-drummer-frank-zummo-performs-sydney-school-students/S8nxX15BQEM/14-09-26",
-   "title_original": "Sum 41 Drummer Frank Zummo Performs With Sydney School Students",
-   "source": "themusic.com.au",
-   "image": "https://media.themusic.com.au/images/standard/news-26/2609-zummo.990x660.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-13T06:57:00+00:00",
-   "title_ja": "Sum 41のドラマーがシドニーの学生と共演",
-   "summary_ja": "Sum 41のドラマーであるFrank Zummoが、シドニーの学校を訪れて生徒たちと一緒にパフォーマンスを披露した。",
-   "category": "その他",
-   "band": "Sum 41",
-   "artists": [
-    "Frank Zummo",
-    "Sum 41"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "d1cce88b8413b997",
-   "url": "https://metalinjection.net/news/king-diamond-my-chemical-romance-mama",
-   "title_original": "WATCH: KING DIAMOND Joins MY CHEMICAL ROMANCE's Final 'Black Parade' Show to Knight Band, Sing \"Mama\"",
-   "source": "Metal Injection",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-12T12:27:11+00:00",
-   "title_ja": "King DiamondがMCRの最終公演にゲスト参加",
-   "summary_ja": "My Chemical Romanceの「Black Parade」最終公演にKing Diamondが参加し、バンドを叙勲したほか「Mama」を共演した。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "King Diamond",
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
    "detail_tries": 2
   }
  ]
