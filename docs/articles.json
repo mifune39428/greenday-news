@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T05:41:33.495912+09:00",
+ "updated_at": "2026-10-26T13:21:38.940143+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -38,7 +38,6 @@
   "100% ROCK MAGAZINE",
   "103.9 Wayne FM",
   "2YOU MAGAZINE",
-  "92.9 WBUF",
   "930 WFMD Free Talk",
   "95.9 The RAT",
   "AD HOC NEWS",
@@ -60,8 +59,10 @@
   "Creepy Catalog",
   "DIY Magazine",
   "DU Clarion",
+  "Daily Bruin",
   "Detroit Metro Times",
   "Diario AS",
+  "Diffuser.fm",
   "Dying Scene",
   "East Bay Times",
   "Entertainment Focus",
@@ -97,6 +98,7 @@
   "KelownaNow",
   "Kerrang!",
   "LADbible",
+  "LAist",
   "Lambgoat",
   "Lexington Herald Leader",
   "Live Music Blog",
@@ -179,7 +181,6 @@
   "TacomaWeekly",
   "That Eric Alper",
   "The Aquarian",
-  "The Business Journals",
   "The Concordian",
   "The Courier-Journal",
   "The Daily Texan",
@@ -205,6 +206,7 @@
   "The Sun Malaysia",
   "The Vanderbilt Hustler",
   "TheWrap",
+  "Thought Catalog",
   "Toronto Guardian",
   "TribLIVE.com",
   "Ultimate Guitar",
@@ -291,20 +293,20 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 392,
- "detail_count": 289,
+ "count": 394,
+ "detail_count": 293,
  "digest": {
-  "headline": "パンク・ロックシーンの最新動向：MCR訴訟や各バンドの新作・大型フェス出演が続々",
+  "headline": "パンク・ロックシーンの最新動向と各バンドの活動まとめ",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongがお気に入りのライブハウスについて語ったほか、フェス関連のフライヤー情報が話題となった。",
+    "text": "Green DayのBillie Joe Armstrongが1970年の伝説的ライブや、お気に入りのライブハウスについて語った。",
     "ids": [
-     "e02c68047a62d563",
-     "8576f6dba38d9385"
+     "ca16acfb6a595443",
+     "e02c68047a62d563"
     ]
    },
    {
-    "text": "My Chemical Romanceの新曲発表や20周年記念デラックス盤のリリース、ハリウッド・ボウル公演の一方で、コンサート衣装を巡る訴訟問題が浮上している。",
+    "text": "My Chemical Romanceは新曲の発表や名盤の20周年記念盤リリース、ハリウッド・ボウル公演を行う一方で、ステージ演出を巡り法的措置を受けている。",
     "ids": [
      "3adfde32ed998a5b",
      "2ecee84d2382112f",
@@ -312,7 +314,14 @@
     ]
    },
    {
-    "text": "Blink-182は新レーベル契約やアグレッシブな新作アルバムの準備を進めるほか、GraspopやSonic Templeなどの大型フェスへのヘッドライナー出演が決定した。",
+    "text": "The OffspringのNoodlesが深刻な健康上の問題によりツアー活動を一時離脱し、バンドはラスベガスのSEMA Festに出演予定である。",
+    "ids": [
+     "afca188863822a82",
+     "2b2d7e6d33235bd4"
+    ]
+   },
+   {
+    "text": "Blink-182は新レーベル契約やアグレッシブな新作アルバムの準備を進め、各種フェスのヘッドライナー決定が発表された。",
     "ids": [
      "550d1a1cd50806e8",
      "3068f9066bb6572d",
@@ -320,39 +329,91 @@
     ]
    },
    {
-    "text": "The OffspringはラスベガスのSEMA Festへの出演が決まる一方、ギタリストのNoodlesが健康上の理由でツアーを一時休演することが発表された。",
+    "text": "Weezerはツアーファイナルを完走し、『The Blue Album』30周年記念映像を公開した。",
     "ids": [
-     "2b2d7e6d33235bd4",
-     "68e5bd52ec29293a"
-    ]
-   },
-   {
-    "text": "Weezerは名盤の30周年記念映像の公開や大規模なアリーナライブを開催し、ライブ写真ギャラリーも公開された。",
-    "ids": [
-     "68f4333ebeb125bc",
-     "d277cceca0a09089",
-     "e917fdb831249c5b"
+     "bc310dd9bb123109",
+     "68f4333ebeb125bc"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-23T05:42:07.947794+09:00",
-  "generated_at": "2026-10-26T05:42:09.910173+09:00",
-  "article_count": 22,
-  "sig": "1f94c3c76141"
+  "from": "2026-10-23T13:23:22.722536+09:00",
+  "generated_at": "2026-10-26T13:23:24.563211+09:00",
+  "article_count": 24,
+  "sig": "8a70da418242"
  },
  "items": [
   {
-   "id": "23ff74496882aef5",
-   "url": "https://www.pastemagazine.com/article/dallas-cowboys-cheerleaders-sue-my-chemical-romance-over-costumes",
-   "title_original": "Dallas Cowboys Cheerleaders sue My Chemical Romance over costumes",
-   "source": "Paste Magazine",
-   "image": "",
+   "id": "bc310dd9bb123109",
+   "url": "https://dailybruin.com/2026/10/25/concert-review-weezer-leans-into-its-classics-at-sold-out-crypto-com-arena-to-close-the-gathering-tour",
+   "title_original": "Concert Review: Weezer leans into its classics at sold-out Crypto.com Arena to close 'The Gathering' tour",
+   "source": "Daily Bruin",
+   "image": "https://wp.dailybruin.com/images/2026/10/ae.weezerconcertreview.SF_.A.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-10-25T20:12:00+00:00",
-   "title_ja": "My Chemical Romanceが衣装問題で提訴される",
-   "summary_ja": "ダラス・カウボーイズ・チアリーダーズが、My Chemical Romanceのコンサート衣装を巡り提訴したことが報じられた。",
+   "published": "2026-10-26T01:28:30+00:00",
+   "title_ja": "Weezerがツアーファイナルで名曲の数々を披露したライブの模様",
+   "summary_ja": "満員のCrypto.com Arenaで行われた「The Gathering」ツアーの最終公演にて、Weezerが往年の名曲を中心に据えたセットリストで観客を魅了した。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "ca16acfb6a595443",
+   "url": "https://faroutmagazine.co.uk/the-legendary-1970-concert-billie-joe-armstrong-would-go-back-in-time-to-see",
+   "title_original": "The legendary 1970 concert Billie Joe Armstrong would go back in time to see: “Poetry in motion”",
+   "source": "Far Out Magazine",
+   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/06/Billie-Joe-Armstrong-Musician-Green-Day-2013-Far-Out-Magazine.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T00:45:00+00:00",
+   "title_ja": "Billie Joe Armstrongがタイムマシンで行きたいと語る1970年の伝説的ライブ",
+   "summary_ja": "Green DayのBillie Joe Armstrongが、過去のタイムマシンで行ってみたい伝説的な1970年のコンサートについて語り、そのステージを絶賛している。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "94e9ea79eb097018",
+   "url": "https://www.ladbible.com/entertainment/music/dallas-cowboys-cheerleaders-legal-action-against-my-chemical-romance-063739-20261026",
+   "title_original": "Dallas Cowboys Cheerleaders owner takes legal action against My Chemical Romance over lookalike uniforms",
+   "source": "LADbible",
+   "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt359e0905da4f67c2/6adea098bd2d6263029360ee/dallas-cowboy-cheerleaders.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T00:42:51.243000+00:00",
+   "title_ja": "ダラス・カウボーイズ・チアリーダーズ側がMCRを提訴",
+   "summary_ja": "ダラス・カウボーイズ・チアリーダーズのオーナーが、My Chemical Romanceのステージ衣装が酷似しているとして法的措置に踏み切った。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f5e304b283774b88",
+   "url": "https://thoughtcatalog.com/sari-moon/2026/10/the-dallas-cowboys-cheerleaders-are-suing-my-chemical-romance-over-a-staged-gunfight-in-lookalike-uniforms",
+   "title_original": "The Dallas Cowboys Cheerleaders Are Suing My Chemical Romance Over a Staged Gunfight in Lookalike Uniforms",
+   "source": "Thought Catalog",
+   "image": "https://thoughtcatalog.com/wp-content/uploads/2026/10/the-dallas-cowboys-cheerleaders-are-suing-my-chemical-romance-over-a-staged-gunf.jpg?w=1536&h=768&crop=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-25T22:05:50+00:00",
+   "title_ja": "Dallas CowboysのチアリーダーがMy Chemical Romanceを提訴",
+   "summary_ja": "Dallas Cowboysのチアリーダー側が、似せたユニフォームでの演出を巡りMy Chemical Romanceを提訴したことが分かった。ステージ上での演出内容に対して法的措置が取られている。",
    "category": "その他",
    "band": "My Chemical Romance",
    "artists": [
@@ -361,7 +422,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "68f4333ebeb125bc",
@@ -384,27 +445,6 @@
    "has_detail": true
   },
   {
-   "id": "8cf461ecc3b39221",
-   "url": "https://www.imdb.com/es/news/ni66079393",
-   "title_original": "My Chemical Romance Sued Over Dallas Cowboys Cheerleaders-Inspired Outfits Worn During Concert",
-   "source": "IMDb",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-25T18:12:55+00:00",
-   "title_ja": "MCRがライブ衣装めぐりチアリーダーズから訴訟沙汰に",
-   "summary_ja": "コンサートで着用した衣装のデザインを巡り、My Chemical Romanceがダラス・カウボーイズ・チアリーダーズから提訴された。",
-   "category": "その他",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "Dallas Cowboys Cheerleaders"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 1
-  },
-  {
    "id": "d277cceca0a09089",
    "url": "https://www.dailynews.com/2026/10/25/weezer-turns-crypto-com-arena-into-the-ultimate-backyard-party",
    "title_original": "Weezer turns Crypto.com Arena into the ultimate backyard party",
@@ -419,6 +459,48 @@
    "band": "Weezer",
    "artists": [
     "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "afca188863822a82",
+   "url": "https://diffuser.fm/ixp/366/p/offspring-noodles-health-issue-statement",
+   "title_original": "The Offspring's Noodles to Step Away From Performing Due to 'Serious Health Issue' - See Statement",
+   "source": "Diffuser.fm",
+   "image": "https://townsquare.media/site/366/files/2026/10/attachment-social-image-366-2026-10-21-12-15-40.jpg?w=1200&q=75&format=natural",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-25T16:38:32.901000+00:00",
+   "title_ja": "The OffspringのNoodles、深刻な健康問題によりツアー活動を一時離脱",
+   "summary_ja": "The OffspringのギタリストであるNoodlesが、深刻な健康上の問題を理由にライブパフォーマンスから一時離脱することを発表した。声明を通じてファンへ報告がなされている。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Noodles"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "5f9b0d75be5468ff",
+   "url": "https://www.yahoo.com/entertainment/music/articles/chemical-romance-faces-legal-action-155555014.html",
+   "title_original": "My Chemical Romance Faces Legal Action From Cowboys Cheerleaders Over Using Likeness During Hollywood Bowl Concert",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/b59ea210741a044df24073f69b9de59b753cf2afa2e4f13b34907258b9e02039/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F1ee79f4b4d8dba1027d581204dbebdc1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-25T15:55:55+00:00",
+   "title_ja": "My Chemical Romance、Hollywood Bowl公演の演出を巡り提訴",
+   "summary_ja": "My Chemical RomanceがHollywood Bowl公演にて衣装などの肖像を用いた演出を行ったとして、Cowboys Cheerleaders側から法的措置を起こされていることが判明した。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Cowboys Cheerleaders"
    ],
    "japan": false,
    "importance": 3,
@@ -502,6 +584,26 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f60660db870f0fad",
+   "url": "https://laist.com/brief/news/los-angeles-activities/linda-lindas-new-album-gotta-get-out",
+   "title_original": "The Linda Lindas",
+   "source": "LAist",
+   "image": "https://scpr.brightspotcdn.com/dims4/default/a270aa6/2147483647/strip/true/crop/4480x2352+0+278/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F04%2F77%2F47db95f14c4da5fd86b7bbae2126%2Fthe-linda-lindas-tour-photo-by-jaxon-whittington.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-24T17:54:00+00:00",
+   "title_ja": "The Linda Lindasの最新情報",
+   "summary_ja": "LAistによるThe Linda Lindasに関する記事の掲載。詳細は本文を参照。",
+   "category": "その他",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 1,
    "has_detail": true
   },
   {
@@ -1282,6 +1384,26 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "b8c678332f57b580",
+   "url": "https://metalinjection.net/news/my-chemical-romance-is-being-sued-by-the-dallas-cowboys-cheerleaders",
+   "title_original": "My Chemical Romance Is Being Taken to Court By the Dallas Cowboys Cheerleaders",
+   "source": "Metal Injection",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-21T07:00:00+00:00",
+   "title_ja": "My Chemical Romanceがチアリーディングチームに提訴される",
+   "summary_ja": "My Chemical Romanceがダラス・カウボーイズのチアリーダーズ側から法的措置を受けたと報じられている。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "4b6ca901585cca27",
@@ -8392,87 +8514,6 @@
    "japan": false,
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "4f1cb4a11623acda",
-   "url": "https://lambgoat.com/news/54810/my-chemical-romance-reveal-more-details-for-20th-anniversary-edition-of-the-black-parade",
-   "title_original": "My Chemical Romance reveal more details for 20th anniversary edition of “The Black Parade”",
-   "source": "Lambgoat",
-   "image": "https://lambgoat.com/cdn/2026/mcr-black-parade-20260911164956.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-12T09:30:00+00:00",
-   "title_ja": "MCR、『The Black Parade』20周年盤の詳細を発表",
-   "summary_ja": "My Chemical Romanceが名盤『The Black Parade』の20周年記念エディションに関するさらなる詳細を明らかにした。",
-   "category": "再発・記念盤",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "3cc5894b4a047047",
-   "url": "https://www.bizjournals.com/sanfrancisco/news/2026/09/11/studio-880-oakland-green-day-sale-jingletown.html",
-   "title_original": "Oakland music studio where Green Day recorded 'American Idiot' hits market for $3.9 million",
-   "source": "The Business Journals",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-11T18:51:00+00:00",
-   "title_ja": "Green Dayのアルバムを録音したオークランドのスタジオが売却へ",
-   "summary_ja": "Green Dayの『American Idiot』などが録音されたオークランドの音楽スタジオが、390万ドルで市場に出された。",
-   "category": "その他",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "cd0098ae58741c64",
-   "url": "https://wbuf.com/ixp/366/p/gerard-way-911-my-chemical-romance",
-   "title_original": "How Gerard Way's Commute on 9/11 Became the Spark for My Chemical Romance",
-   "source": "92.9 WBUF",
-   "image": "https://townsquare.media/site/366/files/2026/09/attachment-social-image-366-2026-09-11-12-13-00.jpg?w=1200&q=75&format=natural",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-11T17:59:57+00:00",
-   "title_ja": "9/11の通勤体験がMy Chemical Romance結成のきっかけに",
-   "summary_ja": "Gerard Wayが同時多発テロ事件当日の通勤中に経験した出来事が、バンドを結成するきっかけとなった背景が語られている。",
-   "category": "メンバー・発言",
-   "band": "My Chemical Romance",
-   "artists": [
-    "Gerard Way",
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d9a51020f70353fd",
-   "url": "https://rockcellarmagazine.com/weezer-concert-review-san-francisco-the-gathering-tour-tiktok-2026",
-   "title_original": "Weezer Brings the People Together on 'The Gathering' Tour (Review)",
-   "source": "Rock Cellar Magazine",
-   "image": "https://rockcellarmagazine.com/wp-content/uploads/2026/09/weezer-chase-center-.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-11T16:04:29+00:00",
-   "title_ja": "Weezerの『The Gathering』ツアー公演レビュー",
-   "summary_ja": "Weezerが展開している『The Gathering』ツアーの公演について、その内容を振り返るレビュー記事が公開された。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
   }
  ]
 }
