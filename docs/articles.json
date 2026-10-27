@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T13:40:43.441083+09:00",
+ "updated_at": "2026-10-27T20:57:14.628332+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -55,6 +55,7 @@
   "CelebrityAccess",
   "Chaoszine",
   "Cleveland Scene",
+  "Columbus Navigator",
   "Consequence",
   "Creative Loafing Tampa",
   "Creepy Catalog",
@@ -73,7 +74,6 @@
   "Far Out Magazine",
   "Flagpole",
   "Forbes",
-  "Foro3D",
   "Glide Magazine",
   "Global News",
   "Guitar World",
@@ -95,6 +95,7 @@
   "KCRW",
   "KLBJ-FM",
   "KQED",
+  "KSBY News",
   "KTVU",
   "KarloBag.eu",
   "KelownaNow",
@@ -228,7 +229,6 @@
   "Washington Examiner",
   "We Write About Music",
   "Western Mass News",
-  "Wikimetal",
   "Worthplaying",
   "XS ROCK",
   "Yahoo",
@@ -290,57 +290,110 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 388,
- "detail_count": 292,
+ "count": 391,
+ "detail_count": 295,
  "digest": {
-  "headline": "パンク・ロックバンドの最新動向とMCRの法的トラブルまとめ",
+  "headline": "MCR再発盤の首位浮上や各バンドの最新動向まとめ",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongが1970年の伝説的ライブについて語ったほか、Billie Joeが参加するミュージカル情報が発表された。",
+    "text": "My Chemical Romanceの名盤『The Black Parade』の再発盤がUKチャートで初の首位獲得を目指して好調な動きを見せているほか、新曲の発表や法的措置に関する話題も報じられている。",
     "ids": [
-     "ca16acfb6a595443",
-     "9aca4edde438331f"
-    ]
-   },
-   {
-    "text": "My Chemical Romanceは『The Black Parade』20周年盤がUKチャートで首位獲得を目指す一方、新曲発表やチアリーダーの衣装を巡る法的措置が報じられた。",
-    "ids": [
+     "15b1f5f1751fd213",
      "90acdeb88f59fd25",
-     "3adfde32ed998a5b",
-     "4ef64f0538d1964b"
+     "3adfde32ed998a5b"
     ]
    },
    {
-    "text": "Blink-182は新レーベル契約や新作アルバムの準備を進めるほか、Sonic TempleやGraspopなどのフェスでヘッドライナーを務めることが決定した。",
+    "text": "Blink-182が新レーベル契約を結んだほか、2027年に開催されるフェス「Sonic Temple」のヘッドライナーを務めることが発表された。",
     "ids": [
      "08f0f678182f54ea",
      "550d1a1cd50806e8",
-     "3068f9066bb6572d"
+     "3bc8ccec3cbda818"
     ]
    },
    {
-    "text": "The OffspringはNoodlesが深刻な健康問題によりツアー活動を一時離脱すると発表し、ラスベガスのSEMA Festに出演予定である。",
+    "text": "Green Day関連では、Billie Joe Armstrongが過去の伝説的ライブについて語ったインタビューや、Pinhead Gunpowderの公演チケット販売に関する話題が伝えられている。",
+    "ids": [
+     "5ef3dc0bc96d9cd8",
+     "63900e71b1891eda",
+     "ca16acfb6a595443"
+    ]
+   },
+   {
+    "text": "The OffspringのNoodlesが深刻な健康上の問題を理由にツアーから一時離脱することを発表し、バンドはラスベガスのSEMA Festへの出演を控えている。",
     "ids": [
      "afca188863822a82",
      "2b2d7e6d33235bd4"
     ]
-   },
-   {
-    "text": "WeezerはCrypto.com Arenaでのツアーファイナル公演を成功させ、『The Blue Album』30周年記念のパフォーマンス映像を公開した。",
-    "ids": [
-     "bc310dd9bb123109",
-     "68f4333ebeb125bc",
-     "d277cceca0a09089"
-    ]
    }
   ],
   "days": 3,
-  "from": "2026-10-24T13:41:07.204623+09:00",
-  "generated_at": "2026-10-27T13:41:09.357179+09:00",
+  "from": "2026-10-24T20:57:42.264209+09:00",
+  "generated_at": "2026-10-27T20:57:43.863152+09:00",
   "article_count": 24,
-  "sig": "657a32ec9260"
+  "sig": "9dcad451d345"
  },
  "items": [
+  {
+   "id": "5ef3dc0bc96d9cd8",
+   "url": "https://www.ksby.com/san-luis-obispo/pinhead-gunpowder-tickets-available-at-boo-boo-records-ahead-of-fremont-theater-show",
+   "title_original": "Pinhead Gunpowder tickets available at Boo Boo Records ahead of Fremont Theater show",
+   "source": "KSBY News",
+   "image": "https://ewscripps.brightspotcdn.com/dims4/default/36fcfae/2147483647/strip/true/crop/1917x1006+0+20/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F76%2Fae%2F7dd122e6486b93d9c8fe4b91d5a9%2Fpinhead-gunpowder-concert.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T11:20:47.698000+00:00",
+   "title_ja": "Pinhead GunpowderのFremont Theater公演チケットが店頭販売",
+   "summary_ja": "Fremont Theaterでの公演に向け、地元のレコード店Boo Boo RecordsでPinhead Gunpowderの追加チケットが取り扱われている。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Pinhead Gunpowder"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "15b1f5f1751fd213",
+   "url": "https://rocksound.tv/news/my-chemical-romance-on-course-for-first-uk-no-01-album-with-the-black-parade-reissue",
+   "title_original": "My Chemical Romance On Course For First UK No.01 Album With 'The Black Parade' Reissue",
+   "source": "Rock Sound",
+   "image": "https://spaces.rocksound.tv/uploads/2026/10/mcr_resissueart.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T10:16:17+00:00",
+   "title_ja": "My Chemical Romance、『The Black Parade』再発盤がUKチャート首位へ",
+   "summary_ja": "名盤『The Black Parade』の再発盤が、全英アルバムチャートで初登場1位を獲得する勢いでランクインしている。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "63900e71b1891eda",
+   "url": "https://www.ksby.com/san-luis-obispo/local-record-store-gets-extra-tickets-to-sold-out-pinhead-gunpowder-show",
+   "title_original": "Local record store gets extra tickets to sold out Pinhead Gunpowder show",
+   "source": "KSBY News",
+   "image": "https://ewscripps.brightspotcdn.com/dims4/default/c4bd278/2147483647/strip/true/crop/1844x968+0+33/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F8e%2Fea%2Fcefd38ed49af9f289fdbafadfcae%2Fscreenshot-2026-10-26-221300.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T05:18:17.526000+00:00",
+   "title_ja": "地元レコード店、Pinhead Gunpowderの完売公演の追加チケットを入手",
+   "summary_ja": "完売となっていたPinhead Gunpowderの公演について、地元のレコード店が追加のチケットを入手して販売を行っている。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Pinhead Gunpowder"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "9aca4edde438331f",
    "url": "https://www.imdb.com/it/news/ni49118720",
@@ -392,26 +445,6 @@
    "published": "2026-10-26T18:56:04+00:00",
    "title_ja": "ダラスのチアリーダーがMCRを商標侵害で提訴",
    "summary_ja": "ダラス・カウボーイズのチアリーダーたちが、ブランドの商標権を侵害されたとしてMy Chemical Romanceを提訴した。",
-   "category": "その他",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "437b6dd1ea3a3802",
-   "url": "https://www.wikimetal.com.br/en/my-chemical-romance-faces-lawsuit-over-costumes-used-in-show",
-   "title_original": "My Chemical Romance faces lawsuit over costumes used in concert",
-   "source": "Wikimetal",
-   "image": "https://www.wikimetal.com.br/wp-content/uploads/2026/01/my-chemical-romance.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-26T16:46:58+00:00",
-   "title_ja": "My Chemical Romanceがライブ衣装を巡り提訴される",
-   "summary_ja": "My Chemical Romanceがコンサートで使用した衣装を巡り、法的紛争に直面していることが明らかになった。",
    "category": "その他",
    "band": "My Chemical Romance",
    "artists": [
@@ -709,6 +742,28 @@
    "has_detail": true
   },
   {
+   "id": "befd1acfdbd1b8d2",
+   "url": "https://www.columbusnavigator.com/sonic-temple-2027",
+   "title_original": "Blink-182, Iron Maiden, Falling In Reverse And Korn Lead The Sonic Temple 2027 Lineup",
+   "source": "Columbus Navigator",
+   "image": "https://www.columbusnavigator.com/wp-content/uploads/2026/10/sonic-temple-2027-featured.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-25T07:59:51+00:00",
+   "title_ja": "Sonic Temple 2027の出演者が発表、Blink-182らがヘッドライナー",
+   "summary_ja": "2027年開催のSonic Templeフェスティバルにおいて、Blink-182、Iron Maiden、Kornらがヘッドライナーを務めることが発表された。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Iron Maiden",
+    "Korn"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "3adfde32ed998a5b",
    "url": "https://www.wecb.fm/my-chemical-romance-releases-someone-out-there-loves-you",
    "title_original": "My Chemical Romance releases “Someone Out There Loves You”",
@@ -930,27 +985,6 @@
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "2e49573ae3420f6c",
-   "url": "https://foro3d.com/en/2026/octubre/noodles-de-the-offspring-se-retira-temporalmente-por-un-problema-de-sa.html",
-   "title_original": "Noodles from The Offspring temporarily steps back due to a health issue",
-   "source": "Foro3D",
-   "image": "https://foro3d.com/2026/octubre/imagenes/noodles-de-the-offspring-se-retira-temporalmente-por-un-problema-de-sa.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-23T13:03:46+00:00",
-   "title_ja": "The OffspringのNoodlesが健康上の理由で一時的に活動を控えへ",
-   "summary_ja": "The OffspringのギタリストであるNoodlesが、健康上の問題により一時的にバンドの活動から離脱することが報じられた。（抜粋なしのため見出しから構成）",
-   "category": "メンバー・発言",
-   "band": "The Offspring",
-   "artists": [
-    "Noodles",
-    "The Offspring"
    ],
    "japan": false,
    "importance": 3,
@@ -1189,6 +1223,27 @@
    "japan": false,
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "ac1071482080afc8",
+   "url": "https://www.iheart.com/content/2026-10-22-the-offsprings-kevin-noodles-wasserman-steps-away-from-stage-due-to-serious-health-issue",
+   "title_original": "The Offspring's Kevin 'Noodles' Wasserman Steps Away From Stage Due To 'Serious' Health Issue",
+   "source": "iHeart",
+   "image": "https://i.iheart.com/v3/re/assets.getty/6ada1b5e61fe2e0abb401a32",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-22T15:32:39+00:00",
+   "title_ja": "The Offspringのノードルズが健康上の理由で一時離脱",
+   "summary_ja": "The OffspringのギタリストであるノードルズことKevin Wassermanが、深刻な健康上の問題により一時的にステージ活動から離れることが発表された。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "Kevin 'Noodles' Wasserman",
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "d229acd24b2f7714",
