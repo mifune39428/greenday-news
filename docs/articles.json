@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T07:33:22.939176+09:00",
+ "updated_at": "2026-10-27T13:40:43.441083+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -293,17 +293,25 @@
  "count": 388,
  "detail_count": 292,
  "digest": {
-  "headline": "MCR新作やBlink-182フェス出演などパンク・ロック界の最新ニュース",
+  "headline": "パンク・ロックバンドの最新動向とMCRの法的トラブルまとめ",
   "points": [
    {
-    "text": "My Chemical Romanceは新曲「Someone Out There Loves You」を発表したほか、名盤の20周年盤がUKチャートで首位を狙う好調な動きを見せている。",
+    "text": "Green DayのBillie Joe Armstrongが1970年の伝説的ライブについて語ったほか、Billie Joeが参加するミュージカル情報が発表された。",
     "ids": [
-     "90acdeb88f59fd25",
-     "3adfde32ed998a5b"
+     "ca16acfb6a595443",
+     "9aca4edde438331f"
     ]
    },
    {
-    "text": "Blink-182は新レーベル契約や新作アルバムの準備を進める中、「Sonic Temple」や「Graspop Metal Meeting」といった大型フェスのヘッドライナーに決定した。",
+    "text": "My Chemical Romanceは『The Black Parade』20周年盤がUKチャートで首位獲得を目指す一方、新曲発表やチアリーダーの衣装を巡る法的措置が報じられた。",
+    "ids": [
+     "90acdeb88f59fd25",
+     "3adfde32ed998a5b",
+     "4ef64f0538d1964b"
+    ]
+   },
+   {
+    "text": "Blink-182は新レーベル契約や新作アルバムの準備を進めるほか、Sonic TempleやGraspopなどのフェスでヘッドライナーを務めることが決定した。",
     "ids": [
      "08f0f678182f54ea",
      "550d1a1cd50806e8",
@@ -311,32 +319,26 @@
     ]
    },
    {
-    "text": "My Chemical Romanceのステージ演出や衣装を巡り、ダラス・カウボーイズのチアリーダー側から商標権侵害や法的措置が取られていることが複数報じられている。",
-    "ids": [
-     "4ef64f0538d1964b",
-     "acca1973eecff3c8",
-     "c9e64c554e5237ad"
-    ]
-   },
-   {
-    "text": "The OffspringのギタリストであるNoodlesが深刻な健康上の問題によりライブ活動の一時離脱を発表したほか、バンドはSEMA Festへの出演を控えている。",
+    "text": "The OffspringはNoodlesが深刻な健康問題によりツアー活動を一時離脱すると発表し、ラスベガスのSEMA Festに出演予定である。",
     "ids": [
      "afca188863822a82",
      "2b2d7e6d33235bd4"
     ]
    },
    {
-    "text": "Green DayのBillie Joe Armstrongがタイムマシンで行きたい1970年の伝説的ライブについて語ったほか、WeezerやBlink-182、NOFXなどの話題が伝えられている。",
+    "text": "WeezerはCrypto.com Arenaでのツアーファイナル公演を成功させ、『The Blue Album』30周年記念のパフォーマンス映像を公開した。",
     "ids": [
-     "ca16acfb6a595443"
+     "bc310dd9bb123109",
+     "68f4333ebeb125bc",
+     "d277cceca0a09089"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-24T07:34:36.247315+09:00",
-  "generated_at": "2026-10-27T07:34:38.478535+09:00",
+  "from": "2026-10-24T13:41:07.204623+09:00",
+  "generated_at": "2026-10-27T13:41:09.357179+09:00",
   "article_count": 24,
-  "sig": "42128407a7dc"
+  "sig": "657a32ec9260"
  },
  "items": [
   {
@@ -357,7 +359,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "acca1973eecff3c8",
@@ -437,7 +439,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "08f0f678182f54ea",
@@ -460,7 +462,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b7f14c179a16398f",
