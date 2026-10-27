@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T02:53:28.933632+09:00",
+ "updated_at": "2026-10-28T07:03:35.789759+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -51,6 +51,7 @@
   "Beaver County Times",
   "Big Country News |",
   "Billboard",
+  "Bloomberg Law News",
   "Blunt Magazine",
   "California.com",
   "CelebrityAccess",
@@ -209,9 +210,9 @@
   "The Vanderbilt Hustler",
   "TheWrap",
   "Thought Catalog",
-  "Tinnitist",
   "Toronto Guardian",
   "TribLIVE.com",
+  "Ubisoft",
   "Ultimate Guitar",
   "V13 Media",
   "VICE",
@@ -252,7 +253,6 @@
   "durhamregion.com",
   "femalefirst.co.uk",
   "hercampus.com",
-  "hoodline.com",
   "https://rocknloadmag.com/",
   "iHeart",
   "indieofilo.com",
@@ -293,12 +293,12 @@
   "씨네플레이"
  ],
  "count": 394,
- "detail_count": 298,
+ "detail_count": 300,
  "digest": {
-  "headline": "パンク・ロックシーンの最新動向：MCRやBlink-182、Green Day関",
+  "headline": "MCRのチャート首位や衣装訴訟、Green Day関連の動きなど直近のパンク・ロ",
   "points": [
    {
-    "text": "My Chemical Romanceの名盤『The Black Parade』20周年記念再発盤がUKチャートで首位を狙う好調さを見せる一方、新曲発表やライブ演出を巡る提訴も話題となっている。",
+    "text": "My Chemical Romanceの名盤『The Black Parade』再発盤がUKチャートで初登場1位獲得を目指して好調な動きを見せているほか、新曲も発表された。",
     "ids": [
      "15b1f5f1751fd213",
      "90acdeb88f59fd25",
@@ -306,15 +306,23 @@
     ]
    },
    {
-    "text": "Blink-182が2027年に開催されるフェス「Sonic Temple」のヘッドライナーを務めることが発表された。",
+    "text": "My Chemical Romanceがステージ衣装やミュージックビデオの演出を巡り、ダラス・カウボーイズのチアリーダー側から提訴され、その後該当衣装の不使用で合意した。",
     "ids": [
-     "08f0f678182f54ea",
-     "befd1acfdbd1b8d2",
-     "3bc8ccec3cbda818"
+     "5040f145b747c8d0",
+     "6d2f1d54eda4be40",
+     "05a3250687d04bff"
     ]
    },
    {
-    "text": "Green DayのBillie Joe Armstrongが1970年の伝説的ライブについて語り、Pinhead Gunpowderの公演では追加チケットが販売されている。",
+    "text": "Blink-182やKornらが2027年開催のフェス「Sonic Temple」のヘッドライナーに決定したほか、Blink-182のMark Hoppusがインタビューで語った。",
+    "ids": [
+     "08f0f678182f54ea",
+     "befd1acfdbd1b8d2",
+     "b7f14c179a16398f"
+    ]
+   },
+   {
+    "text": "Green Day関連では、Pinhead Gunpowderの公演に向けて地元のレコード店で追加チケットが販売され、Billie Joe Armstrongが1970年の伝説的ライブについて語った。",
     "ids": [
      "5ef3dc0bc96d9cd8",
      "63900e71b1891eda",
@@ -322,37 +330,121 @@
     ]
    },
    {
-    "text": "The OffspringのNoodlesが深刻な健康上の問題によりライブパフォーマンスから一時離脱することを発表した。",
+    "text": "The OffspringのNoodlesが健康問題でツアーを一時離脱し、バンドはチャリティ・コンサートに出演したほか、ラスベガスのSEMA Fest出演も発表された。",
     "ids": [
-     "afca188863822a82"
+     "afca188863822a82",
+     "2b2d7e6d33235bd4",
+     "f2c5c39c5f45a133"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-25T02:54:54.792884+09:00",
-  "generated_at": "2026-10-28T02:55:22.851514+09:00",
+  "from": "2026-10-25T07:04:20.772619+09:00",
+  "generated_at": "2026-10-28T07:04:23.253563+09:00",
   "article_count": 24,
-  "sig": "946ec415f321"
+  "sig": "f8ffecae3c23"
  },
  "items": [
   {
-   "id": "0782a57815fb9f4e",
-   "url": "https://tinnitist.com/2026/10/27/classic-album-review-my-chemical-romance-the-black-parade",
-   "title_original": "Classic Album Review: My Chemical Romance | The Black Parade",
-   "source": "Tinnitist",
-   "image": "https://tinnitist.com/wp-content/uploads/2026/10/My-Chemical-Romance-The-Black-Parade.jpg",
+   "id": "5040f145b747c8d0",
+   "url": "https://news.bloomberglaw.com/ip-law/cowboys-cheerleaders-sue-my-chemical-romance-over-stage-act-garb",
+   "title_original": "Cowboys Cheerleaders Sue My Chemical Romance Over Stage Act Garb",
+   "source": "Bloomberg Law News",
+   "image": "https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fc7%2Ff8%2Fef88333247818318388121c5380c%2Fgettyimages-839668870.jpg&width=1200&height=630&fit=cover&removeAnimation=true&crop=1020x393%2B2%2B47",
    "lang": "en",
    "region": "global",
-   "published": "2026-10-27T15:00:54+00:00",
-   "title_ja": "名盤『The Black Parade』のアルバムレビュー",
-   "summary_ja": "My Chemical Romanceの代表作『The Black Parade』を取り上げたクラシック・アルバムのレビュー記事。作品の音楽的価値や当時の影響力を改めて振り返っている。",
-   "category": "再発・記念盤",
+   "published": "2026-10-27T21:49:07+00:00",
+   "title_ja": "My Chemical Romanceが衣装を巡り提訴される",
+   "summary_ja": "My Chemical Romanceのステージ衣装のデザインを巡り、カウボーイズのチアリーダー側が訴訟を起こした。",
+   "category": "その他",
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
    ],
    "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "6d2f1d54eda4be40",
+   "url": "https://consequence.net/2026/10/my-chemical-romance-agree-to-drop-dallas-cowboys-cheerleaders-inspired-costumes-after-legal-dispute",
+   "title_original": "My Chemical Romance Agree to Drop Dallas Cowboys Cheerleaders-Inspired Costumes After Legal Dispute",
+   "source": "Consequence",
+   "image": "https://consequence.net/wp-content/uploads/2026/10/cowboys-MCR-lawsuit.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T21:03:33+00:00",
+   "title_ja": "MCRがチアリーダー風衣装の不使用に合意",
+   "summary_ja": "法的紛争を受け、My Chemical Romanceがダラス・カウボーイズのチアリーダーにインスパイアされた衣装の着用をやめることで合意した。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "0f2758b5209d7470",
+   "url": "https://www.ubisoft.com/de-de/news/ignt.64523/green-day-smashing-pumpkins-talking-heads-on-rocksmith-october-2026",
+   "title_original": "Green Day, Smashing Pumpkins & Talking Heads on Rocksmith+ - October 2026",
+   "source": "Ubisoft",
+   "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7IAFsJzKDhVOqCHoekbGI7/6f0cb70bf1c7ef037ba1859283025189/R__October26_Mixtape.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T20:25:24+00:00",
+   "title_ja": "Green Day、Smashing Pumpkinsらの楽曲がRocksmith+に追加",
+   "summary_ja": "音楽学習サービス「Rocksmith+」の2026年10月のコンテンツ更新にて、Green DayやSmashing Pumpkins、Talking Headsの楽曲がプレイ可能になったことが発表されました。",
+   "category": "新曲・新作",
+   "band": "Green Day",
+   "artists": [
+    "Green Day",
+    "Smashing Pumpkins",
+    "Talking Heads"
+   ],
+   "japan": false,
    "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "f2c5c39c5f45a133",
+   "url": "https://metaladdicts.com/the-offspring-brought-punk-rock-energy-to-slave-2-nothings-sold-out-rock-2-freedom-benefit",
+   "title_original": "THE OFFSPRING Brought Punk-Rock Energy To Slave 2 Nothing’s Sold-Out Rock 2 Freedom Benefit",
+   "source": "Metal Addicts",
+   "image": "https://metaladdicts.com/wp-content/uploads/2026/10/offspring-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T20:14:53+00:00",
+   "title_ja": "The Offspringがチャリティ・コンサートに出演して熱演を披露",
+   "summary_ja": "The Offspringが、ソールドアウトとなったSlave 2 Nothing主催のベネフィット・ライブ「Rock 2 Freedom」に出演し、会場にパンク・ロックのエネルギーを届けました。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "05a3250687d04bff",
+   "url": "https://www.yahoo.com/entertainment/music/articles/dallas-cowboys-cheerleaders-sue-chemical-184452730.html",
+   "title_original": "Dallas Cowboys Cheerleaders sue My Chemical Romance over look-alikes in gunfight scene",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/28a08cf266a6b64e4750316f6f1aae126a29663578a471f9a859e0e5ddd1cba6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsan_antonio_express_news_hearst_574%2Feccdbef34ce3f6c612838195f85d6791.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T18:44:52+00:00",
+   "title_ja": "MCR、銃撃戦シーンの類似衣装を巡りチアリーダーズから提訴される",
+   "summary_ja": "My Chemical Romanceがミュージックビデオ内の銃撃戦シーンで着用した衣装が酷似しているとして、ダラス・カウボーイズ・チアリーダーズから訴訟を起こされました。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -8423,87 +8515,6 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "3b19adb395c832ab",
-   "url": "https://people.com/my-chemical-romance-gerard-way-teases-new-album-over-15-years-12120964",
-   "title_original": "My Chemical Romance’s Gerard Way Teases First New Album in Over 15 Years",
-   "source": "People.com",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T19:17:17+00:00",
-   "title_ja": "MCRのGerard Wayが15年ぶりの新作を匂わせる",
-   "summary_ja": "My Chemical RomanceのGerard Wayが、15年以上ぶりとなる新しいアルバムのリリースをほのめかす発言をしました。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "Gerard Way",
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "edf1e39c66d1360e",
-   "url": "https://parade.com/news/crazy-taxi-live-action-netflix-comedy-movie-naked-gun-writers",
-   "title_original": "Punk-Fueled 1999 Arcade Classic, Famous for The Offspring's 'All I Want,' Is Being Turned Into a Live-Action Comedy",
-   "source": "parade.com",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T19:05:52+00:00",
-   "title_ja": "The Offspringの曲で知られる90年代のアーケードゲームが映画化",
-   "summary_ja": "The Offspringの楽曲で有名になった1999年のアーケードゲームが、実写コメディ映画として映像化されることが決定しました。",
-   "category": "映像・映画・書籍",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "c7e4047a714ab6fe",
-   "url": "https://hoodline.com/2026/09/green-day-s-old-oakland-studio-where-american-idiot-was-born-lists-for-3-9m",
-   "title_original": "Green Day's Old Oakland Studio, Where American Idiot Was Born, Lists for $3.9M",
-   "source": "hoodline.com",
-   "image": "https://img.hoodline.com/2026/9/green-day-s-old-oakland-studio-where-american-idiot-was-born-lists-for-3-9m.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T19:04:34+00:00",
-   "title_ja": "American Idiotを生んだオークランドのスタジオが売却へ",
-   "summary_ja": "Green Dayの名盤American Idiotのレコーディングが行われたオークランドの旧スタジオ物件が、約390万ドルで市場に売り出されました。",
-   "category": "その他",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b0618dca4d0e5920",
-   "url": "https://www.kcrw.com/shows/press-play-with-madeleine-brand/stories/the-linda-lindas-are-growing-up-and-have-a-new-album",
-   "title_original": "The Linda Lindas are growing up. And have a new album",
-   "source": "KCRW",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T19:00:00+00:00",
-   "title_ja": "成長を続けるThe Linda Lindasがニューアルバムを発表",
-   "summary_ja": "The Linda Lindasが大人への成長を経て、新たなアルバムをリリースしたことを伝える音楽ニュース。",
-   "category": "新曲・新作",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
