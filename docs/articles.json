@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T20:57:14.628332+09:00",
+ "updated_at": "2026-10-28T02:53:28.933632+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -41,6 +41,7 @@
   "930 WFMD Free Talk",
   "95.9 The RAT",
   "AD HOC NEWS",
+  "AFL-CIO",
   "Arts Council of Greater New Haven",
   "Audacy",
   "Azernews.az",
@@ -208,6 +209,7 @@
   "The Vanderbilt Hustler",
   "TheWrap",
   "Thought Catalog",
+  "Tinnitist",
   "Toronto Guardian",
   "TribLIVE.com",
   "Ultimate Guitar",
@@ -290,13 +292,13 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 391,
- "detail_count": 295,
+ "count": 394,
+ "detail_count": 298,
  "digest": {
-  "headline": "MCR再発盤の首位浮上や各バンドの最新動向まとめ",
+  "headline": "パンク・ロックシーンの最新動向：MCRやBlink-182、Green Day関",
   "points": [
    {
-    "text": "My Chemical Romanceの名盤『The Black Parade』の再発盤がUKチャートで初の首位獲得を目指して好調な動きを見せているほか、新曲の発表や法的措置に関する話題も報じられている。",
+    "text": "My Chemical Romanceの名盤『The Black Parade』20周年記念再発盤がUKチャートで首位を狙う好調さを見せる一方、新曲発表やライブ演出を巡る提訴も話題となっている。",
     "ids": [
      "15b1f5f1751fd213",
      "90acdeb88f59fd25",
@@ -304,15 +306,15 @@
     ]
    },
    {
-    "text": "Blink-182が新レーベル契約を結んだほか、2027年に開催されるフェス「Sonic Temple」のヘッドライナーを務めることが発表された。",
+    "text": "Blink-182が2027年に開催されるフェス「Sonic Temple」のヘッドライナーを務めることが発表された。",
     "ids": [
      "08f0f678182f54ea",
-     "550d1a1cd50806e8",
+     "befd1acfdbd1b8d2",
      "3bc8ccec3cbda818"
     ]
    },
    {
-    "text": "Green Day関連では、Billie Joe Armstrongが過去の伝説的ライブについて語ったインタビューや、Pinhead Gunpowderの公演チケット販売に関する話題が伝えられている。",
+    "text": "Green DayのBillie Joe Armstrongが1970年の伝説的ライブについて語り、Pinhead Gunpowderの公演では追加チケットが販売されている。",
     "ids": [
      "5ef3dc0bc96d9cd8",
      "63900e71b1891eda",
@@ -320,20 +322,80 @@
     ]
    },
    {
-    "text": "The OffspringのNoodlesが深刻な健康上の問題を理由にツアーから一時離脱することを発表し、バンドはラスベガスのSEMA Festへの出演を控えている。",
+    "text": "The OffspringのNoodlesが深刻な健康上の問題によりライブパフォーマンスから一時離脱することを発表した。",
     "ids": [
-     "afca188863822a82",
-     "2b2d7e6d33235bd4"
+     "afca188863822a82"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-24T20:57:42.264209+09:00",
-  "generated_at": "2026-10-27T20:57:43.863152+09:00",
+  "from": "2026-10-25T02:54:54.792884+09:00",
+  "generated_at": "2026-10-28T02:55:22.851514+09:00",
   "article_count": 24,
-  "sig": "9dcad451d345"
+  "sig": "946ec415f321"
  },
  "items": [
+  {
+   "id": "0782a57815fb9f4e",
+   "url": "https://tinnitist.com/2026/10/27/classic-album-review-my-chemical-romance-the-black-parade",
+   "title_original": "Classic Album Review: My Chemical Romance | The Black Parade",
+   "source": "Tinnitist",
+   "image": "https://tinnitist.com/wp-content/uploads/2026/10/My-Chemical-Romance-The-Black-Parade.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T15:00:54+00:00",
+   "title_ja": "名盤『The Black Parade』のアルバムレビュー",
+   "summary_ja": "My Chemical Romanceの代表作『The Black Parade』を取り上げたクラシック・アルバムのレビュー記事。作品の音楽的価値や当時の影響力を改めて振り返っている。",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "97fd404dc38e5fa4",
+   "url": "https://aflcio.org/2026/10/27/service-solidarity-spotlight-president-shuler-shares-stage-dropkick-murphys-and-barack",
+   "title_original": "Service & Solidarity Spotlight: President Shuler Shares Stage With the Dropkick Murphys and Barack Obama, Kicks Off Amy Acton Canvass",
+   "source": "AFL-CIO",
+   "image": "https://aflcio.org/sites/default/files/2026-10/ohio.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T13:51:03+00:00",
+   "title_ja": "Dropkick Murphysが労働組合のイベントに登場",
+   "summary_ja": "AFL-CIOの活動報告の中で、Dropkick Murphysが労働組合関連のイベントのステージに登壇したことが伝えられている。",
+   "category": "その他",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys",
+    "Barack Obama"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "79fa5e02d96a494f",
+   "url": "https://www.cltampa.com/music-2/photos-the-linda-lindas-play-tampa-orpheum",
+   "title_original": "Photos: The Linda Lindas play Tampa Orpheum",
+   "source": "Creative Loafing Tampa",
+   "image": "https://www.cltampa.com/wp-content/uploads/2026/10/CL-The-Linda-Lindas-10-25-26©sandrasonik_photography-3558.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T13:00:35+00:00",
+   "title_ja": "The Linda Lindasのタンパ公演のライブ写真",
+   "summary_ja": "The Linda LindasがOrpheumで行ったタンパ公演の模様をとらえたライブ写真のフォトギャラリー記事。会場の熱気が伝わる写真が掲載されている。",
+   "category": "ライブ・ツアー",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "5ef3dc0bc96d9cd8",
    "url": "https://www.ksby.com/san-luis-obispo/pinhead-gunpowder-tickets-available-at-boo-boo-records-ahead-of-fremont-theater-show",
@@ -1095,6 +1157,26 @@
    "detail_tries": 2
   },
   {
+   "id": "93c4534c12c7e1b2",
+   "url": "https://recklesspress.com/features/my-chemical-romances-the-black-parade-celebrates-20-years-of-an-era-defining-album",
+   "title_original": "My Chemical Romance’s The Black Parade Celebrates 20 Years of an Era Defining Album",
+   "source": "Reckless Press",
+   "image": "https://recklesspress.com/wp-content/uploads/2026/10/img_2887.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-22T22:27:58+00:00",
+   "title_ja": "名盤『The Black Parade』が20周年を記念",
+   "summary_ja": "時代を定義したMy Chemical Romanceのアルバム『The Black Parade』がリリースから20周年を迎えたことを祝う記事。",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "d3c1cecb22e1f86f",
    "url": "https://xsrock.com/sonic-temple-festival-to-feature-iron-maiden-korn-blink-182-turnstile-prodigy-and-over-100-more-bands",
    "title_original": "Sonic Temple Festival To Feature Iron Maiden, Korn, Blink-182, Turnstile, Prodigy, and Over 100 More Bands",
@@ -1157,27 +1239,6 @@
    ],
    "japan": false,
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "f81a29ade1e49e6d",
-   "url": "https://recklesspress.com/news/dayseeker-announce-expanded-creature-in-the-black-night-album-featuring-my-chemical-romance-cover",
-   "title_original": "Dayseeker Announce Expanded ‘Creature In The Black Night’ Album Featuring My Chemical Romance Cover",
-   "source": "Reckless Press",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-22T16:33:18+00:00",
-   "title_ja": "Dayseeker、MCRのカバー含む拡大盤アルバムを発表",
-   "summary_ja": "DayseekerがMy Chemical Romanceのカバーを収録したアルバム『Creature In The Black Night』の拡張版を発表した。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "Dayseeker",
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   },
   {
