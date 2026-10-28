@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T07:03:35.789759+09:00",
+ "updated_at": "2026-10-28T14:14:51.666691+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -48,6 +48,7 @@
   "BLABBERMOUTH.NET",
   "Backseat Mafia",
   "Barstool Sports",
+  "Beat Magazine",
   "Beaver County Times",
   "Big Country News |",
   "Billboard",
@@ -178,6 +179,7 @@
   "San Bernardino Sun",
   "SanDiegoVille",
   "Secret Los Angeles",
+  "Sheldon Ang Media",
   "Sonic Perspectives",
   "Sports Illustrated",
   "Star Tribune",
@@ -205,7 +207,6 @@
   "The PRP",
   "The Red & Black",
   "The Rock Revival",
-  "The Showbiz Journal",
   "The Sun Malaysia",
   "The Vanderbilt Hustler",
   "TheWrap",
@@ -233,6 +234,7 @@
   "We Write About Music",
   "Western Mass News",
   "Worthplaying",
+  "X-Press Magazine",
   "XS ROCK",
   "Yahoo",
   "Yahoo Lifestyle Australia",
@@ -247,7 +249,6 @@
   "backseatmafia.com",
   "chaoszine.net",
   "chorus.fm",
-  "dailycal.org",
   "dangerousminds.net",
   "dispatch.com",
   "durhamregion.com",
@@ -259,7 +260,6 @@
   "inkl",
   "khorasantimes.com",
   "killthemusic.net",
-  "knotfest.com",
   "lamag.com",
   "lambgoat.com",
   "live in limbo",
@@ -295,56 +295,133 @@
  "count": 394,
  "detail_count": 300,
  "digest": {
-  "headline": "MCRのチャート首位や衣装訴訟、Green Day関連の動きなど直近のパンク・ロ",
+  "headline": "パンク・ロックシーンの直近の動向まとめ",
   "points": [
    {
-    "text": "My Chemical Romanceの名盤『The Black Parade』再発盤がUKチャートで初登場1位獲得を目指して好調な動きを見せているほか、新曲も発表された。",
-    "ids": [
-     "15b1f5f1751fd213",
-     "90acdeb88f59fd25",
-     "3adfde32ed998a5b"
-    ]
-   },
-   {
-    "text": "My Chemical Romanceがステージ衣装やミュージックビデオの演出を巡り、ダラス・カウボーイズのチアリーダー側から提訴され、その後該当衣装の不使用で合意した。",
-    "ids": [
-     "5040f145b747c8d0",
-     "6d2f1d54eda4be40",
-     "05a3250687d04bff"
-    ]
-   },
-   {
-    "text": "Blink-182やKornらが2027年開催のフェス「Sonic Temple」のヘッドライナーに決定したほか、Blink-182のMark Hoppusがインタビューで語った。",
-    "ids": [
-     "08f0f678182f54ea",
-     "befd1acfdbd1b8d2",
-     "b7f14c179a16398f"
-    ]
-   },
-   {
-    "text": "Green Day関連では、Pinhead Gunpowderの公演に向けて地元のレコード店で追加チケットが販売され、Billie Joe Armstrongが1970年の伝説的ライブについて語った。",
+    "text": "Pinhead Gunpowderの完売公演に向けて、地元のレコード店が追加チケットの販売を行っている。",
     "ids": [
      "5ef3dc0bc96d9cd8",
-     "63900e71b1891eda",
+     "63900e71b1891eda"
+    ]
+   },
+   {
+    "text": "Green DayのBillie Joe Armstrongが、タイムマシンで行ってみたい1970年の伝説的なコンサートについて語った。",
+    "ids": [
      "ca16acfb6a595443"
     ]
    },
    {
-    "text": "The OffspringのNoodlesが健康問題でツアーを一時離脱し、バンドはチャリティ・コンサートに出演したほか、ラスベガスのSEMA Fest出演も発表された。",
+    "text": "The OffspringのギタリストNoodlesが、健康上の問題を理由にライブ活動の一時休止を発表した。",
     "ids": [
-     "afca188863822a82",
-     "2b2d7e6d33235bd4",
-     "f2c5c39c5f45a133"
+     "98b7206ed87ff73a",
+     "afca188863822a82"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceの名盤『The Black Parade』の再発盤が、UKチャートで首位獲得を目指す勢いを見せている。",
+    "ids": [
+     "15b1f5f1751fd213",
+     "90acdeb88f59fd25"
+    ]
+   },
+   {
+    "text": "Weezerがオーストラリアやニュージーランドを回る「The Gathering Tour」の開催を発表した。",
+    "ids": [
+     "2239055ceaac2ab0",
+     "98d280f1b0a8d327"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-25T07:04:20.772619+09:00",
-  "generated_at": "2026-10-28T07:04:23.253563+09:00",
+  "from": "2026-10-25T14:15:45.915847+09:00",
+  "generated_at": "2026-10-28T14:15:47.467707+09:00",
   "article_count": 24,
-  "sig": "f8ffecae3c23"
+  "sig": "218790d1d169"
  },
  "items": [
+  {
+   "id": "2239055ceaac2ab0",
+   "url": "https://xpressmag.com.au/weezer-summon-the-gathering-tour-in-australia",
+   "title_original": "Weezer summon The Gathering Tour in Australia",
+   "source": "X-Press Magazine",
+   "image": "https://xpressmag.com.au/wp-content/uploads/2026/10/Weezer-Promo-Photo-2026.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-28T03:02:57+00:00",
+   "title_ja": "Weezerがオーストラリアでの「The Gathering Tour」を発表",
+   "summary_ja": "Weezerがオーストラリアを巡る「The Gathering Tour」の開催を発表した。現時点で詳細は明かされていないが、現地でのライブ実施に向けて大きな注目が集まっている。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "98d280f1b0a8d327",
+   "url": "https://sheldonangmedia.com/press-release/tour-announcement-weezer-the-gathering-australia-and-new-zealand-tour-2027",
+   "title_original": "Tour Announcement: WEEZER | The Gathering Australia and New Zealand Tour 2027",
+   "source": "Sheldon Ang Media",
+   "image": "https://sheldonangmedia.com/wp-content/uploads/2026/10/Weezer-Promo-Photo-1-scaled.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-28T02:12:32+00:00",
+   "title_ja": "Weezer、2027年にオーストラリア・ニュージーランドツアーを開催",
+   "summary_ja": "Weezerが2027年にオーストラリアとニュージーランドを回る「The Gathering Tour」の開催を発表した。ファン待望の大規模な海外ツアーとなる。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "9fc3e9b2fafd9e3c",
+   "url": "https://beat.com.au/weezer-third-eye-blind-and-fountains-of-wayne-one-bill-six-arenas",
+   "title_original": "Weezer, Third Eye Blind and Fountains of Wayne: one bill, six arenas",
+   "source": "Beat Magazine",
+   "image": "https://beat.com.au/wp-content/uploads/2026/10/es-73.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T23:00:56+00:00",
+   "title_ja": "WeezerがThird Eye Blindらと6つのアリーナを回るツアー発表",
+   "summary_ja": "WeezerがThird Eye BlindやFountains of Wayneらと共に、6会場のアリーナツアーを開催することを発表した。（101文字）",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "Third Eye Blind",
+    "Fountains of Wayne"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "98b7206ed87ff73a",
+   "url": "https://metalinsider.net/touring/the-offspring-guitarist-noodles-steps-away-from-live-shows-to-address-health-issue",
+   "title_original": "The Offspring guitarist Noodles steps away from live shows to address health issue",
+   "source": "Metal Insider",
+   "image": "https://metalinsider.net/wp-content/uploads/2026/10/The_Offspring_2026.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T22:26:39+00:00",
+   "title_ja": "The OffspringのギタリストNoodlesが健康上の理由でライブ活動を一時休止",
+   "summary_ja": "The OffspringのギタリストであるNoodlesが、健康上の問題に対処するため、当面のライブ活動から離れることを発表した。（105文字）",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "Noodles",
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "5040f145b747c8d0",
    "url": "https://news.bloomberglaw.com/ip-law/cowboys-cheerleaders-sue-my-chemical-romance-over-stage-act-garb",
@@ -405,7 +482,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f2c5c39c5f45a133",
@@ -8429,91 +8506,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "395c2dcd26dc6cc6",
-   "url": "https://www.dailycal.org/arts/music/concerts/weezer-s-latest-tour-brings-old-favorites-new-tricks/article_e4aab094-da84-4f34-b90e-3940fb70e004.html",
-   "title_original": "Weezer’s latest tour brings old favorites, new tricks",
-   "source": "dailycal.org",
-   "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/d/33/d33c3924-f5fd-4446-ad8e-334f85791a57/6aa889d40d01e.image.png?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-15T15:00:00+00:00",
-   "title_ja": "Weezerの最新ツアーが示す新旧交ぜたステージの魅力",
-   "summary_ja": "Weezerの最新ツアーについて、おなじみの名曲から新しいアプローチまでを盛り込んだステージングの模様が伝えられている。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4d84bcc0b8f25370",
-   "url": "https://www.lambgoat.com/news/54848/blink-182-bring-me-the-horizon-turnstile-etc-set-for-2027-rock-am-ring-rock-im-park-festivals",
-   "title_original": "Blink-182, Bring Me The Horizon, Turnstile, etc. set for 2027 Rock am Ring & Rock im Park festivals",
-   "source": "Lambgoat",
-   "image": "https://lambgoat.com/cdn/2026/rock-am-ring-rock-im-park-20260915070252.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-15T14:08:00+00:00",
-   "title_ja": "Blink-182らが2027年のRock am Ringに出演決定",
-   "summary_ja": "ドイツで開催される大規模ロックフェス「Rock am Ring」および「Rock im Park」の2027年公演に、Blink-182らの出演が決定した。",
-   "category": "フェス出演",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182",
-    "Bring Me The Horizon",
-    "Turnstile"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "b990c53b32827603",
-   "url": "https://knotfest.com/blogs/news/bring-me-the-horizon-blink-182-turnstile-and-more-set-for-rock-am-ring-rock-im-park",
-   "title_original": "Bring Me the Horizon, Blink-182, Turnstile and More Set for Rock Am Ring / Rock Im Park",
-   "source": "knotfest.com",
-   "image": "http://knotfest.com/cdn/shop/articles/BMTH_Hollywood_Palladium_04.23.26__devilman.138_13_d1810dc7-78e2-4380-a38c-787b496c8029.webp?v=1789482712",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-15T10:31:50+00:00",
-   "title_ja": "Blink-182やBring Me the HorizonがRock Am Ring等に出演決定",
-   "summary_ja": "音楽フェスティバルのRock Am RingおよびRock Im Parkに、Blink-182、Bring Me the Horizon、Turnstileらが出演することが決定した。",
-   "category": "フェス出演",
-   "band": "Blink-182",
-   "artists": [
-    "Bring Me the Horizon",
-    "Blink-182",
-    "Turnstile"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "95624eb61d33526b",
-   "url": "https://theshowbizjournal.com/music/my-chemical-romance-new-album-gerard-way/7817",
-   "title_original": "My Chemical Romance New Album Plans Get Gerard Way Update",
-   "source": "The Showbiz Journal",
-   "image": "https://theshowbizjournal.com/wp-content/uploads/2026/09/My_Chemical_Romance_@_Wembley_Stadium_11_July_2026_B-Stage_15.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-15T01:17:07+00:00",
-   "title_ja": "Gerard WayがMy Chemical Romanceの新作アルバム計画について言及",
-   "summary_ja": "My Chemical RomanceのフロントマンであるGerard Wayが、バンドの新作アルバムに関する計画について最新情報を明かした。今後の作品リリースに向けた具体的な動向が期待される。",
-   "category": "メンバー・発言",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "Gerard Way"
-   ],
-   "japan": false,
-   "importance": 4,
    "has_detail": true
   }
  ]
