@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T14:25:41.230424+09:00",
+ "updated_at": "2026-10-29T21:45:24.698629+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -289,74 +289,94 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 394,
- "detail_count": 298,
+ "count": 395,
+ "detail_count": 300,
  "digest": {
-  "headline": "パンク・ロックシーンの最新動向まとめ",
+  "headline": "Weezerのツアー発表やMCRの訴訟問題など直近のニュース",
   "points": [
    {
-    "text": "Pinhead Gunpowderの公演に向けて、地元のレコード店で追加チケットが販売されている。",
+    "text": "Weezerが2027年にオーストラリアとニュージーランドを巡るオセアニアツアーの開催を発表した。",
     "ids": [
-     "5ef3dc0bc96d9cd8",
-     "63900e71b1891eda"
+     "82c17a6c1f8ad35a",
+     "0e1c151916cfae53",
+     "358c031c789a5771"
     ]
    },
    {
-    "text": "WeezerがThird Eye Blindらを迎えた2027年のオーストラリア・ニュージーランドツアーを発表した。",
-    "ids": [
-     "358c031c789a5771",
-     "c7067b5d44202ca8",
-     "98d280f1b0a8d327"
-    ]
-   },
-   {
-    "text": "The OffspringのギタリストNoodlesが健康上の理由でライブ活動を一時休止すると発表された。",
+    "text": "The OffspringのギタリストNoodlesが健康上の理由でライブ活動の一時休止を発表した。",
     "ids": [
      "98b7206ed87ff73a"
     ]
    },
    {
-    "text": "blink-182が大規模ロックフェスSonic Temple 2027のヘッドライナーを務めることが発表された。",
+    "text": "Blink-182やKornらが大規模ロックフェス「Sonic Temple 2027」のヘッドライナーに決定した。",
     "ids": [
      "ce16466be0d9f4f4",
      "08f0f678182f54ea"
     ]
    },
    {
-    "text": "My Chemical Romanceが衣装を巡るダラス・カウボーイズ・チアリーダーズとの訴訟で変更に合意した。",
+    "text": "My Chemical Romanceがチアリーダー側の法的措置や訴訟を受けて衣装の変更に合意した。",
     "ids": [
      "05e5841253440597",
      "9fee7e68f9fb978c",
-     "05a3250687d04bff"
+     "5040f145b747c8d0"
+    ]
+   },
+   {
+    "text": "Pinhead Gunpowderの公演に向けて、地元のレコード店で追加チケットが販売されている。",
+    "ids": [
+     "5ef3dc0bc96d9cd8",
+     "63900e71b1891eda"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-26T14:26:03.763321+09:00",
-  "generated_at": "2026-10-29T14:26:05.622704+09:00",
+  "from": "2026-10-26T21:45:55.635927+09:00",
+  "generated_at": "2026-10-29T21:45:57.985991+09:00",
   "article_count": 24,
-  "sig": "50868f451fad"
+  "sig": "10e65f216107"
  },
  "items": [
   {
-   "id": "8e8ea5c4f5a25338",
-   "url": "https://dailybruin.com/2026/10/28/gallery-after-20-albums-weezer-stays-gold-at-los-angeles-show",
-   "title_original": "Gallery: After 20 albums, Weezer stays gold at Los Angeles show",
-   "source": "Daily Bruin",
-   "image": "https://wp.dailybruin.com/images/2026/10/photo.weezer.SF_.13-768x512.jpg",
+   "id": "82c17a6c1f8ad35a",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/weezer-announced-2027-australia-tour-on-28-october-first-in-14-years/70427163",
+   "title_original": "Weezer announced 2027 Australia tour on 28 October - first in 14 years",
+   "source": "ad-hoc-news.de",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403837_1920_1080.webp",
    "lang": "en",
    "region": "global",
-   "published": "2026-10-29T02:49:52+00:00",
-   "title_ja": "Weezerがロサンゼルス公演で見せた変わらぬ魅力",
-   "summary_ja": "Weezerがこれまでに20枚のアルバムをリリースした経歴を経て、ロサンゼルスで行ったライブの様子がフォトギャラリー形式で紹介されている。",
+   "published": "2026-10-29T09:02:52+00:00",
+   "title_ja": "Weezerが14年ぶりとなるオーストラリアツアーを発表",
+   "summary_ja": "Weezerが、14年ぶりとなるオーストラリアでのツアー開催を発表した。現地ファンの間で大きな話題となっている。（79文字）",
    "category": "ライブ・ツアー",
    "band": "Weezer",
    "artists": [
     "Weezer"
    ],
    "japan": false,
-   "importance": 2,
-   "detail_tries": 1
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "0e1c151916cfae53",
+   "url": "https://happymag.tv/weezer-tour-australia-new-zealand",
+   "title_original": "Weezer announce tour in Australia and New Zealand -",
+   "source": "Happy Mag",
+   "image": "https://happymag.tv/wp-content/uploads/2026/10/Weezer.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T00:06:44+00:00",
+   "title_ja": "Weezerがオーストラリアおよびニュージーランド公演を発表",
+   "summary_ja": "Weezerがオーストラリアとニュージーランドを巡る新たなツアーの開催を正式に発表した。長年待ち望んだファンへ向けた朗報となっている。（96文字）",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "98a81540faaa6bf0",
