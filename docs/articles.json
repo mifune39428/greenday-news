@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T21:45:24.698629+09:00",
+ "updated_at": "2026-10-30T07:39:37.456608+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -83,7 +83,6 @@
   "HMV",
   "Happy Mag",
   "Her Campus",
-  "Hit Parader",
   "Hoodline",
   "Houston Press",
   "IMDb",
@@ -145,8 +144,8 @@
   "OnMilwaukee",
   "Orlando Sentinel",
   "Orlando Weekly",
-  "Our Culture Mag",
   "PUNKLOID",
+  "Parade Magazine",
   "Parklife DC",
   "Parksville Qualicum News",
   "Paste Magazine",
@@ -172,6 +171,7 @@
   "Rock DNA Magazine",
   "Rock Sound",
   "Rolling Stone",
+  "Rolling Stone Canada",
   "Rolling Stone Japan(ローリングストーン ジャパン）",
   "RouteNote",
   "SB Nation",
@@ -289,55 +289,217 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 395,
- "detail_count": 300,
+ "count": 398,
+ "detail_count": 296,
  "digest": {
-  "headline": "Weezerのツアー発表やMCRの訴訟問題など直近のニュース",
+  "headline": "パンク・ロックバンドの最新動向まとめ",
   "points": [
    {
-    "text": "Weezerが2027年にオーストラリアとニュージーランドを巡るオセアニアツアーの開催を発表した。",
+    "text": "Blink-182はWelcome To Rockville 2027やSonic Temple 2027などの大型ロックフェスへの出演が決定した。",
     "ids": [
-     "82c17a6c1f8ad35a",
-     "0e1c151916cfae53",
-     "358c031c789a5771"
+     "c8036b9975bd6b2c",
+     "37275ed4c5dfa646",
+     "ce16466be0d9f4f4"
     ]
    },
    {
-    "text": "The OffspringのギタリストNoodlesが健康上の理由でライブ活動の一時休止を発表した。",
+    "text": "Weezerは2027年にオーストラリアとニュージーランドを巡る大規模なオセアニアツアーの開催を発表した。",
     "ids": [
+     "358c031c789a5771",
+     "c7067b5d44202ca8",
+     "98d280f1b0a8d327"
+    ]
+   },
+   {
+    "text": "My Chemical RomanceはBillboardやUKチャートでの首位獲得の可能性や、衣装変更を巡る合意が報じられている。",
+    "ids": [
+     "a70b1df982253e04",
+     "15b1f5f1751fd213",
+     "ce16466be0d9f4f4"
+    ]
+   },
+   {
+    "text": "The OffspringはメキシコのCorona CapitalやラスベガスのSEMA Festへの出演が決まる一方、Noodlesがライブ活動を休止する。",
+    "ids": [
+     "35a4f623aca03f0e",
+     "f610119ff5cb2464",
      "98b7206ed87ff73a"
-    ]
-   },
-   {
-    "text": "Blink-182やKornらが大規模ロックフェス「Sonic Temple 2027」のヘッドライナーに決定した。",
-    "ids": [
-     "ce16466be0d9f4f4",
-     "08f0f678182f54ea"
-    ]
-   },
-   {
-    "text": "My Chemical Romanceがチアリーダー側の法的措置や訴訟を受けて衣装の変更に合意した。",
-    "ids": [
-     "05e5841253440597",
-     "9fee7e68f9fb978c",
-     "5040f145b747c8d0"
-    ]
-   },
-   {
-    "text": "Pinhead Gunpowderの公演に向けて、地元のレコード店で追加チケットが販売されている。",
-    "ids": [
-     "5ef3dc0bc96d9cd8",
-     "63900e71b1891eda"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-26T21:45:55.635927+09:00",
-  "generated_at": "2026-10-29T21:45:57.985991+09:00",
+  "from": "2026-10-27T07:40:07.717399+09:00",
+  "generated_at": "2026-10-30T07:40:09.213507+09:00",
   "article_count": 24,
-  "sig": "10e65f216107"
+  "sig": "15815da1e777"
  },
  "items": [
+  {
+   "id": "c8036b9975bd6b2c",
+   "url": "https://music.mxdwn.com/2026/10/29/news/welcome-to-rockville-2027-lineup-announced-featuring-korn-faith-no-more-blink-182-more",
+   "title_original": "Welcome To Rockville 2027 Lineup Announced Featuring Korn, Faith No More, Blink-182 & More",
+   "source": "mxdwn Music",
+   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2024/10/KORN_BMO_CH_20241005-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T22:19:45+00:00",
+   "title_ja": "Welcome To Rockville 2027の出演者が発表",
+   "summary_ja": "大規模ロックフェス「Welcome To Rockville 2027」のラインナップがアナウンスされ、Blink-182やKornらの出演が明らかになった。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Korn",
+    "Faith No More"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "ad80eac3653cbc79",
+   "url": "https://www.imdb.com/fr/news/ni66086026",
+   "title_original": "2027 Welcome to Rockville Festival Features Korn, blink-182, and Faith No More",
+   "source": "IMDb",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T20:07:50+00:00",
+   "title_ja": "2027年のWelcome to Rockvilleフェス情報",
+   "summary_ja": "「Welcome to Rockville 2027」フェスティバルの開催が決定し、Blink-182、Korn、Faith No Moreらがステージに登場する予定。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Korn",
+    "Faith No More"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "a70b1df982253e04",
+   "url": "https://www.billboard.com/music/chart-beat/my-chemical-romance-black-parade-first-number-one-album-1236370527",
+   "title_original": "Will My Chemical Romance Score Its First No. 1 Album Next Week (With a 20-Year-Old Album)?",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T19:59:54+00:00",
+   "title_ja": "My Chemical Romanceが初の1位を獲得するか",
+   "summary_ja": "My Chemical Romanceの20年前のアルバムが、Billboardチャートで自身初となる週間1位を獲得する可能性について報じられている。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "de4b19bdadf26fc8",
+   "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-my-chemical-romance-show-billboard-200-high-1236370380",
+   "title_original": "Olivia Rodrigo Checks Out My Chemical Romance Show as Both Acts Aim High on Billboard 200",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T19:34:54+00:00",
+   "title_ja": "MCRのライブをオリヴィア・ロドリゴが観覧",
+   "summary_ja": "My Chemical Romanceのライブ会場にオリヴィア・ロドリゴの姿が目撃され、両者がビルボードチャート上位を狙う中で注目を集めている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Olivia Rodrigo"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "37275ed4c5dfa646",
+   "url": "https://parade.com/entertainment/welcome-to-rockville-2027-lineup-blink-182-korn",
+   "title_original": "Nostalgic Rock Festival Unveils 2027 Lineup With Blink-182, Korn, and More",
+   "source": "Parade Magazine",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T18:44:54+00:00",
+   "title_ja": "Nostalgic Rock Festivalが2027年ラインナップを発表",
+   "summary_ja": "Blink-182やKornらの出演が決定した、2027年開催のNostalgic Rock Festivalの出演アーティストが明らかになった。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Korn"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "757390dc505fb089",
+   "url": "https://ca.rollingstone.com/music/my-chemical-romance-dallas-cowboys-cheerleaders-lawsuit",
+   "title_original": "My Chemical Romance Waves White Flag in Dallas Cowboys Cheerleader Flap: ‘Agreement Reached’",
+   "source": "Rolling Stone Canada",
+   "image": "https://ca.rollingstone.com/media-library/my-chemical-romance-performs-at-metlife-stadium-august-2025.webp?id=68555432&width=1200&height=600&coordinates=0%2C132%2C0%2C132",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T16:11:29+00:00",
+   "title_ja": "My Chemical Romance、ダラス・カウボーイズ関連で合意",
+   "summary_ja": "ダラス・カウボーイズのチアリーダーを巡る騒動について、My Chemical Romance側が合意に達したことを発表した。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "8482961370e2b2f1",
+   "url": "https://chorus.fm/news/fall-out-boy-do-chores",
+   "title_original": "Fall Out Boy Do Chores",
+   "source": "chorus.fm",
+   "image": "https://chorus.fm/wp-content/uploads/2023/01/fall-out-boy.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T15:02:57+00:00",
+   "title_ja": "Fall Out Boyの最新情報",
+   "summary_ja": "Fall Out Boyの動向に関するニュースが報じられています。詳細は本文をご確認ください。",
+   "category": "その他",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 1,
+   "detail_tries": 1
+  },
+  {
+   "id": "35a4f623aca03f0e",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/the-offspring-play-corona-capital-in-mexico-city-on-21-november/70428338",
+   "title_original": "The Offspring play Corona Capital in Mexico City on 21 November",
+   "source": "ad-hoc-news.de",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403762_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T13:07:42+00:00",
+   "title_ja": "The OffspringがメキシコのCorona Capitalに出演決定",
+   "summary_ja": "The Offspringが11月21日にメキシコシティで開催される音楽フェス「Corona Capital」に出演することが決定しました。",
+   "category": "フェス出演",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "82c17a6c1f8ad35a",
    "url": "https://www.ad-hoc-news.de/unterhaltung/musik/weezer-announced-2027-australia-tour-on-28-october-first-in-14-years/70427163",
@@ -8415,113 +8577,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "9b2c75eca6d203fc",
-   "url": "https://hitparader.com/news/alkaline-trio-rise-against-pay-homage-to-each-other-on-new-split-single-release",
-   "title_original": "Alkaline Trio + Rise Against Pay Homage To Each Other On New Split Single Release",
-   "source": "Hit Parader",
-   "image": "https://hitparader.com/wp-content/uploads/sites/2/2026/09/Unknown-1-e1789580283567.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-16T17:56:15+00:00",
-   "title_ja": "Alkaline TrioとRise Againstがスプリット盤をリリース",
-   "summary_ja": "Alkaline TrioとRise Againstが互いの楽曲をカバーし合う新しいスプリットシングルを発表しました。パンクシーンを代表する両バンドによる注目のコラボレーションとなっています。",
-   "category": "新曲・新作",
-   "band": "Alkaline Trio",
-   "artists": [
-    "Alkaline Trio",
-    "Rise Against"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "fe04d883a50fd08b",
-   "url": "https://consequence.net/2026/09/the-offspring-pennywise-circle-jerks-benefit-t-s-o-l-mike-roche",
-   "title_original": "The Offspring, Pennywise, Circle Jerks to Play Benefit for T.S.O.L. Bassist Mike Roche",
-   "source": "Consequence",
-   "image": "https://consequence.net/wp-content/uploads/2026/09/The-Offspring-with-Mike-Roche-poster-inset.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-16T17:37:55+00:00",
-   "title_ja": "The OffspringらがT.S.O.L.のMike Roche支援チャリティ公演に出演",
-   "summary_ja": "T.S.O.L.のベーシストであるMike Rocheを支援するため、The Offspring、Pennywise、Circle Jerksらがチャリティ・コンサートに出演することが決定した。",
-   "category": "ライブ・ツアー",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring",
-    "Pennywise",
-    "Circle Jerks",
-    "Mike Roche"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "c0a9fe16cb8bad44",
-   "url": "https://themusicuniverse.com/the-offspring-pennywise-circle-jerks-adolescents-team-for-mike-roche-benefit-concert",
-   "title_original": "The Offspring, Pennywise, Circle Jerks, Adolescents team for Mike Roche benefit concert",
-   "source": "The Music Universe",
-   "image": "https://themusicuniverse.com/wp-content/uploads/2026/09/mikerochebenefit.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-16T16:14:26+00:00",
-   "title_ja": "The OffspringやPennywiseらがマイク・ロッシュの支援公演に出演決定",
-   "summary_ja": "The Offspring、Pennywise、Circle Jerks、Adolescentsが、マイク・ロッシュを支援するためのベネフィットコンサートで共演することが決定した。",
-   "category": "ライブ・ツアー",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring",
-    "Pennywise",
-    "Circle Jerks",
-    "Adolescents"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "bd5de75d76309911",
-   "url": "https://www.aol.com/articles/chemical-romance-just-announced-massive-160252824.html",
-   "title_original": "My Chemical Romance Just Announced a Massive New Stadium Tour, and It’s Officially Been 20 Years Since the Black Parade Album That Started It All",
-   "source": "aol.com",
-   "image": "https://hermes.media.static.aol.com/media/2026/09/16/2c3ed89f-dd99-334a-8d00-67264a9f8f69/ca8c9e9b-c9e7-42c9-bc27-43335eeb0c34.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-16T16:02:52.824130+00:00",
-   "title_ja": "My Chemical Romanceが大規模なスタジアムツアーを発表",
-   "summary_ja": "My Chemical Romanceが大規模な新スタジアムツアーの開催を発表しました。名盤『The Black Parade』のリリースから20周年という記念すべき節目を迎えます。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "ad16abdb860a6b5d",
-   "url": "https://ourculturemag.com/2026/09/16/my-chemical-romances-new-album-everything-we-know-so-far",
-   "title_original": "My Chemical Romance’s New Album: Everything We Know So Far",
-   "source": "Our Culture Mag",
-   "image": "https://ourculturemag.com/wp-content/uploads/K1600_MCR-new-Bryce-Hall-e1789568866182.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-16T14:29:50+00:00",
-   "title_ja": "My Chemical Romanceの新アルバムに関する現在の情報まとめ",
-   "summary_ja": "My Chemical Romanceの新作アルバムに関して、これまでに判明している情報や噂などを整理して詳細に解説している。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
    "has_detail": true
   }
  ]
