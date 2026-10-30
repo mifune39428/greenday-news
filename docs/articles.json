@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T07:39:37.456608+09:00",
+ "updated_at": "2026-10-30T14:25:27.457471+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -77,7 +77,6 @@
   "Forbes",
   "Glide Magazine",
   "Global News",
-  "Guitar World",
   "Guitar.com",
   "HEAVY Magazine",
   "HMV",
@@ -152,6 +151,7 @@
   "Penticton Western News",
   "People.com",
   "Pioneer Press",
+  "Pitchfork",
   "PlayDayOne",
   "Pollstar News",
   "PopMatters",
@@ -171,7 +171,6 @@
   "Rock DNA Magazine",
   "Rock Sound",
   "Rolling Stone",
-  "Rolling Stone Canada",
   "Rolling Stone Japan(ローリングストーン ジャパン）",
   "RouteNote",
   "SB Nation",
@@ -193,7 +192,6 @@
   "The Detroit News",
   "The Drum",
   "The Duke Chronicle",
-  "The Georgia Straight",
   "The Hollywood Reporter",
   "The Mercury News",
   "The Mirror US",
@@ -221,7 +219,6 @@
   "WEBN",
   "WECB",
   "WIXY.com |",
-  "WKFR",
   "WMNF",
   "WMTW",
   "WOMI Owensboro",
@@ -271,7 +268,6 @@
   "nettosgameroom.com",
   "nme.com",
   "noise11.com",
-  "parade.com",
   "punknews.org",
   "rockin'on",
   "rova",
@@ -289,37 +285,42 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 398,
- "detail_count": 296,
+ "count": 392,
+ "detail_count": 298,
  "digest": {
-  "headline": "パンク・ロックバンドの最新動向まとめ",
+  "headline": "パンク・ロックバンドの最新ニュースまとめ",
   "points": [
    {
-    "text": "Blink-182はWelcome To Rockville 2027やSonic Temple 2027などの大型ロックフェスへの出演が決定した。",
+    "text": "Green Dayの全盛期について、セックス・ピストルズのジョン・ライドンが過去に痛烈な批判をしていた話題が取り上げられている。",
     "ids": [
-     "c8036b9975bd6b2c",
-     "37275ed4c5dfa646",
-     "ce16466be0d9f4f4"
+     "5c545f186076739d"
     ]
    },
    {
-    "text": "Weezerは2027年にオーストラリアとニュージーランドを巡る大規模なオセアニアツアーの開催を発表した。",
+    "text": "Weezerが2027年にオーストラリアとニュージーランドを巡るツアーの開催を発表し、大きな注目を集めている。",
     "ids": [
      "358c031c789a5771",
-     "c7067b5d44202ca8",
      "98d280f1b0a8d327"
     ]
    },
    {
-    "text": "My Chemical RomanceはBillboardやUKチャートでの首位獲得の可能性や、衣装変更を巡る合意が報じられている。",
+    "text": "Blink-182が出演する大規模なロックフェスティバルのラインナップが続々と発表されたほか、新曲制作に向けたスタジオ入りへの意欲が報じられている。",
     "ids": [
-     "a70b1df982253e04",
-     "15b1f5f1751fd213",
-     "ce16466be0d9f4f4"
+     "4686d2114e74910c",
+     "ce16466be0d9f4f4",
+     "98a81540faaa6bf0"
     ]
    },
    {
-    "text": "The OffspringはメキシコのCorona CapitalやラスベガスのSEMA Festへの出演が決まる一方、Noodlesがライブ活動を休止する。",
+    "text": "My Chemical Romanceは、新作の短編映画の公開やチャートでの好調な動きが伝えられる一方で、ステージ衣装を巡る訴訟と変更への合意も報じられている。",
+    "ids": [
+     "bffeedb711e5f281",
+     "a70b1df982253e04",
+     "9fee7e68f9fb978c"
+    ]
+   },
+   {
+    "text": "The Offspringは、メキシコのCorona CapitalやラスベガスのSEMA Festへの出演が決定した一方、ギタリストのNoodlesが健康上の理由でライブ活動を一時休止することを発表した。",
     "ids": [
      "35a4f623aca03f0e",
      "f610119ff5cb2464",
@@ -328,12 +329,97 @@
    }
   ],
   "days": 3,
-  "from": "2026-10-27T07:40:07.717399+09:00",
-  "generated_at": "2026-10-30T07:40:09.213507+09:00",
+  "from": "2026-10-27T14:26:08.445158+09:00",
+  "generated_at": "2026-10-30T14:26:10.632121+09:00",
   "article_count": 24,
-  "sig": "15815da1e777"
+  "sig": "91b71d5c763d"
  },
  "items": [
+  {
+   "id": "4686d2114e74910c",
+   "url": "https://bluntmag.com.au/music/welcome-to-rockville-2027-lineup-blink-182-korn-faith-no-more",
+   "title_original": "Welcome To Rockville 2027 Unveils Huge Lineup Led by Blink-182, Korn and Faith No More",
+   "source": "Blunt Magazine",
+   "image": "https://images-1.bluntmag.com.au/cdn-cgi/image/f=auto,quality=80,fit=scale-down/https://images-1.bluntmag.com.au/uploads/2026/10/Untitled-design-6-2053741d40132b77c917557ac05f4f54.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T00:49:36+00:00",
+   "title_ja": "Welcome To Rockville 2027がBlink-182ら出演ラインナップ発表",
+   "summary_ja": "米音楽フェスティバル「Welcome To Rockville 2027」が出演ラインナップを発表した。Blink-182をはじめ、KornやFaith No Moreといった豪華アーティストがヘッドライナーを務める。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Korn",
+    "Faith No More"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "bffeedb711e5f281",
+   "url": "https://pitchfork.com/story/phoebe-bridgers-and-billie-eilish-are-in-my-chemical-romances-new-short-film",
+   "title_original": "Phoebe Bridgers and Billie Eilish Lend Their Voices to My Chemical Romance’s New Short Film",
+   "source": "Pitchfork",
+   "image": "https://media.pitchfork.com/photos/6ae3e1dd18f13886b80d0b03/16:9/w_1280,c_limit/unnamed%20(29).jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T00:28:52.545000+00:00",
+   "title_ja": "My Chemical Romanceの新短編映画に豪華アーティストが参加",
+   "summary_ja": "My Chemical Romanceが公開する新しい短編映画に、Phoebe BridgersやBillie Eilishが参加していることが明らかになった。",
+   "category": "映像・映画・書籍",
+   "band": "My Chemical Romance",
+   "artists": [
+    "Phoebe Bridgers",
+    "Billie Eilish",
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "fea04b470b14ac50",
+   "url": "https://themusicuniverse.com/my-chemical-romance-launches-prelude-to-the-end-short-film",
+   "title_original": "My Chemical Romance launches ‘Prelude to the End’ short film",
+   "source": "The Music Universe",
+   "image": "https://themusicuniverse.com/wp-content/uploads/2026/10/mychemicalromancepreludefilm.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T23:20:59+00:00",
+   "title_ja": "My Chemical Romanceが短編映画を新たに公開",
+   "summary_ja": "My Chemical Romanceが新作の短編映画『Prelude to the End』を正式に発表し、公開されたことを伝えている。",
+   "category": "映像・映画・書籍",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "5c545f186076739d",
+   "url": "https://faroutmagazine.co.uk/at-the-height-of-green-days-fame-john-lydon-dismissed-them-as-silly-rich-fat-kids",
+   "title_original": "At the height of Green Day’s fame, John Lydon dismissed them as “silly rich fat kids”",
+   "source": "Far Out Magazine",
+   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/02/John-Lydon-Singer-Sex-Pistols-2016-Far-Out-Magazine.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T22:41:39+00:00",
+   "title_ja": "全盛期のGreen Dayをジョン・ライドンが痛烈に批判",
+   "summary_ja": "Green Dayが全盛期を迎えていた頃、セックス・ピストルズのジョン・ライドンが彼らを「裕福で愚かな子どもたち」と一蹴していた話題。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Green Day",
+    "John Lydon"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "c8036b9975bd6b2c",
    "url": "https://music.mxdwn.com/2026/10/29/news/welcome-to-rockville-2027-lineup-announced-featuring-korn-faith-no-more-blink-182-more",
@@ -354,29 +440,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
-  },
-  {
-   "id": "ad80eac3653cbc79",
-   "url": "https://www.imdb.com/fr/news/ni66086026",
-   "title_original": "2027 Welcome to Rockville Festival Features Korn, blink-182, and Faith No More",
-   "source": "IMDb",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-29T20:07:50+00:00",
-   "title_ja": "2027年のWelcome to Rockvilleフェス情報",
-   "summary_ja": "「Welcome to Rockville 2027」フェスティバルの開催が決定し、Blink-182、Korn、Faith No Moreらがステージに登場する予定。",
-   "category": "フェス出演",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182",
-    "Korn",
-    "Faith No More"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a70b1df982253e04",
@@ -396,28 +460,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
-  },
-  {
-   "id": "de4b19bdadf26fc8",
-   "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-my-chemical-romance-show-billboard-200-high-1236370380",
-   "title_original": "Olivia Rodrigo Checks Out My Chemical Romance Show as Both Acts Aim High on Billboard 200",
-   "source": "Billboard",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-29T19:34:54+00:00",
-   "title_ja": "MCRのライブをオリヴィア・ロドリゴが観覧",
-   "summary_ja": "My Chemical Romanceのライブ会場にオリヴィア・ロドリゴの姿が目撃され、両者がビルボードチャート上位を狙う中で注目を集めている。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "Olivia Rodrigo"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "37275ed4c5dfa646",
@@ -438,27 +481,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
-  },
-  {
-   "id": "757390dc505fb089",
-   "url": "https://ca.rollingstone.com/music/my-chemical-romance-dallas-cowboys-cheerleaders-lawsuit",
-   "title_original": "My Chemical Romance Waves White Flag in Dallas Cowboys Cheerleader Flap: ‘Agreement Reached’",
-   "source": "Rolling Stone Canada",
-   "image": "https://ca.rollingstone.com/media-library/my-chemical-romance-performs-at-metlife-stadium-august-2025.webp?id=68555432&width=1200&height=600&coordinates=0%2C132%2C0%2C132",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-29T16:11:29+00:00",
-   "title_ja": "My Chemical Romance、ダラス・カウボーイズ関連で合意",
-   "summary_ja": "ダラス・カウボーイズのチアリーダーを巡る騒動について、My Chemical Romance側が合意に達したことを発表した。",
-   "category": "その他",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8482961370e2b2f1",
@@ -478,7 +501,7 @@
    ],
    "japan": false,
    "importance": 1,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "35a4f623aca03f0e",
@@ -8425,155 +8448,6 @@
    "artists": [
     "Billie Joe Armstrong",
     "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "630c57d4ba9e372b",
-   "url": "https://www.guitarworld.com/artists/guitarists/billie-joe-armstrong-on-his-first-ever-guitar-that-defined-green-days-sound",
-   "title_original": "“I've had this guitar since I was 12 years old. My mom bought it for me off my guitar teacher”: Billie Joe Armstrong on how his first-ever guitar defined Green Day's sound",
-   "source": "Guitar World",
-   "image": "https://cdn.mos.cms.futurecdn.net/yojmynzkQeNREorxJU2zaJ-2000-80.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-17T13:40:21+00:00",
-   "title_ja": "Billie Joe Armstrongが12歳の頃から愛用する最初のギターについて明かす",
-   "summary_ja": "Green DayのBillie Joe Armstrongが、12歳の時に母親がギター講師から買ってくれたという最初のギターの思い出や、サウンドへの影響について明かした。",
-   "category": "メンバー・発言",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong",
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "af86f056bee376a8",
-   "url": "https://wkfr.com/michigan-fall-2026-concert-schedule",
-   "title_original": "Little Caesars Arena In Detroit Hosts Weezer, The Shins, And Silversun Pickups On September 23",
-   "source": "WKFR",
-   "image": "https://townsquare.media/site/689/files/2026/09/attachment-gettyimages-2283788821.jpg?w=1200&q=75&format=natural",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-17T12:59:47+00:00",
-   "title_ja": "Weezerがデトロイト公演を開催",
-   "summary_ja": "WeezerがデトロイトのLittle Caesars Arenaにて、The ShinsやSilversun Pickupsを迎えたコンサートを開催する予定です。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer",
-    "The Shins",
-    "Silversun Pickups"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "a6ef85a2021bd430",
-   "url": "https://music.mxdwn.com/2026/09/17/news/roger-waters-massive-attack-dropkick-murphys-more-call-out-ed-sheeran-after-macklemores-removal-from-loop-tour",
-   "title_original": "Roger Waters, Massive Attack, Dropkick Murphys & More Call Out Ed Sheeran After Macklemore’s Rem...",
-   "source": "mxdwn Music",
-   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2013/03/macklemore-and-ryan-lewis5.JPG",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-17T07:12:57+00:00",
-   "title_ja": "Dropkick MurphysらがEd Sheeranに言及",
-   "summary_ja": "Dropkick MurphysやRoger Waters、Massive Attackらが、Macklemoreを巡る動きに関連してEd Sheeranへ意見を表明した。",
-   "category": "メンバー・発言",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys",
-    "Roger Waters",
-    "Massive Attack",
-    "Ed Sheeran"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "af3ee56cacf4039e",
-   "url": "https://parade.com/news/weezer-pinkerton-album-30th-anniversary-fans-reactions",
-   "title_original": "Weezer’s Divisive Cult-Classic Album Turns 30",
-   "source": "parade.com",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-17T04:32:39+00:00",
-   "title_ja": "Weezerの賛否両論を呼んだカルト名盤が発売30周年を迎える",
-   "summary_ja": "Weezerの初期の作品群の中でも、ファンの間で賛否両論を呼びながらもカルト的な人気を誇る名作アルバムがリリースから30周年の節目を迎えた。",
-   "category": "再発・記念盤",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "ddbd7c5311fcb659",
-   "url": "https://www.audacy.com/1077theend/events/come-to-our-endsession-with-the-linda-lindas",
-   "title_original": "Come To Our EndSession With The Linda Lindas!",
-   "source": "Audacy",
-   "image": "https://www.audacy.com/media-library/come-to-our-endsession-with-the-linda-lindas.jpg?id=67783781&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-16T22:10:59+00:00",
-   "title_ja": "The Linda Lindasを迎えたEndSessionを開催",
-   "summary_ja": "Audacy主催のエンドセッションにThe Linda Lindasが登場し、パフォーマンスやセッションの模様が届けられる予定となっている。",
-   "category": "ライブ・ツアー",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "e3dfb02fb22d0f46",
-   "url": "https://www.antimusic.com/p/26/r0916the_offspring_pennywise_circle_jerks_and_more_play_mike_roche_tsol_benefit.shtml",
-   "title_original": "The Offspring, Pennywise, Circle Jerks, and More Play Mike Roche (T.S.O.L.) Benefit",
-   "source": "antiMusic",
-   "image": "https://www.antimusic.com/news/photos/26/09/16/tsol.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-16T21:00:40+00:00",
-   "title_ja": "The OffspringやPennywiseらが参加するT.S.O.L.のMike Roche支援ライブ",
-   "summary_ja": "The OffspringやPennywise、Circle Jerksらが、T.S.O.L.のベーシストであるMike Rocheを支援するためのチャリティライブに出演する。",
-   "category": "ライブ・ツアー",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring",
-    "Pennywise",
-    "Circle Jerks",
-    "Mike Roche"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "9d9978afedf93a10",
-   "url": "https://www.straight.com/music/photos-weezer-gathers-old-fans-and-new-at-rogers-arena",
-   "title_original": "Photos: Weezer gathers old fans and new at Rogers Arena",
-   "source": "The Georgia Straight",
-   "image": "https://www.straight.com/files/v3/styles/gs_feature/public/images/26/09/dsc02740.jpg?itok=asp8Q4Qs",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-16T19:30:10+00:00",
-   "title_ja": "Weezerがロジャース・アリーナで見せた新旧ファンを魅了するステージ",
-   "summary_ja": "Weezerがロジャース・アリーナで開催したコンサートのライブ写真が公開され、長年のファンから新しいファンまで多くの観客を集めて会場を盛り上げた様子が伝えられている。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
    ],
    "japan": false,
    "importance": 3,
