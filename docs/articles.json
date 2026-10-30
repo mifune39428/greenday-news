@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T14:25:27.457471+09:00",
+ "updated_at": "2026-10-30T21:36:52.470598+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -134,6 +134,7 @@
   "NYS Music",
   "Nanaimo News Bulletin",
   "Nashville Scene",
+  "Neon Music",
   "Netto's Game Room",
   "New Noise Magazine",
   "Noise11",
@@ -144,7 +145,6 @@
   "Orlando Sentinel",
   "Orlando Weekly",
   "PUNKLOID",
-  "Parade Magazine",
   "Parklife DC",
   "Parksville Qualicum News",
   "Paste Magazine",
@@ -285,56 +285,96 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 392,
- "detail_count": 298,
+ "count": 394,
+ "detail_count": 300,
  "digest": {
   "headline": "パンク・ロックバンドの最新ニュースまとめ",
   "points": [
    {
-    "text": "Green Dayの全盛期について、セックス・ピストルズのジョン・ライドンが過去に痛烈な批判をしていた話題が取り上げられている。",
+    "text": "Green Dayの全盛期について、セックス・ピストルズのジョン・ライドンが過去に痛烈に批判していた話題が報じられている。",
     "ids": [
      "5c545f186076739d"
     ]
    },
    {
-    "text": "Weezerが2027年にオーストラリアとニュージーランドを巡るツアーの開催を発表し、大きな注目を集めている。",
+    "text": "Blink-182がWelcome To Rockville 2027やSonic Temple 2027などの大型音楽フェスに出演することが発表された。",
     "ids": [
-     "358c031c789a5771",
+     "4686d2114e74910c",
+     "ce16466be0d9f4f4"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceは新作の短編映画『Prelude to the End』を公開し、衣装を巡る訴訟問題では変更に合意した。",
+    "ids": [
+     "bffeedb711e5f281",
+     "fea04b470b14ac50",
+     "05e5841253440597"
+    ]
+   },
+   {
+    "text": "WeezerがThird Eye Blindらをゲストに迎え、2027年にオーストラリアやニュージーランドを巡るツアーの開催を発表した。",
+    "ids": [
+     "c7067b5d44202ca8",
      "98d280f1b0a8d327"
     ]
    },
    {
-    "text": "Blink-182が出演する大規模なロックフェスティバルのラインナップが続々と発表されたほか、新曲制作に向けたスタジオ入りへの意欲が報じられている。",
+    "text": "The OffspringのギタリストNoodlesが健康上の理由でライブ活動を一時休止し、バンドはチャリティ公演などにも参加する。",
     "ids": [
-     "4686d2114e74910c",
-     "ce16466be0d9f4f4",
-     "98a81540faaa6bf0"
-    ]
-   },
-   {
-    "text": "My Chemical Romanceは、新作の短編映画の公開やチャートでの好調な動きが伝えられる一方で、ステージ衣装を巡る訴訟と変更への合意も報じられている。",
-    "ids": [
-     "bffeedb711e5f281",
-     "a70b1df982253e04",
-     "9fee7e68f9fb978c"
-    ]
-   },
-   {
-    "text": "The Offspringは、メキシコのCorona CapitalやラスベガスのSEMA Festへの出演が決定した一方、ギタリストのNoodlesが健康上の理由でライブ活動を一時休止することを発表した。",
-    "ids": [
-     "35a4f623aca03f0e",
-     "f610119ff5cb2464",
-     "98b7206ed87ff73a"
+     "98b7206ed87ff73a",
+     "18b5236de5b6d1ba"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-27T14:26:08.445158+09:00",
-  "generated_at": "2026-10-30T14:26:10.632121+09:00",
+  "from": "2026-10-27T21:37:19.499911+09:00",
+  "generated_at": "2026-10-30T21:37:20.969502+09:00",
   "article_count": 24,
-  "sig": "91b71d5c763d"
+  "sig": "07bd7412ac0c"
  },
  "items": [
+  {
+   "id": "18b5236de5b6d1ba",
+   "url": "https://www.bigcountrynewsconnection.com/the-offspring-pennywise-and-more-to-unite-for-t-s-o-l-s-mike-roche-benefit-performance",
+   "title_original": "The Offspring, Pennywise and more to unite for T.S.O.L.’s Mike Roche benefit performance",
+   "source": "Big Country News |",
+   "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2801/2026/10/30084008/shutterstock_2380638875-1320437.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T15:40:08+00:00",
+   "title_ja": "The OffspringやPennywiseらがチャリティ公演に参加",
+   "summary_ja": "T.S.O.L.のMike Rocheを支援するため、The OffspringやPennywiseをはじめとするバンドが集結し、チャリティライブを開催する。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Pennywise",
+    "Mike Roche"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "051d2366830b2b2b",
+   "url": "https://neonmusic.co.uk/misery-business-meaning",
+   "title_original": "Misery Business Meaning: Who Paramore's Hit Is About",
+   "source": "Neon Music",
+   "image": "https://neonmusic.co.uk/wp-content/uploads/2026/10/Paramore-Misery-Business-video-still.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T11:24:05+00:00",
+   "title_ja": "Paramoreの代表曲「Misery Business」の背景に迫る",
+   "summary_ja": "Paramoreの大ヒット曲「Misery Business」の歌詞や楽曲が持つ意味について解説されている。楽曲の誕生背景やメッセージ性が改めて振り返られている。",
+   "category": "その他",
+   "band": "Paramore",
+   "artists": [
+    "Paramore"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "4686d2114e74910c",
    "url": "https://bluntmag.com.au/music/welcome-to-rockville-2027-lineup-blink-182-korn-faith-no-more",
@@ -463,16 +503,16 @@
    "detail_tries": 2
   },
   {
-   "id": "37275ed4c5dfa646",
-   "url": "https://parade.com/entertainment/welcome-to-rockville-2027-lineup-blink-182-korn",
-   "title_original": "Nostalgic Rock Festival Unveils 2027 Lineup With Blink-182, Korn, and More",
-   "source": "Parade Magazine",
-   "image": "",
+   "id": "28d7e9d161c40b81",
+   "url": "https://consequence.net/2026/10/2027-welcome-to-rockville-lineup",
+   "title_original": "2027 Welcome to Rockville Festival Features Korn, blink-182, and Faith No More",
+   "source": "Consequence",
+   "image": "https://consequence.net/wp-content/uploads/2026/10/Faith-No-More-blink-182-Korn.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-10-29T18:44:54+00:00",
-   "title_ja": "Nostalgic Rock Festivalが2027年ラインナップを発表",
-   "summary_ja": "Blink-182やKornらの出演が決定した、2027年開催のNostalgic Rock Festivalの出演アーティストが明らかになった。",
+   "published": "2026-10-29T17:37:13+00:00",
+   "title_ja": "2027年のWelcome to Rockvilleフェス情報",
+   "summary_ja": "2027年に開催されるWelcome to Rockvilleフェスに、Blink-182やKornらが出演すると報じられた。",
    "category": "フェス出演",
    "band": "Blink-182",
    "artists": [
@@ -481,7 +521,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 2
+   "has_detail": true
   },
   {
    "id": "8482961370e2b2f1",
