@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T14:09:59.260255+09:00",
+ "updated_at": "2026-10-31T21:04:03.022602+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -280,69 +280,99 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 384,
- "detail_count": 295,
+ "count": 385,
+ "detail_count": 296,
  "digest": {
-  "headline": "MCR全英初1位やBlink-182フェス出演など直近3日の動向",
+  "headline": "MCRの新作やツアー計画、Blink-182らの大型フェス出演が続々発表",
   "points": [
    {
-    "text": "My Chemical Romanceは『The Black Parade』の20周年記念盤で全英アルバムチャート初の1位を獲得し、新作フィルムも発表した。",
+    "text": "My Chemical RomanceのGerard Wayが2027年の新作アルバム制作と2028年のツアー復帰を告げた。",
     "ids": [
-     "05b36ac5e12e4531",
-     "34b0576b0e1286ca",
-     "4cb8f6588fa99eac"
+     "cc34f61903dbb5cf"
     ]
    },
    {
-    "text": "Blink-182は2027年の「Welcome To Rockville」や「Sonic Temple」でヘッドライナーを務めることが決定した。",
+    "text": "My Chemical Romanceは『The Black Parade』で初のUKアルバムチャート1位を獲得し、新作フィルムも発表した。",
+    "ids": [
+     "89f8334bb035ebbd",
+     "34b0576b0e1286ca"
+    ]
+   },
+   {
+    "text": "Blink-182が2027年に開催される「Welcome To Rockville」や「Sonic Temple」のヘッドライナーに決定した。",
     "ids": [
      "3fadaffb5c78731e",
-     "a66154df0fb0e773",
-     "4686d2114e74910c"
+     "a66154df0fb0e773"
     ]
    },
    {
-    "text": "Weezerはオーストラリアやニュージーランドを巡るオセアニアツアーの開催を発表した。",
+    "text": "Weezerがオーストラリアとニュージーランドを巡る14年ぶりのツアー開催を発表した。",
     "ids": [
      "82c17a6c1f8ad35a",
-     "0e1c151916cfae53",
-     "358c031c789a5771"
-    ]
-   },
-   {
-    "text": "The Offspringはメキシコの「Corona Capital」やラスベガスの「SEMA Fest 2026」への出演が決定した。",
-    "ids": [
-     "35a4f623aca03f0e",
-     "f610119ff5cb2464",
-     "18b5236de5b6d1ba"
-    ]
-   },
-   {
-    "text": "Green Dayの全盛期について、セックス・ピストルズのジョン・ライドンが過去に痛烈に批判していた話題が報じられた。",
-    "ids": [
-     "5c545f186076739d"
+     "0e1c151916cfae53"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-28T14:11:32.346050+09:00",
-  "generated_at": "2026-10-31T14:11:37.017675+09:00",
+  "from": "2026-10-28T21:05:03.299192+09:00",
+  "generated_at": "2026-10-31T21:05:41.806500+09:00",
   "article_count": 24,
-  "sig": "e58a988db651"
+  "sig": "68cd88f9ec11"
  },
  "items": [
   {
-   "id": "05b36ac5e12e4531",
-   "url": "https://www.mensjournal.com/entertainment/my-chemical-romance-score-first-u-k-no-1-with-20th-anniversary-edition-of-iconic-album",
-   "title_original": "My Chemical Romance Score First U.K. No. 1 With 20th Anniversary Edition Of Iconic Album",
-   "source": "Men's Journal",
-   "image": "",
+   "id": "b9498b1493b83a50",
+   "url": "https://www.kerrang.com/welcome-to-twilight-town-mall-fall-out-boy-are-teasing-something-new-album-rumours-patrick-stump-pete-wentz",
+   "title_original": "“Welcome To Twilight Town Mall”: Fall Out Boy are teasing something",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/Fall-Out-Boy-2023-promo-3.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1679658951&s=de6348f6b798e701225034d417fb5dd5",
    "lang": "en",
    "region": "global",
-   "published": "2026-10-31T02:53:00+00:00",
-   "title_ja": "My Chemical Romance、20周年記念盤で初の全英アルバムチャート1位を獲得",
-   "summary_ja": "My Chemical Romanceの代表的なアルバムの20周年記念エディションが、全英アルバムチャートで首位を獲得した。バンドにとってイギリスのアルバムチャートで1位を獲得するのは今回が初となる。",
-   "category": "チャート・受賞",
+   "published": "2026-10-31T11:50:00+00:00",
+   "title_ja": "Fall Out Boyが謎の予告「Welcome To Twilight Town Mall」",
+   "summary_ja": "Fall Out Boyが新プロジェクトを示唆する匂わせティザーを公開し、「Welcome To Twilight Town Mall」という謎のキーワードがファンの間で話題となっている。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "cc34f61903dbb5cf",
+   "url": "https://www.nme.com/news/music/my-chemical-romance-gerard-way-plans-new-album-2027-touring-2028-3974719",
+   "title_original": "My Chemical Romance's Gerard Way reveals plans to make new album in 2027 and return to touring in 2028",
+   "source": "NME",
+   "image": "https://www.nme.com/wp-content/uploads/2026/10/gerard_my_chemical_romance.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-31T08:42:13+00:00",
+   "title_ja": "Gerard Wayが2027年の新作アルバム制作と2028年のツアー復帰を告白",
+   "summary_ja": "My Chemical RomanceのGerard Wayが、2027年に新たなアルバムを制作し、2028年にはツアー活動へ本格的に復帰する計画を明らかにした。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "Gerard Way",
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "21f62ebeffff42c2",
+   "url": "https://www.kerrang.com/did-my-chemical-romance-just-confirm-mcr-5-hints-rumours-gerard-way-hollywood-bowl-long-live-black-parade",
+   "title_original": "Did My Chemical Romance just confirm MCR5?",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/My-Chemical-Romance-Gerard-Way-live-September-2025-header-credit-Jenn-Five-2.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1758623927&s=d8c5ce6215d9bf479a40ba7d9a9390c9",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-31T00:00:00+00:00",
+   "title_ja": "My Chemical Romanceが待望のMCR5を匂わせか",
+   "summary_ja": "My Chemical Romanceがファン待望となる通称「MCR5」と呼ばれる新作アルバムのリリースをほのめかす動きを見せ、世界中のリスナーの間で大きな期待が高まっている。",
+   "category": "新曲・新作",
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
@@ -399,7 +429,7 @@
    "url": "https://chorus.fm/news/fall-out-boy-tease",
    "title_original": "Fall Out Boy Tease",
    "source": "chorus.fm",
-   "image": "",
+   "image": "https://chorus.fm/wp-content/uploads/2023/01/fall-out-boy.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-10-30T20:43:44+00:00",
@@ -412,7 +442,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9696396b1286159d",
@@ -479,26 +509,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "4cb8f6588fa99eac",
-   "url": "https://www.billboard.com/music/chart-beat/my-chemical-romance-uk-number-one-black-parade-1236370977",
-   "title_original": "My Chemical Romance Score First U.K. No. 1 With 20th Anniversary Edition of ‘The Black Parade’",
-   "source": "Billboard",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-30T18:00:27+00:00",
-   "title_ja": "My Chemical Romance、『The Black Parade』20周年盤で全英1位を獲得",
-   "summary_ja": "My Chemical Romanceの代表作『The Black Parade』の20周年記念エディションが全英アルバムチャートで首位を獲得し、バンドにとって初の全英1位を記録しました。",
-   "category": "チャート・受賞",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
   },
   {
    "id": "18b5236de5b6d1ba",
