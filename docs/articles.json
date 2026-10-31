@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T07:09:56.760910+09:00",
+ "updated_at": "2026-10-31T14:09:59.260255+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -91,6 +91,7 @@
   "International Business Times UK",
   "Irish Mirror",
   "Irish Star",
+  "JamBase",
   "KCRW",
   "KLBJ-FM",
   "KQED",
@@ -104,7 +105,6 @@
   "Lambgoat",
   "Las Vegas Sun",
   "Law Commentary",
-  "Lexington Herald Leader",
   "Live Music Blog",
   "Los Angeles Daily News",
   "Los Angeles Times",
@@ -186,7 +186,6 @@
   "That Eric Alper",
   "The Aquarian",
   "The Concordian",
-  "The Courier-Journal",
   "The Daily Texan",
   "The Detroit News",
   "The Drum",
@@ -213,7 +212,6 @@
   "V13 Media",
   "VICE",
   "Variety",
-  "WBEZ Chicago",
   "WDHA FM",
   "WECB",
   "WIXY.com |",
@@ -239,7 +237,6 @@
   "antiMusic",
   "aol.com",
   "azat.tv",
-  "backseatmafia.com",
   "chaoszine.net",
   "chorus.fm",
   "completemusicupdate.com",
@@ -283,48 +280,100 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 393,
- "detail_count": 300,
+ "count": 384,
+ "detail_count": 295,
  "digest": {
-  "headline": "My Chemical Romanceが全英1位を獲得し新フィルムも発表",
+  "headline": "MCR全英初1位やBlink-182フェス出演など直近3日の動向",
   "points": [
    {
-    "text": "My Chemical Romanceの『The Black Parade』20周年記念エディションが全英アルバムチャートで首位を獲得しました。",
+    "text": "My Chemical Romanceは『The Black Parade』の20周年記念盤で全英アルバムチャート初の1位を獲得し、新作フィルムも発表した。",
     "ids": [
+     "05b36ac5e12e4531",
+     "34b0576b0e1286ca",
      "4cb8f6588fa99eac"
     ]
    },
    {
-    "text": "My Chemical Romanceがサプライズの新作短編映画『Prelude to the End』を発表し、Billie Eilishらが参加しています。",
+    "text": "Blink-182は2027年の「Welcome To Rockville」や「Sonic Temple」でヘッドライナーを務めることが決定した。",
     "ids": [
-     "34b0576b0e1286ca",
-     "bffeedb711e5f281",
-     "fea04b470b14ac50"
-    ]
-   },
-   {
-    "text": "Weezerが2027年にオーストラリアとニュージーランドを巡る「The Gathering Tour」の開催を発表しました。",
-    "ids": [
-     "0e1c151916cfae53",
-     "358c031c789a5771",
-     "98d280f1b0a8d327"
-    ]
-   },
-   {
-    "text": "Blink-182が2027年開催の「Sonic Temple」および「Welcome To Rockville」でヘッドライナーを務めます。",
-    "ids": [
+     "3fadaffb5c78731e",
      "a66154df0fb0e773",
      "4686d2114e74910c"
+    ]
+   },
+   {
+    "text": "Weezerはオーストラリアやニュージーランドを巡るオセアニアツアーの開催を発表した。",
+    "ids": [
+     "82c17a6c1f8ad35a",
+     "0e1c151916cfae53",
+     "358c031c789a5771"
+    ]
+   },
+   {
+    "text": "The Offspringはメキシコの「Corona Capital」やラスベガスの「SEMA Fest 2026」への出演が決定した。",
+    "ids": [
+     "35a4f623aca03f0e",
+     "f610119ff5cb2464",
+     "18b5236de5b6d1ba"
+    ]
+   },
+   {
+    "text": "Green Dayの全盛期について、セックス・ピストルズのジョン・ライドンが過去に痛烈に批判していた話題が報じられた。",
+    "ids": [
+     "5c545f186076739d"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-28T07:10:55.562023+09:00",
-  "generated_at": "2026-10-31T07:11:14.190034+09:00",
+  "from": "2026-10-28T14:11:32.346050+09:00",
+  "generated_at": "2026-10-31T14:11:37.017675+09:00",
   "article_count": 24,
-  "sig": "c483f860cf1a"
+  "sig": "e58a988db651"
  },
  "items": [
+  {
+   "id": "05b36ac5e12e4531",
+   "url": "https://www.mensjournal.com/entertainment/my-chemical-romance-score-first-u-k-no-1-with-20th-anniversary-edition-of-iconic-album",
+   "title_original": "My Chemical Romance Score First U.K. No. 1 With 20th Anniversary Edition Of Iconic Album",
+   "source": "Men's Journal",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-31T02:53:00+00:00",
+   "title_ja": "My Chemical Romance、20周年記念盤で初の全英アルバムチャート1位を獲得",
+   "summary_ja": "My Chemical Romanceの代表的なアルバムの20周年記念エディションが、全英アルバムチャートで首位を獲得した。バンドにとってイギリスのアルバムチャートで1位を獲得するのは今回が初となる。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "3fadaffb5c78731e",
+   "url": "https://themosh.net/2027-welcome-to-rockville-lineup",
+   "title_original": "Korn, Bad Omens, Pierce The Veil & Blink-182 Set To Headline 2027 Welcome To Rockville",
+   "source": "The Mosh Network",
+   "image": "http://themosh.net/wp-content/uploads/2026/10/welcometorockville2027.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T23:45:25+00:00",
+   "title_ja": "Blink-182が2027年「Welcome To Rockville」のヘッドライナーに決定",
+   "summary_ja": "2027年に開催される大規模フェス「Welcome To Rockville」のヘッドライナーが発表された。Blink-182をはじめ、Korn、Bad Omens、Pierce The Veilの出演が決定している。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Korn",
+    "Bad Omens",
+    "Pierce The Veil"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "94c9ab4670229f7f",
    "url": "https://www.orlandoweekly.com/music/photos-the-linda-lindas-rat-utopia-experiment-and-s-m-o-p-brought-next-wave-energy-to-the-social",
@@ -343,7 +392,48 @@
    ],
    "japan": false,
    "importance": 2,
+   "detail_tries": 2
+  },
+  {
+   "id": "e3de3296bf860293",
+   "url": "https://chorus.fm/news/fall-out-boy-tease",
+   "title_original": "Fall Out Boy Tease",
+   "source": "chorus.fm",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T20:43:44+00:00",
+   "title_ja": "Fall Out Boyが新たな展開を示唆するティザーを公開",
+   "summary_ja": "Fall Out Boyが新たな告知に向けたティザー動画を公開した。具体的な発表内容は明かされていないものの、バンドの今後の動きにファンからの期待と注目が集まっている。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 2,
    "detail_tries": 1
+  },
+  {
+   "id": "9696396b1286159d",
+   "url": "https://www.jambase.com/article/welcome-to-rockville-festival-lineup-2027",
+   "title_original": "Welcome To Rockville 2027 Lineup: Korn, Blink-182, Bad Omens, Pierce The Veil & More",
+   "source": "JamBase",
+   "image": "https://www.jambase.com/wp-content/uploads/2026/10/welcome-to-rockville-apex-stage-facebook-1480x832.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T19:48:05+00:00",
+   "title_ja": "Welcome To Rockville 2027の出演者が発表",
+   "summary_ja": "大規模ロックフェス「Welcome To Rockville 2027」の出演ラインナップが発表され、Blink-182らが名を連ねた。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Korn"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "34b0576b0e1286ca",
@@ -391,26 +481,6 @@
    "has_detail": true
   },
   {
-   "id": "522d89b91e5a7158",
-   "url": "https://loudwire.com/my-chemical-romances-animated-short-film-theories",
-   "title_original": "What Fans Think My Chemical Romance's New Short Film Really Means",
-   "source": "Loudwire",
-   "image": "https://townsquare.media/site/366/files/2026/10/attachment-social-image-366-2026-10-30-13-07-40.jpg?w=1200&q=75&format=natural",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-30T18:22:28+00:00",
-   "title_ja": "My Chemical Romanceの新作短編映画に対するファンの考察",
-   "summary_ja": "My Chemical Romanceが新たに公開したショートフィルムに対し、ファンの間でどのような意味やメッセージが込められているのか様々な解釈や考察が広がっています。",
-   "category": "映像・映画・書籍",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
    "id": "4cb8f6588fa99eac",
    "url": "https://www.billboard.com/music/chart-beat/my-chemical-romance-uk-number-one-black-parade-1236370977",
    "title_original": "My Chemical Romance Score First U.K. No. 1 With 20th Anniversary Edition of ‘The Black Parade’",
@@ -428,7 +498,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "18b5236de5b6d1ba",
@@ -559,6 +629,26 @@
    "has_detail": true
   },
   {
+   "id": "89f8334bb035ebbd",
+   "url": "https://www.officialcharts.com/chart-news/my-chemical-romance-the-black-parade-uk-number-1-album",
+   "title_original": "My Chemical Romance march their way to first UK Number 1 album with The Black Parade",
+   "source": "Official Charts",
+   "image": "https://backstage.officialcharts.com/sites/default/files/2026-10/my-chemical-romance-the-black-parade-uk-number-1-album.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T00:00:00+00:00",
+   "title_ja": "MCR、初のUKアルバムチャート1位を獲得",
+   "summary_ja": "My Chemical Romanceが『The Black Parade』でキャリア初となるUKアルバムチャートのナンバーワンを成し遂げた。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "fea04b470b14ac50",
    "url": "https://themusicuniverse.com/my-chemical-romance-launches-prelude-to-the-end-short-film",
    "title_original": "My Chemical Romance launches ‘Prelude to the End’ short film",
@@ -598,26 +688,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "a70b1df982253e04",
-   "url": "https://www.billboard.com/music/chart-beat/my-chemical-romance-black-parade-first-number-one-album-1236370527",
-   "title_original": "Will My Chemical Romance Score Its First No. 1 Album Next Week (With a 20-Year-Old Album)?",
-   "source": "Billboard",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-29T19:59:54+00:00",
-   "title_ja": "My Chemical Romanceが初の1位を獲得するか",
-   "summary_ja": "My Chemical Romanceの20年前のアルバムが、Billboardチャートで自身初となる週間1位を獲得する可能性について報じられている。",
-   "category": "チャート・受賞",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
   },
   {
    "id": "28d7e9d161c40b81",
@@ -8202,260 +8272,6 @@
    "artists": [
     "Billie Joe Armstrong",
     "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "0485372783cfbc74",
-   "url": "https://www.billboard.com/music/music-news/dropkick-murphys-ken-casey-ed-sheeran-macklemore-loop-tour-1236343940",
-   "title_original": "Dropkick Murphys’ Ken Casey Criticizes Ed Sheeran Over His Treatment of Macklemore: ‘Doesn’t Sit Right’",
-   "source": "Billboard",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-19T17:28:54+00:00",
-   "title_ja": "Ken CaseyがEd SheeranのMacklemoreへの扱いを批判",
-   "summary_ja": "Dropkick MurphysのKen Caseyが、Ed SheeranによるMacklemoreへの対応方法について納得がいかないと強く批判しました。",
-   "category": "メンバー・発言",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys",
-    "Ken Casey",
-    "Ed Sheeran",
-    "Macklemore"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "1c63fb3740232bb3",
-   "url": "https://azat.tv/en/weezer-gathering-tour-chase-center-generational-impact",
-   "title_original": "Weezer’s ‘Gathering Tour’ Bridges Generational Divide at Chase Center",
-   "source": "azat.tv",
-   "image": "https://azat.tv/wp-content/uploads/2026/09/weezer-fans-chase-center.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-19T17:00:00+00:00",
-   "title_ja": "Weezerがチェイス・センターで世代を超えた公演を開催",
-   "summary_ja": "Weezerが「Gathering Tour」の一環としてチェイス・センターでライブを行い、幅広い世代のファンを魅了した。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "2438aa2bb274f3d1",
-   "url": "https://faroutmagazine.co.uk/dropkick-murphys-ken-casey-lambasts-ed-sheerans-treatment-of-macklemore",
-   "title_original": "Dropkick Murphys’ Ken Casey lambasts Ed Sheeran’s treatment of Macklemore",
-   "source": "Far Out Magazine",
-   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2025/03/Ken-Casey-Dropkick-Murphys-2025-Far-Out-Magazine.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-19T16:21:18+00:00",
-   "title_ja": "Ken CaseyがEd Sheeranの態度を厳しく非難",
-   "summary_ja": "Dropkick MurphysのKen Caseyが、Macklemoreに対するEd Sheeranの振る舞いについて公に批判の声を上げました。",
-   "category": "メンバー・発言",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys",
-    "Ken Casey",
-    "Ed Sheeran",
-    "Macklemore"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "950cf7bbd49364da",
-   "url": "https://www.yahoo.com/news/slideshows/chemical-romance-performs-louder-life-161853294.html",
-   "title_original": "My Chemical Romance performs at Louder Than Life 2026. See photos",
-   "source": "Yahoo",
-   "image": "https://s.yimg.com/lo/mysterio/api/1aaba998ef68ff814162a282ee2d056dfe928c83f2053825c9510e15583036da/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_courier_journal_slideshows_664%2F366146b4dbb1394f803aa3af16071b1b.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-19T16:18:53+00:00",
-   "title_ja": "My Chemical RomanceのLouder Than Life 2026ライブ写真",
-   "summary_ja": "My Chemical RomanceがLouder Than Life 2026フェスティバルで行ったライブの模様を捉えた写真が公開された。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "f4973936b2f3ba57",
-   "url": "https://www.kentucky.com/news/state/kentucky/article317305147.html",
-   "title_original": "What did My Chemical Romance play at Louder Than Life? See the setlist",
-   "source": "Lexington Herald Leader",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-19T12:13:00+00:00",
-   "title_ja": "My Chemical RomanceがLouder Than Lifeのセットリストを公開",
-   "summary_ja": "My Chemical RomanceがLouder Than Lifeフェスで披露したセットリストが明らかになった。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "523a560a0ae603f9",
-   "url": "https://www.iheart.com/alternate/amp/2026-09-18-watch-weezer-reveal-surprise-guest-during-nostalgic-vegas-arena-set",
-   "title_original": "Watch Weezer Reveal Surprise Guest During Nostalgic Vegas Arena Set",
-   "source": "iHeart",
-   "image": "https://i.iheart.com/v3/re/new_assets/6aae103ec1a9d81a25a951b1?ops=gravity(%22north%22),fit(1200,675),quality(65)",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-19T04:47:00+00:00",
-   "title_ja": "Weezerがラスベガス公演でサプライズゲストを登場",
-   "summary_ja": "Weezerがラスベガスのアリーナ公演にて、サプライズゲストをステージに迎えてパフォーマンスを披露した。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "77edc98ce383bd2c",
-   "url": "https://www.imdb.com/news/ni66023051",
-   "title_original": "Dropkick Murphys’ Ken Casey Says Ed Sheeran ‘Took the Knee’ With Macklemore: ‘Doesn’t Sit Right With Me’",
-   "source": "IMDb",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-19T01:34:14+00:00",
-   "title_ja": "Dropkick MurphysのKen Casey、Ed Sheeranを批判",
-   "summary_ja": "Dropkick MurphysのKen Caseyが、Ed Sheeranの行動について納得がいかないと語ったことが報じられています。",
-   "category": "メンバー・発言",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys",
-    "Ed Sheeran",
-    "Macklemore"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "34760c44aaaf66e0",
-   "url": "https://www.wbez.org/music/2026/09/18/riot-fest-2026-violet-grohl-twenty-one-pilots-rise-against-weather-douglass-park-chicago-music",
-   "title_original": "Riot Fest 2026 kicks off with rising stars Violet Grohl, the Paradox and return of local punks Rise Against",
-   "source": "WBEZ Chicago",
-   "image": "https://cst.brightspotcdn.com/dims4/default/3607aae/2147483647/strip/true/crop/6122x3495+0+294/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F16%2F91%2Fbe8859644e0484280646748abd12%2Friotfestday1photos-260919-40.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-18T23:06:03.898000+00:00",
-   "title_ja": "Riot Fest 2026が開幕、Rise Againstらが出演",
-   "summary_ja": "Riot Fest 2026が初日を迎え、注目を集める若手アーティストやベテランのRise Againstらが出演して盛り上がりを見せた。",
-   "category": "フェス出演",
-   "band": "Rise Against",
-   "artists": [
-    "Rise Against",
-    "Violet Grohl",
-    "the Paradox"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7fd2b27800e29bf0",
-   "url": "https://www.vice.com/en/article/the-green-day-album-that-got-them-banned-from-the-punk-club-that-made-them-famous",
-   "title_original": "The Green Day Album That Got Them Banned From the Punk Club That Made Them Famous",
-   "source": "VICE",
-   "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/09/Web_Photo_Editor-2026-09-18T154201.740.jpg?w=1200",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-18T20:56:02+00:00",
-   "title_ja": "Green Dayが出入禁止になったアルバムの話題",
-   "summary_ja": "Green Dayを有名にしたパンクのライブハウスから、かつて出入禁止処分を受けるきっかけとなったアルバムにまつわるエピソードを紹介しています。",
-   "category": "その他",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "9dd5259a6cda954d",
-   "url": "https://consequence.net/2026/09/dropkick-murphys-ken-casey-ed-sheeran-macklemore-situation",
-   "title_original": "Dropkick Murphys' Ken Casey on Ed Sheeran-Macklemore Situation: You Should \"Live or Die\" With Your Support Act",
-   "source": "Consequence",
-   "image": "https://consequence.net/wp-content/uploads/2026/09/Ken-Casey.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-18T20:23:49+00:00",
-   "title_ja": "Dropkick MurphysのKen Caseyが前座との関係を語る",
-   "summary_ja": "Dropkick MurphysのKen Caseyが、前座を務めるアーティストとのあり方や支援の重要性について自身の見解を明かした。",
-   "category": "メンバー・発言",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys",
-    "Ken Casey",
-    "Ed Sheeran",
-    "Macklemore"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e18add9174ac8a17",
-   "url": "https://www.courier-journal.com/story/entertainment/music/2026/09/18/louder-than-life-2026-friday-schedule-lineup-louisville/91243329007",
-   "title_original": "Louder Than Life Friday lineup, schedule features My Chemical Romance",
-   "source": "The Courier-Journal",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-18T09:01:00+00:00",
-   "title_ja": "Louder Than Lifeの金曜日にMy Chemical Romanceが出演",
-   "summary_ja": "音楽フェス「Louder Than Life」の金曜日公演の出演者ラインナップとスケジュールが発表され、My Chemical Romanceがフィーチャーされている。",
-   "category": "フェス出演",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "7311140c55be5dcc",
-   "url": "https://www.backseatmafia.com/news-paramores-hayley-williams-confirms-intimate-australian-headline-return",
-   "title_original": "News: Paramore’s Hayley Williams confirms intimate Australian headline return",
-   "source": "backseatmafia.com",
-   "image": "https://www.backseatmafia.com/wp-content/uploads/2026/09/unnamed-65.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-17T22:04:57+00:00",
-   "title_ja": "ParamoreのHayley Williamsがオーストラリアで公演へ",
-   "summary_ja": "ParamoreのHayley Williamsが、オーストラリアでの小規模なヘッドライン公演の開催を正式に確認しました。",
-   "category": "ライブ・ツアー",
-   "band": "Paramore",
-   "artists": [
-    "Paramore",
-    "Hayley Williams"
    ],
    "japan": false,
    "importance": 3,
