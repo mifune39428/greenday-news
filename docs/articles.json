@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T22:04:21.289267+09:00",
+ "updated_at": "2026-11-02T06:55:29.654686+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -207,6 +207,7 @@
   "Thought Catalog",
   "Toronto Guardian",
   "TribLIVE.com",
+  "UA.NEWS",
   "Ubisoft",
   "Ultimate Guitar",
   "V13 Media",
@@ -281,21 +282,29 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 390,
- "detail_count": 300,
+ "count": 394,
+ "detail_count": 304,
  "digest": {
-  "headline": "MCRの新作発表やBlink-182のフェス出演など注目ニュースが続々",
+  "headline": "My Chemical Romanceの新作やチャート首位が話題",
   "points": [
    {
-    "text": "My Chemical Romanceが2027年の新作アルバム制作や2028年のツアー復帰計画、『The Black Parade』20周年記念の拡張版リリースと短編映画公開を発表した。",
+    "text": "My Chemical Romanceは2027年の新作アルバム発表や2028年のツアー復帰計画を明かしたほか、The UsedのBert McCrackenとの共演も果たした。",
     "ids": [
      "6fdc706ef5339751",
-     "cc34f61903dbb5cf",
-     "45316d3290e5cc85"
+     "81fd4982f44656dd",
+     "cc34f61903dbb5cf"
     ]
    },
    {
-    "text": "Blink-182が2027年に開催される大規模音楽フェス「Welcome To Rockville」や「Sonic Temple」でヘッドライナーを務めることが決定した。",
+    "text": "名盤『The Black Parade』発売20周年を記念した拡張版リイシュー盤が、ビルボード200で首位を獲得し、UKアルバムチャートでも初の1位に輝いた。",
+    "ids": [
+     "e6b2d1866a1ed699",
+     "89f8334bb035ebbd",
+     "b0bf247b5f9c2182"
+    ]
+   },
+   {
+    "text": "Blink-182が2027年に開催される大規模音楽フェス「Welcome To Rockville」や「Sonic Temple」のヘッドライナーを務めることが発表された。",
     "ids": [
      "3fadaffb5c78731e",
      "a66154df0fb0e773",
@@ -303,28 +312,106 @@
     ]
    },
    {
-    "text": "Weezerが1992年にレコーディングされた幻の初期音源『1192』をデジタルリリースし、The OffspringがメキシコのCorona Capital出演やチャリティライブ参加を発表した。",
+    "text": "Weezerが1992年にレコーディングされた貴重な初期音源『1192』をデジタルリリースし、ファンに向けて配信をスタートさせた。",
     "ids": [
-     "5d4d2ec2956766ac",
-     "35a4f623aca03f0e",
-     "18b5236de5b6d1ba"
+     "5d4d2ec2956766ac"
     ]
    },
    {
-    "text": "Fall Out Boyが「Welcome To Twilight Town Mall」というキーワードと共に新プロジェクトを示唆する謎の予告ティザーを公開した。",
+    "text": "The Offspringがメキシコシティ公演の開催を控えているほか、T.S.O.L.の支援を目的としたチャリティライブへの参加が明らかになった。",
     "ids": [
-     "b9498b1493b83a50",
-     "e3de3296bf860293"
+     "72cb82ce5b4b5a75",
+     "18b5236de5b6d1ba"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-29T22:04:47.455370+09:00",
-  "generated_at": "2026-11-01T22:04:50.812233+09:00",
+  "from": "2026-10-30T06:56:17.880192+09:00",
+  "generated_at": "2026-11-02T06:56:19.822042+09:00",
   "article_count": 24,
-  "sig": "e44e3aee8b65"
+  "sig": "4ea7db26580f"
  },
  "items": [
+  {
+   "id": "e6b2d1866a1ed699",
+   "url": "https://ua.news/en/znamenitosti/my-chemical-romance-ocholili-billboard-200-z-perevidanniam-the-black-parade-rolling-stone",
+   "title_original": "My Chemical Romance top Billboard 200 with The Black Parade reissue — Rolling Stone",
+   "source": "UA.NEWS",
+   "image": "https://cdn-cabinet.ua.news/uploads/images/my_chemical_romance_top_billboard_200_bl_1793567800757.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-01T23:16:41+00:00",
+   "title_ja": "MCRの『The Black Parade』再発盤が首位獲得",
+   "summary_ja": "My Chemical Romanceの『The Black Parade』リイシュー盤がビルボード200で首位を獲得したとローリングストーン誌が報じました。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "fdfc42f3bdb5fa65",
+   "url": "https://themusicuniverse.com/my-chemical-romance-makes-billboard-history-with-the-black-parade-anniversary-reissue",
+   "title_original": "My Chemical Romance makes Billboard history with ‘The Black Parade’ anniversary reissue",
+   "source": "The Music Universe",
+   "image": "https://themusicuniverse.com/wp-content/uploads/2026/09/mychemicalromance.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-01T21:41:52+00:00",
+   "title_ja": "My Chemical Romanceがビルボードで歴史的快挙",
+   "summary_ja": "My Chemical Romanceの『The Black Parade』記念再発盤がビルボードの歴史に名を刻む快挙を達成しました。",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "b0bf247b5f9c2182",
+   "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-billboard-200-number-one-1235650097",
+   "title_original": "My Chemical Romance Tops the Billboard 200 With 20-Year-Old Album",
+   "source": "Rolling Stone",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-01T21:08:58+00:00",
+   "title_ja": "MCR、20年前のアルバムでビルボード首位に",
+   "summary_ja": "My Chemical Romanceが、リリースから20年を経た名盤でビルボード200の頂点に立ちました。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "72cb82ce5b4b5a75",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/the-offspring-play-mexico-city-on-21-november-corona-capital/70441459",
+   "title_original": "The Offspring play Mexico City on 21 November - Corona Capital",
+   "source": "ad-hoc-news.de",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403802_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-01T12:28:29+00:00",
+   "title_ja": "The Offspringが11月21日にメキシコシティ公演を開催",
+   "summary_ja": "The Offspringが11月21日にメキシコシティで開催されるCorona Capitalに出演し、ライブを行う予定であることが明らかになった。",
+   "category": "フェス出演",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "6fdc706ef5339751",
    "url": "https://themosh.net/my-chemical-romance-new-album-2027-plans",
