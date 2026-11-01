@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T06:19:26.605610+09:00",
+ "updated_at": "2026-11-01T14:39:57.255526+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -281,21 +281,21 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 389,
- "detail_count": 298,
+ "count": 390,
+ "detail_count": 299,
  "digest": {
-  "headline": "MCRの新作発表やBlink-182のフェス出演が続々",
+  "headline": "My Chemical Romance新作発表や各バンドの動き",
   "points": [
    {
-    "text": "My Chemical Romanceが2027年に向けた新作アルバムの計画を発表し、『The Black Parade』20周年記念の短編映画公開や拡張版リリースも明らかになった。",
+    "text": "My Chemical Romanceが2027年の新作アルバム発表やツアー復帰計画を明かし、『The Black Parade』20周年記念の短編映画や拡張版も発表した。",
     "ids": [
      "6fdc706ef5339751",
-     "490285217a6c82a2",
-     "cc34f61903dbb5cf"
+     "fc40db6b759933d3",
+     "81fd4982f44656dd"
     ]
    },
    {
-    "text": "Blink-182が2027年に開催される「Welcome To Rockville」や「Sonic Temple」などの大規模音楽フェスでヘッドライナーを務めることが決定した。",
+    "text": "Blink-182が2027年の「Welcome To Rockville」や「Sonic Temple」といった大規模音楽フェスのヘッドライナーに決定した。",
     "ids": [
      "3fadaffb5c78731e",
      "9696396b1286159d",
@@ -303,11 +303,10 @@
     ]
    },
    {
-    "text": "Weezerが1992年録音の初期音源『1192』を配信開始したほか、14年ぶりとなるオーストラリアおよびニュージーランドツアーを発表した。",
+    "text": "Weezerが1992年録音の幻の初期音源『1192』を配信開始し、14年ぶりとなるオーストラリアツアー開催も発表した。",
     "ids": [
      "5d4d2ec2956766ac",
-     "82c17a6c1f8ad35a",
-     "0e1c151916cfae53"
+     "82c17a6c1f8ad35a"
     ]
    },
    {
@@ -316,42 +315,15 @@
      "35a4f623aca03f0e",
      "18b5236de5b6d1ba"
     ]
-   },
-   {
-    "text": "Fall Out Boyが新プロジェクトを示唆する匂わせティザーや謎の予告を公開し、ファンの間で話題を集めている。",
-    "ids": [
-     "b9498b1493b83a50",
-     "e3de3296bf860293"
-    ]
    }
   ],
   "days": 3,
-  "from": "2026-10-29T06:20:32.067255+09:00",
-  "generated_at": "2026-11-01T06:20:33.912008+09:00",
+  "from": "2026-10-29T14:40:33.309229+09:00",
+  "generated_at": "2026-11-01T14:40:36.457453+09:00",
   "article_count": 24,
-  "sig": "9bb973f81584"
+  "sig": "8dc99876defd"
  },
  "items": [
-  {
-   "id": "2b410ffaa1bd2247",
-   "url": "https://www.dailynews.com/2026/10/31/my-chemical-romance-celebrates-halloween-with-a-night-of-emo-nostalgia-at-hollywood-bowl",
-   "title_original": "My Chemical Romance celebrates Halloween with a night of emo nostalgia at Hollywood Bowl",
-   "source": "Los Angeles Daily News",
-   "image": "https://www.dailynews.com/wp-content/uploads/2026/10/LDN-L-MCR-1101-07-1.jpg?w=4000&h=2668",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-31T20:35:41+00:00",
-   "title_ja": "My Chemical Romanceがハリウッド・ボウルでハロウィン公演",
-   "summary_ja": "My Chemical Romanceがハリウッド・ボウルにて、エモのノスタルジーに浸る特別なハロウィンライブを開催した。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
   {
    "id": "6fdc706ef5339751",
    "url": "https://themosh.net/my-chemical-romance-new-album-2027-plans",
@@ -368,6 +340,47 @@
    "artists": [
     "My Chemical Romance",
     "The Used"
+   ],
+   "japan": false,
+   "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "fc40db6b759933d3",
+   "url": "https://chaoszine.net/my-chemical-romance-new-album-2027-the-used-reunion",
+   "title_original": "My Chemical Romance reveal plans for new album in 2027 and added some rarities in their setlist",
+   "source": "Chaoszine",
+   "image": "https://chaoszine.net/wp-content/uploads/2026/10/my-chemical-romance.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-31T19:22:36+00:00",
+   "title_ja": "My Chemical Romance、2027年発売の新作とセットリスト変更を予告",
+   "summary_ja": "My Chemical Romanceが2027年の新作アルバムリリース計画を明かし、ライブのセットリストにはレア曲を取り入れるサプライズもあったと報じられている。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "81fd4982f44656dd",
+   "url": "https://stereogum.com/2516212/my-chemical-romance-bring-out-bert-mccracken-confirm-plans-for-new-album/news",
+   "title_original": "My Chemical Romance Bring Out Bert McCracken, Confirm Plans For New Album",
+   "source": "Stereogum",
+   "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/IMG_0762.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-31T17:59:29+00:00",
+   "title_ja": "My Chemical Romance、ライブで新作を発表しBert McCrackenが共演",
+   "summary_ja": "My Chemical Romanceがライブステージで新作アルバムの計画を明かしたほか、Bert McCrackenをゲストに迎えて会場を大いに沸かせた。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Bert McCracken"
    ],
    "japan": false,
    "importance": 5,
@@ -391,7 +404,7 @@
    ],
    "japan": false,
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b9498b1493b83a50",
@@ -663,7 +676,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4686d2114e74910c",
@@ -829,7 +842,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "35a4f623aca03f0e",
