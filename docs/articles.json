@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T14:39:57.255526+09:00",
+ "updated_at": "2026-11-01T22:04:21.289267+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -282,46 +282,47 @@
   "씨네플레이"
  ],
  "count": 390,
- "detail_count": 299,
+ "detail_count": 300,
  "digest": {
-  "headline": "My Chemical Romance新作発表や各バンドの動き",
+  "headline": "MCRの新作発表やBlink-182のフェス出演など注目ニュースが続々",
   "points": [
    {
-    "text": "My Chemical Romanceが2027年の新作アルバム発表やツアー復帰計画を明かし、『The Black Parade』20周年記念の短編映画や拡張版も発表した。",
+    "text": "My Chemical Romanceが2027年の新作アルバム制作や2028年のツアー復帰計画、『The Black Parade』20周年記念の拡張版リリースと短編映画公開を発表した。",
     "ids": [
      "6fdc706ef5339751",
-     "fc40db6b759933d3",
-     "81fd4982f44656dd"
+     "cc34f61903dbb5cf",
+     "45316d3290e5cc85"
     ]
    },
    {
-    "text": "Blink-182が2027年の「Welcome To Rockville」や「Sonic Temple」といった大規模音楽フェスのヘッドライナーに決定した。",
+    "text": "Blink-182が2027年に開催される大規模音楽フェス「Welcome To Rockville」や「Sonic Temple」でヘッドライナーを務めることが決定した。",
     "ids": [
      "3fadaffb5c78731e",
-     "9696396b1286159d",
-     "a66154df0fb0e773"
+     "a66154df0fb0e773",
+     "4686d2114e74910c"
     ]
    },
    {
-    "text": "Weezerが1992年録音の幻の初期音源『1192』を配信開始し、14年ぶりとなるオーストラリアツアー開催も発表した。",
+    "text": "Weezerが1992年にレコーディングされた幻の初期音源『1192』をデジタルリリースし、The OffspringがメキシコのCorona Capital出演やチャリティライブ参加を発表した。",
     "ids": [
      "5d4d2ec2956766ac",
-     "82c17a6c1f8ad35a"
+     "35a4f623aca03f0e",
+     "18b5236de5b6d1ba"
     ]
    },
    {
-    "text": "The Offspringがメキシコの「Corona Capital」に出演するほか、チャリティ公演への参加も決定している。",
+    "text": "Fall Out Boyが「Welcome To Twilight Town Mall」というキーワードと共に新プロジェクトを示唆する謎の予告ティザーを公開した。",
     "ids": [
-     "35a4f623aca03f0e",
-     "18b5236de5b6d1ba"
+     "b9498b1493b83a50",
+     "e3de3296bf860293"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-29T14:40:33.309229+09:00",
-  "generated_at": "2026-11-01T14:40:36.457453+09:00",
+  "from": "2026-10-29T22:04:47.455370+09:00",
+  "generated_at": "2026-11-01T22:04:50.812233+09:00",
   "article_count": 24,
-  "sig": "8dc99876defd"
+  "sig": "e44e3aee8b65"
  },
  "items": [
   {
@@ -387,16 +388,16 @@
    "has_detail": true
   },
   {
-   "id": "490285217a6c82a2",
-   "url": "https://www.mensjournal.com/news/mcr5-is-official-my-chemical-romance-confirms-new-album-plans-after-16-years-since-danger-days",
-   "title_original": "MCR5 Is Official: My Chemical Romance Confirms New Album Plans After 16 Years Since 'Danger Days'",
-   "source": "Men's Journal",
-   "image": "",
+   "id": "f703e75b0a0a3ce2",
+   "url": "https://consequence.net/2026/10/my-chemical-romance-plans-for-new-album",
+   "title_original": "My Chemical Romance Confirm Plans for New Album",
+   "source": "Consequence",
+   "image": "https://consequence.net/wp-content/uploads/2025/09/My-Chemical-Romance.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-10-31T14:15:31+00:00",
-   "title_ja": "MCR5が正式決定、16年ぶりのニューアルバム発表へ",
-   "summary_ja": "My Chemical Romanceが『Danger Days』以来16年ぶりとなる待望のニューアルバムの制作・リリース計画を正式に発表した。",
+   "published": "2026-10-31T12:53:59+00:00",
+   "title_ja": "My Chemical Romance、ニューアルバムのリリース計画を正式に確認",
+   "summary_ja": "My Chemical Romanceが新作アルバムのリリースに向けた具体的な計画を進めていることを正式に認めた。長年の沈黙を破る本格的な動きが始まっている。",
    "category": "新曲・新作",
    "band": "My Chemical Romance",
    "artists": [
@@ -404,7 +405,7 @@
    ],
    "japan": false,
    "importance": 5,
-   "detail_tries": 2
+   "has_detail": true
   },
   {
    "id": "b9498b1493b83a50",
