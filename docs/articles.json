@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T14:38:29.123194+09:00",
+ "updated_at": "2026-11-03T00:27:54.382260+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -145,14 +145,12 @@
   "OnMilwaukee",
   "Orlando Sentinel",
   "Orlando Weekly",
-  "PUNKLOID",
   "Parade Magazine",
   "Parklife DC",
   "Parksville Qualicum News",
   "Paste Magazine",
   "Penticton Western News",
   "People.com",
-  "Pioneer Press",
   "Pitchfork",
   "PlayDayOne",
   "Pollstar News",
@@ -172,7 +170,6 @@
   "Rock DNA Magazine",
   "Rock Sound",
   "Rolling Stone",
-  "Rolling Stone Japan(ローリングストーン ジャパン）",
   "RouteNote",
   "SB Nation",
   "SFGATE",
@@ -284,40 +281,46 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 396,
- "detail_count": 304,
+ "count": 388,
+ "detail_count": 299,
  "digest": {
-  "headline": "My Chemical Romanceが20年を経てチャート首位を獲得",
+  "headline": "My Chemical Romanceが新作アルバムの計画を発表しチャート1位を",
   "points": [
    {
-    "text": "My Chemical Romanceの名盤『The Black Parade』が、リリースから20年を経てビルボード200などで初の1位を獲得し、最長記録を更新した。",
+    "text": "My Chemical Romanceが2027年の新作アルバム制作やリリース計画を明かしたほか、ライブではThe UsedのBert McCrackenとの共演も実現した。",
+    "ids": [
+     "9265caf3bfd23daa",
+     "6fdc706ef5339751",
+     "81fd4982f44656dd"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceの『The Black Parade』がビルボード200で自身初となるアルバム1位を獲得し、最長記録を更新した。",
     "ids": [
      "4f5cb777558a8a6d",
-     "ed3ecbb43ddcb87b",
      "96d9bac6e8bf65b1"
     ]
    },
    {
-    "text": "My Chemical Romanceは2027年の新作アルバム発表やツアー復帰を予告し、20周年記念の短編映画や拡張版のリリースも発表した。",
+    "text": "Gerard Wayが2027年の新作アルバム制作と2028年のツアー復帰を告げたほか、バンドは『The Black Parade』20周年を記念した短編映画の公開と拡張版アルバムのリリースを発表した。",
     "ids": [
-     "6fdc706ef5339751",
      "cc34f61903dbb5cf",
      "45316d3290e5cc85"
     ]
    },
    {
-    "text": "Blink-182が2027年に開催される「Welcome To Rockville」や「Sonic Temple」のヘッドライナーに決定した。",
+    "text": "Blink-182が2027年に開催される大規模フェス「Welcome To Rockville」のヘッドライナーに決定した。",
     "ids": [
      "3fadaffb5c78731e",
-     "a66154df0fb0e773"
+     "9696396b1286159d"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-30T14:38:57.684322+09:00",
-  "generated_at": "2026-11-02T14:39:00.557360+09:00",
-  "article_count": 22,
-  "sig": "f672a43b563b"
+  "from": "2026-10-31T00:28:32.408359+09:00",
+  "generated_at": "2026-11-03T00:28:34.285038+09:00",
+  "article_count": 19,
+  "sig": "aa03e8450e62"
  },
  "items": [
   {
@@ -360,27 +363,7 @@
    ],
    "japan": false,
    "importance": 5,
-   "detail_tries": 1
-  },
-  {
-   "id": "ed3ecbb43ddcb87b",
-   "url": "https://variety.com/2026/music/news/my-chemical-romance-scores-first-no-1-with-the-black-parade-1236936933",
-   "title_original": "My Chemical Romance Scores First-Ever No. 1 on Albums Chart With ‘The Black Parade,’ 20 Years After Its Release",
-   "source": "Variety",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-01T20:53:00+00:00",
-   "title_ja": "MCR『The Black Parade』が発売20年で初の1位に輝く",
-   "summary_ja": "My Chemical Romanceの名盤『The Black Parade』が、リリースから20年を経てアルバムチャートで初の首位を獲得した。",
-   "category": "チャート・受賞",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "96d9bac6e8bf65b1",
@@ -394,6 +377,26 @@
    "title_ja": "MCR『The Black Parade』がビルボード初1位までの最長記録を更新",
    "summary_ja": "My Chemical Romanceの『The Black Parade』が、ビルボード200で1位を獲得するまでにかかった最長記録を更新した。",
    "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "9265caf3bfd23daa",
+   "url": "https://loudwire.com/my-chemical-romance-2027-plans-new-album-no-shows",
+   "title_original": "My Chemical Romance Confirm 2027 Plans for New Album + ‘Probably’ No Shows",
+   "source": "Loudwire",
+   "image": "https://townsquare.media/site/366/files/2026/11/attachment-my_chemical_romance_gerard_way_louder_than_life.jpg?w=1200&q=75&format=natural",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-01T15:45:27+00:00",
+   "title_ja": "My Chemical Romanceが207年の新作制作とライブ未定を明言",
+   "summary_ja": "My Chemical Romanceが、2027年の新作アルバムに向けた制作計画を正式に認めました。一方で、その時期のライブ活動の実施はおそらく無いだろうとも語っています。",
+   "category": "新曲・新作",
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
@@ -8336,176 +8339,6 @@
    "band": "Weezer",
    "artists": [
     "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "dd11cb1f851bc233",
-   "url": "https://rollingstonejapan.com/articles/detail/45473",
-   "title_original": "ニュー・ファウンド・グローリーのギタリスト、チャド・ギルバートが45歳で死去",
-   "source": "Rolling Stone Japan(ローリングストーン ジャパン）",
-   "image": "https://images.rollingstonejapan.com/articles/45000/45473/OG/9b848abe5c62e941c2b7e2e6765c359a.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-21T04:16:00+00:00",
-   "title_ja": "New Found Gloryのギタリスト、Chad Gilbertが45歳で死去",
-   "summary_ja": "日本の音楽メディアであるRolling Stone Japanにおいても、New Found GloryのギタリストであるChad Gilbertが45歳で死去したことが報じられた。",
-   "category": "その他",
-   "band": "New Found Glory",
-   "artists": [
-    "Chad Gilbert",
-    "New Found Glory"
-   ],
-   "japan": false,
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "b7233374dead3d60",
-   "url": "https://www.twincities.com/2026/09/20/concert-review-weezer-undone-by-awful-sound-at-grand-casino-arena",
-   "title_original": "Concert review: Weezer undone by awful sound at Grand Casino Arena",
-   "source": "Pioneer Press",
-   "image": "https://www.twincities.com/wp-content/uploads/2026/09/STP-L-WEEZER-0922_01.jpg?w=5474&h=3649",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-21T03:55:56+00:00",
-   "title_ja": "Weezerのコンサート、音響の悪さが災いし不評を買う",
-   "summary_ja": "Weezerがグランド・カジノ・アリーナで行ったコンサートのライブレビュー。ひどい音響のために演奏が台無しになってしまった様子が伝えられている。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "677972933f1362f2",
-   "url": "https://www.ladbible.com/entertainment/music/chad-gilbert-dead-new-found-glory-aged-45-105268-20260920",
-   "title_original": "'Godfather of Pop-Punk' Chad Gilbert of New Found Glory dead aged 45",
-   "source": "LADbible",
-   "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt7b449c9a68b8bd52/6ab05d87bca8116c3a6bb6a6/GettyImages-105314096.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-20T22:37:13.585000+00:00",
-   "title_ja": "ポップパンクの重要人物、Chad Gilbertが45歳で死去",
-   "summary_ja": "ポップパンクの重鎮として知られるNew Found Gloryのギタリスト、Chad Gilbertが45歳で生涯を閉じた。長年にわたり音楽シーンに多大な影響を与えた彼の訃報に悲しみが広がっている。",
-   "category": "メンバー・発言",
-   "band": "New Found Glory",
-   "artists": [
-    "Chad Gilbert",
-    "New Found Glory"
-   ],
-   "japan": false,
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "610beace725d24b4",
-   "url": "https://www.mensjournal.com/entertainment/mark-hoppus-of-blink-182-pays-tribute-to-chad-gilbert-rest-easy-now-my-friend",
-   "title_original": "Mark Hoppus of blink-182 Pays Tribute to Chad Gilbert: ‘Rest Easy Now, My Friend’",
-   "source": "Men's Journal",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-20T21:52:51+00:00",
-   "title_ja": "Blink-182のMark HoppusがChad Gilbertを追悼",
-   "summary_ja": "New Found Gloryのギタリスト、Chad Gilbertの訃報を受け、Blink-182のMark HoppusがSNSを通じて追悼の意を表明した。",
-   "category": "メンバー・発言",
-   "band": "Blink-182",
-   "artists": [
-    "Mark Hoppus",
-    "Chad Gilbert",
-    "Blink-182",
-    "New Found Glory"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "ee79fce8c1e76dd5",
-   "url": "https://www.thatericalper.com/2026/09/20/the-linda-lindas-and-mack-keane-join-urban-outfitters-free-campus-concert-tour",
-   "title_original": "The Linda Lindas And Mack Keane Join Urban Outfitters’ Free Campus Concert Tour",
-   "source": "That Eric Alper",
-   "image": "https://www.thatericalper.com/wp-content/uploads/2026/09/download-2026-09-20T173715.329.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-20T21:37:39+00:00",
-   "title_ja": "The Linda LindasがUrban Outfittersの学園ツアーに参加",
-   "summary_ja": "The Linda Lindasが、Mack Keaneと共にUrban Outfittersが主催する無料のキャンパス・コンサート・ツアーに出演することが発表された。",
-   "category": "ライブ・ツアー",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas",
-    "Mack Keane"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8b4958a06c46d8d5",
-   "url": "https://news.ssbcrack.com/billie-joe-armstrong-on-the-importance-of-controversy-in-music-success",
-   "title_original": "Billie Joe Armstrong on the Importance of Controversy in Music Success",
-   "source": "SSBCrack",
-   "image": "https://news.ssbcrack.com/wp-content/uploads/2026/09/Billie-Joe-Armstrong-on-the-Importance-of-Controversy-in-Music.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-20T20:16:52+00:00",
-   "title_ja": "Billie Joe Armstrongが語る、音楽の成功と「物議を醸すこと」の重要性",
-   "summary_ja": "Billie Joe Armstrongが、音楽における成功と「物議を醸すこと」の重要性について語った。彼は音楽シーンにおいて議論を引き起こすことがいかに大切であるかを示している。",
-   "category": "メンバー・発言",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "51311f6e38dc309b",
-   "url": "https://www.punkloid.com/news/ganbare-mike-roche-t-s-o-l",
-   "title_original": "パーキンソン病/認知症を患う Mike Roche (T.S.O.L.) を支援するベネフィット公演開催決定！The Offspring、Pennywise、Circle Jerksら集結",
-   "source": "PUNKLOID",
-   "image": "https://www.punkloid.com/wp-content/uploads/2026/09/tsol-mike-820x1024.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-20T06:27:40+00:00",
-   "title_ja": "The OffspringやPennywiseが参加する支援ライブ開催",
-   "summary_ja": "闘病中のT.S.O.L.のMike Rocheを支援するため、The OffspringやPennywiseらが集結しベネフィット公演を行うことが決まった。",
-   "category": "ライブ・ツアー",
-   "band": "The Offspring",
-   "artists": [
-    "Mike Roche",
-    "The Offspring",
-    "Pennywise",
-    "Circle Jerks"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "2b51e7f1f45e7f2a",
-   "url": "https://faroutmagazine.co.uk/the-musician-billie-joe-armstrong-knew-would-endure",
-   "title_original": "The legend Billie Joe Armstrong said will never be forgotten",
-   "source": "Far Out Magazine",
-   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2024/01/Billie-Joe-Armstrong-Green-Day-Musician-Far-Out-Magazine-F.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-20T03:00:00+00:00",
-   "title_ja": "Billie Joe Armstrongの伝説は決して忘れられない",
-   "summary_ja": "Billie Joe Armstrongが残す伝説や音楽シーンへの影響について、色褪せることのないその存在感を改めて称える記事。",
-   "category": "メンバー・発言",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong",
-    "Green Day"
    ],
    "japan": false,
    "importance": 3,
