@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T06:55:29.654686+09:00",
+ "updated_at": "2026-11-02T14:38:29.123194+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -86,6 +86,7 @@
   "Houston Press",
   "IMDb",
   "Impericon",
+  "InMusic Blog",
   "InspireMore",
   "InterSpace Distribution",
   "International Business Times UK",
@@ -145,6 +146,7 @@
   "Orlando Sentinel",
   "Orlando Weekly",
   "PUNKLOID",
+  "Parade Magazine",
   "Parklife DC",
   "Parksville Qualicum News",
   "Paste Magazine",
@@ -183,6 +185,7 @@
   "Sports Illustrated",
   "Star Tribune",
   "Stereogum",
+  "Texas Lifestyle Magazine",
   "That Eric Alper",
   "The Aquarian",
   "The Concordian",
@@ -207,7 +210,6 @@
   "Thought Catalog",
   "Toronto Guardian",
   "TribLIVE.com",
-  "UA.NEWS",
   "Ubisoft",
   "Ultimate Guitar",
   "V13 Media",
@@ -282,114 +284,122 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 394,
+ "count": 396,
  "detail_count": 304,
  "digest": {
-  "headline": "My Chemical Romanceの新作やチャート首位が話題",
+  "headline": "My Chemical Romanceが20年を経てチャート首位を獲得",
   "points": [
    {
-    "text": "My Chemical Romanceは2027年の新作アルバム発表や2028年のツアー復帰計画を明かしたほか、The UsedのBert McCrackenとの共演も果たした。",
+    "text": "My Chemical Romanceの名盤『The Black Parade』が、リリースから20年を経てビルボード200などで初の1位を獲得し、最長記録を更新した。",
+    "ids": [
+     "4f5cb777558a8a6d",
+     "ed3ecbb43ddcb87b",
+     "96d9bac6e8bf65b1"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceは2027年の新作アルバム発表やツアー復帰を予告し、20周年記念の短編映画や拡張版のリリースも発表した。",
     "ids": [
      "6fdc706ef5339751",
-     "81fd4982f44656dd",
-     "cc34f61903dbb5cf"
+     "cc34f61903dbb5cf",
+     "45316d3290e5cc85"
     ]
    },
    {
-    "text": "名盤『The Black Parade』発売20周年を記念した拡張版リイシュー盤が、ビルボード200で首位を獲得し、UKアルバムチャートでも初の1位に輝いた。",
-    "ids": [
-     "e6b2d1866a1ed699",
-     "89f8334bb035ebbd",
-     "b0bf247b5f9c2182"
-    ]
-   },
-   {
-    "text": "Blink-182が2027年に開催される大規模音楽フェス「Welcome To Rockville」や「Sonic Temple」のヘッドライナーを務めることが発表された。",
+    "text": "Blink-182が2027年に開催される「Welcome To Rockville」や「Sonic Temple」のヘッドライナーに決定した。",
     "ids": [
      "3fadaffb5c78731e",
-     "a66154df0fb0e773",
-     "4686d2114e74910c"
-    ]
-   },
-   {
-    "text": "Weezerが1992年にレコーディングされた貴重な初期音源『1192』をデジタルリリースし、ファンに向けて配信をスタートさせた。",
-    "ids": [
-     "5d4d2ec2956766ac"
-    ]
-   },
-   {
-    "text": "The Offspringがメキシコシティ公演の開催を控えているほか、T.S.O.L.の支援を目的としたチャリティライブへの参加が明らかになった。",
-    "ids": [
-     "72cb82ce5b4b5a75",
-     "18b5236de5b6d1ba"
+     "a66154df0fb0e773"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-30T06:56:17.880192+09:00",
-  "generated_at": "2026-11-02T06:56:19.822042+09:00",
-  "article_count": 24,
-  "sig": "4ea7db26580f"
+  "from": "2026-10-30T14:38:57.684322+09:00",
+  "generated_at": "2026-11-02T14:39:00.557360+09:00",
+  "article_count": 22,
+  "sig": "f672a43b563b"
  },
  "items": [
   {
-   "id": "e6b2d1866a1ed699",
-   "url": "https://ua.news/en/znamenitosti/my-chemical-romance-ocholili-billboard-200-z-perevidanniam-the-black-parade-rolling-stone",
-   "title_original": "My Chemical Romance top Billboard 200 with The Black Parade reissue — Rolling Stone",
-   "source": "UA.NEWS",
-   "image": "https://cdn-cabinet.ua.news/uploads/images/my_chemical_romance_top_billboard_200_bl_1793567800757.webp",
+   "id": "d54dd7e498fc6541",
+   "url": "https://bluntmag.com.au/music/on-the-steps-2026-lineup-sydney",
+   "title_original": "On The Steps Reveals Full 2026 Lineup With Rise Against And The Amity Affliction",
+   "source": "Blunt Magazine",
+   "image": "https://images-1.bluntmag.com.au/cdn-cgi/image/f=auto,quality=80,fit=scale-down/https://images-1.bluntmag.com.au/uploads/2026/11/Untitled-design-4-94f36fa42c523de377a2402feb5c89a0.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-11-01T23:16:41+00:00",
-   "title_ja": "MCRの『The Black Parade』再発盤が首位獲得",
-   "summary_ja": "My Chemical Romanceの『The Black Parade』リイシュー盤がビルボード200で首位を獲得したとローリングストーン誌が報じました。",
-   "category": "チャート・受賞",
-   "band": "My Chemical Romance",
+   "published": "2026-11-02T04:37:48+00:00",
+   "title_ja": "Rise Againstが出演する2026年「On The Steps」の全出演者が発表",
+   "summary_ja": "Rise Againstらが参加する2026年の「On The Steps」フェスの全ラインナップが明らかになった。",
+   "category": "フェス出演",
+   "band": "Rise Against",
    "artists": [
-    "My Chemical Romance"
+    "Rise Against",
+    "The Amity Affliction"
    ],
    "japan": false,
-   "importance": 4,
+   "importance": 3,
    "has_detail": true
   },
   {
-   "id": "fdfc42f3bdb5fa65",
-   "url": "https://themusicuniverse.com/my-chemical-romance-makes-billboard-history-with-the-black-parade-anniversary-reissue",
-   "title_original": "My Chemical Romance makes Billboard history with ‘The Black Parade’ anniversary reissue",
-   "source": "The Music Universe",
-   "image": "https://themusicuniverse.com/wp-content/uploads/2026/09/mychemicalromance.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-01T21:41:52+00:00",
-   "title_ja": "My Chemical Romanceがビルボードで歴史的快挙",
-   "summary_ja": "My Chemical Romanceの『The Black Parade』記念再発盤がビルボードの歴史に名を刻む快挙を達成しました。",
-   "category": "再発・記念盤",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "b0bf247b5f9c2182",
-   "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-billboard-200-number-one-1235650097",
-   "title_original": "My Chemical Romance Tops the Billboard 200 With 20-Year-Old Album",
-   "source": "Rolling Stone",
+   "id": "4f5cb777558a8a6d",
+   "url": "https://parade.com/news/my-chemical-romance-tops-billboard-200-black-parade-reissue",
+   "title_original": "My Chemical Romance Soars Past Olivia Rodrigo on the Charts, Achieving First-Ever No. 1 Album",
+   "source": "Parade Magazine",
    "image": "",
    "lang": "en",
    "region": "global",
-   "published": "2026-11-01T21:08:58+00:00",
-   "title_ja": "MCR、20年前のアルバムでビルボード首位に",
-   "summary_ja": "My Chemical Romanceが、リリースから20年を経た名盤でビルボード200の頂点に立ちました。",
+   "published": "2026-11-02T04:03:00+00:00",
+   "title_ja": "My Chemical Romanceがチャートで初の1位を獲得",
+   "summary_ja": "My Chemical Romanceがチャート首位を達成し、自身初となるアルバム1位を獲得した。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Olivia Rodrigo"
+   ],
+   "japan": false,
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
+   "id": "ed3ecbb43ddcb87b",
+   "url": "https://variety.com/2026/music/news/my-chemical-romance-scores-first-no-1-with-the-black-parade-1236936933",
+   "title_original": "My Chemical Romance Scores First-Ever No. 1 on Albums Chart With ‘The Black Parade,’ 20 Years After Its Release",
+   "source": "Variety",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-01T20:53:00+00:00",
+   "title_ja": "MCR『The Black Parade』が発売20年で初の1位に輝く",
+   "summary_ja": "My Chemical Romanceの名盤『The Black Parade』が、リリースから20年を経てアルバムチャートで初の首位を獲得した。",
    "category": "チャート・受賞",
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
    ],
    "japan": false,
-   "importance": 4,
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
+   "id": "96d9bac6e8bf65b1",
+   "url": "https://inmusicblog.com/news/my-chemical-romance-black-parade-billboard-200-number-one",
+   "title_original": "My Chemical Romance’s The Black Parade Breaks Record for Longest Wait to Reach No. 1 on Billboard 200",
+   "source": "InMusic Blog",
+   "image": "https://i0.wp.com/inmusicblog.com/wp-content/uploads/2026/11/img_5015.jpg?fit=1200%2C800&ssl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-01T20:25:44+00:00",
+   "title_ja": "MCR『The Black Parade』がビルボード初1位までの最長記録を更新",
+   "summary_ja": "My Chemical Romanceの『The Black Parade』が、ビルボード200で1位を獲得するまでにかかった最長記録を更新した。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 5,
    "has_detail": true
   },
   {
@@ -637,6 +647,28 @@
    ],
    "japan": false,
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "18aa32eb7d1c1b9f",
+   "url": "https://texaslifestylemag.com/entertainment/music/weezer",
+   "title_original": "Weezer Brings The Gathering to Austin’s Moody Center with The Shins and Silversun Pickups",
+   "source": "Texas Lifestyle Magazine",
+   "image": "https://media.texaslifestylemag.com/wp-content/uploads/2026/10/30133451/00-Weezer-scaled.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T19:26:04+00:00",
+   "title_ja": "WeezerがオースティンのMoody Centerで公演を開催",
+   "summary_ja": "WeezerがThe ShinsやSilversun Pickupsと共に、オースティンのMoody Centerでコンサートを実施する。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "The Shins",
+    "Silversun Pickups"
+   ],
+   "japan": false,
+   "importance": 3,
    "has_detail": true
   },
   {
