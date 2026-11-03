@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T22:58:24.775230+09:00",
+ "updated_at": "2026-11-04T08:08:03.003348+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -42,6 +42,7 @@
   "95.9 The RAT",
   "AD HOC NEWS",
   "AFL-CIO",
+  "ALT 98.7",
   "Arts Council of Greater New Haven",
   "Audacy",
   "Azernews.az",
@@ -158,6 +159,7 @@
   "RAMzine",
   "RIFF Magazine",
   "ROCK 105.3",
+  "RTTNews",
   "Raleigh News & Observer",
   "Reckless Press",
   "Richland Source",
@@ -277,47 +279,109 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 386,
- "detail_count": 299,
+ "count": 389,
+ "detail_count": 302,
  "digest": {
-  "headline": "My Chemical Romanceが初の全米1位と新作計画を発表",
+  "headline": "MCRが初の全米1位を獲得し、新作制作へ",
   "points": [
    {
-    "text": "My Chemical Romanceの名盤『The Black Parade』が発売から20年を経てBillboard 200で初の首位を獲得し、最長記録を更新した。",
+    "text": "My Chemical Romanceの名盤『The Black Parade』が発売20年で初の全米1位を獲得し、ビルボード200で1位までの最長記録を更新した。",
     "ids": [
      "0b5494ca751a5a63",
      "96d9bac6e8bf65b1",
-     "5817163aea7cd568"
+     "428e9ef57e02ae0d"
     ]
    },
    {
-    "text": "My Chemical Romanceは2027年に向けた新作アルバムの制作を明かした一方で、その時期のライブ活動は未定であると語っている。",
+    "text": "My Chemical Romanceは207年の新作アルバムに向けた制作計画を認めつつ、その時期のライブ活動の実施はおそらく無いと語っている。",
     "ids": [
-     "9265caf3bfd23daa",
-     "6fdc706ef5339751"
+     "9265caf3bfd23daa"
     ]
    },
    {
-    "text": "blink-182が2027年の米フェス「Welcome to Rockville 2027」に出演することが決定した。",
+    "text": "大規模ロックフェス「Welcome To Rockville 2027」のヘッドライナーとして、Blink-182らの出演が発表された。",
     "ids": [
+     "7c4941e81deb5f17",
      "610e71717e58be9b"
     ]
    },
    {
-    "text": "Fall Out Boyが「Twilight Town Mall」と名付けられた新しいウェブサイトを開設した。",
+    "text": "Fall Out Boyが「Twilight Town Mall」と名付けられた新しいウェブサイトを立ち上げ、ファンのもとに謎のTシャツが届いたことで新作の噂を呼んでいる。",
     "ids": [
+     "482c3a99b03aa35e",
      "7e37d1aea78b7825",
      "f964ee8ebcf1cb99"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-31T23:00:22.978457+09:00",
-  "generated_at": "2026-11-03T23:00:33.279620+09:00",
+  "from": "2026-11-01T08:08:52.173636+09:00",
+  "generated_at": "2026-11-04T08:08:54.064000+09:00",
   "article_count": 16,
-  "sig": "a5bffd120c45"
+  "sig": "24625cb50b10"
  },
  "items": [
+  {
+   "id": "428e9ef57e02ae0d",
+   "url": "https://alt987fm.iheart.com/content/2026-11-03-my-chemical-romance-hit-no-1-on-billboard-200-with-20-year-old-album",
+   "title_original": "My Chemical Romance Hit No. 1 On 'Billboard' 200 With 20-Year-Old Album",
+   "source": "ALT 98.7",
+   "image": "https://i.iheart.com/v3/re/assets.getty/6ae9e4a13499dfd7ec20a513?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-03T20:15:21+00:00",
+   "title_ja": "My Chemical Romanceが20年前のアルバムで全米1位を獲得",
+   "summary_ja": "My Chemical Romanceの過去作がBillboard 200チャートで1位を獲得した。時を経た名盤が再び大きな注目を集め、チャートのトップに輝く快挙となった。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "482c3a99b03aa35e",
+   "url": "https://theneedledrop.com/news/fall-out-boy-fans-receive-t-shirts-in-the-mail-amid-new-album-speculation",
+   "title_original": "Fall Out Boy fans receive T-shirts in the mail amid new album speculation",
+   "source": "The Needle Drop",
+   "image": "https://theneedledrop.com/content/images/size/w1200/2026/11/FOB_Press-Image-2023---credit-Pamela-Littky_1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-03T19:59:54+00:00",
+   "title_ja": "Fall Out Boyの新アルバムを巡る憶測の中でファンにTシャツが届く",
+   "summary_ja": "Fall Out Boyの新作アルバムに関する噂が飛び交う中、ファンのもとに謎のTシャツが郵送で届いた。新譜発表への期待がさらに高まる出来事として話題を集めている。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "7c4941e81deb5f17",
+   "url": "https://www.rttnews.com/amp/3707882/blink-182-korn-among-welcome-to-rockville-2027-headliners.aspx",
+   "title_original": "Blink-182, Korn Among Welcome To Rockville 2027 Headliners",
+   "source": "RTTNews",
+   "image": "https://cdn.rttnews.com/articleimages/ustopstories/2026/november/generic1-03112026-lt.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-03T19:01:12+00:00",
+   "title_ja": "Welcome To Rockville 2027のヘッドライナー発表",
+   "summary_ja": "大規模ロックフェス「Welcome To Rockville 2027」のヘッドライナーとして、Blink-182やKornらの出演が発表された。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Korn"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "7e37d1aea78b7825",
    "url": "https://www.kerrang.com/fall-out-boy-launch-twilight-town-mall-website-new-music-teaser-patrick-stump-pete-wentz",
@@ -336,7 +400,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "610e71717e58be9b",
