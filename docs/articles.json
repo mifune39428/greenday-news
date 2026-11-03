@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T00:27:54.382260+09:00",
+ "updated_at": "2026-11-03T09:51:02.102099+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -82,6 +82,7 @@
   "HMV",
   "Happy Mag",
   "Her Campus",
+  "Hit Channel",
   "Hoodline",
   "Houston Press",
   "IMDb",
@@ -191,6 +192,7 @@
   "The Drum",
   "The Duke Chronicle",
   "The Hollywood Reporter",
+  "The Land",
   "The Mercury News",
   "The Mirror US",
   "The Montrealer",
@@ -281,13 +283,21 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 388,
- "detail_count": 299,
+ "count": 394,
+ "detail_count": 304,
  "digest": {
-  "headline": "My Chemical Romanceが新作アルバムの計画を発表しチャート1位を",
+  "headline": "My Chemical Romanceが初全米1位と新作を明かす",
   "points": [
    {
-    "text": "My Chemical Romanceが2027年の新作アルバム制作やリリース計画を明かしたほか、ライブではThe UsedのBert McCrackenとの共演も実現した。",
+    "text": "My Chemical Romanceの『The Black Parade』が発売20周年を記念して全米ビルボード200で初の1位を獲得し、最長記録を更新した。",
+    "ids": [
+     "96d9bac6e8bf65b1",
+     "45316d3290e5cc85",
+     "41a7260fab5133d3"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceが2027年の新作アルバム制作やスタジオ復帰の計画を明かしたほか、ライブでThe UsedのBert McCrackenとの共演を果たした。",
     "ids": [
      "9265caf3bfd23daa",
      "6fdc706ef5339751",
@@ -295,34 +305,123 @@
     ]
    },
    {
-    "text": "My Chemical Romanceの『The Black Parade』がビルボード200で自身初となるアルバム1位を獲得し、最長記録を更新した。",
+    "text": "Fall Out Boyが新プロジェクトを示唆する「Welcome To Twilight Town Mall」という謎の予告を公開した。",
     "ids": [
-     "4f5cb777558a8a6d",
-     "96d9bac6e8bf65b1"
-    ]
-   },
-   {
-    "text": "Gerard Wayが2027年の新作アルバム制作と2028年のツアー復帰を告げたほか、バンドは『The Black Parade』20周年を記念した短編映画の公開と拡張版アルバムのリリースを発表した。",
-    "ids": [
-     "cc34f61903dbb5cf",
-     "45316d3290e5cc85"
-    ]
-   },
-   {
-    "text": "Blink-182が2027年に開催される大規模フェス「Welcome To Rockville」のヘッドライナーに決定した。",
-    "ids": [
-     "3fadaffb5c78731e",
-     "9696396b1286159d"
+     "b9498b1493b83a50",
+     "a135a529c838c8cc"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-31T00:28:32.408359+09:00",
-  "generated_at": "2026-11-03T00:28:34.285038+09:00",
-  "article_count": 19,
-  "sig": "aa03e8450e62"
+  "from": "2026-10-31T09:51:47.389251+09:00",
+  "generated_at": "2026-11-03T09:51:48.781766+09:00",
+  "article_count": 18,
+  "sig": "b36ffa068b07"
  },
  "items": [
+  {
+   "id": "41a7260fab5133d3",
+   "url": "https://music.mxdwn.com/2026/11/02/news/my-chemical-romances-the-black-parade-makes-history-after-reaching-number-1-on-billboard-200-on-20th-anniversary",
+   "title_original": "My Chemical Romance’s The Black Parade Makes History After Reaching Number 1 On Billboard 200 On 20th Ann...",
+   "source": "mxdwn Music",
+   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2025/07/my-chemical-romance_owen-ela_07272025-2.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-02T22:54:34+00:00",
+   "title_ja": "MCRが発売20年を経て全米1位の快挙を達成",
+   "summary_ja": "My Chemical Romanceの『The Black Parade』が、リリース20周年を迎えて全米ビルボード200で初の1位を獲得した。（115文字）",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "ca0d02848c294f33",
+   "url": "https://bluntmag.com.au/music/my-chemical-romance-first-us-number-one-black-parade",
+   "title_original": "My Chemical Romance Score First US No.1 Ahead Of Planned Return To The Studio",
+   "source": "Blunt Magazine",
+   "image": "https://images-1.bluntmag.com.au/cdn-cgi/image/f=auto,quality=80,fit=scale-down/https://images-1.bluntmag.com.au/uploads/2026/10/GettyImages-171400889-516ee1b9328dbd67d14d8931e3c5fb5a.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-02T21:47:28+00:00",
+   "title_ja": "My Chemical Romanceが初の全米1位とスタジオ復帰へ",
+   "summary_ja": "My Chemical Romanceがキャリア初の全米1位を獲得し、それに続いてスタジオへ戻る予定であることを明かした。（113文字）",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "5cbc9993eacbfe53",
+   "url": "https://www.thatericalper.com/2026/11/02/bruce-springsteen-joan-baez-and-chuck-d-join-dropkick-murphys-ken-casey-for-new-home-of-the-brave-backstage-series",
+   "title_original": "Bruce Springsteen, Joan Baez and Chuck D Join Dropkick Murphys' Ken Casey for New 'Home of the Brave Backstage' Series",
+   "source": "That Eric Alper",
+   "image": "https://www.thatericalper.com/wp-content/uploads/2026/11/download-24.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-02T21:20:28+00:00",
+   "title_ja": "Dropkick MurphysのKen Caseyが新番組を開始",
+   "summary_ja": "Dropkick MurphysのKen Caseyが立ち上げた新シリーズに、Bruce Springsteenらが参加する。（114文字）",
+   "category": "映像・映画・書籍",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys",
+    "Bruce Springsteen",
+    "Joan Baez",
+    "Chuck D"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "5817163aea7cd568",
+   "url": "https://hit-channel.com/my-chemical-romance-black-parade-billboard-200-number-one",
+   "title_original": "It Took 20 Years, But My Chemical Romance Finally Have a No. 1 Album",
+   "source": "Hit Channel",
+   "image": "https://hit-channel.com/wp-content/uploads/2026/11/mcr-warner.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-02T20:47:15+00:00",
+   "title_ja": "20年の歳月を経てMCRが初の全米1位アルバムを獲得",
+   "summary_ja": "My Chemical Romanceが、リリースから20年をかけてついに全米チャートの頂点に立つ快挙を成し遂げた。（111文字）",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "fcfc84d77f86af7c",
+   "url": "https://thelandcle.org/stories/what-the-dropkick-murphys-see-in-cleveland",
+   "title_original": "What the Dropkick Murphys see in Cleveland",
+   "source": "The Land",
+   "image": "https://d41ow8dj78e0j.cloudfront.net/wp-content/uploads/2026/11/02095651/IMG_7101-scaled.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-02T16:18:48+00:00",
+   "title_ja": "Dropkick Murphysがクリーブランドに見出す特別な魅力",
+   "summary_ja": "Dropkick Murphysのメンバーが、米クリーブランドという街に対して抱く思いや、現地で目撃・実感していることについて語っている。地域との深い結びつきがうかがえる。",
+   "category": "メンバー・発言",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "d54dd7e498fc6541",
    "url": "https://bluntmag.com.au/music/on-the-steps-2026-lineup-sydney",
@@ -546,6 +645,26 @@
    ],
    "japan": false,
    "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "a135a529c838c8cc",
+   "url": "https://www.yahoo.com/entertainment/music/articles/fall-boy-teases-welcome-twilight-082622816.html",
+   "title_original": "Fall Out Boy teases ‘Welcome to Twilight Mall’",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/c9a69c702c9515e27c2b33a659b58522efc886ccb2c7d0fd51ef438187f2e2f8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F9e8c5b28ddf71643b936b69271184a5f.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-31T08:26:22+00:00",
+   "title_ja": "Fall Out Boyが新プロジェクトを匂わせる",
+   "summary_ja": "Fall Out Boyが「Welcome to Twilight Mall」と題した新たな予告やヒントをファンに向けて公開した。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
    "has_detail": true
   },
   {
