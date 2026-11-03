@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T09:51:02.102099+09:00",
+ "updated_at": "2026-11-03T22:58:24.775230+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -77,7 +77,6 @@
   "Forbes",
   "Glide Magazine",
   "Global News",
-  "Guitar.com",
   "HEAVY Magazine",
   "HMV",
   "Happy Mag",
@@ -91,7 +90,6 @@
   "InspireMore",
   "InterSpace Distribution",
   "International Business Times UK",
-  "Irish Mirror",
   "Irish Star",
   "JamBase",
   "KCRW",
@@ -160,7 +158,6 @@
   "RAMzine",
   "RIFF Magazine",
   "ROCK 105.3",
-  "RTTNews",
   "Raleigh News & Observer",
   "Reckless Press",
   "Richland Source",
@@ -231,14 +228,12 @@
   "X-Press Magazine",
   "XS ROCK",
   "Yahoo",
-  "Yahoo News Canada",
   "Yahoo News New Zealand",
   "Yahoo!ニュース",
   "ad-hoc-news.de",
   "amass",
   "antiMusic",
   "aol.com",
-  "azat.tv",
   "chaoszine.net",
   "chorus.fm",
   "completemusicupdate.com",
@@ -246,7 +241,6 @@
   "dispatch.com",
   "durhamregion.com",
   "femalefirst.co.uk",
-  "hercampus.com",
   "https://rocknloadmag.com/",
   "iHeart",
   "indienative",
@@ -283,61 +277,108 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 394,
- "detail_count": 304,
+ "count": 386,
+ "detail_count": 299,
  "digest": {
-  "headline": "My Chemical Romanceが初全米1位と新作を明かす",
+  "headline": "My Chemical Romanceが初の全米1位と新作計画を発表",
   "points": [
    {
-    "text": "My Chemical Romanceの『The Black Parade』が発売20周年を記念して全米ビルボード200で初の1位を獲得し、最長記録を更新した。",
+    "text": "My Chemical Romanceの名盤『The Black Parade』が発売から20年を経てBillboard 200で初の首位を獲得し、最長記録を更新した。",
     "ids": [
+     "0b5494ca751a5a63",
      "96d9bac6e8bf65b1",
-     "45316d3290e5cc85",
-     "41a7260fab5133d3"
+     "5817163aea7cd568"
     ]
    },
    {
-    "text": "My Chemical Romanceが2027年の新作アルバム制作やスタジオ復帰の計画を明かしたほか、ライブでThe UsedのBert McCrackenとの共演を果たした。",
+    "text": "My Chemical Romanceは2027年に向けた新作アルバムの制作を明かした一方で、その時期のライブ活動は未定であると語っている。",
     "ids": [
      "9265caf3bfd23daa",
-     "6fdc706ef5339751",
-     "81fd4982f44656dd"
+     "6fdc706ef5339751"
     ]
    },
    {
-    "text": "Fall Out Boyが新プロジェクトを示唆する「Welcome To Twilight Town Mall」という謎の予告を公開した。",
+    "text": "blink-182が2027年の米フェス「Welcome to Rockville 2027」に出演することが決定した。",
     "ids": [
-     "b9498b1493b83a50",
-     "a135a529c838c8cc"
+     "610e71717e58be9b"
+    ]
+   },
+   {
+    "text": "Fall Out Boyが「Twilight Town Mall」と名付けられた新しいウェブサイトを開設した。",
+    "ids": [
+     "7e37d1aea78b7825",
+     "f964ee8ebcf1cb99"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-31T09:51:47.389251+09:00",
-  "generated_at": "2026-11-03T09:51:48.781766+09:00",
-  "article_count": 18,
-  "sig": "b36ffa068b07"
+  "from": "2026-10-31T23:00:22.978457+09:00",
+  "generated_at": "2026-11-03T23:00:33.279620+09:00",
+  "article_count": 16,
+  "sig": "a5bffd120c45"
  },
  "items": [
   {
-   "id": "41a7260fab5133d3",
-   "url": "https://music.mxdwn.com/2026/11/02/news/my-chemical-romances-the-black-parade-makes-history-after-reaching-number-1-on-billboard-200-on-20th-anniversary",
-   "title_original": "My Chemical Romance’s The Black Parade Makes History After Reaching Number 1 On Billboard 200 On 20th Ann...",
-   "source": "mxdwn Music",
-   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2025/07/my-chemical-romance_owen-ela_07272025-2.jpg",
+   "id": "7e37d1aea78b7825",
+   "url": "https://www.kerrang.com/fall-out-boy-launch-twilight-town-mall-website-new-music-teaser-patrick-stump-pete-wentz",
+   "title_original": "“Everything we have… is yours!”: Fall Out Boy have launched a Twilight Town Mall website",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/Fall-Out-Boy-2023-promo-2.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1679658954&s=08fa14016f1be75d0266fd0883afe901",
    "lang": "en",
    "region": "global",
-   "published": "2026-11-02T22:54:34+00:00",
-   "title_ja": "MCRが発売20年を経て全米1位の快挙を達成",
-   "summary_ja": "My Chemical Romanceの『The Black Parade』が、リリース20周年を迎えて全米ビルボード200で初の1位を獲得した。（115文字）",
-   "category": "チャート・受賞",
-   "band": "My Chemical Romance",
+   "published": "2026-11-03T12:01:00+00:00",
+   "title_ja": "Fall Out Boyが新ウェブサイトを開設",
+   "summary_ja": "Fall Out Boyが「Twilight Town Mall」と名付けられた新しいウェブサイトを立ち上げたことを発表した。（抜粋なし）",
+   "category": "その他",
+   "band": "Fall Out Boy",
    "artists": [
-    "My Chemical Romance"
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "610e71717e58be9b",
+   "url": "https://www.melodicmag.com/news/welcome-to-rockville-reveals-massive-2027-lineup-featuring-blink-182-korn-bad-omens-and-more",
+   "title_original": "Welcome to Rockville Reveals Massive 2027 Lineup Featuring blink-182, Korn, Bad Omens, and More",
+   "source": "MELODIC Magazine",
+   "image": "https://www.melodicmag.com/wp-content/uploads/2026/11/welcome-to-rockville-2027-artwork.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-03T01:59:45+00:00",
+   "title_ja": "米フェス「Welcome to Rockville 2027」にblink-182ら出演決定",
+   "summary_ja": "大型ロックフェス「Welcome to Rockville」が2027年の大規模な出演アーティストを発表し、blink-182やKornらの参加が明らかになった。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Korn",
+    "Bad Omens"
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "has_detail": true
+  },
+  {
+   "id": "f964ee8ebcf1cb99",
+   "url": "https://bluntmag.com.au/news/fall-out-boy-turn-their-website-into-cryptic-twilight-town-mall",
+   "title_original": "Fall Out Boy Turn Their Website Into Cryptic ‘Twilight Town Mall’",
+   "source": "Blunt Magazine",
+   "image": "https://images-1.bluntmag.com.au/cdn-cgi/image/f=auto,quality=80,fit=scale-down/https://images-1.bluntmag.com.au/uploads/2026/11/fall-out-boy-pamela-littky-2023-39f6d798675bc993b927357d763022d8.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-03T01:42:38+00:00",
+   "title_ja": "Fall Out Boyが公式ウェブサイトを「Twilight Town Mall」仕様に変更",
+   "summary_ja": "Fall Out Boyが公式サイトを神秘的な「Twilight Town Mall」というテーマへリニューアルしたことが明らかになった。今後の展開に注目が集まっている。",
+   "category": "その他",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "ca0d02848c294f33",
@@ -420,6 +461,26 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "0b5494ca751a5a63",
+   "url": "https://stereogum.com/2516272/my-chemical-romance-land-first-1-album-with-the-black-parade-20-years-after-its-original-release/news",
+   "title_original": "My Chemical Romance Land First #1 Album With The Black Parade 20 Years After Its Original Release",
+   "source": "Stereogum",
+   "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/GettyImages-71763884.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-02T15:14:13+00:00",
+   "title_ja": "The Black Paradeが発売20年で初の全米1位",
+   "summary_ja": "名盤『The Black Parade』のオリジナルリリースから20年の年月を経て、My Chemical RomanceがBillboard 200で初の首位を獲得した。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 5,
    "has_detail": true
   },
   {
@@ -962,6 +1023,26 @@
    ],
    "japan": false,
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "60829d37f86d83e6",
+   "url": "https://chaoszine.net/after-all-we-are-all-just-kids-photo-report-of-simple-plans-show-in-zurich",
+   "title_original": "After all, we are all just kids! Photo report of Simple Plan’s show in Zurich",
+   "source": "Chaoszine",
+   "image": "https://chaoszine.net/wp-content/uploads/2026/10/simple-plan-zurich-2026-50.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T00:27:30+00:00",
+   "title_ja": "Simple Planのチューリッヒ公演を伝える写真レポート",
+   "summary_ja": "スイス・チューリッヒで開催されたSimple Planのライブの様子を、多数の写真とともに振り返るライブレポートが公開された。",
+   "category": "ライブ・ツアー",
+   "band": "Simple Plan",
+   "artists": [
+    "Simple Plan"
+   ],
+   "japan": false,
+   "importance": 2,
    "has_detail": true
   },
   {
@@ -8210,254 +8291,6 @@
    "band": "Green Day",
    "artists": [
     "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "49b9fc1af01f85df",
-   "url": "https://www.imdb.com/fr/news/ni66026586",
-   "title_original": "Spidey and the Avengers Halloween special has a Fall Out Boy villain",
-   "source": "IMDb",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-21T23:24:49+00:00",
-   "title_ja": "Fall Out Boyのメンバーが悪役でハロウィン特番に登場",
-   "summary_ja": "アニメシリーズ『Spidey and the Avengers』のハロウィン特別番組に、Fall Out Boyのメンバーが悪役として登場することが明らかになった。ファン注目のユニークなコラボレーションとなっている。",
-   "category": "映像・映画・書籍",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "b99954f65344047f",
-   "url": "https://www.rttnews.com/amp/3692386/the-offspring-pennywise-more-to-play-mike-roche-benefit-show.aspx",
-   "title_original": "The Offspring, Pennywise & More To Play Mike Roche Benefit Show",
-   "source": "RTTNews",
-   "image": "https://cdn.rttnews.com/articleimages/ustopstories/2025/october/offspring-10102025-lt.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-21T19:02:10+00:00",
-   "title_ja": "The OffspringやPennywiseがチャリティ公演に出演",
-   "summary_ja": "Mike Rocheを支援するため、The OffspringやPennywiseらが集結し、チャリティライブを開催することが発表された。",
-   "category": "ライブ・ツアー",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring",
-    "Pennywise",
-    "Mike Roche"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "3be70a62468aa102",
-   "url": "https://www.thatericalper.com/2026/09/21/chad-gilbert-new-found-glory-guitarist-and-genre-defining-producer-dies-at-45",
-   "title_original": "Chad Gilbert, New Found Glory Guitarist and Genre-Defining Producer, Dies at 45",
-   "source": "That Eric Alper",
-   "image": "https://www.thatericalper.com/wp-content/uploads/2026/09/download-2026-09-21T145900.417.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-21T18:59:14+00:00",
-   "title_ja": "NFGのギタリスト兼名プロデューサーChad Gilbertが急逝",
-   "summary_ja": "New Found Gloryのギタリストであり、ジャンルを定義づける名プロデューサーとしても活躍したChad Gilbertが45歳で亡くなった。ポップパンクの歴史に深く名を刻んだ彼の早すぎる死を多くの関係者が悼んでいる。",
-   "category": "メンバー・発言",
-   "band": "New Found Glory",
-   "artists": [
-    "Chad Gilbert",
-    "New Found Glory"
-   ],
-   "japan": false,
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "60dc4dbff29ab3f5",
-   "url": "https://www.rollingstone.com/music/music-features/mark-hoppus-blink-182-chad-gilbert-new-found-glory-tribute-1235629441",
-   "title_original": "Mark Hoppus Remembers New Found Glory's Chad Gilbert: 'I Miss You Already, Little Brother'",
-   "source": "Rolling Stone",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-21T18:47:05+00:00",
-   "title_ja": "マーク・ホップラスが故Chad Gilbertを追悼",
-   "summary_ja": "New Found GloryのChad Gilbertの訃報を受け、Blink-182のマーク・ホップラスがSNS等で追悼のコメントを発表した。「もう寂しいよ、弟分」と故人との深い親交と突然の別れを惜しんでいる。",
-   "category": "メンバー・発言",
-   "band": "Blink-182",
-   "artists": [
-    "Mark Hoppus",
-    "Chad Gilbert",
-    "New Found Glory"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "8a0128b0c92221d4",
-   "url": "https://rockcellarmagazine.com/chad-gilbert-dies-new-found-glory-guitarist-pop-punk-obituary",
-   "title_original": "New Found Glory Guitarist Chad Gilbert Dies at 45 -- and the Scene Loses an Icon",
-   "source": "Rock Cellar Magazine",
-   "image": "https://rockcellarmagazine.com/wp-content/uploads/2023/02/DSC0830.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-21T16:59:40+00:00",
-   "title_ja": "NFGのChad Gilbertが45歳で死去",
-   "summary_ja": "ポップパンクシーンのアイコンであり、New Found Gloryのギタリストを務めたChad Gilbertが45歳で死去した。",
-   "category": "メンバー・発言",
-   "band": "New Found Glory",
-   "artists": [
-    "Chad Gilbert",
-    "New Found Glory"
-   ],
-   "japan": false,
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "6fd2480fa0da2826",
-   "url": "https://www.pastemagazine.com/music/weezer/the-gold-album-is-weezers-best-case-scenario",
-   "title_original": "Review: The 'Gold Album' is Weezer’s best-case scenario",
-   "source": "Paste Magazine",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-21T15:33:46+00:00",
-   "title_ja": "Weezerの新作『Gold Album』のアルバムレビュー",
-   "summary_ja": "Weezerの新たなアルバム『Gold Album』について、バンドの魅力が存分に発揮されたベストケースの仕上がりであると高く評価するレビュー記事。",
-   "category": "新曲・新作",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "eab8dca982903d5c",
-   "url": "https://www.hercampus.com/school/unco/the-end-of-my-chemical-romance-s-american-tour",
-   "title_original": "The End of My Chemical Romance … ‘s American Tour",
-   "source": "hercampus.com",
-   "image": "https://cdn.hercampus.com/SH6M70M3/as/cfmgtmxgs4rj9kwqcbw9k6f/leviguzmanzdsoe8za6hsunsplashjpg_by_Levi_Guzman?width=1200&height=630&fit=crop&",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-21T14:00:00+00:00",
-   "title_ja": "My Chemical Romanceのアメリカツアーが完結へ",
-   "summary_ja": "熱狂的な支持を集めるMy Chemical Romanceによる大規模なアメリカツアーが、いよいよ終幕を迎えることを伝えるレポート記事。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "424eae76d471a72e",
-   "url": "https://ca.news.yahoo.com/green-day-made-politics-central-120000046.html",
-   "title_original": "Green Day Made Politics Central To A Comeback That Changed Its Career",
-   "source": "Yahoo News Canada",
-   "image": "https://s.yimg.com/lo/mysterio/api/95e07d471d8b9c7f0aa91b5d787e23a4beda670760201900ea13463ff301ec57/lightyear_networkapi/resizefill_w958_h639%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F241b5dcd1a17c11ee262a9ff1e1bc329.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-21T12:00:00+00:00",
-   "title_ja": "Green Dayの政治的姿勢がキャリアの復活に果たした役割",
-   "summary_ja": "政治的なメッセージを前面に出したGreen Dayのカムバックが、バンドのキャリアにどのような変化をもたらしたのかを振り返る。",
-   "category": "メンバー・発言",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e07e69a2bc09f1f9",
-   "url": "https://amass.jp/191958",
-   "title_original": "グリーン・デイが最も検索された質問の数々に回答 日本語字幕付き映像公開",
-   "source": "amass",
-   "image": "https://amassing2.sakura.ne.jp/image/jacket/large/2026b/143066.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-21T11:57:00+00:00",
-   "title_ja": "Green Dayがネットで最も検索された質問に回答する日本語字幕付き映像が公開",
-   "summary_ja": "Green Dayがインターネット上で最も検索されている自身に関する数々の質問に対し、メンバー自らが直接回答する企画映像の日本語字幕付きバージョンが新たに公開された。",
-   "category": "映像・映画・書籍",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": true,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "16a29ee0bb1fa190",
-   "url": "https://www.irishmirror.ie/news/irish-news/ed-sheeran-duty-support-acts-37684472",
-   "title_original": "Ed Sheeran had duty to his support acts, says Dropkick Murphys singer",
-   "source": "Irish Mirror",
-   "image": "https://i2-prod.irishmirror.ie/article37683788.ece/ALTERNATES/s1200d/1_Dropkick-Murphys-at-Vilar-de-Mouros-in-Vilar-de-Mouros-Portugal-20-Aug-2026.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-21T10:41:29+00:00",
-   "title_ja": "Dropkick Murphysのボーカルがエド・シーランのサポート体制に言及",
-   "summary_ja": "Dropkick Murphysのボーカリストが、大スターであるEd Sheeranが自身のツアーのサポートアクトに対して持つべき責任や姿勢について語りました。",
-   "category": "メンバー・発言",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys",
-    "Ed Sheeran"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "512227d3c19471a0",
-   "url": "https://guitar.com/news/music-news/chad-gilbert-new-found-glory-tributes",
-   "title_original": "“The most positive and creative force in any room he walked into”: Pop-punk’s elite pay tribute to Chad Gilbert, founding New Found Glory guitarist who has died at 45",
-   "source": "Guitar.com",
-   "image": "https://guitar.com/wp-content/uploads/2026/09/Chad-Gilbert-hero@2000x1500-1068x801.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-21T10:19:16+00:00",
-   "title_ja": "ポップパンク界の仲間たちが逝去したChad Gilbertを追悼",
-   "summary_ja": "45歳で亡くなったNew Found Gloryの創設ギタリストに向け、シーンの仲間たちから数々の追悼メッセージが寄せられている。",
-   "category": "メンバー・発言",
-   "band": "New Found Glory",
-   "artists": [
-    "Chad Gilbert",
-    "New Found Glory"
-   ],
-   "japan": false,
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "bf02ca41d84256ab",
-   "url": "https://azat.tv/en/weezer-sound-issues-grand-casino-arena",
-   "title_original": "Weezer Concert Marred by Technical Sound Failures at Grand Casino Arena",
-   "source": "azat.tv",
-   "image": "https://azat.tv/wp-content/uploads/2026/09/weezer-live-concert-performance.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-21T08:45:00+00:00",
-   "title_ja": "Weezerのコンサートで音響トラブルが発生",
-   "summary_ja": "Grand Casino Arenaで行われたWeezerのコンサートにおいて、技術的な音響の不具合が発生したと報じられている。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
    ],
    "japan": false,
    "importance": 3,
