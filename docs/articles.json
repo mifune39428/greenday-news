@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T14:53:45.632816+09:00",
+ "updated_at": "2026-11-04T23:13:40.236751+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -71,7 +71,6 @@
   "Dying Scene",
   "Entertainment Focus",
   "Eponymous Review",
-  "Evrim Ağacı",
   "Exclaim!",
   "Far Out Magazine",
   "Flagpole",
@@ -279,35 +278,35 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 393,
- "detail_count": 305,
+ "count": 395,
+ "detail_count": 306,
  "digest": {
-  "headline": "MCRが初の全米1位を獲得し、Blink-182はフェス出演へ",
+  "headline": "MCRが初の全米1位を獲得し、大型フェス出演情報も続々と発表",
   "points": [
    {
-    "text": "My Chemical Romanceのアルバム『The Black Parade』が発売から20年を経てBillboard 200で初の全米1位を獲得し、最長記録を更新した。",
+    "text": "My Chemical Romanceの名盤『The Black Parade』が発売から20年の歳月を経て、ビルボードチャートで初の全米1位を獲得した。",
     "ids": [
      "0b5494ca751a5a63",
-     "96d9bac6e8bf65b1",
+     "5817163aea7cd568",
      "428e9ef57e02ae0d"
     ]
    },
    {
-    "text": "My Chemical Romanceは、2027年の新作アルバムに向けた制作計画を明かした一方で、その時期のライブ活動は未定であると語っている。",
+    "text": "My Chemical Romanceは2027年の新作アルバムに向けた制作計画を認める一方で、ライブ活動の実施はおそらく無いと語っている。",
     "ids": [
-     "9265caf3bfd23daa",
-     "ca0d02848c294f33"
+     "9265caf3bfd23daa"
     ]
    },
    {
-    "text": "大規模ロックフェス「Welcome To Rockville 2027」のヘッドライナーとして、Blink-182らの出演が発表された。",
+    "text": "大規模ロックフェス「Welcome To Rockville 2027」や欧州の音楽フェス「Pinkpop 2027」にBlink-182らの出演が発表された。",
     "ids": [
      "7c4941e81deb5f17",
-     "610e71717e58be9b"
+     "610e71717e58be9b",
+     "b7907d70e1a099de"
     ]
    },
    {
-    "text": "Fall Out Boyが新ウェブサイト「Twilight Town Mall」を開設し、ファンのもとに謎のTシャツが届くなど新譜への憶測が広がっている。",
+    "text": "Fall Out Boyが新ウェブサイト「Twilight Town Mall」を立ち上げ、新アルバムを巡る憶測の中でファンにTシャツが届いている。",
     "ids": [
      "482c3a99b03aa35e",
      "7e37d1aea78b7825",
@@ -316,12 +315,54 @@
    }
   ],
   "days": 3,
-  "from": "2026-11-01T14:54:18.711461+09:00",
-  "generated_at": "2026-11-04T14:54:20.311373+09:00",
-  "article_count": 20,
-  "sig": "cdaebbe1aaf1"
+  "from": "2026-11-01T23:15:57.063469+09:00",
+  "generated_at": "2026-11-04T23:16:08.000091+09:00",
+  "article_count": 22,
+  "sig": "5223acfdbff9"
  },
  "items": [
+  {
+   "id": "1f889ae19f6f1b2c",
+   "url": "https://rocksound.tv/news/what-are-fall-out-boy-up-to",
+   "title_original": "What Are Fall Out Boy Up To?",
+   "source": "Rock Sound",
+   "image": "https://spaces.rocksound.tv/uploads/2026/11/864870718_1661771362318977_2821468849715086445_n.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T11:58:16+00:00",
+   "title_ja": "Fall Out Boyの現在の動向を伝える特集記事",
+   "summary_ja": "現在Fall Out Boyがどのような活動を行っているのか、その動向に迫る最新の特集記事が公開されている。",
+   "category": "その他",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "b7907d70e1a099de",
+   "url": "https://routenote.com/radar/pinkpop-2027-lineup-blink-182-mumford-sons-raye-and-more",
+   "title_original": "Pinkpop 2027 Lineup: blink-182, Mumford & Sons, RAYE and More",
+   "source": "RouteNote",
+   "image": "https://routenote.com/radar/wp-content/uploads/2026/11/routenote_Pinkpop_-v_8.2_e438de5c-cad1-4da5-87ff-4fa8d56b7b6c_3.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T09:53:43+00:00",
+   "title_ja": "Pinkpop 2027の出演アーティストが明らかに",
+   "summary_ja": "欧州の大型音楽フェス「Pinkpop 2027」のラインナップが発表され、Blink-182らの出演が明らかになった。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Mumford & Sons",
+    "RAYE"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "2ebb864d540134b5",
    "url": "https://happymag.tv/live-nation-my-chemical-romance-dallas-cowboys-cheerleaders",
@@ -344,6 +385,26 @@
    "has_detail": true
   },
   {
+   "id": "668c51776049d667",
+   "url": "https://www.mensjournal.com/entertainment/22-years-ago-rancids-third-album-went-platinum",
+   "title_original": "22 Years Ago, Rancid’s Third Album Went Platinum",
+   "source": "Men's Journal",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T02:00:00+00:00",
+   "title_ja": "Rancidの3rdアルバムがプラチナ認定から22年",
+   "summary_ja": "Rancidのサードアルバムがプラチナディスクを獲得してから22年の節目を迎えたことを、過去の記録とともに振り返っている。",
+   "category": "再発・記念盤",
+   "band": "Rancid",
+   "artists": [
+    "Rancid"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
    "id": "e8d160657c8dae34",
    "url": "https://www.billboard.com/media/podcasts/my-chemical-romance-reissues-billboard-200-pop-shop-podcast-1236373369",
    "title_original": "My Chemical Romance Leads ‘Parade’ of Reissues Marching Onto Billboard 200 Albums Chart",
@@ -361,7 +422,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6e50b056d92a064d",
@@ -8418,26 +8479,6 @@
    "artists": [
     "Capture This",
     "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "837b5ac88007ed0e",
-   "url": "https://evrimagaci.org/gpt/green-days-american-idiot-turns-setback-into-triumph-545820",
-   "title_original": "Green Day’s American Idiot Turns Setback Into Triumph",
-   "source": "Evrim Ağacı",
-   "image": "https://thumbor.evrimagaci.org/VIqaIB8L-E9_pl0mELJXjvDQHtM=/1200x0/filters:quality(85)/tpg/sources/1420b4b6-3fc5-4bb9-97ce-fba2f145b66a.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T04:00:40+00:00",
-   "title_ja": "Green Dayの『American Idiot』がもたらした栄光",
-   "summary_ja": "Green Dayの代表作である『American Idiot』が、困難な状況をいかにして大きな成功へと変えたのかについて振り返る記事。",
-   "category": "再発・記念盤",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
    ],
    "japan": false,
    "importance": 3,
