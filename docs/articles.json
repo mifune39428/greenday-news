@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T23:13:40.236751+09:00",
+ "updated_at": "2026-11-05T08:29:42.303625+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -81,7 +81,6 @@
   "HMV",
   "Happy Mag",
   "Her Campus",
-  "Hit Channel",
   "Hoodline",
   "Houston Press",
   "IMDb",
@@ -137,6 +136,7 @@
   "Neon Music",
   "Netto's Game Room",
   "New Noise Magazine",
+  "NewsBreak: Local News & Alerts",
   "Noise11",
   "Northern Transmissions",
   "Official Charts",
@@ -183,6 +183,7 @@
   "Stereogum",
   "Texas Lifestyle Magazine",
   "That Eric Alper",
+  "The 13th Floor",
   "The Aquarian",
   "The Concordian",
   "The Daily Texan",
@@ -258,7 +259,6 @@
   "musicscenemedia.com",
   "musictimes.com",
   "mxdwn Music",
-  "nettosgameroom.com",
   "nme.com",
   "noise11.com",
   "punknews.org",
@@ -278,27 +278,21 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 395,
- "detail_count": 306,
+ "count": 392,
+ "detail_count": 305,
  "digest": {
-  "headline": "MCRが初の全米1位を獲得し、大型フェス出演情報も続々と発表",
+  "headline": "MCRが初の全米1位を獲得し新作計画を発表",
   "points": [
    {
-    "text": "My Chemical Romanceの名盤『The Black Parade』が発売から20年の歳月を経て、ビルボードチャートで初の全米1位を獲得した。",
+    "text": "My Chemical Romanceの名盤『The Black Parade』が発売20年を経てBillboard 200で初の首位を獲得し、あわせて新作アルバムの制作計画も明らかにした。",
     "ids": [
+     "e58dda4313c4ce2b",
      "0b5494ca751a5a63",
-     "5817163aea7cd568",
-     "428e9ef57e02ae0d"
+     "ca0d02848c294f33"
     ]
    },
    {
-    "text": "My Chemical Romanceは2027年の新作アルバムに向けた制作計画を認める一方で、ライブ活動の実施はおそらく無いと語っている。",
-    "ids": [
-     "9265caf3bfd23daa"
-    ]
-   },
-   {
-    "text": "大規模ロックフェス「Welcome To Rockville 2027」や欧州の音楽フェス「Pinkpop 2027」にBlink-182らの出演が発表された。",
+    "text": "大型ロックフェス「Welcome To Rockville 2027」および「Pinkpop 2027」のラインナップが発表され、Blink-182らの出演が決定した。",
     "ids": [
      "7c4941e81deb5f17",
      "610e71717e58be9b",
@@ -306,19 +300,25 @@
     ]
    },
    {
-    "text": "Fall Out Boyが新ウェブサイト「Twilight Town Mall」を立ち上げ、新アルバムを巡る憶測の中でファンにTシャツが届いている。",
+    "text": "Fall Out Boyは新ウェブサイト「Twilight Town Mall」を開設し、ファンのもとに謎のTシャツが届くなど新作を巡る噂で話題を集めている。",
     "ids": [
      "482c3a99b03aa35e",
      "7e37d1aea78b7825",
      "f964ee8ebcf1cb99"
     ]
+   },
+   {
+    "text": "Green Dayの楽曲「Waiting」のリリースから25年が経過し、ポップパンクにおける重要な転換点として当時を振り返る記事が公開された。",
+    "ids": [
+     "6e50b056d92a064d"
+    ]
    }
   ],
   "days": 3,
-  "from": "2026-11-01T23:15:57.063469+09:00",
-  "generated_at": "2026-11-04T23:16:08.000091+09:00",
-  "article_count": 22,
-  "sig": "5223acfdbff9"
+  "from": "2026-11-02T08:30:16.485263+09:00",
+  "generated_at": "2026-11-05T08:30:18.056611+09:00",
+  "article_count": 20,
+  "sig": "d4b7f6a4b976"
  },
  "items": [
   {
@@ -402,7 +402,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e8d160657c8dae34",
@@ -632,26 +632,6 @@
    "has_detail": true
   },
   {
-   "id": "5817163aea7cd568",
-   "url": "https://hit-channel.com/my-chemical-romance-black-parade-billboard-200-number-one",
-   "title_original": "It Took 20 Years, But My Chemical Romance Finally Have a No. 1 Album",
-   "source": "Hit Channel",
-   "image": "https://hit-channel.com/wp-content/uploads/2026/11/mcr-warner.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-02T20:47:15+00:00",
-   "title_ja": "20年の歳月を経てMCRが初の全米1位アルバムを獲得",
-   "summary_ja": "My Chemical Romanceが、リリースから20年をかけてついに全米チャートの頂点に立つ快挙を成し遂げた。（111文字）",
-   "category": "チャート・受賞",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
    "id": "fcfc84d77f86af7c",
    "url": "https://thelandcle.org/stories/what-the-dropkick-murphys-see-in-cleveland",
    "title_original": "What the Dropkick Murphys see in Cleveland",
@@ -669,6 +649,26 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "e58dda4313c4ce2b",
+   "url": "https://www.newsbreak.com/web-is-jericho-1712396/4982271624802-my-chemical-romance-finally-hit-no-1-after-20-years-reveal-new-album-plans",
+   "title_original": "My Chemical Romance Finally Hit No. 1 After 20 Years & Reveal New Album Plans",
+   "source": "NewsBreak: Local News & Alerts",
+   "image": "https://img.particlenews.com/img/id/2t7YhT_1GhFFXjA00",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-02T15:59:00+00:00",
+   "title_ja": "My Chemical Romanceが結成20年で初の首位獲得と新作計画",
+   "summary_ja": "My Chemical Romanceがチャート首位を獲得し、あわせて新たなアルバムの制作計画を明らかにしている。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 5,
    "has_detail": true
   },
   {
@@ -732,6 +732,26 @@
    "japan": false,
    "importance": 5,
    "detail_tries": 2
+  },
+  {
+   "id": "c69e080db68667ae",
+   "url": "https://13thfloor.co.nz/weezer-announces-weezer-the-gathering-australia-new-zealand-tour-2027-with-special-guests-third-eye-blind-fountains-of-wayne",
+   "title_original": "Weezer Announces Weezer: The Gathering Australia + NZ",
+   "source": "The 13th Floor",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-01T20:50:23+00:00",
+   "title_ja": "Weezerがオセアニア公演「The Gathering」を発表",
+   "summary_ja": "Weezerがオーストラリアとニュージーランドで開催する新たなライブツアー「Weezer: The Gathering」を発表しました。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "96d9bac6e8bf65b1",
@@ -8398,91 +8418,6 @@
    "japan": false,
    "importance": 2,
    "detail_tries": 2
-  },
-  {
-   "id": "d83963512a6f37dc",
-   "url": "https://www.forbes.com/sites/hughmcintyre/2026/09/22/paramores-longest-running-hit-brings-the-band-to-a-chart-milestone",
-   "title_original": "Paramore’s Longest-Running Hit Brings The Band To A Chart Milestone",
-   "source": "Forbes",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T14:15:00+00:00",
-   "title_ja": "Paramoreがチャートで新たな記録を達成",
-   "summary_ja": "Paramoreの長期にわたり愛され続けるヒット曲が、バンドにとって重要なチャートのマイルストーンに到達した。",
-   "category": "チャート・受賞",
-   "band": "Paramore",
-   "artists": [
-    "Paramore"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "e378e7c2cc24948c",
-   "url": "https://www.nettosgameroom.com/2026/09/every-song-being-removed-from-rock-band_02091633973.html",
-   "title_original": "Every Song Being Removed From Rock Band 4 in October 2026, Including: Andy Grammer, Maroon 5, Weezer, Skillet, Sia and More",
-   "source": "nettosgameroom.com",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqcPh2Td_g9-0yVVYbCAtz2TAgR72ykXQ3xLXB5HhHnHOuCdKjrJ1SmK0sbeakBrVHT5vHhs7_DAj0KnLjpXWYc9L5fvJTZ9byIul5dgULu3dGt7oOhMv2yS1_9lukKLbA91su2Snyo0lytJb_BSr_mRu3f2-orjr-3jazoibbG3f79eTn1f-haeXWjdo/w640-h360/rb4.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T14:09:00+00:00",
-   "title_ja": "Rock Band 4からWeezerなどの楽曲が10月に削除",
-   "summary_ja": "音楽ゲーム『Rock Band 4』から、WeezerやMaroon 5を含む多数の楽曲が2026年10月に削除される予定であることが発表された。",
-   "category": "その他",
-   "band": "Weezer",
-   "artists": [
-    "Weezer",
-    "Andy Grammer",
-    "Maroon 5",
-    "Skillet"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "af571c717cffe6d2",
-   "url": "https://www.ultimate-guitar.com/articles/features/rivers-cuomo-thought-pinkerton-was-weezers-magnum-opus-before-it-got-destroyed-30-years-later-its-considered-a-classic-188603",
-   "title_original": "Rivers Cuomo Thought 'Pinkerton' Was Weezer's Magnum Opus Before It 'Got Destroyed.' 30 Years Later, It's Considered a Classic",
-   "source": "Ultimate Guitar",
-   "image": "https://www.ultimate-guitar.com/static/article/news/3/188603_0_wide_ver1790092493.jpg@1200",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T10:56:46+00:00",
-   "title_ja": "WeezerのRivers CuomoがPinkertonを語る",
-   "summary_ja": "WeezerのRivers Cuomoが、かつて酷評された名盤『Pinkerton』の30年を経ての再評価について振り返っている。",
-   "category": "メンバー・発言",
-   "band": "Weezer",
-   "artists": [
-    "Rivers Cuomo",
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "9478f2f91416f416",
-   "url": "https://duclarion.com/2026/09/denver-native-pop-punk-band-capture-this-is-opening-for-the-linda-lindas",
-   "title_original": "Denver-native pop punk band Capture This is opening for The Linda Lindas",
-   "source": "DU Clarion",
-   "image": "https://duclarion.com/wp-content/uploads/2026/09/Screenshot-2026-09-21-at-6.39.48-PM.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T07:23:55+00:00",
-   "title_ja": "The Linda LindasのライブでCapture Thisが出演",
-   "summary_ja": "デンバー出身のポップパンクバンドであるCapture Thisが、The Linda Lindasの公演でオープニングアクトを務めることが報じられている。",
-   "category": "ライブ・ツアー",
-   "band": "The Linda Lindas",
-   "artists": [
-    "Capture This",
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
