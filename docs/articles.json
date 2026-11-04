@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T08:08:03.003348+09:00",
+ "updated_at": "2026-11-04T14:53:45.632816+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -279,13 +279,13 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 389,
- "detail_count": 302,
+ "count": 393,
+ "detail_count": 305,
  "digest": {
-  "headline": "MCRが初の全米1位を獲得し、新作制作へ",
+  "headline": "MCRが初の全米1位を獲得し、Blink-182はフェス出演へ",
   "points": [
    {
-    "text": "My Chemical Romanceの名盤『The Black Parade』が発売20年で初の全米1位を獲得し、ビルボード200で1位までの最長記録を更新した。",
+    "text": "My Chemical Romanceのアルバム『The Black Parade』が発売から20年を経てBillboard 200で初の全米1位を獲得し、最長記録を更新した。",
     "ids": [
      "0b5494ca751a5a63",
      "96d9bac6e8bf65b1",
@@ -293,9 +293,10 @@
     ]
    },
    {
-    "text": "My Chemical Romanceは207年の新作アルバムに向けた制作計画を認めつつ、その時期のライブ活動の実施はおそらく無いと語っている。",
+    "text": "My Chemical Romanceは、2027年の新作アルバムに向けた制作計画を明かした一方で、その時期のライブ活動は未定であると語っている。",
     "ids": [
-     "9265caf3bfd23daa"
+     "9265caf3bfd23daa",
+     "ca0d02848c294f33"
     ]
    },
    {
@@ -306,7 +307,7 @@
     ]
    },
    {
-    "text": "Fall Out Boyが「Twilight Town Mall」と名付けられた新しいウェブサイトを立ち上げ、ファンのもとに謎のTシャツが届いたことで新作の噂を呼んでいる。",
+    "text": "Fall Out Boyが新ウェブサイト「Twilight Town Mall」を開設し、ファンのもとに謎のTシャツが届くなど新譜への憶測が広がっている。",
     "ids": [
      "482c3a99b03aa35e",
      "7e37d1aea78b7825",
@@ -315,12 +316,73 @@
    }
   ],
   "days": 3,
-  "from": "2026-11-01T08:08:52.173636+09:00",
-  "generated_at": "2026-11-04T08:08:54.064000+09:00",
-  "article_count": 16,
-  "sig": "24625cb50b10"
+  "from": "2026-11-01T14:54:18.711461+09:00",
+  "generated_at": "2026-11-04T14:54:20.311373+09:00",
+  "article_count": 20,
+  "sig": "cdaebbe1aaf1"
  },
  "items": [
+  {
+   "id": "2ebb864d540134b5",
+   "url": "https://happymag.tv/live-nation-my-chemical-romance-dallas-cowboys-cheerleaders",
+   "title_original": "Live Nation defends My Chemical Romance Dallas Cowboys Cheerleaders uniform parody -",
+   "source": "Happy Mag",
+   "image": "https://happymag.tv/wp-content/uploads/2026/11/dallascowboycheerleaders-1024x617.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T04:49:26+00:00",
+   "title_ja": "My Chemical Romance、チアリーダー制服のパロディを巡りLive Nationが弁護",
+   "summary_ja": "My Chemical Romanceのパフォーマンスにおけるダラス・カウボーイズ・チアリーダーズの制服パロディについて、Live Nationが擁護の姿勢を示した。",
+   "category": "メンバー・発言",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Live Nation"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "e8d160657c8dae34",
+   "url": "https://www.billboard.com/media/podcasts/my-chemical-romance-reissues-billboard-200-pop-shop-podcast-1236373369",
+   "title_original": "My Chemical Romance Leads ‘Parade’ of Reissues Marching Onto Billboard 200 Albums Chart",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T00:55:26+00:00",
+   "title_ja": "My Chemical Romance、再発盤がBillboard 200にチャートイン",
+   "summary_ja": "My Chemical Romanceの再発アルバム群が、米ビルボードのアルバムチャート「Billboard 200」に新たにランクインを果たし、存在感を示している。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "6e50b056d92a064d",
+   "url": "https://faroutmagazine.co.uk/25-years-of-waiting-green-day",
+   "title_original": "25 years of ‘Waiting’: Green Day’s pop punk career crossroads",
+   "source": "Far Out Magazine",
+   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2024/01/Green-Day-2024-Alice-Baxley-Far-Out-Magazine-F.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T00:00:00+00:00",
+   "title_ja": "Green Dayの「Waiting」から25年、ポップパンクの転換点",
+   "summary_ja": "Green Dayの楽曲「Waiting」のリリースから25年が経過し、彼らのポップパンクキャリアにおける重要な音楽的転換点として当時を振り返る。",
+   "category": "再発・記念盤",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "428e9ef57e02ae0d",
    "url": "https://alt987fm.iheart.com/content/2026-11-03-my-chemical-romance-hit-no-1-on-billboard-200-with-20-year-old-album",
@@ -401,6 +463,27 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "1dab9e21c9c578c2",
+   "url": "https://www.vice.com/en/article/after-releasing-weezers-iconic-debut-album-in-1994-rivers-cuomo-grew-a-beard-and-went-to-harvard",
+   "title_original": "After Releasing Weezer’s Iconic Debut Album in 1994, Rivers Cuomo Grew a Beard and Went to Harvard",
+   "source": "VICE",
+   "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/Web_Photo_Editor-2026-11-02T161051.552.jpg?w=1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-03T02:51:07+00:00",
+   "title_ja": "WeezerのRivers Cuomoが歩んだ意外な道のり",
+   "summary_ja": "1994年のデビュー作リリース後、Rivers Cuomoはヒゲを伸ばしてハーバード大学へと進学した。（75文字）",
+   "category": "メンバー・発言",
+   "band": "Weezer",
+   "artists": [
+    "Rivers Cuomo",
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "610e71717e58be9b",
