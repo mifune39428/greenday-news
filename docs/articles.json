@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T08:29:42.303625+09:00",
+ "updated_at": "2026-11-05T15:15:09.286710+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -50,6 +50,7 @@
   "Backseat Mafia",
   "Barstool Sports",
   "Beaver County Times",
+  "Berkeleyside",
   "Big Country News |",
   "Billboard",
   "Bloomberg Law News",
@@ -278,13 +279,13 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 392,
- "detail_count": 305,
+ "count": 394,
+ "detail_count": 307,
  "digest": {
-  "headline": "MCRが初の全米1位を獲得し新作計画を発表",
+  "headline": "MCRが初の全米1位を獲得し、Green Dayらの最新動向も続々",
   "points": [
    {
-    "text": "My Chemical Romanceの名盤『The Black Parade』が発売20年を経てBillboard 200で初の首位を獲得し、あわせて新作アルバムの制作計画も明らかにした。",
+    "text": "My Chemical RomanceがBillboard 200で初の首位を獲得し、あわせて新たなアルバムの制作計画を明らかにしている。",
     "ids": [
      "e58dda4313c4ce2b",
      "0b5494ca751a5a63",
@@ -292,7 +293,14 @@
     ]
    },
    {
-    "text": "大型ロックフェス「Welcome To Rockville 2027」および「Pinkpop 2027」のラインナップが発表され、Blink-182らの出演が決定した。",
+    "text": "Billie Joe Armstrongが参加する別バンドがGilmanに戻ってステージに立つことが報じられ、楽曲にまつわるエピソードも明かされている。",
+    "ids": [
+     "a7938812773ae5fc",
+     "f61b665ee9d6b115"
+    ]
+   },
+   {
+    "text": "大型ロックフェス「Welcome to Rockville」などの出演アーティストが発表され、Blink-182らの参加が明らかになった。",
     "ids": [
      "7c4941e81deb5f17",
      "610e71717e58be9b",
@@ -300,27 +308,61 @@
     ]
    },
    {
-    "text": "Fall Out Boyは新ウェブサイト「Twilight Town Mall」を開設し、ファンのもとに謎のTシャツが届くなど新作を巡る噂で話題を集めている。",
+    "text": "Fall Out Boyが「Twilight Town Mall」という新ウェブサイトを開設し、ファンに謎のTシャツが届くなど話題を集めている。",
     "ids": [
      "482c3a99b03aa35e",
      "7e37d1aea78b7825",
      "f964ee8ebcf1cb99"
     ]
-   },
-   {
-    "text": "Green Dayの楽曲「Waiting」のリリースから25年が経過し、ポップパンクにおける重要な転換点として当時を振り返る記事が公開された。",
-    "ids": [
-     "6e50b056d92a064d"
-    ]
    }
   ],
   "days": 3,
-  "from": "2026-11-02T08:30:16.485263+09:00",
-  "generated_at": "2026-11-05T08:30:18.056611+09:00",
+  "from": "2026-11-02T15:16:06.571522+09:00",
+  "generated_at": "2026-11-05T15:16:08.957537+09:00",
   "article_count": 20,
-  "sig": "d4b7f6a4b976"
+  "sig": "8dad856b4b7d"
  },
  "items": [
+  {
+   "id": "a7938812773ae5fc",
+   "url": "https://www.berkeleyside.org/2026/11/04/billie-joe-armstrong-pinhead-gunpowder-gilman-green-day",
+   "title_original": "Billie Joe Armstrong’s band (no, not that one) returns to 924 Gilman this week",
+   "source": "Berkeleyside",
+   "image": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/11/GreenDayKeytoPinoleEG043.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-05T00:53:00+00:00",
+   "title_ja": "Billie Joe Armstrongの別バンドがGilmanへ",
+   "summary_ja": "Billie Joe Armstrongが参加する別バンドが、今週おなじみのライブハウス924 Gilmanに戻ってステージに立つことが報じられています。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f61b665ee9d6b115",
+   "url": "https://faroutmagazine.co.uk/2009-song-billie-joe-armstrong-tortured-himself-to-write",
+   "title_original": "The 2009 song Billie Joe Armstrong “tortured” himself to write: “Nobody understands”",
+   "source": "Far Out Magazine",
+   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2024/01/Billie-Joe-Armstrong-Green-Day-Singer-Musician-Far-Out-Magazine.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-05T00:00:00+00:00",
+   "title_ja": "Billie Joeが苦悩して書き上げた2009年の楽曲",
+   "summary_ja": "Billie Joe Armstrongが誰も理解してくれないと苦悩しながら作り上げた、2009年発表の楽曲にまつわるエピソードが明かされています。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "1f889ae19f6f1b2c",
    "url": "https://rocksound.tv/news/what-are-fall-out-boy-up-to",
