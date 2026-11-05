@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T15:15:09.286710+09:00",
+ "updated_at": "2026-11-06T04:48:16.591718+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -43,13 +43,13 @@
   "AD HOC NEWS",
   "AFL-CIO",
   "ALT 98.7",
+  "Alternative Press",
   "Arts Council of Greater New Haven",
   "Audacy",
   "Azernews.az",
   "BLABBERMOUTH.NET",
   "Backseat Mafia",
   "Barstool Sports",
-  "Beaver County Times",
   "Berkeleyside",
   "Big Country News |",
   "Billboard",
@@ -269,6 +269,7 @@
   "superdeluxeedition.com",
   "theneedledrop.com",
   "thepost.co.nz",
+  "theriffreport.co.uk",
   "trillmag.com",
   "uDiscoverMusic",
   "ubspectrum.com",
@@ -279,50 +280,137 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 394,
- "detail_count": 307,
+ "count": 399,
+ "detail_count": 310,
  "digest": {
-  "headline": "MCRが初の全米1位を獲得し、Green Dayらの最新動向も続々",
+  "headline": "パンク・ロックシーンの最新動向まとめ",
   "points": [
    {
-    "text": "My Chemical RomanceがBillboard 200で初の首位を獲得し、あわせて新たなアルバムの制作計画を明らかにしている。",
-    "ids": [
-     "e58dda4313c4ce2b",
-     "0b5494ca751a5a63",
-     "ca0d02848c294f33"
-    ]
-   },
-   {
-    "text": "Billie Joe Armstrongが参加する別バンドがGilmanに戻ってステージに立つことが報じられ、楽曲にまつわるエピソードも明かされている。",
+    "text": "Green DayのBillie Joe Armstrongが参加する別バンドがGilmanでステージに立つほか、楽曲にまつわるエピソードやカバー時の本人登場が話題です。",
     "ids": [
      "a7938812773ae5fc",
-     "f61b665ee9d6b115"
+     "f61b665ee9d6b115",
+     "67ab9d424c9113bf"
     ]
    },
    {
-    "text": "大型ロックフェス「Welcome to Rockville」などの出演アーティストが発表され、Blink-182らの参加が明らかになった。",
+    "text": "My Chemical Romanceが初の全米1位を獲得しスタジオ復帰へ向かうほか、ハリウッドでの特別公演や再発盤のチャートインが報じられています。",
+    "ids": [
+     "ca0d02848c294f33",
+     "fe267f856ce5922a",
+     "e8d160657c8dae34"
+    ]
+   },
+   {
+    "text": "The Interruptersがニューアルバム『Battle Scars』を発表し、先行曲「Back From The Dead」を解禁しました。",
+    "ids": [
+     "5e53aa652af5e486",
+     "58c991488d76029f"
+    ]
+   },
+   {
+    "text": "Blink-182が「Welcome To Rockville 2027」や「Pinkpop 2027」などの大型フェスでヘッドライナーを務めることが発表されました。",
     "ids": [
      "7c4941e81deb5f17",
-     "610e71717e58be9b",
      "b7907d70e1a099de"
     ]
    },
    {
-    "text": "Fall Out Boyが「Twilight Town Mall」という新ウェブサイトを開設し、ファンに謎のTシャツが届くなど話題を集めている。",
+    "text": "Fall Out Boyが新ウェブサイト「Twilight Town Mall」を開設したほか、新作アルバムを巡る憶測の中でファンにTシャツが届いています。",
     "ids": [
-     "482c3a99b03aa35e",
      "7e37d1aea78b7825",
+     "482c3a99b03aa35e",
      "f964ee8ebcf1cb99"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-02T15:16:06.571522+09:00",
-  "generated_at": "2026-11-05T15:16:08.957537+09:00",
-  "article_count": 20,
-  "sig": "8dad856b4b7d"
+  "from": "2026-11-03T04:50:34.044898+09:00",
+  "generated_at": "2026-11-06T04:51:05.121861+09:00",
+  "article_count": 24,
+  "sig": "03230bde1cd8"
  },
  "items": [
+  {
+   "id": "d55bcdf5eccb7b20",
+   "url": "https://www.musicconnection.com/gotta-get-out-by-the-linda-lindas",
+   "title_original": "\"Gotta Get Out\" By The Linda Lindas via Reprise Records",
+   "source": "Music Connection Magazine",
+   "image": "https://www.musicconnection.com/wp-content/uploads/2026/10/The-Linda-Lindas-Gotta-Get-Out-e1792777918937.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-05T17:31:32+00:00",
+   "title_ja": "The Linda LindasがReprise Recordsより新曲「Gotta Get Out」を公開",
+   "summary_ja": "The Linda LindasがReprise Recordsを通じて楽曲「Gotta Get Out」をリリースした。注目のバンドが放つ新たな音源に関するニュースをお届けする。",
+   "category": "新曲・新作",
+   "band": "The Linda Lindas",
+   "artists": [
+    "The Linda Lindas"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "5e53aa652af5e486",
+   "url": "https://www.altpress.com/the-interrupters-back-from-the-dead-video-watch",
+   "title_original": "The Interrupters announce new album Battle Scars",
+   "source": "Alternative Press",
+   "image": "https://media.altpress.com/fkdgxpscnt/styles/card-social/2026/11/05/MixCollage-04-Nov-2026-01-04-PM-4291.jpg.webp?version=13679fab0e4a",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-05T15:00:00+00:00",
+   "title_ja": "The Interruptersがニューアルバム『Battle Scars』のリリースを発表",
+   "summary_ja": "スカパンクバンドのThe Interruptersが、最新アルバム『Battle Scars』のリリースを公式に発表した。バンドの新たな作品展開に注目が集まっている。",
+   "category": "新曲・新作",
+   "band": "The Interrupters",
+   "artists": [
+    "The Interrupters"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "fe267f856ce5922a",
+   "url": "https://rocksound.tv/features/live-review-my-chemical-romance-strip-things-back-and-soar-at-special-hollywood-show",
+   "title_original": "LIVE REVIEW: My Chemical Romance Strip Things Back And Soar At Special Hollywood Show",
+   "source": "Rock Sound",
+   "image": "https://spaces.rocksound.tv/uploads/2026/11/XH21179-Enhanced-NR-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-05T10:45:44+00:00",
+   "title_ja": "My Chemical Romanceがハリウッドで特別公演を開催、ライブレポ公開",
+   "summary_ja": "My Chemical Romanceがハリウッドで開催したスペシャルライブのレビュー記事。ステージ装飾を削ぎ落としたシンプルな構成でありながら、圧倒的なパフォーマンスで観客を魅了した公演の模様を伝えている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "41aa08eb9ad8eedd",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/weezer-play-kroq-s-35th-annual-christmas-in-inglewood-on-12-december/70462793",
+   "title_original": "Weezer play KROQ’s 35th annual Christmas in Inglewood on 12 December",
+   "source": "ad-hoc-news.de",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403836_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-05T10:38:36+00:00",
+   "title_ja": "Weezerが12月12日開催のKROQクリスマスイベントに出演決定",
+   "summary_ja": "Weezerが12月12日にイングルウッドで開催される「KROQ’s 35th annual Christmas」に出演することが決まった。年末の恒例イベントでパフォーマンスを披露する予定となっている。",
+   "category": "フェス出演",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "a7938812773ae5fc",
    "url": "https://www.berkeleyside.org/2026/11/04/billie-joe-armstrong-pinhead-gunpowder-gilman-green-day",
@@ -342,6 +430,47 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "58c991488d76029f",
+   "url": "https://www.kerrang.com/the-interrupters-announce-new-album-battle-scars-and-share-single-back-from-the-dead",
+   "title_original": "The Interrupters announce new album, Battle Scars, and share single, Back From The Dead",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/2026/11/image001.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1793893699&s=6a67df96d9b7adf61981c92a452bcdda",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-05T00:00:00+00:00",
+   "title_ja": "The Interruptersが新作『Battle Scars』発表、先行曲「Back From The Dead」解禁",
+   "summary_ja": "The Interruptersがニューアルバム『Battle Scars』のリリースを発表。さらに、アルバムからの新曲「Back From The Dead」の配信・共有も開始された。",
+   "category": "新曲・新作",
+   "band": "The Interrupters",
+   "artists": [
+    "The Interrupters"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "62f8ddc8e44b1ec6",
+   "url": "https://www.kerrang.com/2000trees-announces-new-found-glory-headlining-20th-anniversary-2027-reuben-reunion-creeper-the-menzingers-fever-333-upcote-farm",
+   "title_original": "2000trees announces New Found Glory as first headliner for 20th anniversary alongside Reuben reunion and more",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/2026/11/2000trees-2027-first-wave-poster-1.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1793884779&s=74731173ae757ad0e4c49fb6b7ef2a25",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-05T00:00:00+00:00",
+   "title_ja": "2000treesフェス、20周年のヘッドライナー第1弾にNew Found Gloryを発表",
+   "summary_ja": "20周年を迎える「2000trees」フェスが、第1弾ヘッドライナーとしてNew Found Gloryを発表した。さらにReubenの再結成ステージなどの出演も同時に決まっている。",
+   "category": "フェス出演",
+   "band": "New Found Glory",
+   "artists": [
+    "New Found Glory",
+    "Reuben"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "f61b665ee9d6b115",
@@ -546,6 +675,27 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "67ab9d424c9113bf",
+   "url": "https://theriffreport.co.uk/%F0%9F%8E%A4-surprised-singer-at-liverpools-cavern-club-covers-green-day-in-front-of-billie-joe-armstrong-%F0%9F%A4%AF%F0%9F%8D%80",
+   "title_original": "Surprised Singer at Liverpool's Cavern Club Covers Green Day… in Front of Billie Joe Armstrong!",
+   "source": "theriffreport.co.uk",
+   "image": "https://theriffreport.co.uk/wp-content/uploads/2026/09/7CAB571D-4AE1-41A2-999B-4EBB8DD67E65.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-03T16:29:33+00:00",
+   "title_ja": "Billie Joe Armstrong本人の前でGreen Day曲がカバーされる",
+   "summary_ja": "リヴァプールのCavern Clubで演奏していたシンガーがGreen Dayのカバーを披露したところ、客席にBillie Joe Armstrong本人がいたという出来事が発生。思いがけない本人の登場に現場は驚きに包まれた。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Green Day",
+    "Billie Joe Armstrong"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "7e37d1aea78b7825",
@@ -8418,47 +8568,6 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "f7a5b733d3ed6511",
-   "url": "https://exclaim.ca/music/article/emo-at-the-el-mo-gets-sum-41-s-cone-mc-caslin-for-when-september-ends-event",
-   "title_original": "Emo at the El Mo Gets Sum 41's Cone McCaslin for \"When September Ends\" Event",
-   "source": "Exclaim!",
-   "image": "https://assets.exclaim.ca/image/upload/v1790099119/sum_41_calgary_cone_28e5976d78.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T17:46:39.130000+00:00",
-   "title_ja": "Sum 41のCone McCaslinがエモ関連イベントに参加",
-   "summary_ja": "トロントのEl Mocamboで開催されたエモをテーマにしたイベントに、Sum 41のCone McCaslinらが参加し、「When September Ends」などにちなんだ企画が行われた。",
-   "category": "その他",
-   "band": "Sum 41",
-   "artists": [
-    "Cone McCaslin",
-    "Sum 41"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "4a7c9fe8ad35a1fc",
-   "url": "https://www.timesonline.com/things-to-do/events/?_evDiscoveryPath=%2Fevent%2F1538643s-the-linda-lindas",
-   "title_original": "The Times Events - The Linda Lindas",
-   "source": "Beaver County Times",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T16:18:27+00:00",
-   "title_ja": "The Linda Lindasの地域イベント情報",
-   "summary_ja": "The Linda Lindasに関する地域イベントや公演のスケジュールを取り上げた告知記事が掲載された。",
-   "category": "ライブ・ツアー",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 2,
    "detail_tries": 2
   }
  ]
