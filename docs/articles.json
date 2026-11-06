@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T04:48:16.591718+09:00",
+ "updated_at": "2026-11-06T15:09:52.549398+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -194,7 +194,6 @@
   "The Hollywood Reporter",
   "The Land",
   "The Mercury News",
-  "The Mirror US",
   "The Montrealer",
   "The Mosh Network",
   "The Music Universe",
@@ -260,12 +259,12 @@
   "musicscenemedia.com",
   "musictimes.com",
   "mxdwn Music",
+  "niagara-gazette.com",
   "nme.com",
   "noise11.com",
   "punknews.org",
   "rockin'on",
   "rova",
-  "sfchronicle.com",
   "superdeluxeedition.com",
   "theneedledrop.com",
   "thepost.co.nz",
@@ -280,57 +279,92 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 399,
+ "count": 400,
  "detail_count": 310,
  "digest": {
-  "headline": "パンク・ロックシーンの最新動向まとめ",
+  "headline": "Green DayやMCRなど、パンク・ロック界の最新ニュースまとめ",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongが参加する別バンドがGilmanでステージに立つほか、楽曲にまつわるエピソードやカバー時の本人登場が話題です。",
+    "text": "Green DayのBillie Joe Armstrongが参加する別バンドがGilmanでステージに立つほか、本人の前で楽曲がカバーされる出来事があった。",
     "ids": [
      "a7938812773ae5fc",
-     "f61b665ee9d6b115",
      "67ab9d424c9113bf"
     ]
    },
    {
-    "text": "My Chemical Romanceが初の全米1位を獲得しスタジオ復帰へ向かうほか、ハリウッドでの特別公演や再発盤のチャートインが報じられています。",
+    "text": "My Chemical Romanceの『The Black Parade』がリリースから20年を経て全米チャート1位を獲得した。",
     "ids": [
-     "ca0d02848c294f33",
-     "fe267f856ce5922a",
-     "e8d160657c8dae34"
+     "aa6a95b5d75773fb",
+     "e8d160657c8dae34",
+     "428e9ef57e02ae0d"
     ]
    },
    {
-    "text": "The Interruptersがニューアルバム『Battle Scars』を発表し、先行曲「Back From The Dead」を解禁しました。",
+    "text": "The Interruptersがニューアルバム『Battle Scars』を発表し、先行曲「Back From The Dead」を解禁した。",
     "ids": [
      "5e53aa652af5e486",
      "58c991488d76029f"
     ]
    },
    {
-    "text": "Blink-182が「Welcome To Rockville 2027」や「Pinkpop 2027」などの大型フェスでヘッドライナーを務めることが発表されました。",
+    "text": "Blink-182が「Welcome To Rockville 2027」や「Pinkpop 2027」のヘッドライナーに決定した。",
     "ids": [
+     "c38010115992711d",
      "7c4941e81deb5f17",
      "b7907d70e1a099de"
-    ]
-   },
-   {
-    "text": "Fall Out Boyが新ウェブサイト「Twilight Town Mall」を開設したほか、新作アルバムを巡る憶測の中でファンにTシャツが届いています。",
-    "ids": [
-     "7e37d1aea78b7825",
-     "482c3a99b03aa35e",
-     "f964ee8ebcf1cb99"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-03T04:50:34.044898+09:00",
-  "generated_at": "2026-11-06T04:51:05.121861+09:00",
-  "article_count": 24,
-  "sig": "03230bde1cd8"
+  "from": "2026-11-03T15:10:31.518613+09:00",
+  "generated_at": "2026-11-06T15:10:33.327450+09:00",
+  "article_count": 22,
+  "sig": "4981e887f993"
  },
  "items": [
+  {
+   "id": "57b9bf6041f105df",
+   "url": "https://lambgoat.com/news/55745/fall-out-boy-the-offspring-good-charlotte-and-the-story-so-far-tour-rumored",
+   "title_original": "FALL OUT BOY, THE OFFSPRING, GOOD CHARLOTTE, and THE STORY SO FAR tour rumored",
+   "source": "Lambgoat",
+   "image": "https://lambgoat.com/cdn/2026/fall-out-boy-26-20261006101417.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T05:44:00+00:00",
+   "title_ja": "Fall Out Boy、The Offspring、Good Charlotte等の合同ツアーの噂が浮上",
+   "summary_ja": "Fall Out Boy、The Offspring、Good Charlotte、The Story So Farによるツアーの噂が報じられています。公式な詳細は明らかになっていませんが、注目を集めています。",
+   "category": "ライブ・ツアー",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy",
+    "The Offspring",
+    "Good Charlotte",
+    "The Story So Far"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "aa6a95b5d75773fb",
+   "url": "https://www.niagara-gazette.com/news/how-my-chemical-romances-the-black-parade-hit-no-1-in-the-us-20-years/article_3c3d3d93-13b0-4c84-ac9b-adf16f7b4dc8.html",
+   "title_original": "How My Chemical Romance's 'The Black Parade' hit No. 1 in the US, 20 years later",
+   "source": "niagara-gazette.com",
+   "image": "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/5/fd/5fd915da-215e-4a0b-a0c8-33065e145b07/6aea8f7ade079.image.jpg?crop=1024%2C538%2C0%2C72",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-05T23:00:00+00:00",
+   "title_ja": "My Chemical Romance『The Black Parade』が20年越しに全米1位を獲得した経緯",
+   "summary_ja": "My Chemical Romanceのアルバム『The Black Parade』が、リリースから20年を経て全米チャートで1位を獲得した背景について解説しています。長年愛される名盤が再び首位に立った要因を取り上げています。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "d55bcdf5eccb7b20",
    "url": "https://www.musicconnection.com/gotta-get-out-by-the-linda-lindas",
@@ -449,7 +483,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "62f8ddc8e44b1ec6",
@@ -470,7 +504,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f61b665ee9d6b115",
@@ -491,6 +525,29 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "c38010115992711d",
+   "url": "https://celebrityaccess.com/2026/11/04/welcome-to-rockville-2027-announces-blink-182-korn-pierce-the-veil-and-bad-omens-as-headliners",
+   "title_original": "Welcome To Rockville 2027 Announces Blink-182, Korn, Pierce The Veil And Bad Omens As Headliners",
+   "source": "CelebrityAccess",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T13:30:56+00:00",
+   "title_ja": "2027年のWelcome To Rockville、Blink-182ら4組のヘッドライナーを発表",
+   "summary_ja": "2027年に開催される音楽フェス「Welcome To Rockville」のヘッドライナーが発表された。Blink-182をはじめ、Korn、Pierce The Veil、Bad Omensの4組がメインアクトとして出演することが決定している。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Korn",
+    "Pierce The Veil",
+    "Bad Omens"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "1f889ae19f6f1b2c",
@@ -695,7 +752,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7e37d1aea78b7825",
@@ -8527,48 +8584,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "fe2ea90a2a07ceb4",
-   "url": "https://www.themirror.com/entertainment/celebrity-news/hayley-williams-ice-palestine-concert-2035407",
-   "title_original": "Paramore's Hayley Williams shouts 'F--- ICE' and 'Free Palestine' at concert",
-   "source": "The Mirror US",
-   "image": "https://i2-prod.themirror.com/article2035406.ece/ALTERNATES/s1200d/0_2018-Bonnaroo-Music-Arts-Festival-Day-2.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T18:50:00+00:00",
-   "title_ja": "ParamoreのHayley Williamsがライブで政治的発言",
-   "summary_ja": "Paramoreのコンサート中、Hayley Williamsがステージ上で特定の政治的スローガンやメッセージを叫び、観客の注目を集めた。",
-   "category": "メンバー・発言",
-   "band": "Paramore",
-   "artists": [
-    "Hayley Williams",
-    "Paramore"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b63a9c25b472467f",
-   "url": "https://www.sfchronicle.com/entertainment/music/article/billie-joe-armstrong-coverups-rodeo-22443813.php",
-   "title_original": "Green Day’s Billie Joe Armstrong to play free hometown show",
-   "source": "sfchronicle.com",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T18:39:13+00:00",
-   "title_ja": "Green DayのBillie Joe Armstrongが地元でフリーライブを開催へ",
-   "summary_ja": "Green DayのBillie Joe Armstrongが、自身の地元で無料のライブパフォーマンスを行う予定であることが分かった。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong",
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
