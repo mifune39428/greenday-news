@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T15:09:52.549398+09:00",
+ "updated_at": "2026-11-07T04:12:43.091402+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -43,7 +43,6 @@
   "AD HOC NEWS",
   "AFL-CIO",
   "ALT 98.7",
-  "Alternative Press",
   "Arts Council of Greater New Haven",
   "Audacy",
   "Azernews.az",
@@ -55,6 +54,7 @@
   "Billboard",
   "Bloomberg Law News",
   "Blunt Magazine",
+  "CDJournal.com",
   "California.com",
   "CelebrityAccess",
   "Chaoszine",
@@ -71,7 +71,6 @@
   "Diffuser.fm",
   "Dying Scene",
   "Entertainment Focus",
-  "Eponymous Review",
   "Exclaim!",
   "Far Out Magazine",
   "Flagpole",
@@ -123,6 +122,7 @@
   "Metalhead Zone",
   "Mid-Day",
   "Milwaukee Journal Sentinel",
+  "Music Ally",
   "Music Connection Magazine",
   "Music Feeds",
   "Music In Minnesota",
@@ -135,7 +135,6 @@
   "Nanaimo News Bulletin",
   "Nashville Scene",
   "Neon Music",
-  "Netto's Game Room",
   "New Noise Magazine",
   "NewsBreak: Local News & Alerts",
   "Noise11",
@@ -152,7 +151,6 @@
   "Penticton Western News",
   "People.com",
   "Pitchfork",
-  "PlayDayOne",
   "Pollstar News",
   "PopMatters",
   "Punknews.org",
@@ -182,6 +180,7 @@
   "Sports Illustrated",
   "Star Tribune",
   "Stereogum",
+  "SurvivorNet",
   "Texas Lifestyle Magazine",
   "That Eric Alper",
   "The 13th Floor",
@@ -203,11 +202,11 @@
   "The PRP",
   "The Red & Black",
   "The Rock Revival",
+  "The State Times",
   "The Vanderbilt Hustler",
   "TheWrap",
   "Thought Catalog",
   "Toronto Guardian",
-  "TribLIVE.com",
   "Ubisoft",
   "Ultimate Guitar",
   "V13 Media",
@@ -247,7 +246,6 @@
   "iHeart",
   "indienative",
   "indieofilo.com",
-  "inkl",
   "khorasantimes.com",
   "killthemusic.net",
   "lamag.com",
@@ -261,7 +259,6 @@
   "mxdwn Music",
   "niagara-gazette.com",
   "nme.com",
-  "noise11.com",
   "punknews.org",
   "rockin'on",
   "rova",
@@ -279,49 +276,261 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 400,
- "detail_count": 310,
+ "count": 398,
+ "detail_count": 306,
  "digest": {
-  "headline": "Green DayやMCRなど、パンク・ロック界の最新ニュースまとめ",
+  "headline": "Green DayやMCR、FOBなどパンク・ロック界の最新ニュースまとめ",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongが参加する別バンドがGilmanでステージに立つほか、本人の前で楽曲がカバーされる出来事があった。",
+    "text": "Green DayのBillie Joe Armstrongが参加する別バンドがGilmanでステージに立つほか、サポートのJason Freeseの話題なども報じられています。",
     "ids": [
      "a7938812773ae5fc",
-     "67ab9d424c9113bf"
+     "eb37faffa5d37f5e"
     ]
    },
    {
-    "text": "My Chemical Romanceの『The Black Parade』がリリースから20年を経て全米チャート1位を獲得した。",
+    "text": "My Chemical Romanceの20周年記念再発盤がビルボードチャートで首位を獲得した一方、ライブ演出を巡る訴訟や譲歩のニュースも伝えられています。",
     "ids": [
+     "d5dcea2325251627",
      "aa6a95b5d75773fb",
-     "e8d160657c8dae34",
-     "428e9ef57e02ae0d"
+     "1f5a797a5317b03c"
     ]
    },
    {
-    "text": "The Interruptersがニューアルバム『Battle Scars』を発表し、先行曲「Back From The Dead」を解禁した。",
+    "text": "Fall Out Boyは月曜日の新シングル発表や公式発表の可能性が浮上しており、ファンに謎のTシャツが届くなど新譜への期待が高まっています。",
     "ids": [
-     "5e53aa652af5e486",
-     "58c991488d76029f"
+     "8e25c658b2b230b2",
+     "725c22f7b13cf905",
+     "482c3a99b03aa35e"
     ]
    },
    {
-    "text": "Blink-182が「Welcome To Rockville 2027」や「Pinkpop 2027」のヘッドライナーに決定した。",
+    "text": "Blink-182がGraspop Metal MeetingやWelcome To Rockville、Pinkpopなどの大型フェスへの出演決定を発表しました。",
     "ids": [
+     "3a85ee81167b01c2",
      "c38010115992711d",
-     "7c4941e81deb5f17",
      "b7907d70e1a099de"
+    ]
+   },
+   {
+    "text": "The Interruptersが新作アルバム『BATTLE SCARS』のリリースと新曲「Back From The Dead」のMV公開を発表しました。",
+    "ids": [
+     "88f8ed0fe51ef55d",
+     "652ddb9747e1d0ac"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-03T15:10:31.518613+09:00",
-  "generated_at": "2026-11-06T15:10:33.327450+09:00",
-  "article_count": 22,
-  "sig": "4981e887f993"
+  "from": "2026-11-04T04:15:40.231758+09:00",
+  "generated_at": "2026-11-07T04:15:42.473682+09:00",
+  "article_count": 24,
+  "sig": "c093799a4481"
  },
  "items": [
+  {
+   "id": "725c22f7b13cf905",
+   "url": "https://www.kerrang.com/is-there-a-fall-out-boy-announcement-coming-on-monday",
+   "title_original": "Is there a Fall Out Boy announcement coming on Monday?",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/Fall-Out-Boy-2023-promo-1.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1679658953&s=cecc7ffd16f55e03d531588c36919f2f",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T17:50:00+00:00",
+   "title_ja": "Fall Out Boyが月曜日に何らかの発表を行う可能性が浮上",
+   "summary_ja": "Kerrang!誌は、Fall Out Boyが月曜日に何らかの公式発表を行うのではないかという見方を報じている。現時点で発表の詳細は明らかにされていないが、ファンやメディアの間で注目が集まっている。",
+   "category": "その他",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "8e25c658b2b230b2",
+   "url": "https://chorus.fm/news/new-fall-out-boy-single-on-monday",
+   "title_original": "New Fall Out Boy Single on Monday",
+   "source": "chorus.fm",
+   "image": "https://chorus.fm/wp-content/uploads/2017/04/fall-out-boy-2.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T17:38:20+00:00",
+   "title_ja": "Fall Out Boyが月曜日に新シングルをリリースへ",
+   "summary_ja": "chorus.fmによると、Fall Out Boyが月曜日に新しいシングルを発表することが判明した。新曲のタイトルや詳しい内容は明かされていないものの、ファンの期待が高まっている。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "04df570e81335084",
+   "url": "https://riffmagazine.com/album-reviews/the-chin-chins-hellcat",
+   "title_original": "ALBUM REVIEW: The Green Day multiverse expands with The Chin Chins’ ‘Hellcat’",
+   "source": "RIFF Magazine",
+   "image": "https://riffmedia.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/11/06061155/Chin-Chins-Shane-Pase-e1793974397423.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T17:24:16+00:00",
+   "title_ja": "The Chin Chinsの新作『Hellcat』のアルバムレビューが掲載",
+   "summary_ja": "RIFF MagazineがThe Chin Chinsのニューアルバム『Hellcat』のレビューを掲載した。Green Dayに関連する音楽的な作品世界がさらに広がりを見せていると評されている。",
+   "category": "新曲・新作",
+   "band": "Green Day",
+   "artists": [
+    "Green Day",
+    "The Chin Chins"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "1f5a797a5317b03c",
+   "url": "https://thestatetimes.com/2026/11/06/dallas-cowboy-cheerleaders-sue-my-chemical-romance-over-concert-stunt",
+   "title_original": "Dallas Cowboy Cheerleaders Sue My Chemical Romance Over Concert Stunt",
+   "source": "The State Times",
+   "image": "https://thestatetimes.com/wp-content/uploads/2026/11/MCR.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T16:00:00+00:00",
+   "title_ja": "My Chemical Romanceがライブ演出を巡り訴訟を起こされる",
+   "summary_ja": "My Chemical Romanceが、コンサート内で行われたパフォーマンス演出を理由に、ダラス・カウボーイズのチアリーダー側から提訴されたことが海外メディアで報じられた。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Dallas Cowboy Cheerleaders"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "6759fcef9b698efc",
+   "url": "https://www.billboard.com/p/weezer-billboard-cover-story-live-music-summit",
+   "title_original": "How Is Weezer ‘Killing It’ in Arenas, 30 Years In? (Hint: Gen Z Loves Them, Too)",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T15:04:15+00:00",
+   "title_ja": "デビュー30年のWeezerがアリーナで大成功を収める理由とは Z世代の支持も獲得",
+   "summary_ja": "デビューから30年が経過した現在も、Weezerがアリーナ規模の会場で成功を収め続けている背景を解説する記事。往年のファンだけでなくZ世代を中心とした若い世代からも絶大な支持を獲得しており、大規模なツアーで大きな存在感を示している。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "d5dcea2325251627",
+   "url": "https://musically.com/2026/11/06/my-chemical-romance-tops-billboard-charts-with-20th-anniversary-reissue",
+   "title_original": "My Chemical Romance tops Billboard charts with 20th anniversary reissue",
+   "source": "Music Ally",
+   "image": "https://musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-10.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T11:12:50+00:00",
+   "title_ja": "My Chemical Romanceの20周年再発盤がビルボードチャート首位を獲得",
+   "summary_ja": "My Chemical Romanceがリリースした作品の20周年記念再発盤が、ビルボードチャートで首位を獲得した。アニバーサリー作品として大きな注目を集め、長年のファンだけでなく新たな層からも高い支持を得ている。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "3a85ee81167b01c2",
+   "url": "https://routenote.com/radar/graspop-metal-meeting-2027-lineup-blink-182-evanescence-faith-no-more-and-more",
+   "title_original": "Graspop Metal Meeting 2027 Lineup: blink-182, Evanescence, Faith No More and More",
+   "source": "RouteNote",
+   "image": "https://routenote.com/radar/wp-content/uploads/2026/11/routenote_Graspop_Metal_-v_8.2_325a9d02-dcc6-4870-9f46-a4506087a027_0.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T10:12:49+00:00",
+   "title_ja": "Graspop Metal Meeting 2027にblink-182ら出演決定",
+   "summary_ja": "大型フェス「Graspop Metal Meeting 2027」のラインナップが発表された。blink-182をはじめ、EvanescenceやFaith No Moreといった注目のアーティストたちが名を連ねている。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "blink-182",
+    "Evanescence",
+    "Faith No More"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "8ab09fd1f4098eb5",
+   "url": "https://news.bloomberglaw.com/business-and-practice/my-chemical-romance-folds-to-cowboys-cheerleaders-amid-murky-law",
+   "title_original": "My Chemical Romance Folds to Cowboys Cheerleaders Amid Murky Law",
+   "source": "Bloomberg Law News",
+   "image": "https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F72%2Fc4%2F86aca0bb4429b4f74f2485fe8110%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2261547947&width=1200&height=630&fit=cover&removeAnimation=true&crop=5375x2072%2B4%2B1517",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T10:00:16+00:00",
+   "title_ja": "My Chemical Romanceが曖昧な法律を巡りチアリーダー側に譲歩か",
+   "summary_ja": "My Chemical Romanceが、法的な解釈が曖昧な状況の中でカウボーイズのチアリーダー側に譲歩したことが報じられました。権利関係や法的問題に関する対応とみられます。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "88f8ed0fe51ef55d",
+   "url": "https://www.cdjournal.com/main/news/the-interrupters/130948",
+   "title_original": "ジ・インタラプターズ、新作アルバム『BATTLE SCARS』のリリースを発表",
+   "source": "CDJournal.com",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T07:15:00+00:00",
+   "title_ja": "The Interruptersが新作アルバム『BATTLE SCARS』のリリースを発表",
+   "summary_ja": "スカパンク・バンドのThe Interruptersが、新作アルバム『BATTLE SCARS』のアナウンスを行いました。待望の新作リリースに向けて今後の続報に注目が集まります。",
+   "category": "新曲・新作",
+   "band": "The Interrupters",
+   "artists": [
+    "The Interrupters"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "652ddb9747e1d0ac",
+   "url": "https://nme-jp.com/news/174092",
+   "title_original": "ジ・インタラプターズ、新作のリリースを発表＆新曲“Back From The Dead”がビデオと共に公開",
+   "source": "NME Japan",
+   "image": "https://nme-jp.com/nmesite/wp-content/uploads/2026/10/TheInterrupters_JimmyFontaine_9_26_260260-1_HiRes-1-1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T07:00:40+00:00",
+   "title_ja": "The Interruptersが新作発表、新曲「Back From The Dead」MVも解禁",
+   "summary_ja": "The Interruptersが、新作のリリースを発表すると同時に新曲「Back From The Dead」のミュージックビデオを解禁しました。新作への期待が高まる発表となっています。",
+   "category": "新曲・新作",
+   "band": "The Interrupters",
+   "artists": [
+    "The Interrupters"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "57b9bf6041f105df",
    "url": "https://lambgoat.com/news/55745/fall-out-boy-the-offspring-good-charlotte-and-the-story-so-far-tour-rumored",
@@ -343,7 +552,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "aa6a95b5d75773fb",
@@ -366,6 +575,27 @@
    "has_detail": true
   },
   {
+   "id": "eb37faffa5d37f5e",
+   "url": "https://www.survivornet.com/articles/from-a-stage-3-lung-cancer-diagnosis-to-recording-with-his-son-green-days-jason-freese-51-celebrates-his-teens-first-album-credit-performance",
+   "title_original": "Green Day’s Jason Freese Celebrates Son's First Album Credit After Lung Cancer",
+   "source": "SurvivorNet",
+   "image": "https://assets.survivornet.com/wp-content/uploads/2025/08/21135730/Jason-Freese-1200x630.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-05T20:36:39+00:00",
+   "title_ja": "Green DayのJason Freese、肺がんを経て息子の初アルバム参加を祝福",
+   "summary_ja": "Green Dayのサポートメンバーとして知られるJason Freeseが、自身が肺がんを経験したのち、息子の作品参加と初となるアルバムクレジットの獲得を祝福しました。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Jason Freese",
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
    "id": "d55bcdf5eccb7b20",
    "url": "https://www.musicconnection.com/gotta-get-out-by-the-linda-lindas",
    "title_original": "\"Gotta Get Out\" By The Linda Lindas via Reprise Records",
@@ -383,26 +613,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "5e53aa652af5e486",
-   "url": "https://www.altpress.com/the-interrupters-back-from-the-dead-video-watch",
-   "title_original": "The Interrupters announce new album Battle Scars",
-   "source": "Alternative Press",
-   "image": "https://media.altpress.com/fkdgxpscnt/styles/card-social/2026/11/05/MixCollage-04-Nov-2026-01-04-PM-4291.jpg.webp?version=13679fab0e4a",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-05T15:00:00+00:00",
-   "title_ja": "The Interruptersがニューアルバム『Battle Scars』のリリースを発表",
-   "summary_ja": "スカパンクバンドのThe Interruptersが、最新アルバム『Battle Scars』のリリースを公式に発表した。バンドの新たな作品展開に注目が集まっている。",
-   "category": "新曲・新作",
-   "band": "The Interrupters",
-   "artists": [
-    "The Interrupters"
-   ],
-   "japan": false,
-   "importance": 4,
    "has_detail": true
   },
   {
@@ -466,26 +676,6 @@
    "has_detail": true
   },
   {
-   "id": "58c991488d76029f",
-   "url": "https://www.kerrang.com/the-interrupters-announce-new-album-battle-scars-and-share-single-back-from-the-dead",
-   "title_original": "The Interrupters announce new album, Battle Scars, and share single, Back From The Dead",
-   "source": "Kerrang!",
-   "image": "https://transforms.kerrang.com/production/images/2026/11/image001.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1793893699&s=6a67df96d9b7adf61981c92a452bcdda",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-05T00:00:00+00:00",
-   "title_ja": "The Interruptersが新作『Battle Scars』発表、先行曲「Back From The Dead」解禁",
-   "summary_ja": "The Interruptersがニューアルバム『Battle Scars』のリリースを発表。さらに、アルバムからの新曲「Back From The Dead」の配信・共有も開始された。",
-   "category": "新曲・新作",
-   "band": "The Interrupters",
-   "artists": [
-    "The Interrupters"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
    "id": "62f8ddc8e44b1ec6",
    "url": "https://www.kerrang.com/2000trees-announces-new-found-glory-headlining-20th-anniversary-2027-reuben-reunion-creeper-the-menzingers-fever-333-upcote-farm",
    "title_original": "2000trees announces New Found Glory as first headliner for 20th anniversary alongside Reuben reunion and more",
@@ -547,7 +737,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1f889ae19f6f1b2c",
@@ -8347,243 +8537,6 @@
    "japan": false,
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "94824c2ec7235bea",
-   "url": "https://playday.one/2026/09/23/stage-tour-setlist-reveal-11-brings-alter-bridge-kasabian-sum-41",
-   "title_original": "‘Stage Tour’ Setlist Reveal #11 Brings Alter Bridge, Kasabian, & Sum 41",
-   "source": "PlayDayOne",
-   "image": "https://playday.one/wp-content/uploads/2026/08/ss_386d8f7ab546de8b486841e961684161dba6aef2.1920x1080.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-23T17:42:22+00:00",
-   "title_ja": "ゲーム内ツアーのセットリスト第11弾にSum 41らが登場",
-   "summary_ja": "音楽ゲームのステージツアー企画におけるセットリストの第11弾が発表され、Sum 41、Alter Bridge、Kasabianの楽曲がラインナップに追加された。ゲーム内での展開にファンからの関心が寄せられている。",
-   "category": "その他",
-   "band": "Sum 41",
-   "artists": [
-    "Sum 41",
-    "Alter Bridge",
-    "Kasabian"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "fcc855cc96b6c4b0",
-   "url": "https://worthplaying.com/article/2026/9/23/news/151055-stage-tour-setlist-reveal-11-adds-alter-bridge-kasabian-sum-41-tracks",
-   "title_original": "'Stage Tour' Setlist Reveal #11 Adds Alter Bridge, Kasabian & Sum 41 Tracks",
-   "source": "Worthplaying",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-23T17:13:00+00:00",
-   "title_ja": "Sum 41の楽曲が『Stage Tour』に追加決定",
-   "summary_ja": "音楽ゲーム『Stage Tour』のセットリスト第11弾が発表され、Sum 41、Alter Bridge、Kasabianの楽曲が新たに追加されることが明らかになった。",
-   "category": "その他",
-   "band": "Sum 41",
-   "artists": [
-    "Sum 41",
-    "Alter Bridge",
-    "Kasabian"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "fff8249c0b65f745",
-   "url": "https://www.nettosgameroom.com/2026/09/stage-tour-reveals-three-additional.html",
-   "title_original": "Stage Tour Reveals Three Additional Songs in Setlist Announcement 11 From Sum 41, Alter Bridge, and Kasabian",
-   "source": "Netto's Game Room",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9MYP_0BErl0KfrnAIJXr6pd5xKU944pOhlHS3YFvJfOC9ABRyz3N1LSYwA_YYrJwdh_OnfmpKryJdWIEbZBLQOEiJa3C319XgYCeQmJX9VesFV_k-O-6WiPu2FCmb1MSbp7iZqpuaTtaFpFkTEzu6lTL08u_heftuANAU4BkUiuc8_cEuQy5IPrqL6IE/w640-h366/stagetour.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-23T16:57:00+00:00",
-   "title_ja": "『Stage Tour』セットリスト第11弾にSum 41ら登場",
-   "summary_ja": "ゲーム『Stage Tour』の新たなセットリスト発表にて、Sum 41をはじめ、Alter BridgeやKasabianの3曲が追加されることが告知された。",
-   "category": "その他",
-   "band": "Sum 41",
-   "artists": [
-    "Sum 41",
-    "Alter Bridge",
-    "Kasabian"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "9907d0f75aed5682",
-   "url": "https://www.noise11.com/news/weezer-pinkerton-30th-anniversary-20260924",
-   "title_original": "Weezer Pinkerton Turns 30",
-   "source": "noise11.com",
-   "image": "https://i0.wp.com/www.noise11.com/wp/wp-content/uploads/2026/09/Weezer-Pinkerton.jpeg?fit=220%2C220&ssl=1",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-23T15:00:52+00:00",
-   "title_ja": "Weezerのアルバム『Pinkerton』が発売30周年を迎える",
-   "summary_ja": "Weezerの名盤『Pinkerton』がリリースから30周年の節目を迎えた。バンドのキャリアにおいて重要な位置を占める歴史的なアルバムの記念日である。",
-   "category": "再発・記念盤",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "cbfcebdd8d4e7751",
-   "url": "https://www.eponymousreview.com/16272/photos-weezer-the-gathering-chicago",
-   "title_original": "Photos: Weezer Hosts The Gathering To End All Gatherings in Chicago",
-   "source": "Eponymous Review",
-   "image": "https://i0.wp.com/www.eponymousreview.com/wp-content/uploads/2026/09/Weezer-feat.jpeg?fit=1200%2C650&ssl=1",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-23T14:36:33+00:00",
-   "title_ja": "Weezerがシカゴで開催したイベントのライブ写真が公開",
-   "summary_ja": "Weezerがシカゴにて主催したイベント「The Gathering To End All Gatherings」のライブ写真が公開された。当日のステージの熱気やパフォーマンスの様子がビジュアルで伝えられている。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e937ef9da8ad6b51",
-   "url": "https://community.triblive.com/news/4146078",
-   "title_original": "TribLive Q&A: The Linda Lindas on new album, Hayley Williams and more ahead of Pittsburgh show",
-   "source": "TribLIVE.com",
-   "image": "https://storage.googleapis.com/ownlocal-adforge-production/articles/external/1200/e0e96e29-b9fe-400c-b7cb-db4d62faa8e5.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-23T11:55:03+00:00",
-   "title_ja": "The Linda Lindasが新作やHayley Williamsについて語る",
-   "summary_ja": "ピッツバーグ公演を控えるThe Linda Lindasが、新作アルバムの制作やParamoreのHayley Williamsとの関係性についてインタビューで明かした。",
-   "category": "メンバー・発言",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas",
-    "Hayley Williams"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7bea38a1e881af5c",
-   "url": "https://www.inkl.com/news/paramore-singer-hayley-williams-yells-f-ice-during-new-hampshire-concert-after-macklemore-drama",
-   "title_original": "Paramore Singer Hayley Williams Yells 'F*** ICE' During New Hampshire Concert After Macklemore Drama",
-   "source": "inkl",
-   "image": "https://images.inkl.com/s3/article/lead_image/23862897/hayley-williams.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-23T11:32:37+00:00",
-   "title_ja": "Paramoreのヘイリー・ウィリアムス、ニューハンプシャー公演中にICE批判の発言",
-   "summary_ja": "Paramoreのヘイリー・ウィリアムスが、ニューハンプシャー州で開催されたライブのステージ上において、米移民・関税執行局（ICE）に対する強烈な批判の言葉を叫んだ。マックルモアを巡る騒動を受けた発言とみられている。",
-   "category": "メンバー・発言",
-   "band": "Paramore",
-   "artists": [
-    "Paramore",
-    "Hayley Williams",
-    "Macklemore"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "0ff5c3aa296e355b",
-   "url": "https://www.rockdnamag.com/post/riot-fest-2026-day-two-review-tool-bad-religion-the-chats",
-   "title_original": "Riot Fest 2026 Day Two Review: Tool, Bad Religion, The Chats & More",
-   "source": "Rock DNA Magazine",
-   "image": "https://static.wixstatic.com/media/edf980_510563a5d3f94159adec10a700baddd9~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/edf980_510563a5d3f94159adec10a700baddd9~mv2.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-23T00:32:05+00:00",
-   "title_ja": "Riot Fest 2026の2日目ライブレポート",
-   "summary_ja": "2026年9月に開催されたRiot Festの2日目について、ToolやBad Religionらのステージを振り返るレビュー記事が公開された。",
-   "category": "ライブ・ツアー",
-   "band": "Bad Religion",
-   "artists": [
-    "Tool",
-    "Bad Religion",
-    "The Chats"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "0a13145c3b2da875",
-   "url": "https://glidemagazine.com/330519/the-war-on-drugs-the-offspring-the-strokes-fontaines-d-c-power-up-sea-hear-now-festival-festival-review-photos",
-   "title_original": "The War on Drugs, The Offspring, The Strokes, Fontaines D.C., Power Up Sea.Hear.Now Festival (FESTIVAL REVIEW/PHOTOS)",
-   "source": "Glide Magazine",
-   "image": "https://cdn.glidemagazine.com/wp-content/uploads/2026/09/22173803/War-on-Drugs22.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T22:07:14+00:00",
-   "title_ja": "Sea.Hear.Nowフェスのライブレビュー",
-   "summary_ja": "The OffspringやThe Strokesらが出演したSea.Hear.Nowフェスの模様を伝えるライブレビューと写真レポートが公開された。",
-   "category": "フェス出演",
-   "band": "The Offspring",
-   "artists": [
-    "The War on Drugs",
-    "The Offspring",
-    "The Strokes",
-    "Fontaines D.C."
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7407f01d85ce77e4",
-   "url": "https://metalinjection.net/news/paramores-hayley-williams-pays-tribute-to-ex-husband-chad-gilbert-my-time-connected-to-him-taught-me-a-lot",
-   "title_original": "Paramore's Hayley Williams Pays Tribute to Ex-Husband Chad Gilbert, \"My Time Connected To Him Taught Me A Lot\"",
-   "source": "Metal Injection",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T20:43:23+00:00",
-   "title_ja": "Paramoreヘイリー、元夫チャド・ギルバートを追悼「多くのことを学んだ」",
-   "summary_ja": "Paramoreのヘイリー・ウィリアムスが、死去した元夫でNew Found Gloryのチャド・ギルバートへ追悼の言葉を贈った。彼と過ごした時間から多くのことを学んだと振り返り、故人を偲ぶメッセージを寄せている。",
-   "category": "メンバー・発言",
-   "band": "Paramore",
-   "artists": [
-    "Paramore",
-    "Hayley Williams",
-    "Chad Gilbert",
-    "New Found Glory"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "c9f338dcad365af1",
-   "url": "https://www.musicconnection.com/the-linda-lindas-sign-with-reprise-warner-records",
-   "title_original": "The Linda Lindas Sign With Reprise/Warner Records",
-   "source": "Music Connection Magazine",
-   "image": "https://www.musicconnection.com/wp-content/uploads/2026/09/The-Linda-Lindas-by-Jaxon-Whittington-2-scaled.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T19:00:00+00:00",
-   "title_ja": "The Linda LindasがReprise/Warner Recordsと契約",
-   "summary_ja": "The Linda LindasがメジャーレーベルのReprise/Warner Recordsと契約を締結したことが明らかになった。今後の活動や新作発表に向けた展開が期待される。",
-   "category": "新曲・新作",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
