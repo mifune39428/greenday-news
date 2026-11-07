@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T04:12:43.091402+09:00",
+ "updated_at": "2026-11-07T14:39:03.380226+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -55,7 +55,6 @@
   "Bloomberg Law News",
   "Blunt Magazine",
   "CDJournal.com",
-  "California.com",
   "CelebrityAccess",
   "Chaoszine",
   "Cleveland Scene",
@@ -106,10 +105,10 @@
   "Law Commentary",
   "Live Music Blog",
   "Los Angeles Daily News",
-  "Los Angeles Times",
   "Loud Hailer Magazine",
   "Louder",
   "Loudwire",
+  "Luminate",
   "MELODIC Magazine",
   "Maine AFL-CIO",
   "MassLive.com",
@@ -197,6 +196,7 @@
   "The Mosh Network",
   "The Music Universe",
   "The Needle Drop",
+  "The New York Times",
   "The Oakland Press",
   "The Oarsman",
   "The PRP",
@@ -251,7 +251,6 @@
   "lamag.com",
   "lambgoat.com",
   "live in limbo",
-  "lpm.org",
   "mdcthereporter.com",
   "michigandaily.com",
   "musicscenemedia.com",
@@ -268,7 +267,6 @@
   "theriffreport.co.uk",
   "trillmag.com",
   "uDiscoverMusic",
-  "ubspectrum.com",
   "v13.net",
   "wfmd.com",
   "شبكة تواصل الإخبارية",
@@ -276,57 +274,139 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 398,
+ "count": 399,
  "detail_count": 306,
  "digest": {
-  "headline": "Green DayやMCR、FOBなどパンク・ロック界の最新ニュースまとめ",
+  "headline": "MCR全米1位やFOB新曲の噂など、パンクシーンの最新動向",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongが参加する別バンドがGilmanでステージに立つほか、サポートのJason Freeseの話題なども報じられています。",
+    "text": "My Chemical Romanceの『The Black Parade』がフィジカル売上で初の全米1位を獲得し、20年越しの快挙として大きな話題となっている。",
     "ids": [
-     "a7938812773ae5fc",
-     "eb37faffa5d37f5e"
+     "429b817bd0fe8978",
+     "fa717826d2b23367",
+     "aa6a95b5d75773fb"
     ]
    },
    {
-    "text": "My Chemical Romanceの20周年記念再発盤がビルボードチャートで首位を獲得した一方、ライブ演出を巡る訴訟や譲歩のニュースも伝えられています。",
+    "text": "Fall Out Boyが新曲「ACES」を月曜日にリリースすると発表したほか、ツアー開催の噂も浮上している。",
     "ids": [
-     "d5dcea2325251627",
-     "aa6a95b5d75773fb",
-     "1f5a797a5317b03c"
-    ]
-   },
-   {
-    "text": "Fall Out Boyは月曜日の新シングル発表や公式発表の可能性が浮上しており、ファンに謎のTシャツが届くなど新譜への期待が高まっています。",
-    "ids": [
+     "6ae70a9594350054",
      "8e25c658b2b230b2",
-     "725c22f7b13cf905",
-     "482c3a99b03aa35e"
+     "afd71d3fe411f299"
     ]
    },
    {
-    "text": "Blink-182がGraspop Metal MeetingやWelcome To Rockville、Pinkpopなどの大型フェスへの出演決定を発表しました。",
+    "text": "The Interruptersが通算5枚目の新作アルバム『Battle Scars』を発表し、新曲のMVも公開された。",
+    "ids": [
+     "88f8ed0fe51ef55d",
+     "652ddb9747e1d0ac",
+     "a56c17d45385e3ca"
+    ]
+   },
+   {
+    "text": "blink-182やWeezerの大型フェス出演情報やチャートでの好調な記録が伝えられている。",
     "ids": [
      "3a85ee81167b01c2",
      "c38010115992711d",
-     "b7907d70e1a099de"
+     "9e192b6fa0d5914c"
     ]
    },
    {
-    "text": "The Interruptersが新作アルバム『BATTLE SCARS』のリリースと新曲「Back From The Dead」のMV公開を発表しました。",
+    "text": "Billie Joe Armstrongが参加する別バンドが、ライブハウス924 Gilmanに戻ってステージに立つことが報じられた。",
     "ids": [
-     "88f8ed0fe51ef55d",
-     "652ddb9747e1d0ac"
+     "a7938812773ae5fc"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-04T04:15:40.231758+09:00",
-  "generated_at": "2026-11-07T04:15:42.473682+09:00",
+  "from": "2026-11-04T14:39:38.370401+09:00",
+  "generated_at": "2026-11-07T14:39:39.929201+09:00",
   "article_count": 24,
-  "sig": "c093799a4481"
+  "sig": "bcf922ce6361"
  },
  "items": [
+  {
+   "id": "9e192b6fa0d5914c",
+   "url": "https://recklesspress.com/news/blink-182s-take-off-your-pants-and-jacket-reaches-highest-uk-rock-metal-chart-position-in-25-years",
+   "title_original": "blink-182’s ‘Take Off Your Pants and Jacket’ Reaches Highest UK Rock & Metal Chart Position in 25 Years",
+   "source": "Reckless Press",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T21:47:16+00:00",
+   "title_ja": "blink-182の過去作が全英ロックチャートで25年ぶりの高順位",
+   "summary_ja": "blink-182の名作『Take Off Your Pants and Jacket』が、全英ロック＆メタル・アルバムチャートにおいて過去25年間で最高位を記録した。",
+   "category": "チャート・受賞",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "429b817bd0fe8978",
+   "url": "https://luminatedata.com/blog/the-black-parade-sweeps-physical-earning-my-chemical-romance-its-first-billboard-200-no-1",
+   "title_original": "'The Black Parade' Sweeps Physical, Earning My Chemical Romance Its First Billboard 200 No. 1",
+   "source": "Luminate",
+   "image": "https://luminatedata.com/wp-content/uploads/2026/09/Luminate-Vinyl-Blog-Hero.png.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T20:49:40+00:00",
+   "title_ja": "MCRの『The Black Parade』がフィジカル売上で初の全米1位",
+   "summary_ja": "My Chemical Romanceの『The Black Parade』がフィジカル盤の売上を大きく伸ばし、バンドにとって初となるビルボード200の首位を獲得した。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "7aadb905bfbe3ad2",
+   "url": "https://www.billboard.com/music/features/weezer-hilary-duff-billboard-live-music-summit-2026-1236375529",
+   "title_original": "Weezer, Hilary Duff and More Set for Billboard Live Music Summit 2026: WHAT TO EXPECT",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T20:47:17+00:00",
+   "title_ja": "Weezerらがビルボード・ライブ・ミュージック・サミット2026に出演決定",
+   "summary_ja": "2026年に開催されるビルボード・ライブ・ミュージック・サミットに、WeezerやHilary Duffらの出演が決定した。イベントの見どころや詳細が伝えられている。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "Hilary Duff"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "6ae70a9594350054",
+   "url": "https://theneedledrop.com/news/fall-out-boy-announces-first-new-single-in-three-years-rumore2027-stadium-tour-with-the-offspring",
+   "title_original": "Fall Out Boy announce first new single in three years, rumored 2027 stadium tour with The Offspring",
+   "source": "The Needle Drop",
+   "image": "https://theneedledrop.com/content/images/size/w1200/2026/11/FOB_Press-Image-2023---credit-Pamela-Littky_1-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T20:10:48+00:00",
+   "title_ja": "Fall Out Boyが3年ぶりの新曲発表、ツアーの噂も",
+   "summary_ja": "Fall Out Boyが3年ぶりとなる新シングルを発表した。また、The Offspringとの共催による2027年のスタジアムツアー開催の噂も浮上しており、今後の動向に注目が集まっている。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy",
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "725c22f7b13cf905",
    "url": "https://www.kerrang.com/is-there-a-fall-out-boy-announcement-coming-on-monday",
@@ -345,7 +425,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8e25c658b2b230b2",
@@ -365,7 +445,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "04df570e81335084",
@@ -386,7 +466,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1f5a797a5317b03c",
@@ -427,7 +507,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d5dcea2325251627",
@@ -472,31 +552,11 @@
    "has_detail": true
   },
   {
-   "id": "8ab09fd1f4098eb5",
-   "url": "https://news.bloomberglaw.com/business-and-practice/my-chemical-romance-folds-to-cowboys-cheerleaders-amid-murky-law",
-   "title_original": "My Chemical Romance Folds to Cowboys Cheerleaders Amid Murky Law",
-   "source": "Bloomberg Law News",
-   "image": "https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F72%2Fc4%2F86aca0bb4429b4f74f2485fe8110%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2261547947&width=1200&height=630&fit=cover&removeAnimation=true&crop=5375x2072%2B4%2B1517",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-06T10:00:16+00:00",
-   "title_ja": "My Chemical Romanceが曖昧な法律を巡りチアリーダー側に譲歩か",
-   "summary_ja": "My Chemical Romanceが、法的な解釈が曖昧な状況の中でカウボーイズのチアリーダー側に譲歩したことが報じられました。権利関係や法的問題に関する対応とみられます。",
-   "category": "その他",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
    "id": "88f8ed0fe51ef55d",
    "url": "https://www.cdjournal.com/main/news/the-interrupters/130948",
    "title_original": "ジ・インタラプターズ、新作アルバム『BATTLE SCARS』のリリースを発表",
    "source": "CDJournal.com",
-   "image": "",
+   "image": "https://www.cdjournal.com/image/jacket/large/Z3/Z348014079.jpg",
    "lang": "ja",
    "region": "jp",
    "published": "2026-11-06T07:15:00+00:00",
@@ -509,7 +569,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "652ddb9747e1d0ac",
@@ -555,6 +615,46 @@
    "detail_tries": 2
   },
   {
+   "id": "a56c17d45385e3ca",
+   "url": "https://www.noise11.com/news/the-interrupters-battle-scars-20261106",
+   "title_original": "The Interrupters Announce Fifth Album Battle Scars, Share Back From The Dead Video",
+   "source": "Noise11",
+   "image": "https://i0.wp.com/www.noise11.com/wp/wp-content/uploads/2026/11/The-Interceptors-photo-by-Jimmy-Fontaine.jpg?fit=147%2C220&ssl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T04:25:06+00:00",
+   "title_ja": "The Interrupters、5作目の新作と新曲MVを発表",
+   "summary_ja": "The Interruptersが通算5枚目となるニューアルバム『Battle Scars』を発表した。あわせて、収録曲「Back From The Dead」のミュージックビデオも公開されている。",
+   "category": "新曲・新作",
+   "band": "The Interrupters",
+   "artists": [
+    "The Interrupters"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "afd71d3fe411f299",
+   "url": "https://www.kerrang.com/fall-out-boy-dropping-new-single-aces-monday-new-music-new-album-twilight-town-mall-patrick-stump-pete-wentz",
+   "title_original": "Fall Out Boy are dropping a new song, ACES, on Monday",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/Fall-Out-Boy-2023-promo-1.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1679658953&s=cecc7ffd16f55e03d531588c36919f2f",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T00:00:00+00:00",
+   "title_ja": "Fall Out Boy、新曲「ACES」を月曜日にリリースへ",
+   "summary_ja": "Fall Out Boyが新曲「ACES」を月曜日にリリースすると発表した。直近の動向とあわせて、ファン待望の新音源解禁となる。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "aa6a95b5d75773fb",
    "url": "https://www.niagara-gazette.com/news/how-my-chemical-romances-the-black-parade-hit-no-1-in-the-us-20-years/article_3c3d3d93-13b0-4c84-ac9b-adf16f7b4dc8.html",
    "title_original": "How My Chemical Romance's 'The Black Parade' hit No. 1 in the US, 20 years later",
@@ -594,6 +694,26 @@
    "japan": false,
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "dfa12ca7a2a6d597",
+   "url": "https://www.nytimes.com/2026/11/05/arts/music/my-chemical-romance-black-parade-no-1-album.html",
+   "title_original": "How Did My Chemical Romance Top the Chart With a 20-Year-Old Album?",
+   "source": "The New York Times",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-05T19:18:56+00:00",
+   "title_ja": "MCRの20年前のアルバムがチャート首位を獲得した理由",
+   "summary_ja": "My Chemical Romanceの20年前の過去作がどのようにしてチャートのトップに返り咲いたのか、その背景や要因を米紙が詳しく分析・検証している。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "d55bcdf5eccb7b20",
@@ -715,6 +835,26 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "fa717826d2b23367",
+   "url": "https://www.billboard.com/music/chart-beat/my-chemical-romance-black-parade-billboard-200-number-one-1236374049",
+   "title_original": "How Big a Deal Is My Chemical Romance Scoring Its First No. 1 Album With a 20-Year-Old LP?",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T18:51:13+00:00",
+   "title_ja": "20年越しの首位達成：MCRの快挙が持つ意味とは",
+   "summary_ja": "発売から20年を経たMy Chemical Romanceのアルバムが、いかにして初のビルボード1位を獲得したのかその歴史的な快挙を検証する。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "c38010115992711d",
@@ -8409,134 +8549,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "caa56a1686c4ad79",
-   "url": "https://www.ubspectrum.com/article/2026/09/in-memoriam-chad-gilbert-of-new-found-glory",
-   "title_original": "In memoriam: Chad Gilbert of New Found Glory",
-   "source": "ubspectrum.com",
-   "image": "https://snworksceo.imgix.net/bts/da0e1cbc-02a8-4fe2-83f0-35acc9051034.sized-1000x1000.jpeg?w=800&h=600",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-24T03:49:00+00:00",
-   "title_ja": "New Found GloryのChad Gilbertをしのぶ追悼記事",
-   "summary_ja": "逝去したNew Found Gloryのギタリスト、Chad Gilbertのこれまでの音楽的な足跡と功績を振り返る追悼記事が掲載されました。",
-   "category": "メンバー・発言",
-   "band": "New Found Glory",
-   "artists": [
-    "Chad Gilbert",
-    "New Found Glory"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "9fe74a8d697ab1e6",
-   "url": "https://www.latimes.com/entertainment-arts/story/2026-09-23/paramores-hayley-williams-speaks-out-after-ex-chad-gilberts-death",
-   "title_original": "Paramore’s Hayley Williams breaks silence following ex-husband Chad Gilbert’s death",
-   "source": "Los Angeles Times",
-   "image": "https://ca-times.brightspotcdn.com/dims4/default/fdec5ef/2147483647/strip/true/crop/3664x1924+0+260/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9e%2Fbd%2Fa77af36a4b2da092a0808e47a255%2F2218807615.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-24T01:25:52.680000+00:00",
-   "title_ja": "ParamoreのHayley Williamsが元夫の訃報について声明を発表",
-   "summary_ja": "ParamoreのHayley Williamsが、元夫でありNew Found GloryのギタリストであるChad Gilbertの死去を受けて心境を語った。",
-   "category": "メンバー・発言",
-   "band": "Paramore",
-   "artists": [
-    "Hayley Williams",
-    "Chad Gilbert"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "16c8562741d9aba3",
-   "url": "https://www.billboard.com/music/music-news/hayley-williams-chad-gilbert-guitarist-death-1236345809",
-   "title_original": "Hayley Williams Addresses Death of Ex-Husband, New Found Glory’s Chad Gilbert: ‘Have Not Known What to Say’",
-   "source": "Billboard",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-23T21:36:09+00:00",
-   "title_ja": "Hayley Williams、元夫でNew Found GloryのChad Gilbertの死去にコメント",
-   "summary_ja": "ParamoreのHayley Williamsが、元夫でありNew Found Gloryの創設メンバーでもあるChad Gilbertの突然の訃報について、自身の心境を語りました。",
-   "category": "メンバー・発言",
-   "band": "Paramore",
-   "artists": [
-    "Hayley Williams",
-    "Chad Gilbert",
-    "New Found Glory",
-    "Paramore"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "dc740a3a83f2971e",
-   "url": "https://www.lpm.org/music/2026-09-23/weezers-patrick-wilson-we-finally-got-our-mission-statement-together",
-   "title_original": "Weezer's Patrick Wilson: “We finally got our mission statement together”",
-   "source": "lpm.org",
-   "image": "https://npr.brightspotcdn.com/dims4/default/c82dcd2/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2F94%2F623e083344f7977f131b2bcec294%2Fweezer-one-brendan-walter.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-23T20:44:58.946000+00:00",
-   "title_ja": "Weezerのパトリック・ウィルソンがバンドの方向性について語る",
-   "summary_ja": "Weezerのパトリック・ウィルソンが、バンドの確固たるミッションや方向性がようやくまとまったと語っている。現在のバンドのスタンスや今後の活動に対する姿勢が注目される内容となっている。",
-   "category": "メンバー・発言",
-   "band": "Weezer",
-   "artists": [
-    "Weezer",
-    "Patrick Wilson"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8132c8ff38e5af02",
-   "url": "https://exclaim.ca/music/article/new-found-glory-s-chad-gilbert-dead-at-45",
-   "title_original": "Hayley Williams Issues Statement on Death of New Found Glory's Chad Gilbert",
-   "source": "Exclaim!",
-   "image": "https://assets.exclaim.ca/image/upload/v1789996412/new_found_glory_chad_gilbert_vivian_nguyen_e68509ce49.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-23T20:00:00+00:00",
-   "title_ja": "Hayley WilliamsがChad Gilbertの訃報に声明",
-   "summary_ja": "ParamoreのHayley Williamsが、New Found GloryのギタリストであるChad Gilbertの逝去に際して公式に声明を発表した。",
-   "category": "メンバー・発言",
-   "band": "New Found Glory",
-   "artists": [
-    "Hayley Williams",
-    "Chad Gilbert"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "f4f258f62a2730c3",
-   "url": "https://www.california.com/green-day-frontman-set-to-play-free-show-in-his-hometown",
-   "title_original": "Green Day Frontman Set to Play Free Show in His Hometown",
-   "source": "California.com",
-   "image": "https://media.california.com/media/_versions/articles/shutterstock_2004628220__5659x3765___v1222x580.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-23T17:44:34+00:00",
-   "title_ja": "Green Dayのフロントマンが地元で無料ライブを開催へ",
-   "summary_ja": "Green DayのフロントマンであるBillie Joe Armstrongが、自身の故郷でフリーライブを行うことが決定した。地元ファンに向けた特別なステージとして、大きな注目を集めている。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong",
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
