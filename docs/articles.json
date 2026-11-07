@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T14:39:03.380226+09:00",
+ "updated_at": "2026-11-07T21:48:29.305037+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -57,6 +57,7 @@
   "CDJournal.com",
   "CelebrityAccess",
   "Chaoszine",
+  "Clash Magazine",
   "Cleveland Scene",
   "Columbus Navigator",
   "Consequence",
@@ -119,7 +120,6 @@
   "Metal Planet Music",
   "Metal Underground.com",
   "Metalhead Zone",
-  "Mid-Day",
   "Milwaukee Journal Sentinel",
   "Music Ally",
   "Music Connection Magazine",
@@ -186,7 +186,6 @@
   "The Aquarian",
   "The Concordian",
   "The Daily Texan",
-  "The Detroit News",
   "The Drum",
   "The Duke Chronicle",
   "The Hollywood Reporter",
@@ -196,7 +195,6 @@
   "The Mosh Network",
   "The Music Universe",
   "The Needle Drop",
-  "The New York Times",
   "The Oakland Press",
   "The Oarsman",
   "The PRP",
@@ -241,7 +239,6 @@
   "dangerousminds.net",
   "dispatch.com",
   "durhamregion.com",
-  "femalefirst.co.uk",
   "https://rocknloadmag.com/",
   "iHeart",
   "indienative",
@@ -275,20 +272,28 @@
   "씨네플레이"
  ],
  "count": 399,
- "detail_count": 306,
+ "detail_count": 307,
  "digest": {
-  "headline": "MCR全米1位やFOB新曲の噂など、パンクシーンの最新動向",
+  "headline": "MCRやThe Interruptersらの新作・チャート首位ニュースが続々",
   "points": [
    {
-    "text": "My Chemical Romanceの『The Black Parade』がフィジカル売上で初の全米1位を獲得し、20年越しの快挙として大きな話題となっている。",
+    "text": "My Chemical Romanceの『The Black Parade』が20年を経てフィジカル売上で初の全米1位を獲得し、大きな話題となっています。",
     "ids": [
      "429b817bd0fe8978",
      "fa717826d2b23367",
-     "aa6a95b5d75773fb"
+     "d5dcea2325251627"
     ]
    },
    {
-    "text": "Fall Out Boyが新曲「ACES」を月曜日にリリースすると発表したほか、ツアー開催の噂も浮上している。",
+    "text": "The InterruptersがTravis Barkerを迎えた新曲や新曲MVを公開し、通算5枚目の新作アルバム『Battle Scars』を発表しました。",
+    "ids": [
+     "269aacde59ac837a",
+     "88f8ed0fe51ef55d",
+     "a56c17d45385e3ca"
+    ]
+   },
+   {
+    "text": "Fall Out Boyが新曲をリリースする予定であるほか、他バンドとの共催によるスタジアムツアーの噂も浮上しています。",
     "ids": [
      "6ae70a9594350054",
      "8e25c658b2b230b2",
@@ -296,35 +301,81 @@
     ]
    },
    {
-    "text": "The Interruptersが通算5枚目の新作アルバム『Battle Scars』を発表し、新曲のMVも公開された。",
-    "ids": [
-     "88f8ed0fe51ef55d",
-     "652ddb9747e1d0ac",
-     "a56c17d45385e3ca"
-    ]
-   },
-   {
-    "text": "blink-182やWeezerの大型フェス出演情報やチャートでの好調な記録が伝えられている。",
+    "text": "Blink-182がGraspop Metal Meeting 2027やWelcome To Rockvilleといった大型フェスのヘッドライナーに決定しました。",
     "ids": [
      "3a85ee81167b01c2",
-     "c38010115992711d",
-     "9e192b6fa0d5914c"
-    ]
-   },
-   {
-    "text": "Billie Joe Armstrongが参加する別バンドが、ライブハウス924 Gilmanに戻ってステージに立つことが報じられた。",
-    "ids": [
-     "a7938812773ae5fc"
+     "c38010115992711d"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-04T14:39:38.370401+09:00",
-  "generated_at": "2026-11-07T14:39:39.929201+09:00",
+  "from": "2026-11-04T21:49:12.896014+09:00",
+  "generated_at": "2026-11-07T21:49:16.544988+09:00",
   "article_count": 24,
-  "sig": "bcf922ce6361"
+  "sig": "ece76891578a"
  },
  "items": [
+  {
+   "id": "269aacde59ac837a",
+   "url": "https://ramzine.co.uk/news/the-interrupters-announce-battle-scars-with-travis-barker",
+   "title_original": "The Interrupters Announce Battle Scars With Travis Barker",
+   "source": "RAMzine",
+   "image": "https://ramzine.co.uk/wp-content/uploads/2026/11/image001.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-07T10:48:32+00:00",
+   "title_ja": "The InterruptersがTravis Barkerを迎えた新曲を発表",
+   "summary_ja": "The Interruptersが、Blink-182のTravis Barkerをフィーチャーした新曲「Battle Scars」をリリースすることを発表した。注目コラボの実現により、ファンの間で大きな期待を集めている。",
+   "category": "新曲・新作",
+   "band": "その他",
+   "artists": [
+    "The Interrupters",
+    "Travis Barker"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "8ed1cd522c7b0454",
+   "url": "https://bluntmag.com.au/music/the-interrupters-battle-scars-back-from-the-dead",
+   "title_original": "The Interrupters Announce ‘Battle Scars’ As Aimee Opens Up About Sobriety",
+   "source": "Blunt Magazine",
+   "image": "https://images-1.bluntmag.com.au/cdn-cgi/image/f=auto,quality=80,fit=scale-down/https://images-1.bluntmag.com.au/uploads/2026/11/Untitled-design-34-51176cb9003f9cb274f993929ae8e1b9.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T23:25:28+00:00",
+   "title_ja": "The Interruptersが新曲発表とエイミーの禁酒について語る",
+   "summary_ja": "The Interruptersが新曲「Battle Scars」を発表するとともに、ボーカルのエイミーが自身の禁酒生活の経験について率直に語った。苦難を乗り越えて制作された背景が明かされている。",
+   "category": "メンバー・発言",
+   "band": "その他",
+   "artists": [
+    "The Interrupters"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "880cfaddf5ffb518",
+   "url": "https://www.billboard.com/pro/my-chemical-romance-black-parade-no-1-20-years",
+   "title_original": "My Chemical Romance’s ‘The Black Parade’ Was a No. 1 Album 20 Years in the Making: Inside the Campaign",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T22:00:47+00:00",
+   "title_ja": "MCRの名盤『The Black Parade』が首位を獲得した背景に迫る",
+   "summary_ja": "My Chemical Romanceの代表作『The Black Parade』が、20年の時を経て全米1位を獲得した。その快挙を成し遂げたプロモーションや長年の歩みの裏側に迫る特集記事。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "9e192b6fa0d5914c",
    "url": "https://recklesspress.com/news/blink-182s-take-off-your-pants-and-jacket-reaches-highest-uk-rock-metal-chart-position-in-25-years",
@@ -384,7 +435,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6ae70a9594350054",
@@ -508,6 +559,26 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "b66c0cc2d458edf1",
+   "url": "https://www.clashmusic.com/live/live-report-my-chemical-romances-halloween-show-at-the-hollywood-bowl",
+   "title_original": "Live Report: My Chemical Romance’s Halloween Show At The Hollywood Bowl",
+   "source": "Clash Magazine",
+   "image": "https://www.clashmusic.com/wp-content/uploads/2026/11/MCR_BOWL_NIGHTFIVE-DEFLORIO-PRESS-6-scaled.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T11:54:22+00:00",
+   "title_ja": "My Chemical Romanceがハリウッド・ボウルで開催したハロウィン公演",
+   "summary_ja": "My Chemical Romanceがハリウッド・ボウルで行ったハロウィンライブの模様をレポート。特別な演出や会場の熱気が伝わるステージ内容となっている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "d5dcea2325251627",
@@ -652,7 +723,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "aa6a95b5d75773fb",
@@ -694,26 +765,6 @@
    "japan": false,
    "importance": 2,
    "has_detail": true
-  },
-  {
-   "id": "dfa12ca7a2a6d597",
-   "url": "https://www.nytimes.com/2026/11/05/arts/music/my-chemical-romance-black-parade-no-1-album.html",
-   "title_original": "How Did My Chemical Romance Top the Chart With a 20-Year-Old Album?",
-   "source": "The New York Times",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-05T19:18:56+00:00",
-   "title_ja": "MCRの20年前のアルバムがチャート首位を獲得した理由",
-   "summary_ja": "My Chemical Romanceの20年前の過去作がどのようにしてチャートのトップに返り咲いたのか、その背景や要因を米紙が詳しく分析・検証している。",
-   "category": "チャート・受賞",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 1
   },
   {
    "id": "d55bcdf5eccb7b20",
@@ -854,7 +905,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c38010115992711d",
@@ -8486,68 +8537,6 @@
    ],
    "japan": false,
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "2166707d6d704180",
-   "url": "https://www.femalefirst.co.uk/music/musicnews/hayley-williams-pays-tribute-husband-chad-gilbert-after-new-found-glory-guitarists-death-1451084.html",
-   "title_original": "Hayley Williams pays tribute to ex-husband Chad Gilbert after New Found Glory guitarist's death",
-   "source": "femalefirst.co.uk",
-   "image": "https://www.femalefirst.co.uk/image-library/partners/bang/land/500/h/hayley-williams-will-surprise-fans-on-her-next-tour-aW1hZ2Vz.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-24T07:00:08+00:00",
-   "title_ja": "Hayley Williamsが元夫でNew Found Gloryのギタリストを追悼",
-   "summary_ja": "New Found GloryのギタリストであるChad Gilbertの逝去に際し、元妻であるParamoreのHayley Williamsが追悼の意を表しました。",
-   "category": "メンバー・発言",
-   "band": "New Found Glory",
-   "artists": [
-    "Hayley Williams",
-    "Chad Gilbert",
-    "New Found Glory"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "846efff3577c677e",
-   "url": "https://www.detroitnews.com/story/entertainment/music/2026/09/24/weezers-little-caesars-arena-house-party-celebrates-the-good-life/91888464007",
-   "title_original": "Weezer throws a house party for Generations X through Z in Detroit",
-   "source": "The Detroit News",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-24T06:28:00+00:00",
-   "title_ja": "Weezerがデトロイトで幅広い世代に向けたライブを開催",
-   "summary_ja": "Weezerがデトロイト公演を行い、世代を超えたファンを巻き込んでまるでホームパーティのような盛り上がりを見せました。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "d431b46e2878c06d",
-   "url": "https://www.mid-day.com/lifestyle/culture/photo/in-photos-relive-green-days-performance-at-lollapalooza-india-2025-through-these-photos-104455/1",
-   "title_original": "IN PHOTOS: Relive Green Day's mesmerising performance at Lollapalooza India 2025 through these pictures",
-   "source": "Mid-Day",
-   "image": "https://images.mid-day.com/images/images/2025/mar/LollapaloozaIndia2025GreenDayperformancephotos_d.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-24T05:11:00+00:00",
-   "title_ja": "Lollapalooza India 2025のライブ写真が公開",
-   "summary_ja": "Green Dayが出演したLollapalooza India 2025の魅惑的なパフォーマンスを振り返る写真特集が公開された。熱狂的なステージの様子を視覚的に楽しむことができる内容となっている。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   }
  ]
