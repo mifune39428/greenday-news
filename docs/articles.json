@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T21:48:29.305037+09:00",
+ "updated_at": "2026-11-08T06:41:14.447719+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -95,6 +95,7 @@
   "KLBJ-FM",
   "KQED",
   "KSBY News",
+  "KSNV",
   "KTVU",
   "KarloBag.eu",
   "KelownaNow",
@@ -140,6 +141,7 @@
   "Northern Transmissions",
   "Official Charts",
   "Oh No They Didn't! — LiveJournal",
+  "On Tap Sports Net",
   "OnMilwaukee",
   "Orlando Sentinel",
   "Orlando Weekly",
@@ -271,21 +273,21 @@
   "激ロック",
   "씨네플레이"
  ],
- "count": 399,
- "detail_count": 307,
+ "count": 400,
+ "detail_count": 308,
  "digest": {
-  "headline": "MCRやThe Interruptersらの新作・チャート首位ニュースが続々",
+  "headline": "MCR『The Black Parade』全米1位獲得やバンドたちの新曲発表が続",
   "points": [
    {
-    "text": "My Chemical Romanceの『The Black Parade』が20年を経てフィジカル売上で初の全米1位を獲得し、大きな話題となっています。",
+    "text": "My Chemical Romanceの『The Black Parade』がフィジカル売上を伸ばし、バンドにとって初となるビルボード200の首位を獲得した。",
     "ids": [
      "429b817bd0fe8978",
-     "fa717826d2b23367",
-     "d5dcea2325251627"
+     "880cfaddf5ffb518",
+     "aa6a95b5d75773fb"
     ]
    },
    {
-    "text": "The InterruptersがTravis Barkerを迎えた新曲や新曲MVを公開し、通算5枚目の新作アルバム『Battle Scars』を発表しました。",
+    "text": "The InterruptersがTravis Barkerを迎えた新曲「Battle Scars」や、通算5枚目の新作アルバムを発表した。",
     "ids": [
      "269aacde59ac837a",
      "88f8ed0fe51ef55d",
@@ -293,28 +295,41 @@
     ]
    },
    {
-    "text": "Fall Out Boyが新曲をリリースする予定であるほか、他バンドとの共催によるスタジアムツアーの噂も浮上しています。",
+    "text": "Fall Out Boyが新曲「ACES」のリリースを控えているほか、スタジアムツアー開催の噂も浮上している。",
     "ids": [
      "6ae70a9594350054",
      "8e25c658b2b230b2",
      "afd71d3fe411f299"
     ]
-   },
-   {
-    "text": "Blink-182がGraspop Metal Meeting 2027やWelcome To Rockvilleといった大型フェスのヘッドライナーに決定しました。",
-    "ids": [
-     "3a85ee81167b01c2",
-     "c38010115992711d"
-    ]
    }
   ],
   "days": 3,
-  "from": "2026-11-04T21:49:12.896014+09:00",
-  "generated_at": "2026-11-07T21:49:16.544988+09:00",
+  "from": "2026-11-05T06:42:27.712771+09:00",
+  "generated_at": "2026-11-08T06:42:36.769769+09:00",
   "article_count": 24,
-  "sig": "ece76891578a"
+  "sig": "281a29477335"
  },
  "items": [
+  {
+   "id": "a9a4a600936724e5",
+   "url": "https://ontapsportsnet.com/pop-culture/fall-out-boy-rumored-for-stadium-tour-ahead-of-single-release",
+   "title_original": "Fall Out Boy Rumored for Stadium Tour Ahead of Single Release",
+   "source": "On Tap Sports Net",
+   "image": "https://ontapsportsnet.com/wp-content/uploads/2026/11/2018-09-26T093618Z_509737511_MT1USATODAY11318778_RTRMADP_3_BASSIST-PETE-WENTZ-RIGHT-AND-VOCALIST-RHYTHM-GUITARIST-scaled-e1794031034227.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-07T18:43:16+00:00",
+   "title_ja": "Fall Out Boyに新曲リリースとスタジアムツアーの噂が浮上",
+   "summary_ja": "Fall Out Boyが新シングルをリリースし、それに続いてスタジアムツアーを開催するという噂が流れている。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "269aacde59ac837a",
    "url": "https://ramzine.co.uk/news/the-interrupters-announce-battle-scars-with-travis-barker",
@@ -374,7 +389,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9e192b6fa0d5914c",
@@ -452,6 +467,26 @@
    "band": "Fall Out Boy",
    "artists": [
     "Fall Out Boy",
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "a20a966d51af3d44",
+   "url": "https://news3lv.com/news/local/the-offspring-to-ring-in-2027-with-new-years-eve-show-at-the-venetian-in-las-vegas",
+   "title_original": "The Offspring to ring in 2027 with New Year’s Eve show at The Venetian in Las Vegas",
+   "source": "KSNV",
+   "image": "https://news3lv.com/resources/media2/16x9/1200/1320/0x63/90/01200fee-8a49-460e-b77c-eae0b58adc59-Static_Digital_1200x800_TheOffspring_2026_Regional_VenetianLasVegas_1231.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T19:15:14+00:00",
+   "title_ja": "The Offspring、ラスベガスで大晦日のカウントダウンライブを開催決定",
+   "summary_ja": "The Offspringが、2027年の幕開けを祝してラスベガスのThe Venetianで大晦日の特別公演を行う。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
     "The Offspring"
    ],
    "japan": false,
@@ -8516,28 +8551,6 @@
    "japan": false,
    "importance": 2,
    "detail_tries": 2
-  },
-  {
-   "id": "e13710ea1b752542",
-   "url": "https://www.mercurynews.com/?p=13095655&preview=true&preview_id=13095655",
-   "title_original": "Hayley Williams honors her late ex, New Found Glory’s Chad Gilbert",
-   "source": "The Mercury News",
-   "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/GettyImages-95615596-e1790199758282.jpg?w=2000&h=1255",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-24T12:32:33+00:00",
-   "title_ja": "Hayley Williams、亡くなった元夫Chad Gilbertを追悼",
-   "summary_ja": "ParamoreのHayley Williamsが、亡くなった元夫でNew Found GloryのChad Gilbertへ追悼の意を表明しました。",
-   "category": "メンバー・発言",
-   "band": "Paramore",
-   "artists": [
-    "Hayley Williams",
-    "Chad Gilbert",
-    "New Found Glory"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
