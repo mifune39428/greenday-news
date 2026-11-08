@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T22:09:02.632627+09:00",
+ "updated_at": "2026-11-09T06:54:48.500338+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -66,7 +66,6 @@
   "DIY Magazine",
   "DU Clarion",
   "Daily Bruin",
-  "Detroit Metro Times",
   "Diario AS",
   "Diffuser.fm",
   "Dying Scene",
@@ -223,7 +222,6 @@
   "Washington Examiner",
   "We Write About Music",
   "Western Mass News",
-  "Worthplaying",
   "X-Press Magazine",
   "XS ROCK",
   "Yahoo",
@@ -251,7 +249,6 @@
   "mdcthereporter.com",
   "michigandaily.com",
   "musicscenemedia.com",
-  "musictimes.com",
   "mxdwn Music",
   "niagara-gazette.com",
   "nme.com",
@@ -269,15 +266,16 @@
   "شبكة تواصل الإخبارية",
   "山陽新聞デジタル｜さんデジ",
   "激ロック",
-  "씨네플레이"
+  "씨네플레이",
+  "조선일보"
  ],
- "count": 400,
- "detail_count": 307,
+ "count": 397,
+ "detail_count": 303,
  "digest": {
-  "headline": "MCRやFall Out Boy、新曲発表やチャート首位が続々",
+  "headline": "MCRのリイシュー盤が各チャートで首位を獲得し話題に",
   "points": [
    {
-    "text": "My Chemical Romanceの『The Black Parade』リイシュー盤が、フィジカル売上で初の全米1位を獲得したほか、追加の3つのチャートでも首位に輝いた。",
+    "text": "My Chemical Romanceの『The Black Parade』リイシュー盤が、Billboardの複数のチャートやビルボード200で1位を獲得しました。",
     "ids": [
      "a89deda881eb5cf5",
      "429b817bd0fe8978",
@@ -285,7 +283,7 @@
     ]
    },
    {
-    "text": "Fall Out Boyが3年ぶりとなる新曲のリリースや、月曜日の新シングル発表の噂、スタジアムツアー開催の可能性などで注目を集めている。",
+    "text": "Fall Out Boyが新曲のリリースを予定しているほか、スタジアムツアー開催の噂も浮上して注目を集めています。",
     "ids": [
      "6ae70a9594350054",
      "8e25c658b2b230b2",
@@ -293,7 +291,7 @@
     ]
    },
    {
-    "text": "The InterruptersがTravis Barkerをフィーチャーした新曲「Battle Scars」や、通算5枚目の新作アルバムのリリースを発表した。",
+    "text": "The InterruptersがTravis Barkerを迎えた新曲を発表し、新作アルバム『BATTLE SCARS』のリリースを明かしました。",
     "ids": [
      "269aacde59ac837a",
      "88f8ed0fe51ef55d",
@@ -302,12 +300,32 @@
    }
   ],
   "days": 3,
-  "from": "2026-11-05T22:09:38.339524+09:00",
-  "generated_at": "2026-11-08T22:09:40.790075+09:00",
+  "from": "2026-11-06T06:55:10.042791+09:00",
+  "generated_at": "2026-11-09T06:55:11.699332+09:00",
   "article_count": 24,
-  "sig": "c3f8d4060273"
+  "sig": "89fe55a3292d"
  },
  "items": [
+  {
+   "id": "50610d3730a52944",
+   "url": "https://www.chosun.com/english/travel-food-en/2026/11/09/NZEXJ22K75HWZAYDGQLQ5MY6EI",
+   "title_original": "My Chemical Romance Returns to South Korea, Reaches No. 1",
+   "source": "조선일보",
+   "image": "https://www.chosun.com/resizer/v2/6YTGAGKX35EJXLNA7PNISFRAPI.jpg?auth=7ada99ee9ca972c37e43561a198e65d8b7bd88231010d23c13347648643d8366&width=1170&height=614&focal=483,717",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-08T15:39:36.554000+00:00",
+   "title_ja": "My Chemical Romanceが韓国公演を行いチャート1位を獲得",
+   "summary_ja": "韓国を訪れたMy Chemical Romanceがライブを行い、現地でチャートの1位を獲得する快挙を成し遂げた。アジアでの根強い人気を改めて証明している。（41文字）",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "562f446fa712c41b",
    "url": "https://www.nme.com/news/music/blink-182-mark-hoppus-jimmy-eat-world-a-praise-chorus-hollywood-bowl-3975382",
@@ -368,7 +386,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a89deda881eb5cf5",
@@ -8469,86 +8487,6 @@
    ],
    "japan": false,
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "b994c1d468d858f3",
-   "url": "https://www.musictimes.com/articles/112887/20260924/weezers-pinkerton-turns-30-how-90s-misfire-became-cult-classic.htm",
-   "title_original": "Weezer’s ‘Pinkerton’ Turns 30: How a ‘90s Misfire Became a Cult Classic",
-   "source": "musictimes.com",
-   "image": "https://d.musictimes.com/en/full/97353/weezer.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-24T19:22:50+00:00",
-   "title_ja": "Weezerの名盤『Pinkerton』が発売30周年、カルト的人気作の軌跡を振り返る",
-   "summary_ja": "Weezerのアルバム『Pinkerton』が発売から30周年を迎えました。90年代当時は評価が分かれたものの、いかにして時代を超えて熱狂的なファンを持つカルト的な名盤へと成長したのか、その歴史的意義を再評価する動きが高まっています。",
-   "category": "再発・記念盤",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6b66c6afb698bd6d",
-   "url": "https://www.metrotimes.com/music-2/weezer-threw-detroit-a-house-party-with-basement-level-sound-photos",
-   "title_original": "Weezer threw Detroit a house party with basement-level sound (PHOTOS)",
-   "source": "Detroit Metro Times",
-   "image": "https://www.metrotimes.com/wp-content/uploads/2026/09/MG_6733-scaled.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-24T17:53:10+00:00",
-   "title_ja": "Weezerがデトロイト公演で開催したライブの模様",
-   "summary_ja": "Weezerがデトロイトで行った公演のライブ写真やレポートが公開されました。地下室のような独自のサウンドでファンを沸かせたステージの様子が伝えられています。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "070be2ca3058f1f4",
-   "url": "https://worthplaying.com/article/2026/9/24/news/151071-pac-man-partners-with-blink-182-for-collab-merch-content-and-band-inspired-take-on-the-classic-game",
-   "title_original": "Pac-Man Partners With Blink-182 For Collab Merch, Content And Band-Inspired Take On The Classic Game",
-   "source": "Worthplaying",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-24T17:37:00+00:00",
-   "title_ja": "Blink-182がPac-Manとコラボ、限定グッズやゲーム内コンテンツを展開",
-   "summary_ja": "Blink-182が「Pac-Man」とタッグを組み、コラボレーション公式グッズの発売やバンドの世界観を落とし込んだ特別仕様のゲームコンテンツを展開することを発表した。",
-   "category": "その他",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "fd80fc8bf8271823",
-   "url": "https://themusicuniverse.com/blink-182-immortalized-as-seven-inch-vinyl-figures",
-   "title_original": "Blink-182 immortalized as seven-inch vinyl figures",
-   "source": "The Music Universe",
-   "image": "https://themusicuniverse.com/wp-content/uploads/2026/09/blink182figures.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-24T17:07:03+00:00",
-   "title_ja": "Blink-182が7インチサイズのビニールフィギュアに",
-   "summary_ja": "Blink-182のメンバーが、7インチサイズのビニール製フィギュアとして立体化されることが決定した。",
-   "category": "その他",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   }
  ]
