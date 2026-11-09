@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T06:54:48.500338+09:00",
+ "updated_at": "2026-11-09T14:51:05.988333+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -92,7 +92,6 @@
   "JamBase",
   "KCRW",
   "KLBJ-FM",
-  "KQED",
   "KSBY News",
   "KSNV",
   "KTVU",
@@ -173,6 +172,7 @@
   "SFGATE",
   "SSBCrack",
   "San Bernardino Sun",
+  "San Francisco Chronicle",
   "SanDiegoVille",
   "Secret Los Angeles",
   "Sheldon Ang Media",
@@ -269,43 +269,90 @@
   "씨네플레이",
   "조선일보"
  ],
- "count": 397,
+ "count": 398,
  "detail_count": 303,
  "digest": {
-  "headline": "MCRのリイシュー盤が各チャートで首位を獲得し話題に",
+  "headline": "MCRが新作アルバム制作とチャート首位、Green Day関連の動向も",
   "points": [
    {
-    "text": "My Chemical Romanceの『The Black Parade』リイシュー盤が、Billboardの複数のチャートやビルボード200で1位を獲得しました。",
+    "text": "My Chemical Romanceが約13年ぶりとなる新作アルバムの制作に入ったほか、『The Black Parade』のリイシュー盤が米ビルボードチャートなどで1位を獲得した。",
     "ids": [
+     "fa3eb0f01731d3da",
      "a89deda881eb5cf5",
-     "429b817bd0fe8978",
-     "db8fa3d6b36401af"
+     "429b817bd0fe8978"
     ]
    },
    {
-    "text": "Fall Out Boyが新曲のリリースを予定しているほか、スタジアムツアー開催の噂も浮上して注目を集めています。",
+    "text": "Green DayのBillie Joe ArmstrongがサイドプロジェクトのPinhead Gunpowderを率いてサンフランシスコでソールドアウト公演を行った。",
+    "ids": [
+     "7b3d088eac982186"
+    ]
+   },
+   {
+    "text": "Fall Out Boyが新曲発表やスタジアムツアーの噂で注目を集めているほか、The Interruptersも新曲発表と新作アルバムのリリースを明かした。",
     "ids": [
      "6ae70a9594350054",
-     "8e25c658b2b230b2",
-     "afd71d3fe411f299"
+     "88f8ed0fe51ef55d",
+     "652ddb9747e1d0ac"
     ]
    },
    {
-    "text": "The InterruptersがTravis Barkerを迎えた新曲を発表し、新作アルバム『BATTLE SCARS』のリリースを明かしました。",
+    "text": "The Offspringがラスベガスの大晦日公演を発表し、blink-182はフェス出演やMark Hoppusのゲスト参加などで話題となった。",
     "ids": [
-     "269aacde59ac837a",
-     "88f8ed0fe51ef55d",
-     "a56c17d45385e3ca"
+     "a20a966d51af3d44",
+     "3a85ee81167b01c2",
+     "562f446fa712c41b"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-06T06:55:10.042791+09:00",
-  "generated_at": "2026-11-09T06:55:11.699332+09:00",
+  "from": "2026-11-06T14:51:18.162984+09:00",
+  "generated_at": "2026-11-09T14:51:19.911992+09:00",
   "article_count": 24,
-  "sig": "89fe55a3292d"
+  "sig": "97e6de2ded28"
  },
  "items": [
+  {
+   "id": "fa3eb0f01731d3da",
+   "url": "https://faroutmagazine.co.uk/after-13-years-my-chemical-romance-is-making-a-new-album",
+   "title_original": "After 13 years, My Chemical Romance is making a new album. So what the hell should we expect?",
+   "source": "Far Out Magazine",
+   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/11/After-13-years-My-Chemical-Romance-is-making-a-new-album.-So-what-the-hell-should-we-expect-Far-Out-Magazine.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-09T01:00:00+00:00",
+   "title_ja": "My Chemical Romanceが13年ぶりの新作アルバムを制作中",
+   "summary_ja": "My Chemical Romanceが約13年ぶりとなる待望の新しいアルバムの制作に入ったことが報じられた。長年の沈黙を破る新作に向けて、ファンやメディアの間で大きな期待と様々な予想が高まっている。",
+   "category": "新曲・新作",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "7b3d088eac982186",
+   "url": "https://www.sfchronicle.com/entertainment/music/article/pinhead-gunpowder-concert-sf-22455115.php",
+   "title_original": "Billie Joe Armstrong reunites with Pinhead Gunpowder for rare sold-out S.F. show",
+   "source": "San Francisco Chronicle",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-08T22:18:25+00:00",
+   "title_ja": "Billie Joe ArmstrongがPinhead Gunpowderでサンフランシスコ公演を開催",
+   "summary_ja": "Billie Joe ArmstrongがサイドプロジェクトのPinhead Gunpowderを率いて、サンフランシスコで貴重なソールドアウト公演を行った。チケットは即完売となり、ファン熱狂のステージが繰り広げられた。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Pinhead Gunpowder"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "50610d3730a52944",
    "url": "https://www.chosun.com/english/travel-food-en/2026/11/09/NZEXJ22K75HWZAYDGQLQ5MY6EI",
@@ -324,7 +371,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "562f446fa712c41b",
@@ -8466,27 +8513,6 @@
    ],
    "japan": false,
    "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "b99b3e35e3b038bb",
-   "url": "https://www.kqed.org/arts/13994190/billie-joe-armstrong-free-show-rodeo-coverups",
-   "title_original": "Green Day’s Billie Joe Armstrong to Play Free Show in His Hometown of Rodeo",
-   "source": "KQED",
-   "image": "https://cdn.kqed.org/wp-content/uploads/sites/2/2026/09/GettyImages-2286769873.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-24T22:33:53+00:00",
-   "title_ja": "Green DayのBillie Joeが故郷ロデオで無料ライブを開催",
-   "summary_ja": "Green DayのBillie Joe Armstrongが、自身の地元であるロデオでフリーライブを行うことが明らかになった。ファン必見の特別なステージとなる。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong",
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 4,
    "has_detail": true
   }
  ]
