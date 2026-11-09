@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T14:51:05.988333+09:00",
+ "updated_at": "2026-11-10T00:54:06.132282+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -54,6 +54,7 @@
   "Billboard",
   "Bloomberg Law News",
   "Blunt Magazine",
+  "Boston's ROCK 92.9",
   "CDJournal.com",
   "CelebrityAccess",
   "Chaoszine",
@@ -190,6 +191,7 @@
   "The Drum",
   "The Duke Chronicle",
   "The Hollywood Reporter",
+  "The Independent",
   "The Land",
   "The Montrealer",
   "The Mosh Network",
@@ -199,6 +201,7 @@
   "The PRP",
   "The Red & Black",
   "The Rock Revival",
+  "The Scotsman",
   "The State Times",
   "The Vanderbilt Hustler",
   "TheWrap",
@@ -226,6 +229,7 @@
   "XS ROCK",
   "Yahoo",
   "Yahoo News New Zealand",
+  "Yahoo News UK",
   "Yahoo!ニュース",
   "ad-hoc-news.de",
   "amass",
@@ -251,7 +255,6 @@
   "musicscenemedia.com",
   "mxdwn Music",
   "niagara-gazette.com",
-  "nme.com",
   "punknews.org",
   "rockin'on",
   "rova",
@@ -260,8 +263,6 @@
   "thepost.co.nz",
   "theriffreport.co.uk",
   "trillmag.com",
-  "uDiscoverMusic",
-  "v13.net",
   "wfmd.com",
   "شبكة تواصل الإخبارية",
   "山陽新聞デジタル｜さんデジ",
@@ -269,13 +270,19 @@
   "씨네플레이",
   "조선일보"
  ],
- "count": 398,
- "detail_count": 303,
+ "count": 399,
+ "detail_count": 301,
  "digest": {
-  "headline": "MCRが新作アルバム制作とチャート首位、Green Day関連の動向も",
+  "headline": "パンク・ロックシーンの最新動向：MCR新作制作やGreen Dayのライブなど",
   "points": [
    {
-    "text": "My Chemical Romanceが約13年ぶりとなる新作アルバムの制作に入ったほか、『The Black Parade』のリイシュー盤が米ビルボードチャートなどで1位を獲得した。",
+    "text": "Billie Joe ArmstrongがサイドプロジェクトのPinhead Gunpowderを率いてサンフランシスコでソールドアウト公演を行った。",
+    "ids": [
+     "7b3d088eac982186"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceが約13年ぶりとなる新作アルバムの制作に入ったほか、『The Black Parade』リイシュー盤がチャートで首位を獲得した。",
     "ids": [
      "fa3eb0f01731d3da",
      "a89deda881eb5cf5",
@@ -283,35 +290,137 @@
     ]
    },
    {
-    "text": "Green DayのBillie Joe ArmstrongがサイドプロジェクトのPinhead Gunpowderを率いてサンフランシスコでソールドアウト公演を行った。",
+    "text": "Fall Out Boyが3年ぶりの新シングルを発表したほか、ツアーの噂やイギリスでの公演を匂わせる投稿が注目を集めている。",
     "ids": [
-     "7b3d088eac982186"
-    ]
-   },
-   {
-    "text": "Fall Out Boyが新曲発表やスタジアムツアーの噂で注目を集めているほか、The Interruptersも新曲発表と新作アルバムのリリースを明かした。",
-    "ids": [
+     "816152197cf632f6",
      "6ae70a9594350054",
-     "88f8ed0fe51ef55d",
-     "652ddb9747e1d0ac"
+     "8e25c658b2b230b2"
     ]
    },
    {
-    "text": "The Offspringがラスベガスの大晦日公演を発表し、blink-182はフェス出演やMark Hoppusのゲスト参加などで話題となった。",
+    "text": "The Offspringがラスベガスのザ・ベネチアンで大晦日の特別ニューイヤーズ・イブ・コンサートを開催することを発表した。",
     "ids": [
-     "a20a966d51af3d44",
-     "3a85ee81167b01c2",
+     "13fc70a4789e8d2b",
+     "a20a966d51af3d44"
+    ]
+   },
+   {
+    "text": "Jimmy Eat Worldのロサンゼルス公演にBlink-182のMark Hoppusがゲスト参加し共演した。",
+    "ids": [
+     "19c4d089781b5694",
      "562f446fa712c41b"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-06T14:51:18.162984+09:00",
-  "generated_at": "2026-11-09T14:51:19.911992+09:00",
+  "from": "2026-11-07T00:55:18.126873+09:00",
+  "generated_at": "2026-11-10T00:55:19.950814+09:00",
   "article_count": 24,
-  "sig": "97e6de2ded28"
+  "sig": "d07b2b5c4afb"
  },
  "items": [
+  {
+   "id": "9298d9755a8bf379",
+   "url": "https://www.independent.co.uk/bulletin/culture/fall-out-boy-uk-tour-b3081801.html",
+   "title_original": "Fall Out Boy trigger UK tour rumours following cryptic posts",
+   "source": "The Independent",
+   "image": "https://static.independent.co.uk/2026/11/09/14/1097475368..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-09T14:58:05+00:00",
+   "title_ja": "Fall Out Boyが意味深な投稿でイギリスツアーを匂わせ",
+   "summary_ja": "Fall Out BoyがSNSに謎の投稿を行い、イギリスツアーの開催が近いのではないかとファンの間で大きな噂になっています。",
+   "category": "ライブ・ツアー",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "d7f251f3bcfbb053",
+   "url": "https://rock929rocks.com/2026/11/09/why-weezers-gathering-tour-is-more-than-just-another-rock-concert",
+   "title_original": "Why Weezer’s ‘Gathering Tour’ Is More Than Just Another Rock Concert",
+   "source": "Boston's ROCK 92.9",
+   "image": "https://rock929rocks.com/uploads/2026/11/GettyImages-2296003529.jpg?auto=webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-09T14:51:23+00:00",
+   "title_ja": "Weezerの「Gathering Tour」が持つ特別な意味とは",
+   "summary_ja": "Weezerが開催している「Gathering Tour」について、単なるロックコンサートに留まらないその魅力と背景に迫ります。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "2143ed23e8d6f4a1",
+   "url": "https://uk.news.yahoo.com/why-fall-boy-fans-convinced-144734130.html",
+   "title_original": "Why Fall Out Boy fans are convinced a UK tour is coming to these three cities",
+   "source": "Yahoo News UK",
+   "image": "https://s.yimg.com/lo/mysterio/api/7a5a44861c50692fd3c56fb30c30e87dc3b7f04744bcdc2b95872ab5ea477532/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F8572618563d5c5ec4331dfec31ebe17c.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-09T14:47:34+00:00",
+   "title_ja": "Fall Out Boyのファンがイギリスの3都市でのツアーを確信する理由",
+   "summary_ja": "Fall Out Boyのファンが、イギリス国内の3つの都市で近日中にライブが行われると確信しているその根拠を報じています。",
+   "category": "ライブ・ツアー",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "816152197cf632f6",
+   "url": "https://www.scotsman.com/whats-on/fall-out-boy-tour-2027-uk-glasgow-hydro-possible-locations-dates-announcement-9338127",
+   "title_original": "Fall Out Boy Tour 2027: Fall Out Boy tease Glasgow gig - every rumoured venue & what we know so far",
+   "source": "The Scotsman",
+   "image": "https://www.scotsman.com/jpim-static/image/2026/11/09/9/15/Fall-Out-Boy-twilight-of-the-punks-2027-uk-glasgow-tour-tease.jpeg?width=1200&auto=webp&quality=75&trim=0,1,0,0&crop=",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-09T10:01:20+00:00",
+   "title_ja": "Fall Out Boyが2027年ツアーでグラスゴー公演を予告",
+   "summary_ja": "Fall Out Boyが2027年のツアーにおいてグラスゴーでの公演を示唆しており、現時点で噂されている会場などの情報が報じられています。",
+   "category": "ライブ・ツアー",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "19c4d089781b5694",
+   "url": "https://music.mxdwn.com/2026/11/08/news/jimmy-eat-world-invite-blink-182s-mark-hoppus-onstage-for-performance-of-a-praise-chorus-at-la-show",
+   "title_original": "Jimmy Eat World Invite Blink-182’s Mark Hoppus Onstage For Performance Of “A Praise Chorus” At LA Show",
+   "source": "mxdwn Music",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-09T06:44:42+00:00",
+   "title_ja": "Jimmy Eat WorldのLA公演にMark Hoppusがゲスト参加",
+   "summary_ja": "ロサンゼルスで行われたJimmy Eat Worldのライブに、Blink-182のMark Hoppusがステージに登場して「A Praise Chorus」を共演しました。",
+   "category": "ライブ・ツアー",
+   "band": "Jimmy Eat World",
+   "artists": [
+    "Jimmy Eat World",
+    "Mark Hoppus",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "fa3eb0f01731d3da",
    "url": "https://faroutmagazine.co.uk/after-13-years-my-chemical-romance-is-making-a-new-album",
@@ -351,7 +460,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "50610d3730a52944",
@@ -491,6 +600,26 @@
    "artists": [
     "The Interrupters",
     "Travis Barker"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "13fc70a4789e8d2b",
+   "url": "https://hoodline.com/2026/11/the-offspring-to-blast-into-2027-with-new-year-s-eve-show-at-the-venetian",
+   "title_original": "The Offspring to Blast Into 2027 With New Year's Eve Show at The Venetian",
+   "source": "Hoodline",
+   "image": "https://img.hoodline.com/2026/11/the-offspring-to-blast-into-2027-with-new-year-s-eve-show-at-the-venetian.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-07T01:05:59+00:00",
+   "title_ja": "The Offspring、大晦日にベネチアンで年越しライブを開催",
+   "summary_ja": "The Offspringが、2027年の幕開けに向けてザ・ベネチアンで特別なニューイヤーズ・イブ・コンサートを開催することを発表した。年末の大きなステージでどのようなパフォーマンスを見せるのか注目が集まっている。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
    ],
    "japan": false,
    "importance": 4,
@@ -719,6 +848,26 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "a95c3778604f1893",
+   "url": "https://chorus.fm/news/the-offspring-oi-to-the-world",
+   "title_original": "The Offspring – “Oi to the World!”",
+   "source": "chorus.fm",
+   "image": "https://chorus.fm/wp-content/uploads/2016/07/offspring.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T15:18:28+00:00",
+   "title_ja": "The Offspringがカバー曲「Oi to the World!」を公開",
+   "summary_ja": "The Offspringが「Oi to the World!」を新たに公開した。バンドの持ち味であるエネルギッシュなサウンドが存分に発揮されたナンバーとなっている。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "6759fcef9b698efc",
@@ -8392,128 +8541,6 @@
    "japan": false,
    "importance": 2,
    "detail_tries": 2
-  },
-  {
-   "id": "35ea4ceb15935de6",
-   "url": "http://www.liveinlimbo.com/2026/09/25/news/blink-182s-take-off-your-pants-and-jacket-era-comes-to-life-with-new-vinyl-figures.html",
-   "title_original": "BLINK-182’s “TAKE OFF YOUR PANTS AND JACKET” ERA COMES TO LIFE WITH NEW VINYL FIGURES",
-   "source": "live in limbo",
-   "image": "https://www.liveinlimbo.com/wp-content/uploads/2026/09/Untitled-1-9.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-26T01:21:30+00:00",
-   "title_ja": "Blink-182の名盤時代を再現した限定7インチ・フィギュアが登場",
-   "summary_ja": "Blink-182のアルバム『Take Off Your Pants and Jacket』の時代をモチーフにした限定の7インチ・ビニールフィギュアが発売されることが明らかになった。当時のアートワークや世界観を立体化したコレクターズアイテムとなる。",
-   "category": "再発・記念盤",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "598a47e2a8509e83",
-   "url": "https://v13.net/2026/09/blink-182-release-limited-edition-7-inch-vinyl-figures",
-   "title_original": "Blink-182 Release Limited Edition 7-Inch Vinyl Figures",
-   "source": "V13 Media",
-   "image": "https://i0.wp.com/v13.net/wp-content/uploads/blink-182_x_encore_toy_co.jpg?resize=1000%2C600&ssl=1",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-25T22:00:46+00:00",
-   "title_ja": "Blink-182、限定7インチのアナログ盤風フィギュアを発売",
-   "summary_ja": "Blink-182が、数量限定となる7インチレコードをモチーフにした特製フィギュアをリリースした。バンドのファンやコレクターにとって見逃せない、遊び心のあるユニークな限定グッズとなっている。",
-   "category": "その他",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "e96b29fd3bef4fc2",
-   "url": "https://www.theprp.com/2026/09/25/news/watch-ex-sum-41-drummer-stevo32-takes-on-breaking-benjamins-the-diary-of-jane-for-drumeo",
-   "title_original": "Watch: Ex-Sum 41 Drummer Stevo32 Takes On Breaking Benjamin's \"The Diary Of Jane\" For Drumeo",
-   "source": "The PRP",
-   "image": "https://www.theprp.com/app/uploads/2026/09/steveo32large-1200x675.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-25T21:36:23+00:00",
-   "title_ja": "元Sum 41のStevo32がDrumeoの企画でBreaking Benjaminをカバー",
-   "summary_ja": "元Sum 41のドラマーであるStevo32が、YouTubeチャンネル「Drumeo」の人気企画に登場。Breaking Benjaminの代表曲「The Diary Of Jane」のドラム演奏に挑んだ映像が公開された。",
-   "category": "映像・映画・書籍",
-   "band": "Sum 41",
-   "artists": [
-    "Stevo32",
-    "Breaking Benjamin"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d43b81beb8194343",
-   "url": "https://v13.net/2026/09/blink-182-x-pac-man-team-up-for-merch-web-game-animated-special",
-   "title_original": "blink-182 x PAC-MAN Team Up for Merch, Web Game & Animated Special",
-   "source": "v13.net",
-   "image": "https://i0.wp.com/v13.net/wp-content/uploads/blink-182_2023.jpg?resize=1000%2C600&ssl=1",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-25T19:09:43+00:00",
-   "title_ja": "Blink-182とパックマンがコラボ、グッズやゲームを展開",
-   "summary_ja": "Blink-182がパックマンとタッグを組み、限定グッズやウェブゲーム、アニメーション特番を発表しました。",
-   "category": "その他",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "9f918a7b9385f0be",
-   "url": "https://www.nme.com/news/gaming-news/blink-182-pac-man-game-free-to-play-merch-collab-anniversary-3970767",
-   "title_original": "Blink-182 release throwback Pac-Man game to celebrate 25 years of ‘Take Of Your Pants And Jacket’",
-   "source": "nme.com",
-   "image": "https://www.nme.com/wp-content/uploads/2026/07/Blink-182-x-Pac-Man-artwork.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-25T09:33:25+00:00",
-   "title_ja": "Blink-182が「Take Off Your Pants and Jacket」25周年記念のPac-Manゲームを公開",
-   "summary_ja": "Blink-182の名盤『Take Off Your Pants and Jacket』のリリース25周年を記念し、懐かしのPac-Manコラボゲームが公開された。",
-   "category": "再発・記念盤",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "3d9067b8bb0e951c",
-   "url": "https://www.udiscovermusic.jp/news/chad-gilbert-rip",
-   "title_original": "ニュー・ファウンド・グローリーの創設メンバー、チャド・ギルバートが45歳で逝去。その功績を辿る",
-   "source": "uDiscoverMusic",
-   "image": "https://www.udiscovermusic.jp/wp-content/uploads/2024/09/new-found-glory-chad-gilbert-rip-feature-1000x600-1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-25T06:32:35+00:00",
-   "title_ja": "New Found Gloryの創設メンバー、チャド・ギルバートが45歳で逝去",
-   "summary_ja": "New Found Gloryの創設メンバーであるチャド・ギルバートが45歳で急逝した。バンドにおける彼の大きな功績を振り返る。",
-   "category": "メンバー・発言",
-   "band": "New Found Glory",
-   "artists": [
-    "Chad Gilbert",
-    "New Found Glory"
-   ],
-   "japan": false,
-   "importance": 5,
-   "has_detail": true
   }
  ]
 }
