@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T10:24:24.712942+09:00",
+ "updated_at": "2026-11-10T23:42:31.124645+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -64,7 +64,6 @@
   "Creative Loafing Tampa",
   "Creepy Catalog",
   "DIY Magazine",
-  "DU Clarion",
   "Daily Bruin",
   "Diario AS",
   "Diffuser.fm",
@@ -122,6 +121,7 @@
   "Music Feeds",
   "Music In Minnesota",
   "Music Wee",
+  "Music-News.com",
   "MusicRadar",
   "NBC News",
   "NME",
@@ -205,7 +205,6 @@
   "Ultimate Guitar",
   "V13 Media",
   "VICE",
-  "Vanderbilt Commodores",
   "Variety",
   "WDHA FM",
   "WECB",
@@ -248,6 +247,7 @@
   "punknews.org",
   "rockin'on",
   "rova",
+  "stephanelarue.com",
   "theneedledrop.com",
   "thepost.co.nz",
   "theriffreport.co.uk",
@@ -260,64 +260,101 @@
   "조선일보"
  ],
  "count": 383,
- "detail_count": 287,
+ "detail_count": 288,
  "digest": {
-  "headline": "My Chemical Romance新作制作やFOBツアー発表など直近の動向ま",
+  "headline": "Fall Out BoyとMCRの動向が話題、Green Day情報も",
   "points": [
    {
-    "text": "My Chemical Romanceが約13年ぶりとなる待望の新しいアルバムの制作に入ったことが報じられた。",
+    "text": "Fall Out Boyが新曲「ACES」をリリースし、2027年に向けた大規模なワールドツアーやスタジアムツアーの開催を発表した。",
     "ids": [
-     "fa3eb0f01731d3da"
+     "4d96758d1b69719d",
+     "11a31973fa6b5fe7",
+     "f8bc5f60bbff5853"
     ]
    },
    {
-    "text": "Fall Out Boyが新曲「ACES」や「Aces」をリリースし、2027年のワールドツアーおよび北米スタジアムツアーの開催を発表した。",
+    "text": "My Chemical Romanceの名盤『The Black Parade』リイシュー盤がチャートで初の首位を獲得し、新作アルバムの制作も報じられた。",
     "ids": [
-     "e08e68c719e05652",
-     "f8bc5f60bbff5853",
-     "cd4e59363e36c427"
+     "fa3eb0f01731d3da",
+     "b2bcf48906075508",
+     "a89deda881eb5cf5"
     ]
    },
    {
-    "text": "My Chemical Romanceの『The Black Parade』リイシュー盤がBillboardの3つの追加チャートで1位を獲得した。",
+    "text": "Green DayのTré Coolがインタビューで語り、Billie Joe ArmstrongはPinhead Gunpowderでサンフランシスコ公演を行った。",
     "ids": [
-     "a89deda881eb5cf5",
-     "db8fa3d6b36401af"
-    ]
-   },
-   {
-    "text": "Billie Joe ArmstrongがサイドプロジェクトのPinhead Gunpowderを率いてサンフランシスコでソールドアウト公演を行った。",
-    "ids": [
+     "312360be5a98499f",
      "7b3d088eac982186"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-07T10:25:20.582845+09:00",
-  "generated_at": "2026-11-10T10:25:22.120924+09:00",
-  "article_count": 19,
-  "sig": "467fa1b6408b"
+  "from": "2026-11-07T23:44:15.243987+09:00",
+  "generated_at": "2026-11-10T23:44:21.834056+09:00",
+  "article_count": 20,
+  "sig": "22a2d5f49f04"
  },
  "items": [
   {
-   "id": "e08e68c719e05652",
-   "url": "https://vucommodores.com/news/2026/11/10/fall-out-boy-announces-2027-twilight-of-the-punks-headline-world-tour",
-   "title_original": "Fall Out Boy Announces 2027 Twilight Of The Punks Headline World Tour",
-   "source": "Vanderbilt Commodores",
-   "image": "https://vucommodores.com/imgproxy/XwULZRYcdh7LoVSbDAbAeUEnxKtNVtC0yijV7rt5Anw/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3Z1Y29tbW9kb3Jlcy1wcm9kLzIwMjYvMTEvMDkvTkhsQm9UcURHNDFMUktkR3hYblg4Z1MyeDhPbjdJek5ZR2FxMlhLZS5qcGc.jpg",
+   "id": "11a31973fa6b5fe7",
+   "url": "https://www.music-news.com/news/UK/192185/Fall-Out-Boy-announce-biggest-ever-headline-tour-and-drop-new-single-ACES",
+   "title_original": "Fall Out Boy announce biggest-ever headline tour and drop new single ACES",
+   "source": "Music-News.com",
+   "image": "https://www.music-news.com/images/news/bang/192185.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-11-10T00:13:04+00:00",
-   "title_ja": "Fall Out Boyが2027年ワールドツアー発表",
-   "summary_ja": "Fall Out Boyが、2027年に開催するヘッドライン・ワールドツアー「Twilight Of The Punks」の開催を発表した。",
-   "category": "ライブ・ツアー",
+   "published": "2026-11-10T10:10:24+00:00",
+   "title_ja": "Fall Out Boy、最大規模のツアー発表と新曲配信",
+   "summary_ja": "Fall Out Boyが自身最大規模となるヘッドライン・ワールドツアーの開催を発表し、同時に新曲「ACES」をリリースした。",
+   "category": "新曲・新作",
    "band": "Fall Out Boy",
    "artists": [
     "Fall Out Boy"
    ],
    "japan": false,
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "312360be5a98499f",
+   "url": "https://riffmagazine.com/interview/the-chin-chins-sarah-rose-wright-tre-cool",
+   "title_original": "INTERVIEW: Green Day’s Tré Cool finds a new groove as wife Sarah Rose Wright follows her dream",
+   "source": "RIFF Magazine",
+   "image": "https://riffmedia.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/11/08213735/Chin_Chins_Hellcat_RIFF_featured_1200x628.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-10T08:03:18+00:00",
+   "title_ja": "Green DayのTré Coolが妻の挑戦と自身の新境地を語る",
+   "summary_ja": "Green DayのTré Coolが、妻Sarah Rose Wrightの夢の実現を支えながら、自身も新たな音楽的グルーヴを見出していることについてインタビューで語った。",
+   "category": "メンバー・発言",
+   "band": "Green Day",
+   "artists": [
+    "Tré Cool",
+    "Sarah Rose Wright"
+   ],
+   "japan": false,
+   "importance": 3,
    "detail_tries": 1
+  },
+  {
+   "id": "b2bcf48906075508",
+   "url": "https://stephanelarue.com/en/my-chemical-romance-lands-first-no-1-album-as-the-black-parade-tops-chart-20-years-on",
+   "title_original": "My Chemical Romance lands first No. 1 album as The Black Parade tops chart 20 years on",
+   "source": "stephanelarue.com",
+   "image": "https://stephanelarue.com/wp-content/uploads/2026/11/my-chemical-romance-lands-first-no-1-album-as-the-black-parade-tops-chart-20-yea-1536x864.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-10T02:47:59+00:00",
+   "title_ja": "My Chemical Romanceが『The Black Parade』で初の首位を獲得",
+   "summary_ja": "My Chemical Romanceの名盤『The Black Parade』が、発売から20年を経てついにチャートのトップに立ち、初の1位を記録した。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "f8bc5f60bbff5853",
@@ -358,27 +395,27 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
-   "id": "cd4e59363e36c427",
-   "url": "https://music.mxdwn.com/2026/11/09/news/fall-out-boy-announce-summer-2027-north-american-stadium-tour-dates-share-new-single-video-aces",
-   "title_original": "Fall Out Boy Announce Summer 2027 North American Stadium Tour Dates, Share New Single & Video “Aces”",
-   "source": "mxdwn Music",
-   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2023/07/Fall-Out-Boy-23.jpg",
+   "id": "4d96758d1b69719d",
+   "url": "https://bluntmag.com.au/music/fall-out-boy-aces-2027-twilight-of-the-punks-tour",
+   "title_original": "Fall Out Boy Release ‘ACES’ And Announce Huge 2027 Tour",
+   "source": "Blunt Magazine",
+   "image": "https://images-1.bluntmag.com.au/cdn-cgi/image/f=auto,quality=80,fit=scale-down/https://images-1.bluntmag.com.au/uploads/2026/11/fall-out-boy-pamela-littky-2023-39f6d798675bc993b927357d763022d8.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-11-09T21:59:02+00:00",
-   "title_ja": "Fall Out Boyが新曲「Aces」を公開し2027年北米スタジアムツアーを発表",
-   "summary_ja": "Fall Out Boyが新曲「Aces」をリリースし、ミュージックビデオを公開した。あわせて、2027年夏に開催する北米スタジアムツアーの日程も発表されている。",
+   "published": "2026-11-09T22:53:26+00:00",
+   "title_ja": "Fall Out Boyが新曲「ACES」のリリースと大規模な2027年ツアーを発表",
+   "summary_ja": "Fall Out Boyが新曲「ACES」をリリースすると同時に、2027年に向けた大規模なワールドツアーの開催を発表した。",
    "category": "新曲・新作",
    "band": "Fall Out Boy",
    "artists": [
     "Fall Out Boy"
    ],
    "japan": false,
-   "importance": 4,
-   "detail_tries": 1
+   "importance": 5,
+   "has_detail": true
   },
   {
    "id": "642a14969ae0f09e",
@@ -8145,46 +8182,6 @@
    ],
    "japan": false,
    "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "96f47c17680fa55a",
-   "url": "https://duclarion.com/2026/09/punk-band-the-linda-lindas-performed-at-summit-music-hall-on-sept-23",
-   "title_original": "Punk Band The Linda Lindas performed at Summit Music Hall on Sept. 23",
-   "source": "DU Clarion",
-   "image": "https://duclarion.com/wp-content/uploads/2026/09/IMG_3879-scaled.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-29T06:40:06+00:00",
-   "title_ja": "The Linda Lindasがサミット・ミュージック・ホールで公演",
-   "summary_ja": "パンクバンドのThe Linda Lindasが、9月23日にサミット・ミュージック・ホールにてライブパフォーマンスを実施したことを伝えています。",
-   "category": "ライブ・ツアー",
-   "band": "その他",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "1bdac3b8ddcfd468",
-   "url": "https://happymag.tv/my-chemical-romance-albums-charting-again",
-   "title_original": "My Chemical Romance are parading back into the charts -",
-   "source": "Happy Mag",
-   "image": "https://happymag.tv/wp-content/uploads/2025/07/MCR-2025.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-29T01:09:59+00:00",
-   "title_ja": "My Chemical Romanceが再びチャートへ返り咲き",
-   "summary_ja": "My Chemical Romanceが、再び音楽チャートにその名を連ねて盛り上がりを見せている動きを報じています。",
-   "category": "チャート・受賞",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   }
  ]
