@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T08:05:50.516718+09:00",
+ "updated_at": "2026-11-11T14:47:26.842982+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -55,6 +55,7 @@
   "Blunt Magazine",
   "Boston's ROCK 92.9",
   "CDJournal.com",
+  "CNA Lifestyle",
   "CelebrityAccess",
   "Chaoszine",
   "Clash Magazine",
@@ -107,6 +108,7 @@
   "Loudwire",
   "Luminate",
   "MELODIC Magazine",
+  "MLB.com",
   "Maine AFL-CIO",
   "MassLive.com",
   "Men's Journal",
@@ -124,7 +126,6 @@
   "Music Wee",
   "Music-News.com",
   "MusicRadar",
-  "MyNorthwest.com",
   "NBC News",
   "NME",
   "NME Japan",
@@ -258,21 +259,21 @@
   "씨네플레이",
   "조선일보"
  ],
- "count": 384,
- "detail_count": 290,
+ "count": 385,
+ "detail_count": 291,
  "digest": {
-  "headline": "パンク・ロック界の最新動向：FOB新曲＆ツアー、MCR快挙",
+  "headline": "パンク・ロック界の最新ニュース：Fall Out Boy新曲＆ツアー発表ほか",
   "points": [
    {
-    "text": "Fall Out Boyが新曲「ACES」をリリースし、2027年に向けた大規模なワールドツアーの開催を発表した。",
+    "text": "Fall Out Boyが新曲「ACES」のリリースと、2027年に向けた大規模なワールドツアーの開催を発表した。",
     "ids": [
      "4d96758d1b69719d",
-     "7d063d0d19d6d955",
+     "5173f3904da05d40",
      "11a31973fa6b5fe7"
     ]
    },
    {
-    "text": "My Chemical Romanceの『The Black Parade』20周年記念エディションが、ビルボード200で初の首位を獲得した。",
+    "text": "My Chemical Romanceの『The Black Parade』20周年記念エディションがビルボード200で初の首位を獲得した。",
     "ids": [
      "5f5e34715edeca39",
      "b2bcf48906075508"
@@ -285,20 +286,45 @@
     ]
    },
    {
-    "text": "Green DayのTré Coolがインタビューで自身の新境地について語り、Billie Joe ArmstrongはPinhead Gunpowderでサンフランシスコ公演を行った。",
+    "text": "Green DayのTré Coolがインタビューで妻の夢の実現や自身の新たな音楽的グルーヴについて語った。",
     "ids": [
-     "312360be5a98499f",
+     "312360be5a98499f"
+    ]
+   },
+   {
+    "text": "Billie Joe ArmstrongがサイドプロジェクトのPinhead Gunpowderを率いてサンフランシスコでライブを行った。",
+    "ids": [
      "7b3d088eac982186"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-08T08:06:50.891485+09:00",
-  "generated_at": "2026-11-11T08:07:25.109724+09:00",
+  "from": "2026-11-08T14:48:35.926930+09:00",
+  "generated_at": "2026-11-11T14:48:37.450098+09:00",
   "article_count": 23,
-  "sig": "c5d818d9242b"
+  "sig": "2534bb1bdeb9"
  },
  "items": [
+  {
+   "id": "40ba6b307b474bcd",
+   "url": "https://cnalifestyle.channelnewsasia.com/entertainment/my-chemical-romance-singapore-concert-black-parade-november-2026-591546",
+   "title_original": "My Chemical Romance in Singapore: MCR resurrects The Black Parade in an elaborate theatrical production",
+   "source": "CNA Lifestyle",
+   "image": "https://dam.mediacorp.sg/image/upload/s--Lq2lzBuG--/c_crop,h_562,w_1000,x_0,y_103/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/seattle_my_chemical_romance_tour_48246.jpg?itok=cEXyj03r",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-11T05:25:00+00:00",
+   "title_ja": "My Chemical Romanceがシンガポール公演を開催",
+   "summary_ja": "My Chemical Romanceがシンガポールで「The Black Parade」を再現する劇場型の壮大なライブを行った。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "0f3f0f4fdf0b918d",
    "url": "https://www.loudhailermagazine.com/concert-reviews/the-offspring-at-sema-fest-in-las-vegas-nv",
@@ -340,23 +366,23 @@
    "has_detail": true
   },
   {
-   "id": "3fe846606f0e6a85",
-   "url": "https://mynorthwest.com/local/fall-out-boy-seattle-tour/4297794",
-   "title_original": "Fall Out Boy announces 2027 Seattle stop for Twilight of the Punks Tour",
-   "source": "MyNorthwest.com",
-   "image": "https://mynorthwest.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-10T085728.222.jpg",
+   "id": "5173f3904da05d40",
+   "url": "https://www.mlb.com/press-release/fall-out-boy-announces-2027-twilight-of-the-punks-headline-world-tour-returns-with-highly-anticipated-new-single-aces",
+   "title_original": "Fall Out Boy announces 2027 Twilight Of The Punks headline world tour & returns with highly anticipated new single \"aces\"",
+   "source": "MLB.com",
+   "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/uu54gz1resvkulttlgie.jpg",
    "lang": "en",
    "region": "global",
-   "published": "2026-11-10T17:25:42+00:00",
-   "title_ja": "Fall Out Boyが2027年シアトル公演を発表",
-   "summary_ja": "Fall Out Boyが『Twilight of the Punks Tour』の一環として、2027年にシアトル公演を開催することを発表した。",
-   "category": "ライブ・ツアー",
+   "published": "2026-11-10T18:02:22.198000+00:00",
+   "title_ja": "Fall Out Boyが2027年ワールドツアーと新曲を発表",
+   "summary_ja": "Fall Out Boyが2027年のワールドツアー「Twilight Of The Punks」の開催と、待望の新曲「aces」のリリースを発表した。",
+   "category": "新曲・新作",
    "band": "Fall Out Boy",
    "artists": [
     "Fall Out Boy"
    ],
    "japan": false,
-   "importance": 3,
+   "importance": 4,
    "has_detail": true
   },
   {
