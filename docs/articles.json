@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T23:58:22.193834+09:00",
+ "updated_at": "2026-11-13T08:27:12.474453+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -54,6 +54,7 @@
   "Bloomberg Law News",
   "Blunt Magazine",
   "Boston's ROCK 92.9",
+  "Britannica",
   "CDJournal.com",
   "CNA Lifestyle",
   "CelebrityAccess",
@@ -82,6 +83,7 @@
   "Her Campus",
   "Hit Channel",
   "Hoodline",
+  "Horror Cult Films",
   "Houston Press",
   "IMDb",
   "Icon Vs. Icon",
@@ -150,8 +152,8 @@
   "Parade Magazine",
   "Parklife DC",
   "Paste Magazine",
-  "Penticton Western News",
   "People.com",
+  "PhillyVoice",
   "Pitchfork",
   "Pollstar News",
   "PopMatters",
@@ -168,6 +170,7 @@
   "Rock Celebrities",
   "Rock Cellar Magazine",
   "Rock DNA Magazine",
+  "Rock News UK",
   "Rock Sound",
   "Rolling Stone",
   "RouteNote",
@@ -188,7 +191,9 @@
   "That Eric Alper",
   "The 13th Floor",
   "The Aquarian",
+  "The Arts Shelf",
   "The Big Takeover",
+  "The Boston Globe",
   "The Concordian",
   "The Daily Texan",
   "The Drum",
@@ -208,6 +213,7 @@
   "TheWrap",
   "Thought Catalog",
   "Toronto Guardian",
+  "UK Festival Guides",
   "Ubisoft",
   "Ultimate Guitar",
   "V13 Media",
@@ -246,7 +252,6 @@
   "khorasantimes.com",
   "killthemusic.net",
   "lamag.com",
-  "lambgoat.com",
   "michigandaily.com",
   "mxdwn Music",
   "niagara-gazette.com",
@@ -266,55 +271,228 @@
   "씨네플레이",
   "조선일보"
  ],
- "count": 393,
- "detail_count": 297,
+ "count": 399,
+ "detail_count": 302,
  "digest": {
-  "headline": "Fall Out Boyの新曲発表やMCRのチャート首位などパンク・ロック界の最",
+  "headline": "Fall Out Boyのツアー発表やMCRの快挙などパンク・ロック界の最新動向",
   "points": [
    {
-    "text": "Fall Out Boyが新曲「ACES」のリリースと、2027年に向けたキャリア最大規模のワールドツアー開催を発表しました。",
+    "text": "Fall Out Boyが2027年の大規模なワールドツアー開催と新曲ACESのリリースを発表し、サプライズライブも行った。",
     "ids": [
-     "4d96758d1b69719d",
      "5173f3904da05d40",
+     "dfb1b6155759507c",
      "11a31973fa6b5fe7"
     ]
    },
    {
-    "text": "My Chemical Romanceの『The Black Parade』20周年記念エディションが、ビルボード200アルバムチャートで初の1位を獲得しました。",
+    "text": "My Chemical RomanceのThe Black Parade 20周年記念エディションがビルボード200アルバムチャートで初の1位を獲得した。",
     "ids": [
      "5f5e34715edeca39",
      "b2bcf48906075508"
     ]
    },
    {
-    "text": "Weezerがビルボード・サミットでレジェンド・オブ・ライヴ賞を受賞したほか、コーチェラへの出演も決定しました。",
+    "text": "Download Festival 2027のヘッドライナーとしてblink-182らの出演が発表された。",
+    "ids": [
+     "fa370c62d05e1fc4",
+     "52e54f848106a4af",
+     "745c4aeed116526b"
+    ]
+   },
+   {
+    "text": "Green Dayのアルバム名にインスパイアされた映画NIMRODS: A GREEN DAY COMEDYのデジタル配信が決定した。",
+    "ids": [
+     "d3a7652b867fef1a"
+    ]
+   },
+   {
+    "text": "Weezerがコーチェラへの出演決定やビルボード・サミットでのレジェンド・オブ・ライヴ賞受賞など話題が続いている。",
     "ids": [
      "6d7c4b85b156bd5c",
-     "5f38e84dc2da3c99",
-     "e0ab82e191b9ba54"
-    ]
-   },
-   {
-    "text": "Green DayのTré Coolがインタビューに登場し、妻の挑戦を支えながら自身も新たな音楽的グルーヴを見出していると語りました。",
-    "ids": [
-     "312360be5a98499f"
-    ]
-   },
-   {
-    "text": "The Offspringが大晦日にラスベガスのザ・ベネチアン・シアターにてカウントダウンライブを開催することを発表しました。",
-    "ids": [
-     "8d29ab12840c93f6",
-     "6dd7fad9a6fc9034"
+     "5f38e84dc2da3c99"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-10T00:04:14.629750+09:00",
-  "generated_at": "2026-11-13T00:05:06.319193+09:00",
+  "from": "2026-11-10T08:28:16.175287+09:00",
+  "generated_at": "2026-11-13T08:28:18.178339+09:00",
   "article_count": 24,
-  "sig": "f1b7cf64c0c8"
+  "sig": "72c215e8bcfb"
  },
  "items": [
+  {
+   "id": "fa370c62d05e1fc4",
+   "url": "https://theartsshelf.com/2026/11/12/download-festival-2027-line-up",
+   "title_original": "Download Festival 2027: blink-182, Bring Me The Horizon and Evanescence to Headline",
+   "source": "The Arts Shelf",
+   "image": "https://theartsshelf.com/wp-content/uploads/2026/11/Download-Festival-2027-Lineup.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T22:09:45+00:00",
+   "title_ja": "Download Festival 2027でblink-182がヘッドライナーに決定",
+   "summary_ja": "イギリスで開催されるDownload Festival 2027のヘッドライナーが発表され、blink-182、Bring Me The Horizon、Evanescenceが名を連ねた。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "blink-182",
+    "Bring Me The Horizon",
+    "Evanescence"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "52e54f848106a4af",
+   "url": "https://consequence.net/2026/11/2027-download-festival-lineup",
+   "title_original": "2027 Download Festival Features blink-182, Bring Me the Horizon, Evanescence, Turnstile, and Faith No More",
+   "source": "Consequence",
+   "image": "https://consequence.net/wp-content/uploads/2026/11/Download-2027-featured.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T21:42:15+00:00",
+   "title_ja": "Download Festival 2027の出演者が発表、blink-182らが登場",
+   "summary_ja": "2027年に開催されるDownload Festivalのラインナップが発表され、blink-182、Bring Me The Horizon、Turnstileらの出演が明らかになった。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "blink-182",
+    "Bring Me The Horizon",
+    "Evanescence",
+    "Turnstile"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "e7f7d1ca97f53b2e",
+   "url": "https://www.bostonglobe.com/2026/11/12/arts/fall-out-boy-fenway-park",
+   "title_original": "Fall Out Boy heads to Fenway Park, ‘The Departed’ returns to theaters, and more local arts news",
+   "source": "The Boston Globe",
+   "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/BUBQBIJHUJWSIBX4AXG3QUWIVE.JPG?auth=3e7900181589450fbc943ba183a586d7f6d9b45b1bc540f71c3917bb2bfbf0c9&width=1440",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T21:16:52+00:00",
+   "title_ja": "Fall Out Boyがボストン・フェンウェイ・パーク公演へ",
+   "summary_ja": "Fall Out Boyがボストンの名所フェンウェイ・パークでの公演を行うことが、地元のアートニュースとして報じられた。",
+   "category": "ライブ・ツアー",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "595f867fb13d90c4",
+   "url": "https://www.rocknews.co.uk/download-line-up-2027",
+   "title_original": "Download Line Up 2027: blink-182, BMTH & Evanescence",
+   "source": "Rock News UK",
+   "image": "https://www.rocknews.co.uk/wp-content/uploads/2026/11/official-poster-andy.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T21:16:29+00:00",
+   "title_ja": "Blink-182らがDownload Festival 2027出演へ",
+   "summary_ja": "2027年開催のDownload Festivalにおいて、Blink-182、Bring Me The Horizon、Evanescenceがメインのヘッドライナーを担当する。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Bring Me The Horizon",
+    "Evanescence"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "36babcb75d7a209f",
+   "url": "https://www.rollingstone.com/music/music-features/fall-out-boy-patrick-stump-pete-wentz-stadium-tour-new-song-1235656627",
+   "title_original": "Fall Out Boy's Patrick Stump and Pete Wentz Go Deep on Their Stadium Tour and New Song",
+   "source": "Rolling Stone",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T19:20:47+00:00",
+   "title_ja": "Fall Out Boyのメンバーが語るツアーと新曲",
+   "summary_ja": "Fall Out BoyのPatrick StumpとPete Wentzが、現在のスタジアムツアーや新曲について深く語り合っている。",
+   "category": "メンバー・発言",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Patrick Stump",
+    "Pete Wentz",
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "3a81d583476a8195",
+   "url": "https://www.phillyvoice.com/fall-out-boy-offspring-good-charlotte-atlantic-city-beach-concert-2027",
+   "title_original": "Fall Out Boy, The Offspring and Good Charlotte will play Atlantic City beach concert in 2027",
+   "source": "PhillyVoice",
+   "image": "https://media.phillyvoice.com/media/images/FOB_Approved_Press_Press_Photo.2e16d0ba.fill-1200x630-c0.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T16:56:18.251340+00:00",
+   "title_ja": "Fall Out Boyらが2027年のアトランティックシティ公演に出演",
+   "summary_ja": "Fall Out Boy、The Offspring、Good Charlotteが2027年にアトランティックシティのビーチコンサートに出演する。",
+   "category": "ライブ・ツアー",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy",
+    "The Offspring",
+    "Good Charlotte"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "d3a7652b867fef1a",
+   "url": "https://horrorcultfilms.co.uk/2026/11/digital-release-announced-for-music-fuelled-teen-flick-nimrods-a-green-day-comedy",
+   "title_original": "Digital Release Announced For Music-Fuelled Teen Flick NIMRODS: A GREEN DAY COMEDY",
+   "source": "Horror Cult Films",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T10:07:55+00:00",
+   "title_ja": "Green Dayのアルバム名にちなんだ映画の配信が決定",
+   "summary_ja": "Green Dayのアルバム名にインスパイアされたティーン向けコメディ映画「NIMRODS: A GREEN DAY COMEDY」のデジタル配信が発表された。",
+   "category": "映像・映画・書籍",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "745c4aeed116526b",
+   "url": "https://www.ukfestivalguides.com/news/12112026/download-festival-2027-reveals-blink-182-bmth-and-evanescence",
+   "title_original": "Download Festival 2027 Lineup Revealed, Blink-182, BMTH & Evanescence",
+   "source": "UK Festival Guides",
+   "image": "https://images.ukfestivalguides.com/news_images/download-festival-2027-reveals-blink-182-bmth-and-evanescenc-493474b6.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T00:00:00+00:00",
+   "title_ja": "Download Festival 2027の出演アーティストが明らかに",
+   "summary_ja": "イギリスのロックフェスDownload Festival 2027のラインナップが公開され、blink-182やBMTH、Evanescenceが出演することが発表された。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "blink-182",
+    "Bring Me The Horizon",
+    "Evanescence"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "6d7c4b85b156bd5c",
    "url": "https://jambands.com/news/dua-lipa-tame-impala-sza-daddy-yankee-justice-madonna-weezer-phoebe-bridgers-leon-bridges-angine-de-poitrine-and-more-to-play-coachella",
@@ -379,7 +557,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "dfb1b6155759507c",
@@ -664,6 +842,27 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "27e737be8aed308b",
+   "url": "https://www.britannica.com/biography/Travis-Barker",
+   "title_original": "Travis Barker | Biography, Blink-182, 2008 Plane Crash, Marriage, Kourtney Kardashian, & Facts",
+   "source": "Britannica",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-10T08:00:00+00:00",
+   "title_ja": "Blink-182のTravis Barkerの生涯とキャリアを振り返る",
+   "summary_ja": "Blink-182のドラマーであるTravis Barkerの生い立ちやキャリア、2008年の飛行機墜落事故、プライベートの話題までを網羅した伝記的記事。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Travis Barker",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "b2bcf48906075508",
@@ -8346,70 +8545,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "9f824276b6f15075",
-   "url": "https://pentictonwesternnews.com/2026/09/29/dropkick-murphys-shipping-up-to-penticton-once-more",
-   "title_original": "Dropkick Murphys shipping up to Penticton once more",
-   "source": "Penticton Western News",
-   "image": "https://pentictonwesternnews.com/wp-content/uploads/sites/11/2026/09/0213-PentictonBC_DropkickMurphys_2027_1920x1080.jpg?w=1024",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-29T23:00:00+00:00",
-   "title_ja": "Dropkick Murphysがペンティクトンでの公演を発表",
-   "summary_ja": "Dropkick Murphysが再びペンティクトンを訪れ、ライブパフォーマンスを行うことが明らかにされた。",
-   "category": "ライブ・ツアー",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "42d6504451f0fa59",
-   "url": "https://lambgoat.com/news/55110/fake-names-ex-refused-bad-religion-share-lyric-video-for-new-single-if-you-could-see-me-today",
-   "title_original": "Fake Names (ex-Refused, Bad Religion) share lyric video for new single, “If You Could See Me Today",
-   "source": "lambgoat.com",
-   "image": "https://lambgoat.com/cdn/2026/fake-names-26-20260902155231.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-29T20:34:00+00:00",
-   "title_ja": "Fake Namesが新シングル「If You Could See Me Today」のリリックビデオを公開",
-   "summary_ja": "RefusedやBad Religionのメンバーが在籍するバンドFake Namesが、新曲「If You Could See Me Today」のリリックビデオを公開した。",
-   "category": "新曲・新作",
-   "band": "Bad Religion",
-   "artists": [
-    "Fake Names",
-    "Refused",
-    "Bad Religion"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7b336c3e5890046c",
-   "url": "https://www.sonicperspectives.com/news/bad-religion-refused-veterans-in-fake-names-just-dropped-if-you-could-see-me-today",
-   "title_original": "BAD RELIGION & REFUSED Veterans In FAKE NAMES Just Dropped “If You Could See Me Today”",
-   "source": "Sonic Perspectives",
-   "image": "https://www.sonicperspectives.com/wp-content/uploads/2026/09/Fake-Names-1.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-29T20:29:27+00:00",
-   "title_ja": "Bad ReligionとRefusedのメンツによるFake Namesが新曲をリリース",
-   "summary_ja": "Bad ReligionやRefusedのメンバーらが在籍するプロジェクト、Fake Namesが新曲「If You Could See Me Today」をリリースした。",
-   "category": "新曲・新作",
-   "band": "Bad Religion",
-   "artists": [
-    "Bad Religion",
-    "Refused",
-    "Fake Names"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
