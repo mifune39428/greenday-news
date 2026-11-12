@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T09:26:22.036563+09:00",
+ "updated_at": "2026-11-12T23:58:22.193834+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -101,7 +101,6 @@
   "Kerrang!",
   "LADbible",
   "LAist",
-  "LAmag",
   "Lambgoat",
   "Las Vegas Sun",
   "Law Commentary",
@@ -147,6 +146,7 @@
   "OnMilwaukee",
   "Orlando Sentinel",
   "Orlando Weekly",
+  "PUNKLOID",
   "Parade Magazine",
   "Parklife DC",
   "Paste Magazine",
@@ -234,6 +234,7 @@
   "ad-hoc-news.de",
   "amass",
   "antiMusic",
+  "buzzmusic",
   "chaoszine.net",
   "chorus.fm",
   "completemusicupdate.com",
@@ -265,28 +266,28 @@
   "씨네플레이",
   "조선일보"
  ],
- "count": 392,
+ "count": 393,
  "detail_count": 297,
  "digest": {
-  "headline": "Fall Out Boyの新曲やツアー発表、MCRの新作制作などが話題に",
+  "headline": "Fall Out Boyの新曲発表やMCRのチャート首位などパンク・ロック界の最",
   "points": [
    {
-    "text": "Fall Out Boyが新曲「ACES」のリリースと2027年の大規模なワールドツアーの開催を発表し、サプライズライブも行いました。",
+    "text": "Fall Out Boyが新曲「ACES」のリリースと、2027年に向けたキャリア最大規模のワールドツアー開催を発表しました。",
     "ids": [
      "4d96758d1b69719d",
-     "dfb1b6155759507c",
-     "5173f3904da05d40"
+     "5173f3904da05d40",
+     "11a31973fa6b5fe7"
     ]
    },
    {
-    "text": "My Chemical Romanceは約13年ぶりとなる新作アルバムの制作に入ったほか、『The Black Parade』の20周年記念エディションがビルボード200で初の首位を獲得しました。",
+    "text": "My Chemical Romanceの『The Black Parade』20周年記念エディションが、ビルボード200アルバムチャートで初の1位を獲得しました。",
     "ids": [
-     "fa3eb0f01731d3da",
-     "5f5e34715edeca39"
+     "5f5e34715edeca39",
+     "b2bcf48906075508"
     ]
    },
    {
-    "text": "WeezerがCoachella 2027への出演が決定したほか、ビルボード・サミットでLegends of Live Honorを受賞しました。",
+    "text": "Weezerがビルボード・サミットでレジェンド・オブ・ライヴ賞を受賞したほか、コーチェラへの出演も決定しました。",
     "ids": [
      "6d7c4b85b156bd5c",
      "5f38e84dc2da3c99",
@@ -294,39 +295,26 @@
     ]
    },
    {
-    "text": "Green DayのTré Coolがインタビューで妻の挑戦や自身の新たな音楽的グルーヴについて語りました。",
+    "text": "Green DayのTré Coolがインタビューに登場し、妻の挑戦を支えながら自身も新たな音楽的グルーヴを見出していると語りました。",
     "ids": [
      "312360be5a98499f"
+    ]
+   },
+   {
+    "text": "The Offspringが大晦日にラスベガスのザ・ベネチアン・シアターにてカウントダウンライブを開催することを発表しました。",
+    "ids": [
+     "8d29ab12840c93f6",
+     "6dd7fad9a6fc9034"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-09T09:27:29.680223+09:00",
-  "generated_at": "2026-11-12T09:27:31.245341+09:00",
+  "from": "2026-11-10T00:04:14.629750+09:00",
+  "generated_at": "2026-11-13T00:05:06.319193+09:00",
   "article_count": 24,
-  "sig": "83dc39d2c4e4"
+  "sig": "f1b7cf64c0c8"
  },
  "items": [
-  {
-   "id": "802b630228865656",
-   "url": "https://lamag.com/music/fall-out-boy-surprise-koreatown-los-angeles-concert",
-   "title_original": "Fall Out Boy Played a Surprise Concert Last Night Next to the Koreatown Plaza H Mart",
-   "source": "LAmag",
-   "image": "https://lamag.com/wp-content/uploads/2026/11/FOB-Approved-Press-Press-Photo-2026-2027-Credit_-Pamela-Littky-1200x800.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-11T21:55:30+00:00",
-   "title_ja": "Fall Out Boyがコリアタウン近郊でサプライズライブを開催",
-   "summary_ja": "Fall Out Boyが、韓国系スーパーのH Martに隣接する会場で昨夜サプライズライブを行った。突然の告知ながらファンが駆けつけ、熱いステージを繰り広げた。",
-   "category": "ライブ・ツアー",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
   {
    "id": "6d7c4b85b156bd5c",
    "url": "https://jambands.com/news/dua-lipa-tame-impala-sza-daddy-yankee-justice-madonna-weezer-phoebe-bridgers-leon-bridges-angine-de-poitrine-and-more-to-play-coachella",
@@ -369,6 +357,29 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "e11e56489f23feeb",
+   "url": "https://www.buzz-music.com/post/fall-out-boy-announces-massive-2027-stadium-tour",
+   "title_original": "Fall Out Boy Announces Massive 2027 Stadium Tour With The Offspring, Good Charlotte, and The Story So Far",
+   "source": "buzzmusic",
+   "image": "https://static.wixstatic.com/media/1f70b2_43646face90f446e8364f6bbfb88016b~mv2.jpg/v1/fill/w_1504,h_840,al_c,q_85/1f70b2_43646face90f446e8364f6bbfb88016b~mv2.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-11T19:00:04.215000+00:00",
+   "title_ja": "Fall Out Boyが2027年の大規模スタジアムツアーを発表",
+   "summary_ja": "Fall Out Boyが2027年に大規模なスタジアムツアーを開催すると発表しました。ツアーにはThe Offspring、Good Charlotte、The Story So Farが同行します。",
+   "category": "ライブ・ツアー",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy",
+    "The Offspring",
+    "Good Charlotte",
+    "The Story So Far"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "dfb1b6155759507c",
@@ -491,7 +502,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0f3f0f4fdf0b918d",
@@ -794,7 +805,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d7f251f3bcfbb053",
@@ -831,6 +842,27 @@
    "band": "Fall Out Boy",
    "artists": [
     "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c766f0d513747447",
+   "url": "https://www.punkloid.com/news/the-offspring-oi-to-the-world",
+   "title_original": "The Offspring、The Vandalsのクリスマスソング「Oi To The World!」をカバー！",
+   "source": "PUNKLOID",
+   "image": "https://www.punkloid.com/wp-content/uploads/2026/11/Oi-To-The-World-·-The-Offspring.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-09T14:29:39+00:00",
+   "title_ja": "The OffspringがThe Vandalsのクリスマス曲をカバー",
+   "summary_ja": "The Offspringが、The Vandalsによるクリスマスの名曲「Oi To The World!」を新たにカバーしてリリースしました。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "The Vandals"
    ],
    "japan": false,
    "importance": 3,
@@ -1079,7 +1111,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "269aacde59ac837a",
