@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T08:27:12.474453+09:00",
+ "updated_at": "2026-11-13T15:12:49.958205+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -70,7 +70,6 @@
   "Diario AS",
   "Diffuser.fm",
   "Dying Scene",
-  "Entertainment Focus",
   "Exclaim!",
   "FOX5 Vegas",
   "Far Out Magazine",
@@ -91,6 +90,7 @@
   "InMusic Blog",
   "InspireMore",
   "InterSpace Distribution",
+  "Interview Magazine",
   "Irish Star",
   "JamBase",
   "Jambands.com",
@@ -99,7 +99,6 @@
   "KSBY News",
   "KSNV",
   "KarloBag.eu",
-  "KelownaNow",
   "Kerrang!",
   "LADbible",
   "LAist",
@@ -120,7 +119,6 @@
   "Metal Addicts",
   "Metal Injection",
   "Metal Insider",
-  "Metal Planet Music",
   "Metal Underground.com",
   "Metalhead Zone",
   "Milwaukee Journal Sentinel",
@@ -154,6 +152,7 @@
   "Paste Magazine",
   "People.com",
   "PhillyVoice",
+  "Philstar.com",
   "Pitchfork",
   "Pollstar News",
   "PopMatters",
@@ -252,7 +251,6 @@
   "khorasantimes.com",
   "killthemusic.net",
   "lamag.com",
-  "michigandaily.com",
   "mxdwn Music",
   "niagara-gazette.com",
   "punknews.org",
@@ -271,55 +269,88 @@
   "씨네플레이",
   "조선일보"
  ],
- "count": 399,
+ "count": 398,
  "detail_count": 302,
  "digest": {
-  "headline": "Fall Out Boyのツアー発表やMCRの快挙などパンク・ロック界の最新動向",
+  "headline": "パンク・ロックシーンの最新動向まとめ",
   "points": [
    {
-    "text": "Fall Out Boyが2027年の大規模なワールドツアー開催と新曲ACESのリリースを発表し、サプライズライブも行った。",
+    "text": "Fall Out Boyが2027年の大規模なワールドツアー開催と新曲「ACES」のリリースを発表し、モールでのサプライズライブも行った。",
     "ids": [
+     "e11e56489f23feeb",
      "5173f3904da05d40",
-     "dfb1b6155759507c",
-     "11a31973fa6b5fe7"
+     "6e24f825b7f1fef4"
     ]
    },
    {
-    "text": "My Chemical RomanceのThe Black Parade 20周年記念エディションがビルボード200アルバムチャートで初の1位を獲得した。",
-    "ids": [
-     "5f5e34715edeca39",
-     "b2bcf48906075508"
-    ]
-   },
-   {
-    "text": "Download Festival 2027のヘッドライナーとしてblink-182らの出演が発表された。",
+    "text": "blink-182やBring Me The Horizonらが2027年開催のDownload Festivalでヘッドライナーを務めることが発表された。",
     "ids": [
      "fa370c62d05e1fc4",
      "52e54f848106a4af",
-     "745c4aeed116526b"
+     "f487014bc0809383"
     ]
    },
    {
-    "text": "Green Dayのアルバム名にインスパイアされた映画NIMRODS: A GREEN DAY COMEDYのデジタル配信が決定した。",
+    "text": "My Chemical Romanceの『The Black Parade』20周年記念エディションがビルボード200で初の首位を獲得した。",
+    "ids": [
+     "5f5e34715edeca39"
+    ]
+   },
+   {
+    "text": "Green Dayのアルバム名にインスパイアされたティーン向けコメディ映画のデジタル配信が決定した。",
     "ids": [
      "d3a7652b867fef1a"
-    ]
-   },
-   {
-    "text": "Weezerがコーチェラへの出演決定やビルボード・サミットでのレジェンド・オブ・ライヴ賞受賞など話題が続いている。",
-    "ids": [
-     "6d7c4b85b156bd5c",
-     "5f38e84dc2da3c99"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-10T08:28:16.175287+09:00",
-  "generated_at": "2026-11-13T08:28:18.178339+09:00",
+  "from": "2026-11-10T15:13:45.292631+09:00",
+  "generated_at": "2026-11-13T15:13:53.795424+09:00",
   "article_count": 24,
-  "sig": "72c215e8bcfb"
+  "sig": "8559994ea93b"
  },
  "items": [
+  {
+   "id": "0b527888db1a453f",
+   "url": "https://cnalifestyle.channelnewsasia.com/entertainment/hayley-williams-ssolo-concert-singapore-2027-591676",
+   "title_original": "Paramore's Hayley Williams to bring solo concert tour to Singapore in February 2027",
+   "source": "CNA Lifestyle",
+   "image": "https://dam.mediacorp.sg/image/upload/s--gqYlJnTV--/c_crop,h_1049,w_1864,x_18,y_1/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/13/hayley_williams_solo_concert_show1.png?itok=REDfrPv1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-13T05:16:00+00:00",
+   "title_ja": "ParamoreのHayley Williamsがソロツアー開催へ",
+   "summary_ja": "ParamoreのHayley Williamsが、2027年2月にシンガポールでソロコンサートツアーを行うことが明らかになった。",
+   "category": "ライブ・ツアー",
+   "band": "Paramore",
+   "artists": [
+    "Hayley Williams",
+    "Paramore"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f0c6cb6f07ec75a1",
+   "url": "https://www.philstar.com/lifestyle/2026/11/13/2569692/weekend-list-qcinema-my-chemical-romance-expos",
+   "title_original": "Weekend list: QCinema, My Chemical Romance, expos",
+   "source": "Philstar.com",
+   "image": "https://media.philstar.com/photos/2026/11/13/qcinema-2026-my-chemical-romance_2026-11-13_09-21-19.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-13T02:15:00+00:00",
+   "title_ja": "週末のイベント情報にMy Chemical Romance",
+   "summary_ja": "週末のおすすめイベント情報をまとめた記事の中で、映画祭や展示会と共にMy Chemical Romanceの名前が挙げられている。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 1,
+   "has_detail": true
+  },
   {
    "id": "fa370c62d05e1fc4",
    "url": "https://theartsshelf.com/2026/11/12/download-festival-2027-line-up",
@@ -430,6 +461,26 @@
    "has_detail": true
   },
   {
+   "id": "64e31e459e9dbaf1",
+   "url": "https://www.interviewmagazine.com/music/my-chemical-romance-the-black-parade-20-anniversary-spotify-fan-zine",
+   "title_original": "My Chemical Romance Fans Welcome Us to The Black Parade",
+   "source": "Interview Magazine",
+   "image": "https://www.interviewmagazine.com/wp-content/uploads/2026/11/002511950002-scaled-e1794430919811.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T17:16:51+00:00",
+   "title_ja": "My Chemical Romanceファンが迎える黒のパレード",
+   "summary_ja": "My Chemical Romanceのファンコミュニティやライブに関する話題を取り上げたインタビュー記事。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "3a81d583476a8195",
    "url": "https://www.phillyvoice.com/fall-out-boy-offspring-good-charlotte-atlantic-city-beach-concert-2027",
    "title_original": "Fall Out Boy, The Offspring and Good Charlotte will play Atlantic City beach concert in 2027",
@@ -469,6 +520,28 @@
    ],
    "japan": false,
    "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "f487014bc0809383",
+   "url": "https://www.kerrang.com/download-announce-headliners-bring-me-the-horizon-blink-182-evanescence-and-loads-more-bands",
+   "title_original": "Download announce headliners Bring Me The Horizon, blink-182, Evanescence and loads more bands",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/BMTH-GobinderJhitta-2026-10.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1782471672&s=7bb68ca214d58349cb99e3723f76c464",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T00:00:00+00:00",
+   "title_ja": "Downloadフェスが2027年のヘッドライナーを発表",
+   "summary_ja": "Download Festivalが2027年のヘッドライナーとしてBring Me The Horizon、blink-182、Evanescenceら多数のバンドを発表した。",
+   "category": "ライブ・ツアー",
+   "band": "Blink-182",
+   "artists": [
+    "Bring Me The Horizon",
+    "blink-182",
+    "Evanescence"
+   ],
+   "japan": false,
+   "importance": 4,
    "detail_tries": 1
   },
   {
@@ -862,7 +935,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b2bcf48906075508",
@@ -8441,109 +8514,6 @@
    ],
    "japan": false,
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "a47cf256886656e0",
-   "url": "https://www.kerrang.com/slam-dunk-announces-first-names-for-2027-including-bowling-for-soup-simple-plan-and-killswitch-engage",
-   "title_original": "Slam Dunk announces first names for 2027, including Bowling For Soup, Killswitch Engage and Simple Plan",
-   "source": "Kerrang!",
-   "image": "https://transforms.kerrang.com/production/images/Bowling-For-Soup-2024-live-Download-header-credit-Bethan-Miller.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1718638592&s=48fe2f0dedaacfa5f079a0b4b953756f",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T10:18:00+00:00",
-   "title_ja": "Slam Dunk Festival 2027、第1弾出演バンドを発表",
-   "summary_ja": "イギリスのパンク・ロックフェス「Slam Dunk」が2027年の開催に向け、Simple PlanやBowling For Soupらの出演を発表した。",
-   "category": "フェス出演",
-   "band": "Simple Plan",
-   "artists": [
-    "Simple Plan",
-    "Bowling For Soup",
-    "Killswitch Engage"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "d15e6cb8a31c8efc",
-   "url": "https://entertainment-focus.com/2026/09/30/faith-no-more-and-blink-182-to-headline-rock-for-people-2027",
-   "title_original": "Faith No More and blink-182 to headline ‘Rock For People’ 2027",
-   "source": "Entertainment Focus",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T08:35:43+00:00",
-   "title_ja": "Rock For People 2027のヘッドライナーに決定",
-   "summary_ja": "ヨーロッパの大規模音楽フェス「Rock For People 2027」のヘッドライナーとして、Faith No MoreとBlink-182が出演することが明らかになった。",
-   "category": "フェス出演",
-   "band": "Blink-182",
-   "artists": [
-    "Faith No More",
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "1c6bcf46ba6ad49c",
-   "url": "https://metalplanetmusic.com/2026/09/my-chemical-romance-open-up-about-making-a-new-album-ahead-of-2026-asia-tour",
-   "title_original": "My Chemical Romance Open Up About Making a New Album Ahead of 2026 Asia Tour",
-   "source": "Metal Planet Music",
-   "image": "https://metalplanetmusic.com/wp-content/uploads/2026/09/image-1.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T08:31:08+00:00",
-   "title_ja": "My Chemical Romance、新作アルバム制作について語る",
-   "summary_ja": "2026年のアジアツアーを控えるMy Chemical Romanceが、新しいアルバムの制作に向けた取り組みや心境について明かした。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "d1f2adc53361163e",
-   "url": "https://www.michigandaily.com/multimedia/scenes-from-the-stage-weezer",
-   "title_original": "Scenes from the stage: Weezer",
-   "source": "michigandaily.com",
-   "image": "https://www.michigandaily.com/wp-content/uploads/2026/09/weezer-4-scaled.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T02:18:40+00:00",
-   "title_ja": "Weezerのステージパフォーマンスの模様を振り返る",
-   "summary_ja": "Weezerのステージにおける様子やパフォーマンスの魅力について、現場の情景を交えて振り返る記事が公開された。",
-   "category": "その他",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "d04fde0dc5d4b3f3",
-   "url": "https://www.kelownanow.com/watercooler/news/news/Entertainment/Dropkick_Murphys_coming_to_the_Okanagan_on_their_St_Patrick_s_Day_2027_Tour",
-   "title_original": "Dropkick Murphys coming to the Okanagan on their St. Patrick’s Day 2027 Tour",
-   "source": "KelownaNow",
-   "image": "https://www.kelownanow.com/files/dropkick.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T01:00:00+00:00",
-   "title_ja": "Dropkick Murphysが2027年St. Patrick’s Dayツアーを開催",
-   "summary_ja": "Dropkick Murphysが、2027年の聖パトリック・デイを記念したツアーの一環としてオカナガンを訪れることが発表された。",
-   "category": "ライブ・ツアー",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   }
  ]
