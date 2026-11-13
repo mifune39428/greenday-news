@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T15:12:49.958205+09:00",
+ "updated_at": "2026-11-14T04:29:21.939455+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -59,6 +59,7 @@
   "CNA Lifestyle",
   "CelebrityAccess",
   "Chaoszine",
+  "Cincinnati Enquirer",
   "Clash Magazine",
   "Cleveland Scene",
   "Columbus Navigator",
@@ -215,7 +216,6 @@
   "UK Festival Guides",
   "Ubisoft",
   "Ultimate Guitar",
-  "V13 Media",
   "VICE",
   "Variety",
   "WDHA FM",
@@ -240,7 +240,6 @@
   "amass",
   "antiMusic",
   "buzzmusic",
-  "chaoszine.net",
   "chorus.fm",
   "completemusicupdate.com",
   "dangerousminds.net",
@@ -269,47 +268,173 @@
   "씨네플레이",
   "조선일보"
  ],
- "count": 398,
- "detail_count": 302,
+ "count": 396,
+ "detail_count": 298,
  "digest": {
-  "headline": "パンク・ロックシーンの最新動向まとめ",
+  "headline": "Green Day関連映画の配信決定や、バンドたちの2027年ツアー・フェス発表",
   "points": [
    {
-    "text": "Fall Out Boyが2027年の大規模なワールドツアー開催と新曲「ACES」のリリースを発表し、モールでのサプライズライブも行った。",
+    "text": "Green Dayのアルバム名にインスパイアされたティーン向けコメディ映画「NIMRODS: A GREEN DAY COMEDY」のデジタル配信が発表された。",
     "ids": [
-     "e11e56489f23feeb",
-     "5173f3904da05d40",
-     "6e24f825b7f1fef4"
+     "d3a7652b867fef1a"
     ]
    },
    {
-    "text": "blink-182やBring Me The Horizonらが2027年開催のDownload Festivalでヘッドライナーを務めることが発表された。",
+    "text": "Fall Out BoyがWalter Schreifelsを迎えた新曲をリリースしたほか、2027年の大規模スタジアムツアーやモールでのサプライズライブを行った。",
+    "ids": [
+     "a4e6a00a56fc36f8",
+     "3a81d583476a8195",
+     "e11e56489f23feeb"
+    ]
+   },
+   {
+    "text": "Blink-182がDownload Festival 2027のヘッドライナーに決定したほか、Travis Barkerが食道の前がん状態の診断を受けて禁煙したことを告白した。",
     "ids": [
      "fa370c62d05e1fc4",
      "52e54f848106a4af",
-     "f487014bc0809383"
+     "595f867fb13d90c4"
     ]
    },
    {
-    "text": "My Chemical Romanceの『The Black Parade』20周年記念エディションがビルボード200で初の首位を獲得した。",
+    "text": "WeezerがCoachella 2027への出演やビルボード・サミットでのレジェンド・オブ・ライヴ賞受賞が発表され、オーストラリアツアーに向けた演出意図を語った。",
     "ids": [
-     "5f5e34715edeca39"
-    ]
-   },
-   {
-    "text": "Green Dayのアルバム名にインスパイアされたティーン向けコメディ映画のデジタル配信が決定した。",
-    "ids": [
-     "d3a7652b867fef1a"
+     "6d7c4b85b156bd5c",
+     "5f38e84dc2da3c99",
+     "d22d59d1711d2c27"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-10T15:13:45.292631+09:00",
-  "generated_at": "2026-11-13T15:13:53.795424+09:00",
+  "from": "2026-11-11T04:30:30.869110+09:00",
+  "generated_at": "2026-11-14T04:30:32.643627+09:00",
   "article_count": 24,
-  "sig": "8559994ea93b"
+  "sig": "72c13561e410"
  },
  "items": [
+  {
+   "id": "df42525a38cc5867",
+   "url": "https://www.cincinnati.com/story/entertainment/music/2026/11/13/coachella-2027-acts-bands-ohio-connections/92759007007",
+   "title_original": "From Weezer to Pinegrove, Coachella 2027 has surprising Ohio ties",
+   "source": "Cincinnati Enquirer",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-13T18:59:00+00:00",
+   "title_ja": "コーチェラ2027ラインナップに見るWeezerなどオハイオ州と所縁のあるアーティスト",
+   "summary_ja": "2027年のコーチェラ・フェスティバルの出演陣や関連アーティストの中で、Weezerをはじめとするオハイオ州にゆかりのある意外な繋がりや背景について報じられている。",
+   "category": "フェス出演",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "Pinegrove"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "a4e6a00a56fc36f8",
+   "url": "https://www.kerrang.com/fall-out-boy-formally-release-new-single-doomsday-generation-slacker-for-the-ages-featuring-walter-schreifels",
+   "title_original": "Fall Out Boy formally release new single, Doomsday Generation (Slacker For The Ages), featuring Walter Schreifels",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/Fall-Out-Boy-January-2023-promo-Pamela-Littky.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1677861858&s=c9aca13245a1a8ce0ee859e65729b761",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-13T17:39:00+00:00",
+   "title_ja": "Fall Out Boy、Walter Schreifelsを迎えた新曲を正式リリース",
+   "summary_ja": "Fall Out Boyが、Walter Schreifelsをフィーチャーした最新シングル「Doomsday Generation (Slacker For The Ages)」を正式にリリースした。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy",
+    "Walter Schreifels"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "40fd8664d4f54d7c",
+   "url": "https://www.vice.com/en/article/blink-182-star-travis-barker-reveals-frightening-precancer-diagnosis-this-is-your-warning-shot",
+   "title_original": "Blink-182 Star Travis Barker Reveals Frightening Precancer Diagnosis: 'This Is Your Warning Shot'",
+   "source": "VICE",
+   "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/Blink-182-Star-Travis-Barker-Reveals-Frightening-Precancer-Diagnosis-This-Is-Your-Warning-Shot.jpg?w=1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-13T16:51:17+00:00",
+   "title_ja": "blink-182のTravis Barker、前がん状態の診断と警告のメッセージを告白",
+   "summary_ja": "blink-182のTravis Barkerが自身に下された恐ろしい前がん状態の診断について明かし、周囲やファンに向けて「これが警告だ」と健康への注意を呼びかけるメッセージを発信した。",
+   "category": "メンバー・発言",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Travis Barker"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "4fe8f57934e61f38",
+   "url": "https://www.nme.com/news/music/blink-182s-travis-barker-quit-smoking-after-being-diagnosed-with-precancer-of-the-oesophagus-3975909",
+   "title_original": "Blink-182's Travis Barker quit smoking after being \"diagnosed with precancer of the oesophagus\"",
+   "source": "NME",
+   "image": "https://www.nme.com/wp-content/uploads/2025/05/NMEAR_NME-READING-2024-BLINK-182-LIVE-10-CREDIT-ANDY-FORD@2000x1270.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-13T16:31:41+00:00",
+   "title_ja": "blink-182のTravis Barker、食道の前がん病変の診断を受け禁煙したことを告白",
+   "summary_ja": "blink-182のドラマーであるTravis Barkerが、食道の前がん状態と診断されたことをきっかけにタバコをやめたことを告白した。健康状態に関する自身の体験を明かしている。",
+   "category": "メンバー・発言",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Travis Barker"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "0c2cc4f543f3d9fc",
+   "url": "https://chorus.fm/news/blink-182-pac-man-merch-at-hot-topic",
+   "title_original": "Blink-182 Pac-Man Merch at Hot Topic",
+   "source": "chorus.fm",
+   "image": "https://chorus.fm/wp-content/uploads/2026/07/blink-182-4-1504x840.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-13T16:12:09+00:00",
+   "title_ja": "Blink-182がHot Topicでパックマンとコラボ",
+   "summary_ja": "Blink-182と人気ゲーム「パックマン」のコラボグッズが、アパレルショップのHot Topicで販売されることになった。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "f5672ceda30b315b",
+   "url": "https://chorus.fm/linked/fall-out-boys-rolling-stone-interview",
+   "title_original": "Fall Out Boy’s Rolling Stone Interview",
+   "source": "chorus.fm",
+   "image": "https://chorus.fm/wp-content/uploads/2026/11/Fall-Out-Boy-1504x840.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-13T16:03:01+00:00",
+   "title_ja": "Fall Out BoyがRolling Stone誌のインタビューに登場",
+   "summary_ja": "Fall Out Boyが音楽誌Rolling Stoneのインタビュー取材を受け、記事が公開されている。",
+   "category": "メンバー・発言",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "0b527888db1a453f",
    "url": "https://cnalifestyle.channelnewsasia.com/entertainment/hayley-williams-ssolo-concert-singapore-2027-591676",
@@ -542,7 +667,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "745c4aeed116526b",
@@ -8348,173 +8473,6 @@
    "japan": false,
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "2580403a73c97576",
-   "url": "https://v13.net/2026/10/weezer-place-bell-laval-photos",
-   "title_original": "Weezer Hosts a Gathering at Place Bell in Laval, QC [Photos]",
-   "source": "V13 Media",
-   "image": "https://i0.wp.com/v13.net/wp-content/uploads/weezer_sep_26_2026_by_eric_mahannah.jpg?resize=1000%2C600&ssl=1",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-01T11:00:22+00:00",
-   "title_ja": "Weezerがカナダのラヴァル公演で魅せたステージ写真",
-   "summary_ja": "カナダ・ラヴァルのPlace Bellで開催されたWeezerのコンサート会場の様子をとらえたライブ写真が公開されている。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "643ae8f1e09978fc",
-   "url": "https://www.thatericalper.com/2026/09/30/dropkick-murphys-announce-2027-st-patricks-day-tour-with-home-front-and-spiritual-cramp",
-   "title_original": "Dropkick Murphys Announce 2027 'St. Patrick’s Day Tour' With Home Front And Spiritual Cramp",
-   "source": "That Eric Alper",
-   "image": "https://www.thatericalper.com/wp-content/uploads/2026/09/download-2026-09-30T202141.947.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-01T00:21:58+00:00",
-   "title_ja": "Dropkick Murphys、Home Frontら出演の2027年「St. Patrick’s Day Tour」を発表",
-   "summary_ja": "Dropkick Murphysが、2027年に開催する恒例の「St. Patrick’s Day Tour」の日程を発表しました。ゲストとしてHome FrontとSpiritual Crampが同行します。",
-   "category": "ライブ・ツアー",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys",
-    "Home Front",
-    "Spiritual Cramp"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "969d28fbc0c4c986",
-   "url": "https://hoodline.com/2026/09/weezer-heads-back-to-columbus-bringing-the-gathering-tour-to-nationwide-arena",
-   "title_original": "Weezer Heads Back to Columbus, Bringing 'The Gathering' Tour to Nationwide Arena",
-   "source": "Hoodline",
-   "image": "https://img.hoodline.com/2026/9/weezer-heads-back-to-columbus-bringing-the-gathering-tour-to-nationwide-arena.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T19:20:17+00:00",
-   "title_ja": "Weezerがコロンバス公演を開催決定",
-   "summary_ja": "Weezerが「The Gathering」ツアーの一環としてコロンバスのNationwide Arenaでコンサートを行うことが明らかになった。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b2917e5256930d45",
-   "url": "https://chaoszine.net/faith-no-more-and-blink-182-announced-as-headliners-of-rock-for-people-2027",
-   "title_original": "Faith No More and blink-182 announced as headliners of Rock For People 2027",
-   "source": "chaoszine.net",
-   "image": "https://chaoszine.net/wp-content/uploads/2021/12/faith-no-more-1300x867-1.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T19:03:06+00:00",
-   "title_ja": "Blink-182とFaith No MoreがRock For People 2027のヘッドライナーに決定",
-   "summary_ja": "チェコの音楽フェス「Rock For People 2027」のヘッドライナーとして、Blink-182とFaith No Moreが出演することが発表された。",
-   "category": "フェス出演",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182",
-    "Faith No More"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "068166d8abd77516",
-   "url": "https://www.melodicmag.com/features/interviews/the-linda-lindas-break-through-on-new-album-gotta-get-out",
-   "title_original": "The Linda Lindas Break Through On New Album ‘GOTTA GET OUT’",
-   "source": "MELODIC Magazine",
-   "image": "https://www.melodicmag.com/wp-content/uploads/2026/09/TLL-Shervin-Lainez-800x531.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T16:10:14+00:00",
-   "title_ja": "The Linda Lindasが新作アルバム『GOTTA GET OUT』で新境地",
-   "summary_ja": "The Linda Lindasが注目のニューアルバム『GOTTA GET OUT』をリリースし、バンドとしての大きな飛躍を遂げている。若手パンクシーンを牽引する彼女たちの最新作に高い評価が集まっている。",
-   "category": "新曲・新作",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "2aa0c5a33ba63ee3",
-   "url": "https://www.billboard.com/culture/product-recommendations/my-chemical-romance-black-parade-20th-anniversary-merch-1236350730",
-   "title_original": "My Chemical Romance ‘The Black Parade’ 20th Anniversary Merch & Events",
-   "source": "Billboard",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T16:02:46+00:00",
-   "title_ja": "My Chemical Romance『The Black Parade』20周年記念企画",
-   "summary_ja": "My Chemical Romanceの名盤『The Black Parade』の20周年を記念した公式グッズや関連イベントの展開が予定されている。",
-   "category": "再発・記念盤",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "bcbeb2a32d03e961",
-   "url": "https://faroutmagazine.co.uk/rock-for-people-2027-blink-182-fat-dog-and-faith-no-more-line-up",
-   "title_original": "Rock For People 2027: Blink-182, Fat Dog and Faith No More lead line-up",
-   "source": "Far Out Magazine",
-   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/09/Mike-Patton-Blink-182-Split-2026-Far-Out-Magazine.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T12:35:56+00:00",
-   "title_ja": "Rock For People 2027のラインナップ発表、Blink-182らが出演",
-   "summary_ja": "欧州のフェス「Rock For People 2027」が第一弾ラインナップを公開し、Blink-182やFat Dog、Faith No Moreらがヘッドライナーを務めることが明らかになった。",
-   "category": "フェス出演",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182",
-    "Fat Dog",
-    "Faith No More"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "6630c6205a47f54b",
-   "url": "https://www.nme.com/news/music/rock-for-people-2027-blink-182-faith-no-more-and-architects-lead-first-names-3971546",
-   "title_original": "Rock For People 2027: Blink-182, Faith No More and Architects lead first names",
-   "source": "NME",
-   "image": "https://www.nme.com/wp-content/uploads/2026/09/Rock-for-people@2000x1270.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T10:34:54+00:00",
-   "title_ja": "Rock For People 2027、第一弾出演者を発表",
-   "summary_ja": "チェコで開催される音楽フェス「Rock For People 2027」が第一弾ラインナップを発表し、Blink-182、Faith No More、Architectsの出演が決定した。",
-   "category": "フェス出演",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182",
-    "Faith No More",
-    "Architects"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
