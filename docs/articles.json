@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T04:29:21.939455+09:00",
+ "updated_at": "2026-11-14T14:56:57.805451+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -187,6 +187,7 @@
   "Star Tribune",
   "Stereogum",
   "SurvivorNet",
+  "TVGuide.co.uk",
   "Texas Lifestyle Magazine",
   "That Eric Alper",
   "The 13th Floor",
@@ -218,6 +219,7 @@
   "Ultimate Guitar",
   "VICE",
   "Variety",
+  "Variety India",
   "WDHA FM",
   "WECB",
   "WIXY.com |",
@@ -268,47 +270,53 @@
   "씨네플레이",
   "조선일보"
  ],
- "count": 396,
- "detail_count": 298,
+ "count": 397,
+ "detail_count": 299,
  "digest": {
-  "headline": "Green Day関連映画の配信決定や、バンドたちの2027年ツアー・フェス発表",
+  "headline": "Fall Out Boyの新曲やBlink-182のフェスヘッドライナー決定など",
   "points": [
    {
-    "text": "Green Dayのアルバム名にインスパイアされたティーン向けコメディ映画「NIMRODS: A GREEN DAY COMEDY」のデジタル配信が発表された。",
+    "text": "Fall Out BoyがWalter Schreifelsを迎えた新曲をリリースしたほか、2027年の大規模スタジアムツアーやサプライズライブを発表した。",
+    "ids": [
+     "a4e6a00a56fc36f8",
+     "e11e56489f23feeb",
+     "dfb1b6155759507c"
+    ]
+   },
+   {
+    "text": "Blink-182がイギリスのDownload Festival 2027のヘッドライナーに決定した。",
+    "ids": [
+     "fa370c62d05e1fc4",
+     "52e54f848106a4af",
+     "f487014bc0809383"
+    ]
+   },
+   {
+    "text": "blink-182のTravis Barkerが食道の前がん状態と診断されたことを告白し、禁煙と健康への注意を呼びかけた。",
+    "ids": [
+     "40fd8664d4f54d7c",
+     "4fe8f57934e61f38"
+    ]
+   },
+   {
+    "text": "Green Dayのアルバム名にインスパイアされた映画のデジタル配信が発表された。",
     "ids": [
      "d3a7652b867fef1a"
     ]
    },
    {
-    "text": "Fall Out BoyがWalter Schreifelsを迎えた新曲をリリースしたほか、2027年の大規模スタジアムツアーやモールでのサプライズライブを行った。",
-    "ids": [
-     "a4e6a00a56fc36f8",
-     "3a81d583476a8195",
-     "e11e56489f23feeb"
-    ]
-   },
-   {
-    "text": "Blink-182がDownload Festival 2027のヘッドライナーに決定したほか、Travis Barkerが食道の前がん状態の診断を受けて禁煙したことを告白した。",
-    "ids": [
-     "fa370c62d05e1fc4",
-     "52e54f848106a4af",
-     "595f867fb13d90c4"
-    ]
-   },
-   {
-    "text": "WeezerがCoachella 2027への出演やビルボード・サミットでのレジェンド・オブ・ライヴ賞受賞が発表され、オーストラリアツアーに向けた演出意図を語った。",
+    "text": "Weezerがコーチェラへの出演決定やビルボード・サミットでのレジェンド・オブ・ライヴ賞受賞など話題を集めている。",
     "ids": [
      "6d7c4b85b156bd5c",
-     "5f38e84dc2da3c99",
-     "d22d59d1711d2c27"
+     "5f38e84dc2da3c99"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-11T04:30:30.869110+09:00",
-  "generated_at": "2026-11-14T04:30:32.643627+09:00",
+  "from": "2026-11-11T14:57:33.896697+09:00",
+  "generated_at": "2026-11-14T14:57:35.611618+09:00",
   "article_count": 24,
-  "sig": "72c13561e410"
+  "sig": "53bc3816c7cd"
  },
  "items": [
   {
@@ -330,7 +338,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a4e6a00a56fc36f8",
@@ -351,7 +359,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "40fd8664d4f54d7c",
@@ -413,7 +421,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f5672ceda30b315b",
@@ -625,6 +633,26 @@
    ],
    "japan": false,
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "54e1d8bb282fcaad",
+   "url": "https://varietyindia.com/my-chemical-romance-tops-billboard-200-chart-20-year-old-album-re-issues-deluxe-releases-as-the-new-cash-grab",
+   "title_original": "My Chemical Romance Tops Billboard 200 Chart With 20-Year-Old Album: Exploring Re-Issues and Deluxe Releases as The New Cash-Grab",
+   "source": "Variety India",
+   "image": "https://variety.blr1.cdn.digitaloceanspaces.com/2026/11/My-Chemical-Romance.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T12:42:17+00:00",
+   "title_ja": "My Chemical Romanceの20年前のアルバムがチャート首位に",
+   "summary_ja": "My Chemical Romanceの20年前のアルバムがBillboard 200チャートのトップに立ったことを受け、再発盤やデラックス盤の商法について探る。",
+   "category": "チャート・受賞",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -1061,6 +1089,26 @@
    "japan": false,
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "e0c81a4113446367",
+   "url": "https://www.tvguide.co.uk/schedule/4a41578a-3963-53ac-bab4-b7ff174db093/my-chemical-romance-fan-favourites",
+   "title_original": "My Chemical Romance: Fan Favourites on NOW Rock: full details and when it's on",
+   "source": "TVGuide.co.uk",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-10T07:12:54+00:00",
+   "title_ja": "NOW RockでMy Chemical Romance特集が放送",
+   "summary_ja": "音楽専門チャンネルNOW Rockにて、My Chemical Romanceのファンに人気の楽曲や映像を集めた特別プログラムの詳細が明らかになった。",
+   "category": "映像・映画・書籍",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "b2bcf48906075508",
@@ -8452,27 +8500,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "6ccab09e01389a4e",
-   "url": "https://www.impericon.com/blogs/magazine/jera-on-air-2027-lineup-drop-featuring-dropkick-murphys-simple-plan-more",
-   "title_original": "Jera On Air 2027: Lineup Drop Featuring Dropkick Murphys, Simple Plan & More!",
-   "source": "Impericon",
-   "image": "http://www.impericon.com/cdn/shop/articles/JOA27-Poster-Ronde01-Socials_black_2_ada84603-27b8-4308-942b-3c14a179d192.jpg?v=1790849702",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-01T12:00:33+00:00",
-   "title_ja": "Jera On Air 2027の出演ラインナップが発表",
-   "summary_ja": "欧州のフェスJera On Air 2027の出演者が発表され、Dropkick MurphysやSimple Planらの参加が明らかになった。今後の追加発表にも注目が集まる。",
-   "category": "フェス出演",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys",
-    "Simple Plan"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
