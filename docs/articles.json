@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T22:23:15.248576+09:00",
+ "updated_at": "2026-11-15T07:13:39.775151+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -165,6 +165,7 @@
   "RTTNews",
   "Raleigh News & Observer",
   "Reckless Press",
+  "Reuters Connect",
   "Richland Source",
   "Richmond Times-Dispatch",
   "River 949",
@@ -196,6 +197,7 @@
   "The Arts Shelf",
   "The Big Takeover",
   "The Boston Globe",
+  "The Charge",
   "The Concordian",
   "The Daily Texan",
   "The Drum",
@@ -257,12 +259,10 @@
   "niagara-gazette.com",
   "punknews.org",
   "rockin'on",
-  "rova",
   "stephanelarue.com",
   "theneedledrop.com",
   "thepost.co.nz",
   "theriffreport.co.uk",
-  "trillmag.com",
   "upi",
   "wfmd.com",
   "شبكة تواصل الإخبارية",
@@ -272,48 +272,66 @@
   "조선일보"
  ],
  "count": 396,
- "detail_count": 299,
+ "detail_count": 297,
  "digest": {
-  "headline": "パンク・ロック系バンドの2027年フェスやツアー情報が続々",
+  "headline": "パンク・ロックシーンの最新動向：大型フェス出演や新曲発表が続々",
   "points": [
    {
-    "text": "Blink-182はDownload Festival 2027のヘッドライナーやGraspop 2027への出演が決定した。",
+    "text": "Blink-182はDownload Festival 2027やGraspop 2027への出演が決定したほか、Travis Barkerが自身の健康状態について語った。",
     "ids": [
      "6bc5e0b380bbb47e",
      "3e80ce441b760f71",
-     "fa370c62d05e1fc4"
+     "40fd8664d4f54d7c"
     ]
    },
    {
-    "text": "Fall Out Boyは新曲のリリースや2027年の大規模スタジアムツアー、サプライズライブなどを発表した。",
+    "text": "Fall Out BoyはWalter Schreifelsを迎えた新曲をリリースし、アトランティックシティのビーチコンサートなどの公演情報も明らかになった。",
     "ids": [
      "a4e6a00a56fc36f8",
      "3a81d583476a8195",
-     "e11e56489f23feeb"
+     "36babcb75d7a209f"
     ]
    },
    {
-    "text": "Weezerはコーチェラへの出演決定や、ビルボード・サミットでのレジェンド・オブ・ライヴ賞受賞が報じられた。",
-    "ids": [
-     "6d7c4b85b156bd5c",
-     "5f38e84dc2da3c99",
-     "df42525a38cc5867"
-    ]
-   },
-   {
-    "text": "Green Dayのアルバム名にちなんだ映画「NIMRODS: A GREEN DAY COMEDY」のデジタル配信が発表された。",
+    "text": "Green Dayのアルバム名にインスパイアされたティーン向けコメディ映画のデジタル配信が決定した。",
     "ids": [
      "d3a7652b867fef1a"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceは20年前のアルバムがチャート首位に立つなど話題を集めている。",
+    "ids": [
+     "54e1d8bb282fcaad"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-11T22:23:51.814805+09:00",
-  "generated_at": "2026-11-14T22:23:53.788864+09:00",
-  "article_count": 24,
-  "sig": "64e544a99622"
+  "from": "2026-11-12T07:14:34.083148+09:00",
+  "generated_at": "2026-11-15T07:14:35.984217+09:00",
+  "article_count": 21,
+  "sig": "680d34831e7d"
  },
  "items": [
+  {
+   "id": "84d7362207a4e550",
+   "url": "https://www.nicholsonstudentmedia.com/local-events/?_evDiscoveryPath=%2Fevent%2F109064942n-dropkick-murphys-vans-warped-tour-orlando-2026",
+   "title_original": "Nicholson Student Media Events - Dropkick Murphys: Vans Warped Tour Orlando 2026",
+   "source": "The Charge",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-14T13:11:14+00:00",
+   "title_ja": "Dropkick Murphys、Vans Warped Tour出演へ",
+   "summary_ja": "Dropkick Murphysがオーランドで開催されるVans Warped Tour 2026に出演することが決定した。バンドのステージにファンから大きな期待が寄せられている。",
+   "category": "フェス出演",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "6bc5e0b380bbb47e",
    "url": "https://ramzine.co.uk/news/graspop-2027-motley-crue-blink-182-and-more",
@@ -398,6 +416,26 @@
    "japan": false,
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "4702ab26b39cde4e",
+   "url": "https://rocksound.tv/news/fall-out-boy-drop-new-song-doomsday-generation",
+   "title_original": "Fall Out Boy Drop New Song ‘Doomsday Generation’",
+   "source": "Rock Sound",
+   "image": "https://spaces.rocksound.tv/uploads/2026/11/856906300_17975348682177680_7649094758501463097_n-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-13T17:17:52+00:00",
+   "title_ja": "Fall Out Boyが新曲「Doomsday Generation」をリリース",
+   "summary_ja": "Fall Out Boyが新曲「Doomsday Generation」を発表した。精力的な活動を続ける彼らの新たなサウンドがファンに向けて届けられている。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "40fd8664d4f54d7c",
@@ -1024,6 +1062,27 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "29ed1c7ff7d84e8c",
+   "url": "https://www.reutersconnect.com/item/billie-joe-armstrong-from-rock-band-green-day-walks-by-fans-on-the-day-the-band-unveils-its-star-on-the-hollywood-walk-of-fame-in-los-angeles/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX01SUFJDMjc5RUFHOFFRSA?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMjc5RUExSE1PSQ&position=1",
+   "title_original": "Licensable picture: Billie Joe Armstrong from rock band Green Day walks by fans on the day the band unveils its star on the Hollywood Walk of Fame in Los Angeles",
+   "source": "Reuters Connect",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-10T14:04:36+00:00",
+   "title_ja": "Billie Joe Armstrong、ハリウッドの星獲得記念式典に登場",
+   "summary_ja": "Green DayのBillie Joe Armstrongが、バンドのハリウッド・ウォーク・オブ・フェーム殿堂入りを祝う式典に姿を見せ、ファンの前に現れた。",
+   "category": "チャート・受賞",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "11a31973fa6b5fe7",
@@ -8415,67 +8474,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "ff4948d3e422e62b",
-   "url": "https://www.rova.nz/events/rise-against-2026",
-   "title_original": "Punk icons 'Rise Against' return to New Zealand this November!",
-   "source": "rova",
-   "image": "https://images.ctfassets.net/r65x6q43xsmv/6aEvoHatOeZxAUsDTxT54S/97b255a417aa34169436b47e56442f3d/Copy_of_ROVA_Hero_Image_1920.jpg?fm=jpg&w=1200&q=75&f=center&h=630&fit=fill",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-01T17:00:00+00:00",
-   "title_ja": "Rise Againstが11月にニュージーランド公演を開催",
-   "summary_ja": "パンクバンドのRise Againstが、今年11月にニュージーランドでのライブを行うことを発表した。",
-   "category": "ライブ・ツアー",
-   "band": "Rise Against",
-   "artists": [
-    "Rise Against"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8d497737ac1d19e6",
-   "url": "https://www.trillmag.com/entertainment/music/long-live-the-black-parade-the-thematic-narrative-of-my-chemical-romances-2026-tour",
-   "title_original": "Long Live the Black Parade: the Thematic Narrative of My Chemical Romance’s 2026 Tour",
-   "source": "trillmag.com",
-   "image": "https://www.trillmag.com/wp-content/uploads/2026/09/Screenshot-2026-09-20-192851.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-01T16:06:10+00:00",
-   "title_ja": "My Chemical Romanceの2026年ツアーのテーマ性について",
-   "summary_ja": "My Chemical Romanceによる2026年ツアーが持つ音楽的・視覚的な物語性や、そのコンセプトの深さに迫る特集記事。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f6e1e2ca3b10226f",
-   "url": "https://themosh.net/faith-no-more-blink-182-2027-rock-for-people",
-   "title_original": "Faith No More And Blink-182 To Headline 2027 Rock For People Festival",
-   "source": "The Mosh Network",
-   "image": "http://themosh.net/wp-content/uploads/2026/06/faithnomore.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-01T15:51:31+00:00",
-   "title_ja": "Blink-182が2027年Rock For Peopleに出演決定",
-   "summary_ja": "Blink-182が、2027年に開催される音楽フェスティバル「Rock For People」でヘッドライナーを務めることが発表された。",
-   "category": "フェス出演",
-   "band": "Blink-182",
-   "artists": [
-    "Faith No More",
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 4,
    "has_detail": true
   }
  ]
