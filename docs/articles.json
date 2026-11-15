@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T07:13:39.775151+09:00",
+ "updated_at": "2026-11-15T14:58:42.849499+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -213,6 +213,7 @@
   "The Rock Revival",
   "The Scotsman",
   "The State Times",
+  "The Straits Times",
   "The Vanderbilt Hustler",
   "TheWrap",
   "Thought Catalog",
@@ -271,47 +272,83 @@
   "씨네플레이",
   "조선일보"
  ],
- "count": 396,
- "detail_count": 297,
+ "count": 399,
+ "detail_count": 300,
  "digest": {
-  "headline": "パンク・ロックシーンの最新動向：大型フェス出演や新曲発表が続々",
+  "headline": "Green Dayやblink-182ら主要バンドの最新情報",
   "points": [
    {
-    "text": "Blink-182はDownload Festival 2027やGraspop 2027への出演が決定したほか、Travis Barkerが自身の健康状態について語った。",
+    "text": "Green DayがRock In Rioで名曲を披露して観客を熱狂させたほか、アルバム名にちなんだ映画のデジタル配信が決定した。",
     "ids": [
-     "6bc5e0b380bbb47e",
-     "3e80ce441b760f71",
-     "40fd8664d4f54d7c"
-    ]
-   },
-   {
-    "text": "Fall Out BoyはWalter Schreifelsを迎えた新曲をリリースし、アトランティックシティのビーチコンサートなどの公演情報も明らかになった。",
-    "ids": [
-     "a4e6a00a56fc36f8",
-     "3a81d583476a8195",
-     "36babcb75d7a209f"
-    ]
-   },
-   {
-    "text": "Green Dayのアルバム名にインスパイアされたティーン向けコメディ映画のデジタル配信が決定した。",
-    "ids": [
+     "bf994a8ce6b6e5ca",
      "d3a7652b867fef1a"
     ]
    },
    {
-    "text": "My Chemical Romanceは20年前のアルバムがチャート首位に立つなど話題を集めている。",
+    "text": "Blink-182はDownload Festival 2027のヘッドライナーやGraspop 2027への出演が決定し、Travis Barkerが前がん状態の診断と警告のメッセージを告白した。",
     "ids": [
-     "54e1d8bb282fcaad"
+     "3e80ce441b760f71",
+     "6bc5e0b380bbb47e",
+     "40fd8664d4f54d7c"
+    ]
+   },
+   {
+    "text": "Fall Out BoyがWalter Schreifelsを迎えた新曲「Doomsday Generation」を正式リリースしたほか、ツアーやインタビューの話題が報じられた。",
+    "ids": [
+     "a4e6a00a56fc36f8",
+     "4702ab26b39cde4e",
+     "3a81d583476a8195"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-12T07:14:34.083148+09:00",
-  "generated_at": "2026-11-15T07:14:35.984217+09:00",
+  "from": "2026-11-12T14:59:09.010792+09:00",
+  "generated_at": "2026-11-15T14:59:10.665615+09:00",
   "article_count": 21,
-  "sig": "680d34831e7d"
+  "sig": "61bcfcb0802b"
  },
  "items": [
+  {
+   "id": "6a8575fe678e981c",
+   "url": "https://www.noise11.com/vinterviews/jay-bentley-on-bad-religions-future-new-music-australian-touring-noise11",
+   "title_original": "Jay Bentley On Bad Religion’s Future, New Music & Australian Touring | Noise11",
+   "source": "Noise11",
+   "image": "https://i0.wp.com/www.noise11.com/wp/wp-content/uploads/2026/11/Bad-Religion-thumbnail.jpeg?fit=220%2C123&ssl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T02:08:29+00:00",
+   "title_ja": "Bad Religionの今後や新作、豪州ツアーについて語る",
+   "summary_ja": "Bad ReligionのJay Bentleyが、バンドの今後の展望や新曲の可能性、オーストラリアでのツアーについて語ったインタビュー。",
+   "category": "メンバー・発言",
+   "band": "Bad Religion",
+   "artists": [
+    "Jay Bentley",
+    "Bad Religion"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "bf994a8ce6b6e5ca",
+   "url": "https://www.thatericalper.com/2026/11/14/video-green-day-ignite-rock-in-rio-with-american-idiot-and-punk-rock-classics",
+   "title_original": "Video: Green Day Ignite Rock In Rio With \"American Idiot\" And Punk Rock Classics",
+   "source": "That Eric Alper",
+   "image": "https://www.thatericalper.com/wp-content/uploads/2026/11/download-2026-11-14T191153.973.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T00:12:25+00:00",
+   "title_ja": "Green Day、Rock In Rioで名曲を披露し熱狂させる",
+   "summary_ja": "Green DayがRock In Rioに出演し、「American Idiot」をはじめとするパンクのクラシックナンバーを演奏して観客を熱狂させた。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "84d7362207a4e550",
    "url": "https://www.nicholsonstudentmedia.com/local-events/?_evDiscoveryPath=%2Fevent%2F109064942n-dropkick-murphys-vans-warped-tour-orlando-2026",
@@ -330,7 +367,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6bc5e0b380bbb47e",
@@ -922,6 +959,26 @@
    "has_detail": true
   },
   {
+   "id": "7024b3382731a5ca",
+   "url": "https://www.straitstimes.com/life/entertainment/long-live-the-black-parade-my-chemical-romance-thrill-with-dystopian-theatrics-at-singapore-show",
+   "title_original": "Long live The Black Parade: My Chemical Romance thrill with dystopian theatrics at Singapore show",
+   "source": "The Straits Times",
+   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ce5586a5ec7cd08c2a7748c23d635d7021dcbdf37763fb81f932e6d442842afa?t=og",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-11T03:56:00+00:00",
+   "title_ja": "MCRがシンガポール公演で圧倒的な演劇的ステージを披露",
+   "summary_ja": "シンガポールで行われたMy Chemical Romanceの公演は、ディストピアをテーマにした演劇的な演出で観客を魅了した。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "e0ab82e191b9ba54",
    "url": "https://www.kerrang.com/angine-de-poitrine-weezer-maneskin-la-dispute-and-more-announced-for-coachella-2027",
    "title_original": "Angine de Poitrine, Weezer, Måneskin, La Dispute and more announced for Coachella 2027",
@@ -1082,7 +1139,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "11a31973fa6b5fe7",
