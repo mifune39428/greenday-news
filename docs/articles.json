@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T14:58:42.849499+09:00",
+ "updated_at": "2026-11-15T22:50:55.157874+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -37,10 +37,10 @@
   "100% ROCK MAGAZINE",
   "103.9 Wayne FM",
   "24Hip-Hop",
-  "2YOU MAGAZINE",
   "930 WFMD Free Talk",
   "95.9 The RAT",
   "96.3 KKLZ",
+  "ABS-CBN",
   "AD HOC NEWS",
   "AFL-CIO",
   "ALT 98.7",
@@ -76,6 +76,7 @@
   "FOX5 Vegas",
   "Far Out Magazine",
   "Flagpole",
+  "GMA Network",
   "Glide Magazine",
   "Global News",
   "HEAVY Magazine",
@@ -131,6 +132,7 @@
   "Music Wee",
   "Music-News.com",
   "MusicRadar",
+  "Must Share News",
   "NBC News",
   "NME",
   "NME Japan",
@@ -217,7 +219,6 @@
   "The Vanderbilt Hustler",
   "TheWrap",
   "Thought Catalog",
-  "Toronto Guardian",
   "UK Festival Guides",
   "Ubisoft",
   "Ultimate Guitar",
@@ -272,42 +273,149 @@
   "씨네플레이",
   "조선일보"
  ],
- "count": 399,
- "detail_count": 300,
+ "count": 400,
+ "detail_count": 301,
  "digest": {
-  "headline": "Green Dayやblink-182ら主要バンドの最新情報",
+  "headline": "Green Dayのライブ熱狂や大型フェス出演情報などパンク・ロック界の最新ニュ",
   "points": [
    {
-    "text": "Green DayがRock In Rioで名曲を披露して観客を熱狂させたほか、アルバム名にちなんだ映画のデジタル配信が決定した。",
+    "text": "Green DayがRock In Rioに出演し、American Idiotなどの名曲を演奏して観客を熱狂させた。",
     "ids": [
-     "bf994a8ce6b6e5ca",
-     "d3a7652b867fef1a"
+     "bf994a8ce6b6e5ca"
     ]
    },
    {
-    "text": "Blink-182はDownload Festival 2027のヘッドライナーやGraspop 2027への出演が決定し、Travis Barkerが前がん状態の診断と警告のメッセージを告白した。",
+    "text": "Blink-182がGraspop 2027やDownload Festival 2027のヘッドライナーなどのフェス出演が続々と決定している。",
     "ids": [
-     "3e80ce441b760f71",
      "6bc5e0b380bbb47e",
-     "40fd8664d4f54d7c"
+     "3e80ce441b760f71",
+     "fa370c62d05e1fc4"
     ]
    },
    {
-    "text": "Fall Out BoyがWalter Schreifelsを迎えた新曲「Doomsday Generation」を正式リリースしたほか、ツアーやインタビューの話題が報じられた。",
+    "text": "Fall Out BoyがWalter Schreifelsを迎えた新曲Doomsday Generationを正式リリースし、ツアーやインタビューの話題も報じられている。",
     "ids": [
      "a4e6a00a56fc36f8",
      "4702ab26b39cde4e",
      "3a81d583476a8195"
     ]
+   },
+   {
+    "text": "My Chemical Romanceがフィリピン公演を大成功させ称賛する一方、視界制限席を巡る不満の声も伝えられている。",
+    "ids": [
+     "423363d7b7b19de9",
+     "f4e834e91cc802a1",
+     "64e31e459e9dbaf1"
+    ]
    }
   ],
   "days": 3,
-  "from": "2026-11-12T14:59:09.010792+09:00",
-  "generated_at": "2026-11-15T14:59:10.665615+09:00",
-  "article_count": 21,
-  "sig": "61bcfcb0802b"
+  "from": "2026-11-12T22:52:18.690107+09:00",
+  "generated_at": "2026-11-15T22:52:20.703582+09:00",
+  "article_count": 24,
+  "sig": "245119fe37d4"
  },
  "items": [
+  {
+   "id": "18f7dddf4777a9ea",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/weezer-plays-q101-twisted-in-chicago-on-december-10/70516813",
+   "title_original": "Weezer plays Q101 Twisted in Chicago on December 10",
+   "source": "ad-hoc-news.de",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403847_1200_675.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T11:26:13+00:00",
+   "title_ja": "Weezerが12月10日にシカゴのQ101 Twisted公演に出演決定",
+   "summary_ja": "Weezerが12月10日にアメリカ・シカゴで開催されるイベント「Q101 Twisted」に出演することが決定した。現地でのライブパフォーマンス披露に向けて、ファンからの注目が集まっている。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "423363d7b7b19de9",
+   "url": "https://news.abs-cbn.com/entertainment/showbiz/music/2026/11/15/my-chemical-romance-calls-ph-concert-a-night-to-remember-forever-1845",
+   "title_original": "My Chemical Romance calls PH concert a night to remember forever",
+   "source": "ABS-CBN",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T10:45:00+00:00",
+   "title_ja": "My Chemical Romanceがフィリピン公演を「一生忘れない夜」と称賛",
+   "summary_ja": "My Chemical Romanceがフィリピンで開催したコンサートについて「永遠に記憶に残る夜」とコメントした。バンドが現地でのライブを無事に終え、ファンと共に特別で印象的な時間を過ごしたことが報じられている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "631e723b10501d7a",
+   "url": "https://mustsharenews.com/restricted-view-my-chemical-romance/amp",
+   "title_original": "‘Restricted view is no view’: My Chemical Romance fan says she couldn’t fully see band d ...",
+   "source": "Must Share News",
+   "image": "https://mustsharenews.com/wp-content/uploads/2026/11/141126-mcr-10-nov-concert-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T09:41:45+00:00",
+   "title_ja": "My Chemical Romanceのライブで「視界制限席から見えなかった」と不満の声",
+   "summary_ja": "My Chemical Romanceのコンサートを訪れたファンが、視界制限席からステージ上のバンドを十分に視認できなかったと不満を訴えている。会場の座席設定や観覧環境をめぐり波紋が広がっている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "a43ae81c707e7fbd",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/the-offspring-plays-las-vegas-at-the-venetian-theatre-on-december-31/70516583",
+   "title_original": "The Offspring plays Las Vegas at The Venetian Theatre on December 31",
+   "source": "ad-hoc-news.de",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403827_1200_675.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T09:40:21+00:00",
+   "title_ja": "The Offspringが12月31日にラスベガスのヴェネチアン・シアターで公演決定",
+   "summary_ja": "The Offspringが12月31日に大晦日公演として、ラスベガスのヴェネチアン・シアターでライブを行うことが明らかになった。年末の特別ステージとして現地でパフォーマンスを披露する予定だ。",
+   "category": "ライブ・ツアー",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f4e834e91cc802a1",
+   "url": "https://www.gmanetwork.com/entertainment/showbiznews/my-chemical-romance-performs-in-the-philippines/141195",
+   "title_original": "My Chemical Romance performs in the Philippines",
+   "source": "GMA Network",
+   "image": "https://aphrodite.gmanetwork.com/entertainment/articles/1200_675_Main2026-24_1115_15-11-2026-1709_-20261115170927.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T09:09:29+00:00",
+   "title_ja": "My Chemical Romanceがフィリピンで熱狂のライブステージを披露",
+   "summary_ja": "My Chemical Romanceがフィリピンでコンサートを開催し、ライブパフォーマンスを披露した。現地の大勢のファンを魅了し、会場を大いに沸かせた当日のステージの模様が伝えられている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "6a8575fe678e981c",
    "url": "https://www.noise11.com/vinterviews/jay-bentley-on-bad-religions-future-new-music-australian-touring-noise11",
@@ -8445,93 +8553,6 @@
    "japan": false,
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "3ab453c262ff9f87",
-   "url": "https://gekirock.com/news/2026/10/nofx_40_years_of_fuckin_up.php",
-   "title_original": "NOFXを追ったドキュメンタリー映画\"NOFX：40 Years of Fuckin' Up\"日本劇場公開決定！BAD RELIGION、オフスプ、PENNYWISE、ハイスタ、SUM 41メンバーも出演！",
-   "source": "激ロック",
-   "image": "https://gekirock.com/news/2026/10/02/images/NOFXmain.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-02T10:40:00+00:00",
-   "title_ja": "NOFXのドキュメンタリー映画の日本劇場公開が決定",
-   "summary_ja": "結成から引退までを追ったドキュメンタリー映画『NOFX：40 Years of Fuckin' Up』の日本劇場公開が決定した。BAD RELIGIONやThe Offspringらのメンバーも出演する。",
-   "category": "映像・映画・書籍",
-   "band": "NOFX",
-   "artists": [
-    "NOFX",
-    "Bad Religion",
-    "The Offspring",
-    "Pennywise"
-   ],
-   "japan": true,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "870bfb7aedd6d0b5",
-   "url": "https://2youmagazine.com/news/nofx261002",
-   "title_original": "NOFX、結成から引退、そして現在までを追ったドキュメンタリー映画「NOFX：40 Years of Fuckin’Up」日本劇場公開決定！BAD RELIGION、THE OFFSPRING、PENNYWISE、Hi-STANDARD、SUM 41のメンバーも出演！【ニュース】",
-   "source": "2YOU MAGAZINE",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-02T10:00:54+00:00",
-   "title_ja": "NOFXのドキュメンタリー映画『NOFX：40 Years of Fuckin’Up』日本劇場公開が決定",
-   "summary_ja": "結成から引退までを追ったNOFXのドキュメンタリー映画『NOFX：40 Years of Fuckin’Up』の日本劇場公開が決定しました。本作にはBAD RELIGIONやTHE OFFSPRING、Hi-STANDARDなどのメンバーも出演します。",
-   "category": "映像・映画・書籍",
-   "band": "NOFX",
-   "artists": [
-    "NOFX",
-    "BAD RELIGION",
-    "THE OFFSPRING",
-    "Hi-STANDARD"
-   ],
-   "japan": true,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "d03b90f025babb17",
-   "url": "https://rockcelebrities.net/faith-no-more-to-headline-rock-for-people-2027-with-blink-182",
-   "title_original": "Faith No More To Headline Rock for People 2027 with Blink-182",
-   "source": "Rock Celebrities",
-   "image": "https://rockcelebrities.net/wp-content/uploads/2025/10/roddy-bottum-with-faith-no-more-members.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T02:40:35+00:00",
-   "title_ja": "Blink-182とFaith No Moreがフェス出演へ",
-   "summary_ja": "Faith No MoreとBlink-182が、2027年の「Rock for People」フェスティバルでヘッドライナーを務めることが発表された。",
-   "category": "フェス出演",
-   "band": "Blink-182",
-   "artists": [
-    "Faith No More",
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "2c09ebe5a4283057",
-   "url": "https://torontoguardian.com/2026/10/weezer-the-gathering-concert-review-oh-yeah-alright",
-   "title_original": "Weezer: The Gathering (Concert Review): Oh Yeah, Alright",
-   "source": "Toronto Guardian",
-   "image": "https://torontoguardian.com/wp-content/uploads/2026/10/381-1.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-01T20:11:13+00:00",
-   "title_ja": "Weezerのコンサート公演レポートが到着",
-   "summary_ja": "Weezerがカナダで開催したコンサートの模様を伝えるライブレビュー記事。会場でのパフォーマンスの様子が生き生きと描写されている。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
