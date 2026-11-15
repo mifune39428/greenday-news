@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T22:50:55.157874+09:00",
+ "updated_at": "2026-11-16T07:41:57.022196+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -202,7 +202,6 @@
   "The Charge",
   "The Concordian",
   "The Daily Texan",
-  "The Drum",
   "The Hollywood Reporter",
   "The Hype Magazine",
   "The Land",
@@ -273,47 +272,44 @@
   "씨네플레이",
   "조선일보"
  ],
- "count": 400,
+ "count": 399,
  "detail_count": 301,
  "digest": {
-  "headline": "Green Dayのライブ熱狂や大型フェス出演情報などパンク・ロック界の最新ニュ",
+  "headline": "パンク・ロックシーンの最新動向と各バンドの活動まとめ",
   "points": [
    {
-    "text": "Green DayがRock In Rioに出演し、American Idiotなどの名曲を演奏して観客を熱狂させた。",
+    "text": "Green DayがRock In Rioに出演し、名曲を披露して観客を熱狂させた。",
     "ids": [
      "bf994a8ce6b6e5ca"
     ]
    },
    {
-    "text": "Blink-182がGraspop 2027やDownload Festival 2027のヘッドライナーなどのフェス出演が続々と決定している。",
+    "text": "Blink-182はGraspop 2027やDownload Festival 2027への出演が決定した。",
     "ids": [
      "6bc5e0b380bbb47e",
-     "3e80ce441b760f71",
-     "fa370c62d05e1fc4"
+     "3e80ce441b760f71"
     ]
    },
    {
-    "text": "Fall Out BoyがWalter Schreifelsを迎えた新曲Doomsday Generationを正式リリースし、ツアーやインタビューの話題も報じられている。",
+    "text": "Fall Out BoyがWalter Schreifelsを迎えた新曲「Doomsday Generation」を正式リリースした。",
     "ids": [
      "a4e6a00a56fc36f8",
-     "4702ab26b39cde4e",
-     "3a81d583476a8195"
+     "4702ab26b39cde4e"
     ]
    },
    {
-    "text": "My Chemical Romanceがフィリピン公演を大成功させ称賛する一方、視界制限席を巡る不満の声も伝えられている。",
+    "text": "My Chemical Romanceがフィリピンでコンサートを開催し、現地で熱狂的なステージを披露した。",
     "ids": [
      "423363d7b7b19de9",
-     "f4e834e91cc802a1",
-     "64e31e459e9dbaf1"
+     "f4e834e91cc802a1"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-12T22:52:18.690107+09:00",
-  "generated_at": "2026-11-15T22:52:20.703582+09:00",
-  "article_count": 24,
-  "sig": "245119fe37d4"
+  "from": "2026-11-13T07:42:19.115751+09:00",
+  "generated_at": "2026-11-16T07:42:20.587832+09:00",
+  "article_count": 17,
+  "sig": "f06e3f64cf85"
  },
  "items": [
   {
@@ -354,7 +350,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "631e723b10501d7a",
@@ -462,7 +458,7 @@
    "url": "https://www.nicholsonstudentmedia.com/local-events/?_evDiscoveryPath=%2Fevent%2F109064942n-dropkick-murphys-vans-warped-tour-orlando-2026",
    "title_original": "Nicholson Student Media Events - Dropkick Murphys: Vans Warped Tour Orlando 2026",
    "source": "The Charge",
-   "image": "",
+   "image": "https://bloximages.newyork1.vip.townnews.com/nicholsonstudentmedia.com/content/tncms/custom/image/c80f90ae-dd3a-11ed-8f48-3baec7674bdd.png?resize=600%2C736",
    "lang": "en",
    "region": "global",
    "published": "2026-11-14T13:11:14+00:00",
@@ -8531,28 +8527,6 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "de8cee4cc392d5f4",
-   "url": "https://www.thedrum.com/news/marshalls-puts-on-a-the-linda-lindas-gig-at-the-venue-where-the-doors-got-their-start",
-   "title_original": "Marshall puts on a The Linda Lindas gig at the venue where The Doors got their start",
-   "source": "The Drum",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T12:06:36+00:00",
-   "title_ja": "Marshall、The Doorsゆかりの会場でThe Linda Lindasのライブを開催",
-   "summary_ja": "アンプブランドのMarshallが、The Doorsの原点となったライブハウスにて、The Linda Lindasの特別公演を主催した。",
-   "category": "ライブ・ツアー",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas",
-    "Marshall",
-    "The Doors"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
