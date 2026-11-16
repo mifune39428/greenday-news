@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T14:58:32.884768+09:00",
+ "updated_at": "2026-11-17T00:33:17.225865+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -95,7 +95,6 @@
   "InspireMore",
   "InterSpace Distribution",
   "Interview Magazine",
-  "Irish Star",
   "JamBase",
   "Jambands.com",
   "KCRW",
@@ -119,6 +118,8 @@
   "MLB.com",
   "MUSIC SCENE MEDIA",
   "Maine AFL-CIO",
+  "Malay Mail",
+  "Manila Bulletin",
   "MassLive.com",
   "Men's Journal",
   "Metal Addicts",
@@ -159,6 +160,7 @@
   "People.com",
   "PhilNews",
   "PhillyVoice",
+  "Philstar Life",
   "Philstar.com",
   "Pitchfork",
   "Pollstar News",
@@ -188,7 +190,6 @@
   "San Francisco Chronicle",
   "SanDiegoVille",
   "Sheldon Ang Media",
-  "Sonic Perspectives",
   "Sports Illustrated",
   "Star Tribune",
   "Stereogum",
@@ -206,6 +207,7 @@
   "The Daily Texan",
   "The Hollywood Reporter",
   "The Hype Magazine",
+  "The Indy Review",
   "The Land",
   "The Mosh Network",
   "The Music Universe",
@@ -226,6 +228,7 @@
   "VICE",
   "Variety",
   "Variety India",
+  "Verge Magazine",
   "WDHA FM",
   "WECB",
   "WIXY.com |",
@@ -233,11 +236,9 @@
   "WMTW",
   "WOMI Owensboro",
   "WOUB Public Media -",
-  "WRIF Rocks Detroit",
   "WSOC TV",
   "Warner Music Group",
   "Washington Examiner",
-  "We Write About Music",
   "X-Press Magazine",
   "XS ROCK",
   "Yahoo",
@@ -274,10 +275,10 @@
   "씨네플레이",
   "조선일보"
  ],
- "count": 399,
- "detail_count": 302,
+ "count": 398,
+ "detail_count": 301,
  "digest": {
-  "headline": "Green DayのRock In Rio熱演や各バンドのフェス出演情報",
+  "headline": "パンク・ロック系バンドの最新ニュースまとめ",
   "points": [
    {
     "text": "Green DayがRock In Rioに出演し、名曲を演奏して観客を熱狂させた。",
@@ -286,35 +287,118 @@
     ]
    },
    {
+    "text": "My Chemical Romanceがマレーシアやフィリピンで公演を開催し、熱狂的なライブを繰り広げた。",
+    "ids": [
+     "c23bb3304b561948",
+     "7839e1ed76452edd",
+     "fc3ef244a7556041"
+    ]
+   },
+   {
     "text": "Fall Out BoyがWalter Schreifelsを迎えた新曲「Doomsday Generation」をリリースした。",
     "ids": [
+     "832d31b7c1331f41",
      "a4e6a00a56fc36f8",
      "4702ab26b39cde4e"
     ]
    },
    {
-    "text": "Blink-182がGraspop 2027やDownload Festival 2027への出演が決定した。",
+    "text": "Blink-182がGraspop Metal Meeting 2027やDownload Festival 2027への出演が決定した。",
     "ids": [
      "6bc5e0b380bbb47e",
-     "3e80ce441b760f71"
-    ]
-   },
-   {
-    "text": "My Chemical Romanceがマニラやフィリピンでの公演を振り返り、ファンと特別な時間を過ごしたと語った。",
-    "ids": [
-     "06de0f9a9796eccb",
-     "423363d7b7b19de9",
-     "f4e834e91cc802a1"
+     "3e80ce441b760f71",
+     "40fd8664d4f54d7c"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-13T14:59:18.669481+09:00",
-  "generated_at": "2026-11-16T14:59:19.968381+09:00",
-  "article_count": 18,
-  "sig": "2138d00d072a"
+  "from": "2026-11-14T00:40:06.520541+09:00",
+  "generated_at": "2026-11-17T00:40:08.730483+09:00",
+  "article_count": 23,
+  "sig": "73603c7db794"
  },
  "items": [
+  {
+   "id": "c23bb3304b561948",
+   "url": "https://www.malaymail.com/news/showbiz/2026/11/16/my-chemical-romance-return-to-malaysia-after-19-years-what-to-know-about-the-black-parade-shows-this-week/243511",
+   "title_original": "My Chemical Romance return to Malaysia after 19 years: What to know about ‘The Black Parade’ shows this week",
+   "source": "Malay Mail",
+   "image": "https://www.malaymail.com/malaymail/uploads/images/2026/11/16/374556.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T17:59:10+00:00",
+   "title_ja": "My Chemical Romanceが19年ぶりにマレーシア公演を開催",
+   "summary_ja": "My Chemical Romanceが19年ぶりとなるマレーシア公演を実施。名盤「The Black Parade」を掲げた今週のライブの要点を伝える。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "875c3e362f0c7a01",
+   "url": "https://theindyreview.com/2026/11/16/cover-corner-nathan-willet-radio-rancid",
+   "title_original": "Cover Corner: Nathan Willet – Radio (Rancid)",
+   "source": "The Indy Review",
+   "image": "https://theindyreview.com/wp-content/uploads/2026/11/images.jpeg?w=275",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T15:20:23+00:00",
+   "title_ja": "Nathan WilletがRancidのRadioをカバー",
+   "summary_ja": "Nathan WilletがRancidの名曲Radioをカバーした。パンクシーンの隠れた名曲が新たな解釈で蘇る注目の音源となっている。",
+   "category": "新曲・新作",
+   "band": "Rancid",
+   "artists": [
+    "Nathan Willet",
+    "Rancid"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "7839e1ed76452edd",
+   "url": "https://mb.com.ph/2026/11/16/a-proposal-a-promise-fulfilled-and-more-stories-at-my-chemical-romances-2026-manila-concert",
+   "title_original": "A proposal, a promise fulfilled, and more stories at My Chemical Romance's 2026 Manila concert",
+   "source": "Manila Bulletin",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T11:19:15+00:00",
+   "title_ja": "My Chemical Romanceのマニラ公演で起きた感動の瞬間",
+   "summary_ja": "My Chemical Romanceのマニラ公演では、プロポーズの成功や約束の成就など、ファンにとって忘れられない特別なエピソードが数多く生まれた。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "fc3ef244a7556041",
+   "url": "https://philstarlife.com/geeky/170611-fangirlgigs-my-chemical-romance-bulacan",
+   "title_original": "#FangirlGigs: My Chemical Romance’s PH return was a night of dreams and nostalgia",
+   "source": "Philstar Life",
+   "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/Melanie_temp/MCR%20BANNER.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T09:23:21+00:00",
+   "title_ja": "My Chemical Romanceのマニラ公演は夢とノスタルジーの夜に",
+   "summary_ja": "My Chemical Romanceの待望のフィリピン公演が実現した。ファンにとって夢とノスタルジーが詰まった感動的な一夜となった様子が報じられている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "06de0f9a9796eccb",
    "url": "https://philnews.ph/2026/11/16/gerard-way-calls-my-chemical-romances-manila-concert-a-night-hell-remember-forever",
@@ -515,6 +599,28 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "832d31b7c1331f41",
+   "url": "https://lambgoat.com/news/55900/quicksands-walter-schreifels-guests-on-new-fall-out-boy-song-doomsday-generation",
+   "title_original": "QUICKSAND's WALTER SCHREIFELS guests on new FALL OUT BOY song \"Doomsday Generation\"",
+   "source": "Lambgoat",
+   "image": "https://lambgoat.com/cdn/2026/fall-out-boy-26-20261006101417.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-14T20:34:00+00:00",
+   "title_ja": "Fall Out Boyの新曲にWalter Schreifelsが参加",
+   "summary_ja": "Fall Out Boyが新たにリリースした楽曲「Doomsday Generation」に、QuicksandのWalter Schreifelsがゲストとして参加している。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy",
+    "Walter Schreifels",
+    "Quicksand"
+   ],
+   "japan": false,
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -725,6 +831,26 @@
    "has_detail": true
   },
   {
+   "id": "5b1198bab9c28ab2",
+   "url": "https://vergemagazine.co.uk/fall-out-boy-announce-massive-2027-world-tour-with-london-stadium-show-and-new-single-aces",
+   "title_original": "FALL OUT BOY ANNOUNCE MASSIVE 2027 WORLD TOUR WITH LONDON STADIUM SHOW AND NEW SINGLE ‘ACES’",
+   "source": "Verge Magazine",
+   "image": "https://vergemagazine.co.uk/wp-content/uploads/2026/11/FOB-Approved-Press-Press-Photo-2026-2027-Credit_-Pamela-Littky-Medium.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T23:08:34+00:00",
+   "title_ja": "Fall Out Boyが2027年世界ツアー開催を発表、新曲「Aces」もリリースへ",
+   "summary_ja": "Fall Out Boyが2027年に大規模な世界ツアーの開催を発表しました。ロンドン・スタジアムでの公演に加え、ニューシングル「Aces」のリリースも予定されており、バンドの今後の活動に注目が集まっています。",
+   "category": "ライブ・ツアー",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "fa370c62d05e1fc4",
    "url": "https://theartsshelf.com/2026/11/12/download-festival-2027-line-up",
    "title_original": "Download Festival 2027: blink-182, Bring Me The Horizon and Evanescence to Headline",
@@ -809,28 +935,6 @@
    ],
    "japan": false,
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "36babcb75d7a209f",
-   "url": "https://www.rollingstone.com/music/music-features/fall-out-boy-patrick-stump-pete-wentz-stadium-tour-new-song-1235656627",
-   "title_original": "Fall Out Boy's Patrick Stump and Pete Wentz Go Deep on Their Stadium Tour and New Song",
-   "source": "Rolling Stone",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-12T19:20:47+00:00",
-   "title_ja": "Fall Out Boyのメンバーが語るツアーと新曲",
-   "summary_ja": "Fall Out BoyのPatrick StumpとPete Wentzが、現在のスタジアムツアーや新曲について深く語り合っている。",
-   "category": "メンバー・発言",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Patrick Stump",
-    "Pete Wentz",
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   },
   {
@@ -8408,128 +8512,6 @@
    ],
    "japan": false,
    "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "24530cb497481be8",
-   "url": "https://www.wewriteaboutmusic.com/festivals/bad-religion-ohana-festival-2026",
-   "title_original": "Bad Religion Bring Four Decades of Punk Fury to Ohana Festival",
-   "source": "We Write About Music",
-   "image": "http://static1.squarespace.com/static/5e5c72d426341f1a10215614/5e61a11b7e0f211357e2306e/6ac01a809cf99f2d7270aa30/1790974853489/BAD_RELIGION4.jpeg?format=1500w",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T21:00:53+00:00",
-   "title_ja": "Bad ReligionがOhana Festivalに出演",
-   "summary_ja": "Bad ReligionがOhana Festivalのステージに登場し、4十年にわたるキャリアで培った圧倒的なパンクの怒りとエネルギーを見せつけた。",
-   "category": "フェス出演",
-   "band": "Bad Religion",
-   "artists": [
-    "Bad Religion"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4fccbb3b00e4f996",
-   "url": "https://wrif.com/2026/10/02/faith-no-more-joins-blink-182-as-headliners-for-rock-for-people-2027",
-   "title_original": "Faith No More Joins Blink-182 as Headliners for Rock For People 2027",
-   "source": "WRIF Rocks Detroit",
-   "image": "https://wrif.com/uploads/2026/10/GettyImages-1171812242-e1790968781298.jpg?auto=webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T19:22:36+00:00",
-   "title_ja": "Faith No MoreとBlink-182がヘッドライナーに決定",
-   "summary_ja": "Faith No MoreとBlink-182が、Rock For People 2027のヘッドライナーとして共演することが発表された。",
-   "category": "ライブ・ツアー",
-   "band": "Blink-182",
-   "artists": [
-    "Faith No More",
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "091bdbbe69d6da7a",
-   "url": "https://www.sonicperspectives.com/news/rancid-raids-the-vault-for-a-30th-anniversary-box-set-of-and-out-come-the-wolves/?amp=1",
-   "title_original": "RANCID Raids The Vault For A 30th Anniversary Box Set Of “…And Out Come the Wolves”",
-   "source": "Sonic Perspectives",
-   "image": "https://www.sonicperspectives.com/wp-content/uploads/2026/10/Rancid.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T18:00:45+00:00",
-   "title_ja": "Rancidの名盤30周年記念ボックスセットを発表",
-   "summary_ja": "Rancidが結成30周年を記念し、名作『…And Out Come the Wolves』の豪華なボックスセットをリリースすることを明かした。",
-   "category": "再発・記念盤",
-   "band": "Rancid",
-   "artists": [
-    "Rancid"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "acbb1c758f3f49bd",
-   "url": "https://www.irishstar.com/culture/entertainment/my-chemical-romance-frank-iero-37729028",
-   "title_original": "My Chemical Romance's Frank Iero stands up against Cornell 7 as he calls for 'public castration'",
-   "source": "Irish Star",
-   "image": "https://i2-prod.irishstar.com/article37728800.ece/ALTERNATES/s1200d/0_2023-Riot-Fest.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T16:56:28+00:00",
-   "title_ja": "My Chemical RomanceのFrank Ieroが Cornell 7に対して強い批判を展開",
-   "summary_ja": "My Chemical RomanceのFrank IeroがCornell 7に対し、激しい怒りとともに公的な場での処罰を求める発言を行ったことが報じられている。",
-   "category": "メンバー・発言",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance",
-    "Frank Iero"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "fd14be9b51ee4edb",
-   "url": "https://www.punknews.org/article/89234/rancid-to-release-huge-wolves-box-set",
-   "title_original": "Rancid to release huge 'Wolves' box set",
-   "source": "Punknews.org",
-   "image": "https://static.punknews.org/images/frontpage/fp-1790958114.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T16:30:01+00:00",
-   "title_ja": "Rancidが『...And Out Come the Wolves』の大型ボックスセットを発売へ",
-   "summary_ja": "Rancidの名盤『...And Out Come the Wolves』を記念した、ボリューム満点の大型ボックスセットのリリースが決定した。",
-   "category": "再発・記念盤",
-   "band": "Rancid",
-   "artists": [
-    "Rancid"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "6b8918a7a10a69e8",
-   "url": "https://consequence.net/2026/10/rancid-30th-anniversary-and-out-come-the-wolves-box-set",
-   "title_original": "Rancid Announce 30th Anniversary …And Out Come the Wolves Box Set",
-   "source": "Consequence",
-   "image": "https://consequence.net/wp-content/uploads/2026/10/Rancid-And-Out-Come-the-Wolves-30th-anniversary-.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T16:17:54+00:00",
-   "title_ja": "Rancid、『...And Out Come the Wolves』30周年BOX発表",
-   "summary_ja": "Rancidは名作『...And Out Come the Wolves』の30周年を記念したスペシャルなボックスセットの発売を正式にアナウンスした。",
-   "category": "再発・記念盤",
-   "band": "Rancid",
-   "artists": [
-    "Rancid"
-   ],
-   "japan": false,
-   "importance": 4,
    "has_detail": true
   }
  ]
