@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T07:41:57.022196+09:00",
+ "updated_at": "2026-11-16T14:58:32.884768+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -18,6 +18,7 @@
   "Rancid",
   "Bad Religion",
   "NOFX",
+  "Sum 41",
   "Weezer",
   "My Chemical Romance",
   "Fall Out Boy",
@@ -116,6 +117,7 @@
   "Luminate",
   "MELODIC Magazine",
   "MLB.com",
+  "MUSIC SCENE MEDIA",
   "Maine AFL-CIO",
   "MassLive.com",
   "Men's Journal",
@@ -155,6 +157,7 @@
   "Parklife DC",
   "Paste Magazine",
   "People.com",
+  "PhilNews",
   "PhillyVoice",
   "Philstar.com",
   "Pitchfork",
@@ -184,7 +187,6 @@
   "San Bernardino Sun",
   "San Francisco Chronicle",
   "SanDiegoVille",
-  "Secret Los Angeles",
   "Sheldon Ang Media",
   "Sonic Perspectives",
   "Sports Illustrated",
@@ -273,45 +275,107 @@
   "조선일보"
  ],
  "count": 399,
- "detail_count": 301,
+ "detail_count": 302,
  "digest": {
-  "headline": "パンク・ロックシーンの最新動向と各バンドの活動まとめ",
+  "headline": "Green DayのRock In Rio熱演や各バンドのフェス出演情報",
   "points": [
    {
-    "text": "Green DayがRock In Rioに出演し、名曲を披露して観客を熱狂させた。",
+    "text": "Green DayがRock In Rioに出演し、名曲を演奏して観客を熱狂させた。",
     "ids": [
      "bf994a8ce6b6e5ca"
     ]
    },
    {
-    "text": "Blink-182はGraspop 2027やDownload Festival 2027への出演が決定した。",
-    "ids": [
-     "6bc5e0b380bbb47e",
-     "3e80ce441b760f71"
-    ]
-   },
-   {
-    "text": "Fall Out BoyがWalter Schreifelsを迎えた新曲「Doomsday Generation」を正式リリースした。",
+    "text": "Fall Out BoyがWalter Schreifelsを迎えた新曲「Doomsday Generation」をリリースした。",
     "ids": [
      "a4e6a00a56fc36f8",
      "4702ab26b39cde4e"
     ]
    },
    {
-    "text": "My Chemical Romanceがフィリピンでコンサートを開催し、現地で熱狂的なステージを披露した。",
+    "text": "Blink-182がGraspop 2027やDownload Festival 2027への出演が決定した。",
     "ids": [
+     "6bc5e0b380bbb47e",
+     "3e80ce441b760f71"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceがマニラやフィリピンでの公演を振り返り、ファンと特別な時間を過ごしたと語った。",
+    "ids": [
+     "06de0f9a9796eccb",
      "423363d7b7b19de9",
      "f4e834e91cc802a1"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-13T07:42:19.115751+09:00",
-  "generated_at": "2026-11-16T07:42:20.587832+09:00",
-  "article_count": 17,
-  "sig": "f06e3f64cf85"
+  "from": "2026-11-13T14:59:18.669481+09:00",
+  "generated_at": "2026-11-16T14:59:19.968381+09:00",
+  "article_count": 18,
+  "sig": "2138d00d072a"
  },
  "items": [
+  {
+   "id": "06de0f9a9796eccb",
+   "url": "https://philnews.ph/2026/11/16/gerard-way-calls-my-chemical-romances-manila-concert-a-night-hell-remember-forever",
+   "title_original": "Gerard Way Calls My Chemical Romance's Manila Concert a Night to Remember Forever",
+   "source": "PhilNews",
+   "image": "https://philnews.ph/wp-content/uploads/2026/11/my-chemical-romance-philippine-arena-concert.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T05:12:21+00:00",
+   "title_ja": "Gerard Wayがマニラ公演を振り返る",
+   "summary_ja": "My Chemical RomanceのGerard Wayが、マニラで行われた公演を生涯忘れられない素晴らしい夜だったと語った。",
+   "category": "メンバー・発言",
+   "band": "My Chemical Romance",
+   "artists": [
+    "Gerard Way",
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a3962f52b33d4bdb",
+   "url": "https://www.musicscenemedia.com/fall-out-boy-play-their-aces-high-to-start-new-era",
+   "title_original": "Fall Out Boy Play Their “ACES” High to Start New Era",
+   "source": "MUSIC SCENE MEDIA",
+   "image": "https://storage.ghost.io/c/45/44/45447b2a-1a8d-4c85-9978-92a7b7921d74/content/images/size/w1200/2026/11/899669130_2094571918611937_6533596920529136850_n-1.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T03:00:10+00:00",
+   "title_ja": "Fall Out Boyが新たな時代の幕開けを飾る",
+   "summary_ja": "Fall Out Boyが新章のスタートに向けて、力強いライブパフォーマンスを披露して新たな魅力を提示した。",
+   "category": "ライブ・ツアー",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "5269b2856d4ff871",
+   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/sum-41-ballad-showed-band-182500997.html",
+   "title_original": "This Sum 41 Ballad Showed the Band’s Softer Side & Topped a Radio Year-End Countdown—Now It Turns 22",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/0105f4475e921fd47c4f2637ad49f667aecd2c7715545b28714f8f2bc9d79bd7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2Fcf3b838186f586562896cf1e5eba73c6.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T18:25:00+00:00",
+   "title_ja": "Sum 41のバラード曲が迎えた節目",
+   "summary_ja": "バンドの新たな一面を見せたSum 41の名バラードが、年間チャートで1位を獲得してから22周年という節目を迎えた。",
+   "category": "再発・記念盤",
+   "band": "Sum 41",
+   "artists": [
+    "Sum 41"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "18f7dddf4777a9ea",
    "url": "https://www.ad-hoc-news.de/unterhaltung/musik/weezer-plays-q101-twisted-in-chicago-on-december-10/70516813",
@@ -8463,66 +8527,6 @@
    "band": "Rancid",
    "artists": [
     "Rancid"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "fa1d713ee8b50c6a",
-   "url": "https://newnoisemagazine.com/news-dropkick-murphys-announce-st-patricks-day-tour",
-   "title_original": "News: Dropkick Murphys Announce St. Patrick’s Day Tour",
-   "source": "New Noise Magazine",
-   "image": "https://newnoisemagazine.com/wp-content/uploads/2026/07/image-84.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T14:50:53+00:00",
-   "title_ja": "Dropkick Murphysが恒例の聖パトリックデー・ツアーを発表",
-   "summary_ja": "Dropkick Murphysが毎年恒例となっている聖パトリックデーに向けたツアーの開催を発表した。熱いライブパフォーマンスで知られる彼らの新たな旅程に注目が集まる。",
-   "category": "ライブ・ツアー",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f0299ef536b85941",
-   "url": "https://riffmagazine.com/festivals/aftershock-my-chemical-romance-20261001",
-   "title_original": "AFTERSHOCK: My Chemical Romance fuels the fire on opening day",
-   "source": "RIFF Magazine",
-   "image": "https://riffmedia.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/10/02062129/11111.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T14:16:58+00:00",
-   "title_ja": "AFTERSHOCK初日、My Chemical Romanceが熱演",
-   "summary_ja": "アフターショック・フェスティバルの初日において、My Chemical Romanceが圧倒的なパフォーマンスを披露し、会場を大いに盛り上げた。",
-   "category": "フェス出演",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "f16cfdd29dcdce84",
-   "url": "https://secretlosangeles.com/my-chemical-romance-hollywood-bowl-halloween-los-angeles",
-   "title_original": "In 2006, My Chemical Romance released their defining rock opera 'The Black Parade': exactly 20 years later, the band is taking over the Hollywood Bowl for a five-night Halloween residency",
-   "source": "Secret Los Angeles",
-   "image": "https://offloadmedia.feverup.com/secretlosangeles.com/wp-content/uploads/2026/10/02033259/MCR-featured-horizontal-1-1024x683.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T12:55:00+00:00",
-   "title_ja": "My Chemical Romance、ハリウッド・ボウルで5夜連続のハロウィン公演を開催へ",
-   "summary_ja": "My Chemical Romanceが、代表作『The Black Parade』のリリース20周年を記念し、ハリウッド・ボウルにて5夜連続となるハロウィン公演を行うことが決定した。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
    ],
    "japan": false,
    "importance": 4,
