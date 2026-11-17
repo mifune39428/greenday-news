@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T10:48:22.884547+09:00",
+ "updated_at": "2026-11-18T00:50:05.809254+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -23,7 +23,6 @@
   "My Chemical Romance",
   "Fall Out Boy",
   "Paramore",
-  "Alkaline Trio",
   "Dropkick Murphys",
   "Jimmy Eat World",
   "Rise Against",
@@ -67,9 +66,10 @@
   "Columbus Navigator",
   "Consequence",
   "Creative Loafing Tampa",
-  "Creepy Catalog",
   "DIY Magazine",
   "Daily Bruin",
+  "Daily Tribune",
+  "Dallas News",
   "Diario AS",
   "Diffuser.fm",
   "Dying Scene",
@@ -89,6 +89,8 @@
   "Horror Cult Films",
   "Houston Press",
   "IMDb",
+  "INQUIRER.net USA",
+  "IQ Magazine",
   "Icon Vs. Icon",
   "Impericon",
   "InMusic Blog",
@@ -135,7 +137,6 @@
   "Music Wee",
   "Music-News.com",
   "MusicRadar",
-  "Must Share News",
   "NBC News",
   "NME",
   "NME Japan",
@@ -155,7 +156,6 @@
   "Orlando Weekly",
   "PUNKLOID",
   "Parade Magazine",
-  "Parklife DC",
   "Paste Magazine",
   "People.com",
   "PhilNews",
@@ -170,7 +170,6 @@
   "RIFF Magazine",
   "ROCK 105.3",
   "RTTNews",
-  "Raleigh News & Observer",
   "Reckless Press",
   "Reuters Connect",
   "Richland Source",
@@ -183,6 +182,7 @@
   "Rock Sound",
   "Rolling Stone",
   "RouteNote",
+  "SAYS",
   "SB Nation",
   "SFGATE",
   "SSBCrack",
@@ -190,6 +190,7 @@
   "San Francisco Chronicle",
   "SanDiegoVille",
   "Sheldon Ang Media",
+  "Soap Central",
   "Sports Illustrated",
   "Star Tribune",
   "Stereogum",
@@ -198,10 +199,8 @@
   "Texas Lifestyle Magazine",
   "That Eric Alper",
   "The 13th Floor",
-  "The Aquarian",
   "The Arts Shelf",
   "The Big Takeover",
-  "The Boston Globe",
   "The Charge",
   "The Concordian",
   "The Daily Texan",
@@ -236,7 +235,6 @@
   "WMTW",
   "WOMI Owensboro",
   "WOUB Public Media -",
-  "WSOC TV",
   "Warner Music Group",
   "Washington Examiner",
   "X-Press Magazine",
@@ -245,6 +243,7 @@
   "Yahoo News New Zealand",
   "Yahoo News UK",
   "Yahoo!ニュース",
+  "Your Valley",
   "ad-hoc-news.de",
   "amass",
   "antiMusic",
@@ -255,68 +254,228 @@
   "https://rocknloadmag.com/",
   "iHeart",
   "indienative",
-  "indieofilo.com",
   "khorasantimes.com",
   "killthemusic.net",
   "mxdwn Music",
   "niagara-gazette.com",
-  "punknews.org",
   "rockin'on",
   "stephanelarue.com",
+  "stupidDOPE",
   "theneedledrop.com",
-  "thepost.co.nz",
   "theriffreport.co.uk",
   "upi",
-  "wfmd.com",
-  "شبكة تواصل الإخبارية",
   "山陽新聞デジタル｜さんデジ",
   "激ロック",
   "씨네플레이",
   "조선일보"
  ],
- "count": 399,
- "detail_count": 301,
+ "count": 396,
+ "detail_count": 295,
  "digest": {
-  "headline": "パンク・ロックバンドのライブやフェス出演情報が続々到着",
+  "headline": "パンク・ロックシーンの最新動向：新曲発表やアジア公演が続々",
   "points": [
    {
-    "text": "Green DayがRock In Rioに出演し、名曲の数々を披露して観客を大いに熱狂させた。",
+    "text": "Fall Out Boyが3年ぶりのオリジナル新曲「ACES」や「Doomsday Generation」など連日の新曲発表やツアー予定を明かした。",
     "ids": [
-     "bf994a8ce6b6e5ca"
+     "08bf2dfcaab03162",
+     "61e07e8a74ea2960",
+     "832d31b7c1331f41"
     ]
    },
    {
-    "text": "My Chemical Romanceがマレーシアやフィリピンで公演を開催し、感動的なライブを振り返った。",
+    "text": "My Chemical Romanceが『The Black Parade』20周年記念盤の発表や、マレーシアおよびフィリピンでの公演を実施した。",
     "ids": [
+     "f8516d4cb1362e92",
      "c23bb3304b561948",
-     "7839e1ed76452edd",
      "fc3ef244a7556041"
     ]
    },
    {
-    "text": "Blink-182がDownload Festival 2027やGraspop 2027のヘッドライナーに決定した。",
+    "text": "Blink-182やParamoreが2027年開催の大型フェスでヘッドライナーを務めることが発表された。",
     "ids": [
-     "3f039c0c2620151d",
-     "6bc5e0b380bbb47e",
-     "3e80ce441b760f71"
+     "fcebd40ac67c263b",
+     "3f039c0c2620151d"
     ]
    },
    {
-    "text": "Fall Out Boyの新曲リリースや、Sum 41の楽曲、WeerやThe Offspringのライブ情報が発表された。",
+    "text": "Green DayがRock In Rioに出演し、アメリカン・イディオットをはじめとする名曲で観客を熱狂させた。",
     "ids": [
-     "7449f47f6a71a5f5",
-     "832d31b7c1331f41",
-     "a3962f52b33d4bdb"
+     "bf994a8ce6b6e5ca"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-14T10:49:21.325778+09:00",
-  "generated_at": "2026-11-17T10:49:43.584478+09:00",
-  "article_count": 20,
-  "sig": "16869e08fb17"
+  "from": "2026-11-15T00:58:58.456689+09:00",
+  "generated_at": "2026-11-18T00:59:29.802593+09:00",
+  "article_count": 24,
+  "sig": "46cf3cc6da7c"
  },
  "items": [
+  {
+   "id": "4e5b41e9b3925bb3",
+   "url": "https://says.com/my/entertainment/pop-shuvit-to-open-for-my-chemical-romance-in-kl",
+   "title_original": "Pop Shuvit To Open For My Chemical Romance In KL",
+   "source": "SAYS",
+   "image": "https://media.says.com/2026/11/0DuMVhUo-Tammys-cover-image-5.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T15:09:21+00:00",
+   "title_ja": "Pop ShuvitがKL公演でMCRのサポートを務める",
+   "summary_ja": "Pop Shuvitがクアラルンプールで行われるMy Chemical Romanceの公演でオープニングアクトを務めることが決定した。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Pop Shuvit"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "08bf2dfcaab03162",
+   "url": "https://www.melodicmag.com/news/fall-out-boy-release-doomsday-generation",
+   "title_original": "Fall Out Boy shares second new song in a week, “Doomsday Generation (Slacker For The Ages)”",
+   "source": "MELODIC Magazine",
+   "image": "https://i0.wp.com/www.melodicmag.com/wp-content/uploads/2026/11/fall-out-boy-doomsday-generation-single-artwork.jpg?fit=1500%2C1500&quality=80&ssl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T14:03:00+00:00",
+   "title_ja": "Fall Out Boyが新曲「Doomsday Generation」を公開",
+   "summary_ja": "Fall Out Boyが1週間のうちに2曲目となる新曲「Doomsday Generation (Slacker For The Ages)」を発表した。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "fcebd40ac67c263b",
+   "url": "https://www.loudersound.com/news/paramore-hayley-williams-curating-headlining-outbreak-festival-2027",
+   "title_original": "Paramore’s Hayley Williams is curating and headlining Outbreak Fest 2027, with Failure, Drain and many more joining her on the lineup",
+   "source": "Louder",
+   "image": "https://cdn.mos.cms.futurecdn.net/FCT9cNrzNjR2WwM4Y5CKid-1280-80.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T09:47:08+00:00",
+   "title_ja": "ParamoreのHayley Williamsがフェスを主催",
+   "summary_ja": "ParamoreのHayley Williamsが2027年のOutbreak Festのキュレーターおよびヘッドライナーを務め、FailureやDrainらの出演が発表された。",
+   "category": "フェス出演",
+   "band": "Paramore",
+   "artists": [
+    "Hayley Williams",
+    "Paramore",
+    "Failure",
+    "Drain"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "f8516d4cb1362e92",
+   "url": "https://www.melodicmag.com/news/new-music/my-chemical-romance-black-parade-20th-anniversary",
+   "title_original": "My Chemical Romance celebrate 20 Years of 'The Black Parade' With expanded anniversary edition",
+   "source": "MELODIC Magazine",
+   "image": "https://www.melodicmag.com/wp-content/uploads/2026/11/mcr-black-parade-20th-apple-artwork.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T02:41:00+00:00",
+   "title_ja": "MCRが『The Black Parade』の20周年記念盤を発表",
+   "summary_ja": "My Chemical Romanceの名盤『The Black Parade』の発売20周年を記念し、音源を追加した拡張エディションがリリースされる。",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "94625c8300b1d1e0",
+   "url": "https://www.soapcentral.com/entertainment/news-blink-182-mark-hoppus-collect-unpaid-attorney-fees-neighbor-lawsuit-win",
+   "title_original": "Blink-182's Mark Hoppus takes steps to collect unpaid attorney's fees after neighbor lawsuit win",
+   "source": "Soap Central",
+   "image": "https://statico.soapcentral.com/editor/2026/11/dadd0-17948789454429-1920.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T01:42:14+00:00",
+   "title_ja": "Mark Hoppusが隣人訴訟の勝訴に伴い弁護士費用を請求",
+   "summary_ja": "Blink-182のMark Hoppusが、隣人との訴訟で勝訴したことを受け、未払いの弁護士費用を回収するための手続きを進めている。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Mark Hoppus"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "61e07e8a74ea2960",
+   "url": "https://stupiddope.com/2026/11/fall-out-boy-returns-with-aces-first-original-single-in-over-three-years",
+   "title_original": "Fall Out Boy Returns With ACES, First Original Single in Over Three Years",
+   "source": "stupidDOPE",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T23:16:40+00:00",
+   "title_ja": "Fall Out Boyが3年ぶりのオリジナル新曲「ACES」を発表",
+   "summary_ja": "Fall Out Boyが、約3年以上ぶりとなる待望のオリジナル最新シングル「ACES」をリリースし、シーンへ帰ってきた。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "9d1f031755c26f57",
+   "url": "https://www.vice.com/en/article/fall-out-boy-recruits-90s-legend-for-unexpected-new-collaboration",
+   "title_original": "Fall Out Boy Recruits 90s Legend for Unexpected New Collaboration",
+   "source": "VICE",
+   "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/Fall-Out-Boy1.jpg?w=1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T19:42:02+00:00",
+   "title_ja": "Fall Out Boyが90年代のレジェンドと予想外のコラボを実現",
+   "summary_ja": "Fall Out Boyが、90年代を代表する伝説的アーティストを新たに迎えて制作した予想外のコラボレーション楽曲を発表した。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "edacf142ccd85319",
+   "url": "https://tribune.net.ph/amp/story/2026/11/16/more-than-music-my-chemical-romance-and-5sos-bring-nostalgia-to-manila",
+   "title_original": "More than music: My Chemical Romance and 5SOS bring nostalgia to Manila",
+   "source": "Daily Tribune",
+   "image": "https://images.assettype.com/tribune/2026-11-16/nojv3htj/viberimage2026-11-1614-02-59-408.jpg?w=1200&auto=format&q=70&rect=0%2C0%2C2048%2C1152&h=675&fit=crop",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T18:20:31.757000+00:00",
+   "title_ja": "My Chemical Romanceらがマニラ公演で懐かしのステージを披露",
+   "summary_ja": "My Chemical Romanceと5SOSがマニラで公演を行い、ファンに大きなノスタルジーと熱狂をもたらすライブを届けた。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "5SOS"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "c23bb3304b561948",
    "url": "https://www.malaymail.com/news/showbiz/2026/11/16/my-chemical-romance-return-to-malaysia-after-19-years-what-to-know-about-the-black-parade-shows-this-week/243511",
@@ -378,7 +537,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "875c3e362f0c7a01",
@@ -503,6 +662,26 @@
    "has_detail": true
   },
   {
+   "id": "07a0de4fdcd23b72",
+   "url": "https://usa.inquirer.net/215948/my-chemical-romance-returns-to-ph-as-the-black-parade-turns-20",
+   "title_original": "My Chemical Romance returns to PH as ‘The Black Parade’ turns 20",
+   "source": "INQUIRER.net USA",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T12:49:00+00:00",
+   "title_ja": "My Chemical Romanceが『The Black Parade』20周年でフィリピンへ",
+   "summary_ja": "名盤『The Black Parade』の発売20周年を記念し、My Chemical Romanceがフィリピンへ帰還する。（見出しに基づく）",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "18f7dddf4777a9ea",
    "url": "https://www.ad-hoc-news.de/unterhaltung/musik/weezer-plays-q101-twisted-in-chicago-on-december-10/70516813",
    "title_original": "Weezer plays Q101 Twisted in Chicago on December 10",
@@ -543,24 +722,24 @@
    "detail_tries": 2
   },
   {
-   "id": "631e723b10501d7a",
-   "url": "https://mustsharenews.com/restricted-view-my-chemical-romance/amp",
-   "title_original": "‘Restricted view is no view’: My Chemical Romance fan says she couldn’t fully see band d ...",
-   "source": "Must Share News",
-   "image": "https://mustsharenews.com/wp-content/uploads/2026/11/141126-mcr-10-nov-concert-1.jpg",
+   "id": "323aa238c9dc3886",
+   "url": "https://www.dallasnews.com/arts-entertainment/things-to-do/?_evDiscoveryPath=%2Fevent%2F108920803n-the-interrupters",
+   "title_original": "The Interrupters",
+   "source": "Dallas News",
+   "image": "",
    "lang": "en",
    "region": "global",
-   "published": "2026-11-15T09:41:45+00:00",
-   "title_ja": "My Chemical Romanceのライブで「視界制限席から見えなかった」と不満の声",
-   "summary_ja": "My Chemical Romanceのコンサートを訪れたファンが、視界制限席からステージ上のバンドを十分に視認できなかったと不満を訴えている。会場の座席設定や観覧環境をめぐり波紋が広がっている。",
-   "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
+   "published": "2026-11-15T09:56:16+00:00",
+   "title_ja": "The Interruptersに関する最新情報が公開",
+   "summary_ja": "パンク・バンド、The Interruptersについての関連記事が公開された。（見出しに基づく）",
+   "category": "その他",
+   "band": "The Interrupters",
    "artists": [
-    "My Chemical Romance"
+    "The Interrupters"
    ],
    "japan": false,
    "importance": 2,
-   "has_detail": true
+   "detail_tries": 1
   },
   {
    "id": "a43ae81c707e7fbd",
@@ -600,6 +779,26 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "2a29be7cc0979a2e",
+   "url": "https://www.yourvalley.net/stories/fall-out-boy-bringing-2027-stadium-tour-to-phoenix,739623",
+   "title_original": "Fall Out Boy bringing 2027 stadium tour to Phoenix",
+   "source": "Your Valley",
+   "image": "https://gamma.creativecirclecdn.com/yourvalley/original/20261110-124238-274-fallout%20boy.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T07:00:00+00:00",
+   "title_ja": "Fall Out Boyが2027年フェニックス公演を発表",
+   "summary_ja": "Fall Out Boyが2027年にフェニックスでのスタジアムツアー開催を予定している。（見出しに基づく）",
+   "category": "ライブ・ツアー",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -750,6 +949,26 @@
    "detail_tries": 2
   },
   {
+   "id": "5c154e8cb1649b8a",
+   "url": "https://www.buzz-music.com/post/fall-out-boy-drop-second-new-song-in-one-week-doomsday-generation-following-aces-and-2027-tour",
+   "title_original": "Fall Out Boy Drop Second New Song in One Week, “Doomsday Generation,” Following “ACES” and 2027 Tour Announcement",
+   "source": "buzzmusic",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-13T18:39:11+00:00",
+   "title_ja": "Fall Out Boyが1週間で2曲目となる新曲を発表",
+   "summary_ja": "Fall Out Boyが新曲「ACES」に続き、早くも2曲目となる新曲「Doomsday Generation」をドロップした。あわせて2027年のツアー開催も発表されている。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "a4e6a00a56fc36f8",
    "url": "https://www.kerrang.com/fall-out-boy-formally-release-new-single-doomsday-generation-slacker-for-the-ages-featuring-walter-schreifels",
    "title_original": "Fall Out Boy formally release new single, Doomsday Generation (Slacker For The Ages), featuring Walter Schreifels",
@@ -806,26 +1025,6 @@
    "artists": [
     "Blink-182",
     "Travis Barker"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f5672ceda30b315b",
-   "url": "https://chorus.fm/linked/fall-out-boys-rolling-stone-interview",
-   "title_original": "Fall Out Boy’s Rolling Stone Interview",
-   "source": "chorus.fm",
-   "image": "https://chorus.fm/wp-content/uploads/2026/11/Fall-Out-Boy-1504x840.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-13T16:03:01+00:00",
-   "title_ja": "Fall Out BoyがRolling Stone誌のインタビューに登場",
-   "summary_ja": "Fall Out Boyが音楽誌Rolling Stoneのインタビュー取材を受け、記事が公開されている。",
-   "category": "メンバー・発言",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Fall Out Boy"
    ],
    "japan": false,
    "importance": 3,
@@ -938,26 +1137,6 @@
    "has_detail": true
   },
   {
-   "id": "e7f7d1ca97f53b2e",
-   "url": "https://www.bostonglobe.com/2026/11/12/arts/fall-out-boy-fenway-park",
-   "title_original": "Fall Out Boy heads to Fenway Park, ‘The Departed’ returns to theaters, and more local arts news",
-   "source": "The Boston Globe",
-   "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/BUBQBIJHUJWSIBX4AXG3QUWIVE.JPG?auth=3e7900181589450fbc943ba183a586d7f6d9b45b1bc540f71c3917bb2bfbf0c9&width=1440",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-12T21:16:52+00:00",
-   "title_ja": "Fall Out Boyがボストン・フェンウェイ・パーク公演へ",
-   "summary_ja": "Fall Out Boyがボストンの名所フェンウェイ・パークでの公演を行うことが、地元のアートニュースとして報じられた。",
-   "category": "ライブ・ツアー",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
    "id": "595f867fb13d90c4",
    "url": "https://www.rocknews.co.uk/download-line-up-2027",
    "title_original": "Download Line Up 2027: blink-182, BMTH & Evanescence",
@@ -1020,6 +1199,26 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "c1f91167a92a0a8c",
+   "url": "https://www.iqmagazine.com/2026/11/fall-out-boys-biggest-ever-global-run-among-latest-tour-announcements",
+   "title_original": "Fall Out Boy’s biggest-ever global run among latest tour announcements",
+   "source": "IQ Magazine",
+   "image": "https://www.iqmagazine.com/wp-content/uploads/2026/11/Fall-out-boy.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T15:17:24+00:00",
+   "title_ja": "Fall Out Boyがキャリア最大規模のワールドツアーを開催へ",
+   "summary_ja": "Fall Out Boyが、自身のキャリア最大規模となる世界ツアーの開催を発表した。世界中のファンに向けた大規模な公演を予定している。",
+   "category": "ライブ・ツアー",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "54e1d8bb282fcaad",
@@ -8264,276 +8463,6 @@
    ],
    "japan": false,
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "bf6e84d2fc3251c4",
-   "url": "https://www.indieofilo.com/en/news/may-2027-will-see-the-interrupters-return-to-spain",
-   "title_original": "May 2027 will see The Interrupters return to Spain",
-   "source": "indieofilo.com",
-   "image": "http://www.indieofilo.com/wp-content/uploads/2026/10/The_Interrupters_Spain_2027.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-05T16:34:00+00:00",
-   "title_ja": "The Interruptersが2027年5月にスペイン公演を開催へ",
-   "summary_ja": "The Interruptersが、2027年5月にスペインへ戻ってライブツアーを行うことが明らかになった。（87文字）",
-   "category": "ライブ・ツアー",
-   "band": "The Interrupters",
-   "artists": [
-    "The Interrupters"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "ad8c899d2a4fca08",
-   "url": "https://www.theaquarian.com/2026/10/05/weezer-turns-new-york-city-gold",
-   "title_original": "Weezer Turns New York City Gold",
-   "source": "The Aquarian",
-   "image": "https://www.theaquarian.com/wp-content/uploads/2026/10/2026-09-30-Weezer-Barclays-Center-Ehud-Lazin-12-1024x683.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-05T15:30:00+00:00",
-   "title_ja": "Weezer、ニューヨーク公演で圧倒的なステージを披露",
-   "summary_ja": "Weezerがニューヨーク市内でコンサートを開催し、観客を熱狂の渦に巻き込んで街を大いに盛り上げた。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "658047ed0955485a",
-   "url": "https://parklifedc.com/2026/10/05/live-review-weezer-w-the-shins-and-silversun-pickups-capital-one-arena-10-2-26",
-   "title_original": "Live Review: Weezer w/ The Shins and Silversun Pickups @ Capital One Arena — 10/2/26",
-   "source": "Parklife DC",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-05T15:17:32+00:00",
-   "title_ja": "Weezer、The Shinsらと共演したワシントンDC公演のライブレポ",
-   "summary_ja": "WeezerがThe ShinsやSilversun Pickupsを従えてワシントンのキャピタル・ワン・アリーナで行ったライブのレポートが公開された。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer",
-    "The Shins",
-    "Silversun Pickups"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b26d8dab102d770a",
-   "url": "https://twaslnews1.twaslnews.com/5613640",
-   "title_original": "Watch Blink-182 play intimate private show at Coachella Valley",
-   "source": "شبكة تواصل الإخبارية",
-   "image": "https://twaslnews1.twaslnews.com/wp-content/uploads/2026/10/NMEAR_NME-READING-2024-BLINK-182-LIVE-25-CREDIT-ANDY-FORD@2000x1270-1200x675.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-05T15:11:25+00:00",
-   "title_ja": "Blink-182がコーチェラ・バレーでプライベート公演を開催",
-   "summary_ja": "Blink-182がコーチェラ・バレーの会場にて、限られた観客に向けたプライベートなシークレットライブを行った。",
-   "category": "ライブ・ツアー",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "ebf0235d7b1e03c3",
-   "url": "https://www.punknews.org/article/89243/festsandevents-blink-182-faith-no-more-billy-talent-more-to-play-rock-for-people-2027",
-   "title_original": "Festivals & Events: Blink-182, Faith No More, Billy Talent, more to play Rock For People 2027",
-   "source": "punknews.org",
-   "image": "https://static.punknews.org/images/frontpage/fp-1790969672.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-05T14:00:01+00:00",
-   "title_ja": "Blink-182らが「Rock For People 2027」出演へ",
-   "summary_ja": "Blink-182やFaith No More、Billy Talentらが、2027年に開催される音楽フェス「Rock For People」に出演することが発表された。",
-   "category": "フェス出演",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182",
-    "Faith No More",
-    "Billy Talent"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "626406207ff360b5",
-   "url": "https://northerntransmissions.com/the-linda-lindas-debut-new-single",
-   "title_original": "The Linda Lindas debut new single",
-   "source": "Northern Transmissions",
-   "image": "https://northerntransmissions.com/wp-content/uploads/2026/08/The-Linda-Lindas-by-Jaxon-Whittington-3-scaled.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-05T11:56:14+00:00",
-   "title_ja": "The Linda Lindasが新曲を新たにリリース",
-   "summary_ja": "注目の若手バンド、The Linda Lindasがファン待望の新しいシングル曲をリリースし、その楽曲を披露した。（92文字）",
-   "category": "新曲・新作",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "68c1a6142c9b7ba2",
-   "url": "https://www.newsobserver.com/entertainment/article317490322.html",
-   "title_original": "Photos: Weezer brings ‘The Gathering Tour’ to Raleigh",
-   "source": "Raleigh News & Observer",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-05T02:44:34+00:00",
-   "title_ja": "Weezerがローリー公演を開催",
-   "summary_ja": "Weezerが「The Gathering Tour」の一環としてローリー公演を行い、その模様を伝える写真が公開された。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "24b54e03d5e9aeed",
-   "url": "https://creepycatalog.com/former-weezer-bassist-mikey-welsh-tweeted-about-a-dream-of-dying-in-chicago-he-died-there-12-days-later",
-   "title_original": "Former Weezer Bassist Mikey Welsh Tweeted About a Dream of Dying in Chicago. He Died There 12 Days Later",
-   "source": "Creepy Catalog",
-   "image": "https://creepycatalog.com/wp-content/uploads/sites/2/2026/10/former-weezer-bassist-mikey-welsh-tweeted-about-a-dream-of-dying-in-chicago-he-d.jpg?w=1024",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-04T23:22:43+00:00",
-   "title_ja": "元WeezerのMikey Welshがシカゴでの死を予言していた過去のツイート",
-   "summary_ja": "Weezerの元ベーシストであるMikey Welshが、シカゴで亡くなる12日前に自身の死を予言するような夢についてツイートしていたことが話題となっている。",
-   "category": "メンバー・発言",
-   "band": "Weezer",
-   "artists": [
-    "Mikey Welsh",
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d04eb4123a095283",
-   "url": "https://www.wsoctv.com/news/local/weezer-brings-gathering-tour-charlotte-with-guests-silversun-pickups-shins/QBYEJQYBLNBYHIT2EZJZQGMR2Y",
-   "title_original": "Weezer brings ‘The Gathering’ tour to Charlotte with guests Silversun Pickups, The Shins",
-   "source": "WSOC TV",
-   "image": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYENCH4QNRRFJ5LPCQDWNNW7MXM.jpg?auth=88219618f9a9024c33530c837e928cc07e477167251d776a87c6c483848d243b&width=1200&height=630&smart=true",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-04T21:01:59.558000+00:00",
-   "title_ja": "Weezerが「The Gathering」ツアーを開催",
-   "summary_ja": "WeezerがSilversun PickupsとThe Shinsをゲストに迎え、「The Gathering」ツアーをシャーロットにて行う。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer",
-    "Silversun Pickups",
-    "The Shins"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "c248abb36ee2245b",
-   "url": "https://www.wfmd.com/2026/10/04/dhs-fires-back-at-paramores-hayley-williams-after-f-ice-concert-outburst",
-   "title_original": "DHS fires back at Paramore’s Hayley Williams after ‘f— ICE’ concert outburst",
-   "source": "wfmd.com",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/hayley-williams-paramore-bonnaroo-superjam-fox-news_-scaled.jpg?ve=1&tl=1",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-04T18:46:13+00:00",
-   "title_ja": "ParamoreのHayley Williamsの発言にDHSが反論",
-   "summary_ja": "ParamoreのHayley Williamsがライブ中に行った「f— ICE」という発言に対し、DHSが強く反論している。",
-   "category": "メンバー・発言",
-   "band": "Paramore",
-   "artists": [
-    "Hayley Williams",
-    "Paramore"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "71db91be270e700b",
-   "url": "https://www.thepost.co.nz/culture/361078702/rise-against-guitarist-zach-blair-old-friends-christchurch-memories-and-three-decades-punk-rock",
-   "title_original": "Rise Against guitarist Zach Blair on old friends, Christchurch memories and three decades of punk rock",
-   "source": "thepost.co.nz",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-04T15:00:00+00:00",
-   "title_ja": "Rise AgainstのZach Blairが語る30年の歩み",
-   "summary_ja": "Rise AgainstのギタリストであるZach Blairが、古くからの友人やクライストチャーチの思い出、30年に及ぶパンクスの歴史について語る。",
-   "category": "メンバー・発言",
-   "band": "Rise Against",
-   "artists": [
-    "Zach Blair",
-    "Rise Against"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "ebac31232ab9cefa",
-   "url": "https://metalinjection.net/news/breakups/alkaline-trios-bassist-may-have-joined-the-damned-things",
-   "title_original": "ALKALINE TRIO's Bassist May Have Joined THE DAMNED THINGS",
-   "source": "Metal Injection",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-04T07:00:00+00:00",
-   "title_ja": "ALKALINE TRIOのベースがTHE DAMNED THINGSに加入か",
-   "summary_ja": "ALKALINE TRIOのベーシストが、スーパーグループであるTHE DAMNED THINGSに新たに加入した可能性が浮上している。今後のバンド活動や公式発表に注目が集まる話題となっている。",
-   "category": "メンバー・発言",
-   "band": "Alkaline Trio",
-   "artists": [
-    "Alkaline Trio",
-    "The Damned Things"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "6f6c0f4882caf718",
-   "url": "https://wrat.com/event/wrat-presents-the-interrupters-at-starland-ballroom",
-   "title_original": "WRAT Presents: The Interrupters at Starland Ballroom",
-   "source": "95.9 The RAT",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-03T03:39:40+00:00",
-   "title_ja": "The Interruptersのスターランド・ボールルーム公演が決定",
-   "summary_ja": "ラジオ局WRATの主催により、The Interruptersがスターランド・ボールルームでライブを開催することが明らかになった。",
-   "category": "ライブ・ツアー",
-   "band": "The Interrupters",
-   "artists": [
-    "The Interrupters"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   }
  ]
