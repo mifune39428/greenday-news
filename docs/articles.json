@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T09:51:36.305040+09:00",
+ "updated_at": "2026-11-19T00:28:51.957293+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -27,7 +27,6 @@
   "Jimmy Eat World",
   "Rise Against",
   "The Interrupters",
-  "Good Charlotte",
   "New Found Glory",
   "Simple Plan",
   "The Linda Lindas",
@@ -46,6 +45,7 @@
   "ALT 98.7",
   "Arts Council of Greater New Haven",
   "Audacy",
+  "BLABBERMOUTH.NET",
   "Backseat Mafia",
   "Barstool Sports",
   "Berkeleyside",
@@ -68,7 +68,6 @@
   "Daily Bruin",
   "Daily Tribune",
   "Dallas News",
-  "Diario AS",
   "Diffuser.fm",
   "Dying Scene",
   "Exclaim!",
@@ -108,7 +107,6 @@
   "Lambgoat",
   "Las Vegas Sun",
   "Law Commentary",
-  "Live Music Blog",
   "Los Angeles Daily News",
   "Loud Hailer Magazine",
   "Louder",
@@ -117,6 +115,7 @@
   "MELODIC Magazine",
   "MLB.com",
   "MUSIC SCENE MEDIA",
+  "MYC! Malaysian Youth Community",
   "Maine AFL-CIO",
   "Malay Mail",
   "Manila Bulletin",
@@ -140,7 +139,6 @@
   "NME Japan",
   "NYS Music",
   "Nanaimo News Bulletin",
-  "Nashville Scene",
   "Neon Music",
   "New Noise Magazine",
   "New York Post",
@@ -193,6 +191,7 @@
   "Stereogum",
   "SurvivorNet",
   "TVGuide.co.uk",
+  "Tekedia",
   "Texas Lifestyle Magazine",
   "That Eric Alper",
   "The 13th Floor",
@@ -224,7 +223,6 @@
   "Variety",
   "Variety India",
   "Verge Magazine",
-  "WDHA FM",
   "WECB",
   "WIXY.com |",
   "WMNF",
@@ -236,7 +234,6 @@
   "X-Press Magazine",
   "XS ROCK",
   "Yahoo",
-  "Yahoo News New Zealand",
   "Yahoo News UK",
   "Yahoo!ニュース",
   "Your Valley",
@@ -249,13 +246,13 @@
   "dangerousminds.net",
   "https://rocknloadmag.com/",
   "iHeart",
+  "idobi",
   "indienative",
   "khorasantimes.com",
   "mxdwn Music",
   "niagara-gazette.com",
   "rockin'on",
   "stephanelarue.com",
-  "stupidDOPE",
   "theriffreport.co.uk",
   "upi",
   "山陽新聞デジタル｜さんデジ",
@@ -263,10 +260,10 @@
   "씨네플레이",
   "조선일보"
  ],
- "count": 393,
- "detail_count": 295,
+ "count": 397,
+ "detail_count": 298,
  "digest": {
-  "headline": "パンク・ロック界の最新ニュース：来日公演や大型フェス出演が続々発表",
+  "headline": "パンク・ロック界の最新ニュースと来日・新作情報まとめ",
   "points": [
    {
     "text": "ParamoreのHayley Williamsが、2027年3月に東京・豊洲PITで来日公演を開催することを発表した。",
@@ -275,37 +272,126 @@
     ]
    },
    {
-    "text": "Blink-182が、2027年開催のWhen We Were YoungフェスやDownload Festivalでヘッドライナーを務めることが決定した。",
+    "text": "Blink-182やONE OK ROCKが出演するWhen We Were Young 2027の開催が発表された。",
     "ids": [
      "450ae415fb20a90b",
-     "92e40dfeb29e32b2",
-     "a1b883fd3d4e96ad"
+     "cf6fd3c823fa7b77",
+     "92e40dfeb29e32b2"
     ]
    },
    {
-    "text": "Fall Out Boyが3年ぶりのオリジナル新曲「ACES」や新曲「Doomsday Generation」などを立て続けに公開した。",
+    "text": "Fall Out Boyが新曲「Doomsday Generation」の音源とMVを公開した。",
     "ids": [
      "08bf2dfcaab03162",
-     "61e07e8a74ea2960",
-     "9d1f031755c26f57"
+     "3481189992f6b822",
+     "3d1c2e1951cb5cc7"
     ]
    },
    {
-    "text": "My Chemical Romanceが『The Black Parade』20周年記念盤のリリースや、アジア各地でのライブツアーを実施した。",
+    "text": "Sum 41のDeryck Whibleyが代表曲のアコースティック新作アルバムを発表した。",
     "ids": [
-     "f8516d4cb1362e92",
-     "c23bb3304b561948",
-     "07a0de4fdcd23b72"
+     "94b531a90ba4a252",
+     "38fd1ef306c5031b"
+    ]
+   },
+   {
+    "text": "My Chemical Romanceの名盤『The Black Parade』発売20周年記念盤のリリースが決定した。",
+    "ids": [
+     "f8516d4cb1362e92"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-15T09:52:55.150935+09:00",
-  "generated_at": "2026-11-18T09:52:56.424129+09:00",
+  "from": "2026-11-16T00:33:06.550448+09:00",
+  "generated_at": "2026-11-19T00:33:12.087198+09:00",
   "article_count": 24,
-  "sig": "6360dad2fb87"
+  "sig": "84db3d9dbf4a"
  },
  "items": [
+  {
+   "id": "38fd1ef306c5031b",
+   "url": "https://exclaim.ca/music/article/sum-41-songs-reimagined-by-deryck-whibley-for-diamonds-of-the-night-vol-1",
+   "title_original": "Sum 41 Songs Reimagined by Deryck Whibley for 'Diamonds of the Night: Vol 1'",
+   "source": "Exclaim!",
+   "image": "https://assets.exclaim.ca/image/upload/v1795012278/sum_41_diamonds_of_the_night_vol_1_d7ef304525.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T14:50:59.186000+00:00",
+   "title_ja": "Deryck WhibleyがSum 41の楽曲を再構築",
+   "summary_ja": "Sum 41のDeryck Whibleyが自身のプロジェクト『Diamonds of the Night: Vol 1』にてバンドの楽曲を新たに再解釈して制作します。",
+   "category": "新曲・新作",
+   "band": "Sum 41",
+   "artists": [
+    "Sum 41",
+    "Deryck Whibley"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "94b531a90ba4a252",
+   "url": "https://recklesspress.com/news/deryck-whibley-goes-acoustic-on-12-sum-41-favourites-for-new-album",
+   "title_original": "Deryck Whibley goes acoustic on 12 Sum 41 favourites for new album",
+   "source": "Reckless Press",
+   "image": "https://recklesspress.com/wp-content/uploads/2026/11/img_4448.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T08:46:34+00:00",
+   "title_ja": "Sum 41のDeryck Whibleyがアコースティック新作を発表",
+   "summary_ja": "Sum 41のDeryck Whibleyが、バンドの代表曲12曲をアコースティックアレンジで再録音した新しいアルバムをリリースする予定です。",
+   "category": "新曲・新作",
+   "band": "Sum 41",
+   "artists": [
+    "Sum 41",
+    "Deryck Whibley"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "4a68182e6c3291db",
+   "url": "https://blabbermouth.net/news/jay-bentley-no-new-bad-religion-album-until-late-2027-at-the-earliest",
+   "title_original": "JAY BENTLEY: No New BAD RELIGION Album Until Late 2027 At The Earliest",
+   "source": "BLABBERMOUTH.NET",
+   "image": "https://assets.blabbermouth.net/media/jaybentleynov2026_638.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T07:47:44+00:00",
+   "title_ja": "Bad Religionの新アルバムは2027年後半以降に",
+   "summary_ja": "Bad ReligionのJay Bentleyが、バンドの新しいアルバムのリリースは早くても2027年後半になると明かしました。",
+   "category": "新曲・新作",
+   "band": "Bad Religion",
+   "artists": [
+    "Jay Bentley",
+    "Bad Religion"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "5ddbaaac384f2177",
+   "url": "https://myc.my/articles/5446/pop-shuvit-reunites-with-my-chemical-romance-as-opening-act-for-kuala-lumpur-shows",
+   "title_original": "Pop Shuvit Reunites With My Chemical Romance As Opening Act For Kuala Lumpur Shows",
+   "source": "MYC! Malaysian Youth Community",
+   "image": "https://r2.myc.my/0d0bd32f172bbaf9fe02a240c35cf6a2cd4a8052b676132abc60f8b88bdeb4a9",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T03:25:08+00:00",
+   "title_ja": "Pop ShuvitがMy Chemical Romanceの公演に帯同",
+   "summary_ja": "Pop Shuvitが再結成を果たし、クアラルンプールで行われるMy Chemical Romanceの公演でオープニングアクトを務めることになった。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "Pop Shuvit",
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "450ae415fb20a90b",
    "url": "https://hoodline.com/2026/11/blink-182-pierce-the-veil-to-headline-when-we-were-young-s-2027-las-vegas-return",
@@ -325,6 +411,28 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "cf6fd3c823fa7b77",
+   "url": "https://news.yahoo.co.jp/articles/d5fdc01d85ea1c07616e20ccd9b64d8617bd68a9/images/000",
+   "title_original": "ONE OK ROCK、米大型フェス「When We Were Young 2027」に出演決定 ブリンク182、リンプ・ビズキットら豪華共演",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26t6gCm-9guRQmrLz0DT15LSywxH1fP8KhxrDtfERSGjtXabdl4yNLLBRA7iDS0SW7yp3_HmU4X-mJLfdQ6Ca6tkFCQUu7hkmSpJ6nVvOjt2t69FYF_jHLoB7XwQzpm2F7g==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-17T23:12:00+00:00",
+   "title_ja": "ONE OK ROCKがWhen We Were Young 2027に出演",
+   "summary_ja": "米国の大型フェス「When We Were Young 2027」へのONE OK ROCKの出演が決定し、Blink-182やLimp Bizkitらと共演する。",
+   "category": "フェス出演",
+   "band": "その他",
+   "artists": [
+    "ONE OK ROCK",
+    "Blink-182",
+    "Limp Bizkit"
+   ],
+   "japan": true,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "e40f1430265220cd",
@@ -472,6 +580,29 @@
    ],
    "japan": false,
    "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "fcebd40ac67c263b",
+   "url": "https://www.loudersound.com/news/paramore-hayley-williams-curating-headlining-outbreak-festival-2027",
+   "title_original": "Paramore’s Hayley Williams is curating and headlining Outbreak Fest 2027, with Failure, Drain and many more joining her on the lineup",
+   "source": "Louder",
+   "image": "https://cdn.mos.cms.futurecdn.net/FCT9cNrzNjR2WwM4Y5CKid-1280-80.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T09:47:08+00:00",
+   "title_ja": "ParamoreのHayley WilliamsがOutbreak Fest 2027のキュレーター兼ヘッドライナーに",
+   "summary_ja": "ParamoreのHayley Williamsが、2027年開催の「Outbreak Fest」でキュレーターとヘッドライナーを務める。FailureやDrainら多数の出演アーティストも発表された。",
+   "category": "フェス出演",
+   "band": "Paramore",
+   "artists": [
+    "Hayley Williams",
+    "Paramore",
+    "Failure",
+    "Drain"
+   ],
+   "japan": false,
+   "importance": 4,
    "detail_tries": 1
   },
   {
@@ -515,16 +646,16 @@
    "has_detail": true
   },
   {
-   "id": "61e07e8a74ea2960",
-   "url": "https://stupiddope.com/2026/11/fall-out-boy-returns-with-aces-first-original-single-in-over-three-years",
-   "title_original": "Fall Out Boy Returns With ACES, First Original Single in Over Three Years",
-   "source": "stupidDOPE",
-   "image": "",
+   "id": "3481189992f6b822",
+   "url": "https://idobi.com/news/fall-out-boy-doomsday-generation-music-video",
+   "title_original": "Fall Out Boy Drops Intergalactic \"Doomsday Generation (Slacker For The Ages)\" Video",
+   "source": "idobi",
+   "image": "https://idobi.com/assets/post/2026/11/MixCollage-16-Nov-2026-04-55-PM-7856.webp",
    "lang": "en",
    "region": "global",
-   "published": "2026-11-16T23:16:40+00:00",
-   "title_ja": "Fall Out Boyが3年ぶりのオリジナル新曲「ACES」を発表",
-   "summary_ja": "Fall Out Boyが、約3年以上ぶりとなる待望のオリジナル最新シングル「ACES」をリリースし、シーンへ帰ってきた。",
+   "published": "2026-11-16T22:32:39+00:00",
+   "title_ja": "Fall Out Boyが新曲のMVを公開",
+   "summary_ja": "Fall Out Boyが新曲「Doomsday Generation (Slacker For The Ages)」のSF仕立てのミュージックビデオをリリースしました。",
    "category": "新曲・新作",
    "band": "Fall Out Boy",
    "artists": [
@@ -532,7 +663,28 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 2
+   "has_detail": true
+  },
+  {
+   "id": "ee830600b3a9a3db",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/blink-182-mark-hoppus-wants-203922690.html",
+   "title_original": "Blink-182’s Mark Hoppus Wants Neighbor to Pay $681K Over Tree Feud",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/1cc70c98eff40d77bd58d0dbd544a69fb9042dc32eb7c5c9dcaff853d0f543fb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fc4eaa678742abc71400e852819d93a65.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T20:39:22+00:00",
+   "title_ja": "Blink-182のマーク・ホッパス、隣人とのトラブルで高額賠償を請求",
+   "summary_ja": "Blink-182のMark Hoppusが、自宅の樹木を巡るトラブルを理由に隣人に対して約68万ドルの支払いを求めていると報じられています。",
+   "category": "メンバー・発言",
+   "band": "Blink-182",
+   "artists": [
+    "Mark Hoppus",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "9d1f031755c26f57",
@@ -761,6 +913,48 @@
    "has_detail": true
   },
   {
+   "id": "3d1c2e1951cb5cc7",
+   "url": "https://www.theprp.com/2026/11/15/news/fall-out-boy-enlisted-walter-schreifels-of-quicksand-etc-for-their-new-single-doomsday-generation-slacker-for-the-ages",
+   "title_original": "Fall Out Boy Enlisted Walter Schreifels Of Quicksand, Etc. For Their New Single \"Doomsday Generation (Slacker For The Ages)\"",
+   "source": "The PRP",
+   "image": "https://www.theprp.com/app/uploads/2026/11/walterschreifels-1200x675.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T18:17:18+00:00",
+   "title_ja": "Fall Out Boyの新曲にウォルター・シュレイフェルズが参加",
+   "summary_ja": "Fall Out Boyの新曲「Doomsday Generation (Slacker For The Ages)」の制作にQuicksand等のWalter Schreifelsが参加しています。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy",
+    "Walter Schreifels",
+    "Quicksand"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "5bf2bd07d3c570fb",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/fall-out-boy-announced-twilight-of-the-punks-tour-on-november-9/70517105",
+   "title_original": "Fall Out Boy announced Twilight of the Punks Tour on November 9",
+   "source": "ad-hoc-news.de",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403793_1200_675.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T13:10:55+00:00",
+   "title_ja": "Fall Out Boyが「Twilight of the Punks Tour」を発表",
+   "summary_ja": "Fall Out Boyが「Twilight of the Punks Tour」の開催をアナウンスした。詳細な日程や出演者については今後発表される見通しである。",
+   "category": "ライブ・ツアー",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "07a0de4fdcd23b72",
    "url": "https://usa.inquirer.net/215948/my-chemical-romance-returns-to-ph-as-the-black-parade-turns-20",
    "title_original": "My Chemical Romance returns to PH as ‘The Black Parade’ turns 20",
@@ -878,6 +1072,27 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "486c07295cc538cf",
+   "url": "https://www.tekedia.com/forum/topic/blink-182-drummer-travis-barker-turns-51/?part=1",
+   "title_original": "Blink-182 Drummer Travis Barker Turns 51.",
+   "source": "Tekedia",
+   "image": "https://www.tekedia.com/wp-content/uploads/asgarosforum/10073/Blink-182-Drummer-Travis-Barker-Turns-51.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T08:00:00+00:00",
+   "title_ja": "Blink-182のドラマーTravis Barkerが51歳の誕生日",
+   "summary_ja": "Blink-182のドラマーであるTravis Barkerが51歳の誕生日を迎えた。世界中のファンや関係者からお祝いのメッセージが寄せられている。",
+   "category": "メンバー・発言",
+   "band": "Blink-182",
+   "artists": [
+    "Travis Barker",
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 1,
    "has_detail": true
   },
   {
@@ -1052,7 +1267,7 @@
    "url": "https://www.buzz-music.com/post/fall-out-boy-drop-second-new-song-in-one-week-doomsday-generation-following-aces-and-2027-tour",
    "title_original": "Fall Out Boy Drop Second New Song in One Week, “Doomsday Generation,” Following “ACES” and 2027 Tour Announcement",
    "source": "buzzmusic",
-   "image": "",
+   "image": "https://static.wixstatic.com/media/1f70b2_efb5bdd8c38e4507b6621da45ef22263~mv2.webp/v1/fill/w_1581,h_1054,al_c,q_85/1f70b2_efb5bdd8c38e4507b6621da45ef22263~mv2.webp",
    "lang": "en",
    "region": "global",
    "published": "2026-11-13T18:39:11+00:00",
@@ -8275,128 +8490,6 @@
    "band": "Simple Plan",
    "artists": [
     "Simple Plan"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "09dec98e2ae96162",
-   "url": "https://www.nashvillescene.com/criticspicks/critics-pick-the-linda-lindas-w-grace-bowers/article_18d7526a-e9f6-45d9-ac22-73c2116e5aa5.html",
-   "title_original": "Critic's Pick: The Linda Lindas w/Grace Bowers",
-   "source": "Nashville Scene",
-   "image": "https://bloximages.newyork1.vip.townnews.com/nashvillescene.com/content/tncms/assets/v3/editorial/9/1d/91d95371-5f20-4793-8580-d85c492e44d2/6ac40ff1154ae.image.jpg?crop=600%2C315%2C209%2C121",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-07T10:38:00+00:00",
-   "title_ja": "The Linda LindasとGrace Bowersの共演",
-   "summary_ja": "注目の若手バンドであるThe Linda Lindasが、Grace Bowersを迎えて行うライブの批評家による推薦記事。",
-   "category": "ライブ・ツアー",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas",
-    "Grace Bowers"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "c9fc84b7152065bb",
-   "url": "https://en.as.com/mlb/blink-182-frontman-gets-emotional-after-incredible-san-diego-padres-singalong-f202610-n/?outputType=amp",
-   "title_original": "Blink-182 frontman gets emotional after incredible San Diego Padres singalong",
-   "source": "Diario AS",
-   "image": "https://img.asmedia.epimg.net/resizer/v2/KTJRIFQTAKNKJOFROIXJARADOU.jpg?auth=82b62d2298a40f7f30159637b982d73c604d608501d89d71eff0c78194c6a211&width=1472&height=828&smart=true",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-07T10:19:49+00:00",
-   "title_ja": "球場のBlink-182大合唱でフロントマンが感涙",
-   "summary_ja": "パドレスの試合会場でファンがBlink-182の曲を大合唱し、その圧倒的な光景にボーカルが感動を隠せなかった。",
-   "category": "その他",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b300e7ab09005ff7",
-   "url": "https://www.billboard.com/music/rock/dropkick-murphys-title-theme-westies-dropped-on-my-head-1236290638",
-   "title_original": "Dropkick Murphys Song Tracks Irish Mob Drama 'The Westies': Exclusive",
-   "source": "Billboard",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-07T07:00:00+00:00",
-   "title_ja": "Dropkick Murphysの新曲がドラマに起用",
-   "summary_ja": "Dropkick Murphysの新曲が、アイルランド系マフィアを描いたドラマ『The Westies』の劇中歌として起用されたことが独占情報として報じられました。",
-   "category": "新曲・新作",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "ac58c9c802b6fcef",
-   "url": "https://livemusicblog.com/good-charlotte-greetings-from-california-reissue",
-   "title_original": "Good Charlotte Announce ‘Greetings From California’ Reissue With Three New Tracks",
-   "source": "Live Music Blog",
-   "image": "https://media.livemusicblog.com/livemusicblog/wp-content/uploads/2026/10/FROMSHAEFWITHLOVE-FINAL-20-1440x1958.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-06T19:41:16+00:00",
-   "title_ja": "Good Charlotte、3曲を追加した再発盤を発表",
-   "summary_ja": "Good Charlotteが未発表の3曲を収録したアルバム『Greetings From California』の再発盤をリリースすることを明らかにした。",
-   "category": "再発・記念盤",
-   "band": "Good Charlotte",
-   "artists": [
-    "Good Charlotte"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e69f0dabe5a8563c",
-   "url": "https://wdhafm.com/2026/10/06/rancid-announces-30th-anniversary-box-set-for-and-out-come-the-wolves-with-rare-live-recordings",
-   "title_original": "Rancid Announces 30th Anniversary Box Set for '…And Out Come the Wolves' With Rare Live Recordings",
-   "source": "WDHA FM",
-   "image": "https://wdhafm.com/uploads/2026/10/GettyImages-2210145309-e1791308522466.jpg?auto=webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-06T17:44:12+00:00",
-   "title_ja": "Rancid、『…And Out Come the Wolves』30周年盤を発表",
-   "summary_ja": "Rancidが名盤『…And Out Come the Wolves』の30周年を記念し、レアなライブ音源を多数収めた豪華ボックスセットをリリースする。",
-   "category": "再発・記念盤",
-   "band": "Rancid",
-   "artists": [
-    "Rancid"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "a19320fde069fcfd",
-   "url": "https://nz.news.yahoo.com/paramore-hayley-williams-unleashes-profanity-173950618.html",
-   "title_original": "Paramore’s Hayley Williams unleashes profanity-filled response after DHS tells her to ‘thank’ ICE",
-   "source": "Yahoo News New Zealand",
-   "image": "https://s.yimg.com/lo/mysterio/api/f24713658fec2f28ca993123de5d817a46324b1332a1baf13d1a3f9d9f45bc39/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F9dc36df50d826630b081541edbea7768.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-06T17:39:50+00:00",
-   "title_ja": "ParamoreのHayley Williams、国土安全保障省からの要求に猛反発",
-   "summary_ja": "国土安全保障省（DHS）から移民・関税執行局（ICE）へ感謝の意を示すよう求められたParamoreのHayley Williamsが、これに対して強い言葉で激しく反論した。",
-   "category": "メンバー・発言",
-   "band": "Paramore",
-   "artists": [
-    "Paramore",
-    "Hayley Williams"
    ],
    "japan": false,
    "importance": 3,
