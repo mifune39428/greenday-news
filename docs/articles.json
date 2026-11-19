@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T09:09:36.473533+09:00",
+ "updated_at": "2026-11-20T00:35:56.657781+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -78,7 +78,6 @@
   "Glide Magazine",
   "Global News",
   "HEAVY Magazine",
-  "HMV",
   "Happy Mag",
   "Her Campus",
   "Hit Channel",
@@ -91,7 +90,6 @@
   "Icon Vs. Icon",
   "Impericon",
   "InMusic Blog",
-  "InspireMore",
   "InterSpace Distribution",
   "Interview Magazine",
   "JamBase",
@@ -126,17 +124,16 @@
   "Metal Insider",
   "Metal Underground.com",
   "Metalhead Zone",
-  "Milwaukee Journal Sentinel",
   "Music Ally",
   "Music Connection Magazine",
   "Music Feeds",
-  "Music In Minnesota",
   "Music Wee",
   "Music-News.com",
   "MusicRadar",
   "NBC News",
   "NME",
   "NME Japan",
+  "NST Online",
   "NYS Music",
   "Neon Music",
   "New Noise Magazine",
@@ -146,12 +143,12 @@
   "Northern Transmissions",
   "Official Charts",
   "On Tap Sports Net",
-  "OnMilwaukee",
   "Orlando Sentinel",
   "Orlando Weekly",
   "PUNKLOID",
   "Parade Magazine",
   "Paste Magazine",
+  "Paul Tan's Automotive News",
   "People.com",
   "PhilNews",
   "PhillyVoice",
@@ -175,18 +172,18 @@
   "Rock News UK",
   "Rock Sound",
   "Rolling Stone",
-  "Rolling Stone Canada",
   "RouteNote",
   "SAYS",
   "SB Nation",
   "SFGATE",
   "SSBCrack",
   "San Bernardino Sun",
+  "San Francisco Bay Times",
   "San Francisco Chronicle",
   "SanDiegoVille",
   "Sheldon Ang Media",
   "Soap Central",
-  "Sports Illustrated",
+  "Sortir à Paris",
   "Stereogum",
   "SurvivorNet",
   "TVGuide.co.uk",
@@ -200,6 +197,7 @@
   "The Daily Texan",
   "The Hofstra Chronicle",
   "The Hollywood Reporter",
+  "The Honey POP",
   "The Hype Magazine",
   "The Indy Review",
   "The Land",
@@ -226,7 +224,6 @@
   "WIXY.com |",
   "WMNF",
   "WMTW",
-  "WOMI Owensboro",
   "WOUB Public Media -",
   "Warner Music Group",
   "Washington Examiner",
@@ -258,56 +255,197 @@
   "激ロック",
   "조선일보"
  ],
- "count": 398,
- "detail_count": 298,
+ "count": 390,
+ "detail_count": 292,
  "digest": {
-  "headline": "主要パンクバンドの新曲発表や2027年ツアー情報が続々到着",
+  "headline": "Green DayやParamore、Fall Out Boyらの最新動向まとめ",
   "points": [
    {
-    "text": "Fall Out Boyは新曲発表や2027年スタジアム・世界ツアーの告知を行い、チケットが完売続出している。",
+    "text": "Green DayのBillie Joe Armstrongが、Pinhead Gunpowderと共にバークレーで地元凱旋ライブを行う。",
     "ids": [
-     "0125f15533b1c74b",
-     "6b9ef4315db68c34",
-     "1e34eada96d2db12"
+     "590fd4c2ac0c6817"
     ]
    },
    {
-    "text": "Sum 41のDeryck Whibleyがソロアルバムの発表や欧州ツアー、アコースティック新作のリリースを控えている。",
-    "ids": [
-     "4a81c5233b70d12f",
-     "94b531a90ba4a252",
-     "0cfddd1678624e83"
-    ]
-   },
-   {
-    "text": "Blink-182やPierce The Veilが「When We Were Young 2027」のヘッドライナーに決定した。",
-    "ids": [
-     "79fbd2338466c0c3",
-     "2bd17607b550a340",
-     "2eb364cbbd9dce1b"
-    ]
-   },
-   {
-    "text": "ParamoreのHayley Williamsが2027年3月に東京・豊洲PITでの来日公演開催を発表した。",
+    "text": "ParamoreのHayley Williamsが2027年3月に東京・豊洲PITで単独公演を開催することを発表した。",
     "ids": [
      "9dc4a6ceb49ae9f9"
     ]
    },
    {
-    "text": "My Chemical Romanceは『The Black Parade』の20周年記念盤発表や19年ぶりのマレーシア公演を行った。",
+    "text": "Fall Out Boyが新曲を相次いで発表したほか、2027年の大規模なスタジアムツアーなどを告知した。",
     "ids": [
-     "f8516d4cb1362e92",
-     "c23bb3304b561948"
+     "0125f15533b1c74b",
+     "1e34eada96d2db12",
+     "08bf2dfcaab03162"
+    ]
+   },
+   {
+    "text": "Sum 41のDeryck Whibleyが、楽曲を再構築した初のソロアルバムを携えてツアーを行うことを発表した。",
+    "ids": [
+     "c6bf6a33b373a146",
+     "4a81c5233b70d12f",
+     "0cfddd1678624e83"
+    ]
+   },
+   {
+    "text": "Blink-182やONE OK ROCKらが、2027年開催の大型フェス「When We Were Young 2027」に出演する。",
+    "ids": [
+     "79fbd2338466c0c3",
+     "cf6fd3c823fa7b77"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-16T09:11:17.315438+09:00",
-  "generated_at": "2026-11-19T09:11:19.142939+09:00",
+  "from": "2026-11-17T00:46:32.294998+09:00",
+  "generated_at": "2026-11-20T00:47:26.421509+09:00",
   "article_count": 24,
-  "sig": "68f934f0bad8"
+  "sig": "d9b1579a47ad"
  },
  "items": [
+  {
+   "id": "e9f88a5ee88cfa86",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/fall-out-boy-announced-36-date-twilight-tour-on-november-9/70536900",
+   "title_original": "Fall Out Boy announced 36-date Twilight tour on November 9",
+   "source": "ad-hoc-news.de",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403758_1200_675.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T15:25:04+00:00",
+   "title_ja": "Fall Out Boyが36公演のTwilightツアーを発表",
+   "summary_ja": "Fall Out Boyが全36公演となる「Twilight」ツアーの開催を発表した。今後の詳細や日程の発表が注目される。",
+   "category": "ライブ・ツアー",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "c6bf6a33b373a146",
+   "url": "https://www.impericon.com/blogs/magazine/sum-41-singer-deryck-whibley-goes-on-solo-tour-in-2027-with-reimagined-album",
+   "title_original": "Sum 41 Singer Deryck Whibley Goes On Solo Tour In 2027 With Reimagined Album",
+   "source": "Impericon",
+   "image": "http://www.impericon.com/cdn/shop/articles/20241206_sum41live_2.jpg?v=1795082850",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T11:17:05+00:00",
+   "title_ja": "Sum 41のDeryck Whibleyが再構築アルバムを引っ提げソロツアーへ",
+   "summary_ja": "Sum 41のフロントマンであるDeryck Whibleyが、楽曲を再構築したアルバムを携えて2027年にソロツアーを行う。",
+   "category": "ライブ・ツアー",
+   "band": "Sum 41",
+   "artists": [
+    "Deryck Whibley",
+    "Sum 41"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "72e4e8021c804796",
+   "url": "https://www.sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/358545-deryck-whibley-of-sum-41-in-concert-at-the-bataclan-in-paris-in-april-2027",
+   "title_original": "Sum 41’s Deryck Whibley to perform in Paris in 2027 on his first solo tour",
+   "source": "Sortir à Paris",
+   "image": "https://cdn.sortiraparis.com/images/80/100773/1023138-visuels-salles-de-spectacle-et-theatres-bataclan.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T07:46:11+00:00",
+   "title_ja": "Sum 41のDeryck Whibleyが2027年にパリでソロ公演を開催",
+   "summary_ja": "Sum 41のDeryck Whibleyが、2027年に自身初となるソロツアーの一環としてパリで公演を行う予定であることが明らかになった。",
+   "category": "ライブ・ツアー",
+   "band": "Sum 41",
+   "artists": [
+    "Deryck Whibley",
+    "Sum 41"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "590fd4c2ac0c6817",
+   "url": "https://sfbaytimes.com/billie-joe-armstrong-homecoming-celebration-with-band-pinhead-gunpowder-at-924-gilman-in-berkeley",
+   "title_original": "Billie Joe Armstrong Homecoming Celebration With Band Pinhead Gunpowder at 924 Gilman in Berkeley",
+   "source": "San Francisco Bay Times",
+   "image": "https://sfbaytimes.com/wp-content/uploads/2026/11/image-121.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T06:19:38+00:00",
+   "title_ja": "Billie Joe ArmstrongがPinhead Gunpowderと故郷で凱旋ライブ",
+   "summary_ja": "Green DayのBillie Joe Armstrongが、自身のサイドプロジェクトであるPinhead Gunpowderと共に、バークレーの924 Gilmanで地元凱旋ライブを行う。",
+   "category": "ライブ・ツアー",
+   "band": "Green Day",
+   "artists": [
+    "Billie Joe Armstrong",
+    "Pinhead Gunpowder"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "d7c5aacff94eaf13",
+   "url": "https://paultan.org/2026/11/19/my-chemical-romance-concert-tour-in-malaysia-rapid-kl",
+   "title_original": "My Chemical Romance concert tour in Malaysia from Nov 19-20 – Rapid KL issues travel advisory for commuters",
+   "source": "Paul Tan's Automotive News",
+   "image": "https://paultan.org/image/2026/11/Rapid-KL-MCR-concert-travel-advisory-1-630x469.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T05:33:43+00:00",
+   "title_ja": "マレーシアでのMy Chemical Romance公演に伴い交通当局が注意喚起",
+   "summary_ja": "マレーシアで開催されるMy Chemical Romanceの公演に合わせ、公共交通機関のRapid KLが利用客に向けて移動の注意喚起を発表した。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "b295ec2c095e08a1",
+   "url": "https://www.nst.com.my/lifestyle/groove/2026/11/1581159/showbiz-my-chemical-romance-fans-camp-overnight-bukit-jalil-ahead",
+   "title_original": "#SHOWBIZ: My Chemical Romance fans camp overnight at Bukit Jalil ahead of concert",
+   "source": "NST Online",
+   "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/5782DEFEEDAF0DC3E386668D37DC203C_data.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T04:37:45+00:00",
+   "title_ja": "My Chemical Romanceのマレーシア公演に向けファンが会場前で野営",
+   "summary_ja": "マレーシアのブキ・ジャリルで行われるMy Chemical Romanceのコンサートに向け、ファンが公演の直前まで会場周辺で夜を明かして待機している。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "1938f3fa6bb60e41",
+   "url": "https://thehoneypop.com/2026/11/19/fall-out-boy-has-a-few-aces-up-their-sleeve",
+   "title_original": "Fall Out Boy Has A Few ‘ACES’ Up Their Sleeve",
+   "source": "The Honey POP",
+   "image": "https://thehoneypop.com/wp-content/uploads/2026/11/FOB-Pamela-Littky.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T00:49:39+00:00",
+   "title_ja": "Fall Out Boyが新たな展開を匂わせる「ACES」について言及",
+   "summary_ja": "Fall Out Boyが新たなカードとして用意している「ACES」について、ファンの間で様々な憶測や期待が高まっている。今後の公式発表が待たれる状況となっている。",
+   "category": "その他",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "79fbd2338466c0c3",
    "url": "https://www.thatericalper.com/2026/11/18/blink-182-and-pierce-the-veil-headline-when-we-were-youngs-massive-2027-comeback",
@@ -371,27 +509,6 @@
    "has_detail": true
   },
   {
-   "id": "879a77fc2a4e7af5",
-   "url": "https://www.iheart.com/content/2026-11-18-iheartradio-alter-ego-2027-lineup-adds-sum-41s-deryck-whibley",
-   "title_original": "iHeartRadio ALTer EGO 2027 Lineup Adds Sum 41's Deryck Whibley",
-   "source": "iHeart",
-   "image": "https://i.iheart.com/v3/re/new_assets/6afddbf9254ccb42b57a8b22",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-18T18:02:09+00:00",
-   "title_ja": "iHeartRadio ALTer EGO 2027にSum 41のDeryck Whibleyが出演決定",
-   "summary_ja": "2027年開催の音楽イベント「iHeartRadio ALTer EGO」の追加ラインナップとして、Sum 41のDeryck Whibleyの出演が発表された。",
-   "category": "フェス出演",
-   "band": "Sum 41",
-   "artists": [
-    "Deryck Whibley",
-    "Sum 41"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
    "id": "4a81c5233b70d12f",
    "url": "https://www.allmusicmagazine.co.uk/post/deryck-whibley-announces-debut-solo-record-sum-41-diamonds-of-the-night-vol-1-european-tour-dat",
    "title_original": "Deryck Whibley announces debut solo record ‘Sum 41 Diamonds Of The Night: Vol 1’ – European tour dates announced",
@@ -411,27 +528,6 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "4f510c67faef9b7c",
-   "url": "https://ca.rollingstone.com/music/deryck-whibley-sum-41-diamonds-of-the-night-solo-album",
-   "title_original": "Deryck Whibley Is Giving Sum 41 Classics a New Life on First Solo Album",
-   "source": "Rolling Stone Canada",
-   "image": "https://ca.rollingstone.com/media-library/image.png?id=68708821&width=1200&height=600&coordinates=0%2C31%2C0%2C32",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-18T15:54:44+00:00",
-   "title_ja": "Sum 41の楽曲を再構築した初のソロ作を発表",
-   "summary_ja": "Deryck Whibleyが初のソロアルバムを発表。Sum 41の代表曲を新たなアレンジで蘇らせた作品となっている。",
-   "category": "新曲・新作",
-   "band": "Sum 41",
-   "artists": [
-    "Deryck Whibley",
-    "Sum 41"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 1
   },
   {
    "id": "1e34eada96d2db12",
@@ -618,7 +714,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "cf6fd3c823fa7b77",
@@ -681,7 +777,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "92e40dfeb29e32b2",
@@ -888,6 +984,26 @@
    "band": "Blink-182",
    "artists": [
     "Mark Hoppus"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "4664414ebdeaec32",
+   "url": "https://metalinsider.net/columns/metal-by-numbers/metal-by-numbers-when-weezer-gold-debuted-in-charts-8-21-2026",
+   "title_original": "Metal By Numbers: When ‘Weezer (Gold)’ debuted in charts – 8/21/2026",
+   "source": "Metal Insider",
+   "image": "https://metalinsider.net/wp-content/uploads/2026/09/Weezer-Weezer-The-Gold-Album.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T00:45:15+00:00",
+   "title_ja": "Weezerのアルバムがチャートインした過去の週を振り返る",
+   "summary_ja": "Weezerのアルバムがチャートに登場した過去の出来事について紹介している。当時のチャート動向や作品の反響を振り返る内容となっている。",
+   "category": "チャート・受賞",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
    ],
    "japan": false,
    "importance": 2,
@@ -1183,26 +1299,6 @@
    "has_detail": true
   },
   {
-   "id": "5bf2bd07d3c570fb",
-   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/fall-out-boy-announced-twilight-of-the-punks-tour-on-november-9/70517105",
-   "title_original": "Fall Out Boy announced Twilight of the Punks Tour on November 9",
-   "source": "ad-hoc-news.de",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403793_1200_675.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-15T13:10:55+00:00",
-   "title_ja": "Fall Out Boyが「Twilight of the Punks Tour」を発表",
-   "summary_ja": "Fall Out Boyが「Twilight of the Punks Tour」の開催をアナウンスした。詳細な日程や出演者については今後発表される見通しである。",
-   "category": "ライブ・ツアー",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
    "id": "07a0de4fdcd23b72",
    "url": "https://usa.inquirer.net/215948/my-chemical-romance-returns-to-ph-as-the-black-parade-turns-20",
    "title_original": "My Chemical Romance returns to PH as ‘The Black Parade’ turns 20",
@@ -1403,6 +1499,27 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "a6049fab404710f2",
+   "url": "https://music.mxdwn.com/2026/11/14/news/fall-out-boy-team-up-with-quicksands-walter-schreifels-on-new-single-doomsday-generation",
+   "title_original": "Fall Out Boy Team Up With Quicksand’s Walter Schreifels On New Single “Doomsday Generation”",
+   "source": "mxdwn Music",
+   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2023/07/Fall-Out-Boy-18.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-14T22:18:48+00:00",
+   "title_ja": "Fall Out BoyがQuicksandのWalter Schreifelsと新曲で共演",
+   "summary_ja": "Fall Out Boyが新曲「Doomsday Generation」において、QuicksandのWalter Schreifelsとタッグを組んで制作を行ったことを発表した。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy",
+    "Walter Schreifels"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "832d31b7c1331f41",
@@ -8226,291 +8343,6 @@
    "band": "Weezer",
    "artists": [
     "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "ade2e50c8c82ab7f",
-   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/the-offspring-play-at-arizona-state-fair-in-phoenix-on-16-october/70285935",
-   "title_original": "The Offspring play at Arizona State Fair in Phoenix on 16 October",
-   "source": "AD HOC NEWS",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403769_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-10T05:25:18+00:00",
-   "title_ja": "The Offspringがアリゾナ州立フェアで公演へ",
-   "summary_ja": "The Offspringが10月16日にフェニックスで開催されるアリゾナ州立フェアに出演し、ライブパフォーマンスを披露する予定。",
-   "category": "ライブ・ツアー",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "0d176b483a7abb80",
-   "url": "https://www.musicinminnesota.com/pinhead-gunpowder-firstave",
-   "title_original": "Billie Joe Armstrong Brings 90s Punk Project to First Avenue",
-   "source": "Music In Minnesota",
-   "image": "https://www.musicinminnesota.com/wp-content/uploads/2026/10/Pinhead-Gunpowder_1.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-10T02:39:43+00:00",
-   "title_ja": "Billie Joe Armstrongが90年代パンク・プロジェクトでライブ開催",
-   "summary_ja": "Green DayのBillie Joe Armstrongが、90年代のパンク・プロジェクトを率いてFirst Avenueでライブを行った。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "056df6d88426a425",
-   "url": "https://hmv.com/blog/music/my-chemical-romance-the-black-parade-20th-anniversary-album-release-events-at-hmv",
-   "title_original": "My Chemical Romance, The Black Parade 20th Anniversary Album Release Events at hmv",
-   "source": "HMV",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T21:44:44+00:00",
-   "title_ja": "hmvでMy Chemical Romanceの記念イベントを開催",
-   "summary_ja": "hmvにて、My Chemical Romanceの名盤『The Black Parade』発売20周年を記念したアルバムリリースイベントの開催が決定しました。",
-   "category": "再発・記念盤",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "35b6747e04c21d45",
-   "url": "https://www.kerrang.com/the-interrupters-new-single-warriro-spirit-tim-armstrong-travis-barker-aimee-interrupter",
-   "title_original": "The Interrupters team up with Travis Barker and Tim Armstrong for new single, Warrior Spirit",
-   "source": "Kerrang!",
-   "image": "https://transforms.kerrang.com/production/images/2026/10/TheInterrupters_JimmyFontaine_9_26_260260-1_HiRes-1.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1791546831&s=069acebdb75c923ae5d77375b0c7c60d",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T11:55:00+00:00",
-   "title_ja": "The Interrupters、新曲Warrior Spiritを配信",
-   "summary_ja": "The InterruptersがTravis BarkerやTim Armstrongらを迎えた新曲Warrior Spiritをリリースしたことを発表。豪華なコラボレーションによる新たなシングルとなっている。",
-   "category": "新曲・新作",
-   "band": "The Interrupters",
-   "artists": [
-    "The Interrupters",
-    "Travis Barker",
-    "Tim Armstrong"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "30b733735ff3a676",
-   "url": "https://www.inspiremore.com/petco-park-breaks-into-blink-182-song-as-lead-singer-watches-in-wonder",
-   "title_original": "Petco Park Breaks Into Blink-182 Song As Lead Singer Watches in Wonder",
-   "source": "InspireMore",
-   "image": "https://inspiremore.b-cdn.net/wp-content/uploads/2026/10/Blink-182.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T02:40:07+00:00",
-   "title_ja": "Blink-182の楽曲が大合唱された球場の映像",
-   "summary_ja": "ペトコ・パークの球場全体がBlink-182の楽曲を歌い上げ、ボーカルのマーク・ホップラスがその光景を驚きと感動の表情で見守る様子が話題となっています。",
-   "category": "その他",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "a41d959351997a34",
-   "url": "https://womiowensboro.com/ixp/782/p/tom-delonge-padres-playoff-moment",
-   "title_original": "Tom DeLonge's Reaction to 43,000 Fans Singing Blink-182 Is Everything",
-   "source": "WOMI Owensboro",
-   "image": "https://townsquare.media/site/782/files/2026/10/attachment-gettyimages-2293586620-1.jpg?w=1200&q=75&format=natural",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T01:36:16+00:00",
-   "title_ja": "Blink-182のライブで4万3千人が大合唱、Tom DeLongeの反応",
-   "summary_ja": "Blink-182のライブで4万3千人のファンが大合唱した際に見せた、Tom DeLongeの感動的なリアクションが話題となっている。",
-   "category": "ライブ・ツアー",
-   "band": "Blink-182",
-   "artists": [
-    "Tom DeLonge",
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7367ca76f55f78a9",
-   "url": "https://onmilwaukee.com/articles/weezer-fiserv-forum-2026-review",
-   "title_original": "Weezer turns Fiserv Forum into the neighborhood's loudest backyard party",
-   "source": "OnMilwaukee",
-   "image": "https://storage.googleapis.com/onmilwaukee-article-images/variants/pn7szzpmf0osenci40dlxbspq9vn/44487ed8fba0f2b82d9d5c8e9a98ed4b9d67f7c75e21d8b1a6cda1869e8697fd",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T20:01:00+00:00",
-   "title_ja": "WeezerがFiserv Forumで見せた熱狂的ライブ",
-   "summary_ja": "WeezerがFiserv Forumで行ったライブの様子を伝える記事。会場を近所の大きな裏庭パーティーのような熱気で包み込みました。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "beb2e37a65bda821",
-   "url": "https://theneedledrop.com/news/drock-sound-announces-fall-out-boy-tribute-celebrating-the-bands-25th-anniversary",
-   "title_original": "Rock Sound announces Fall Out Boy tribute celebrating the band's 25th anniversary",
-   "source": "The Needle Drop",
-   "image": "https://tnd-meta-poster.dylan-fef.workers.dev/media/ghost-social/6ac7c88f60a520b7b080ee36/db7763e0e3e813de0f4518a7459aaebba67da7debfc70c7a9af251ffc1c8ea46.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T18:15:15+00:00",
-   "title_ja": "Fall Out Boyの結成25周年を祝うトリビュート企画",
-   "summary_ja": "Rock SoundがFall Out Boyの結成25周年を記念したトリビュート企画の実施を発表しました。バンドの長年の功績を称える内容です。",
-   "category": "再発・記念盤",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d353b4f8a2217745",
-   "url": "https://www.orlandoweekly.com/music/weezer-will-rock-the-suburbs-at-orlando-show",
-   "title_original": "Weezer will rock the suburbs at Orlando show",
-   "source": "Orlando Weekly",
-   "image": "https://www.orlandoweekly.com/wp-content/uploads/2026/10/weezer-press-august-2026-brendanwalter-1200x675-1.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T17:45:05+00:00",
-   "title_ja": "Weezerがオーランド公演で郊外のファンを魅了",
-   "summary_ja": "Weezerがオーランドでの公演でファンを沸かせたライブの模様を伝えています。おなじみの楽曲で会場を大いに盛り上げました。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "0d44ff77e7227e60",
-   "url": "https://www.si.com/onsi/athlete-lifestyle/tom-delonge-gets-emotional-as-43-000-padres-fans-sing-blink-182-hit",
-   "title_original": "Tom DeLonge's Emotional Reaction to Padres Fans Singing Blink-182 Hit Says It All",
-   "source": "Sports Illustrated",
-   "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_167,w_3142,h_1767/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/shape/cover/sport/imago0862631195h-3181170a4725ef56b3831e0be80977d4.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T17:30:00+00:00",
-   "title_ja": "パドレス戦でのBlink-182大合唱にTom DeLongeが感激",
-   "summary_ja": "野球の試合中、観客席でBlink-182の名曲が大合唱された場面に直面したTom DeLongeの感情豊かな反応を取り上げています。",
-   "category": "メンバー・発言",
-   "band": "Blink-182",
-   "artists": [
-    "Tom DeLonge",
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "56eb2ef0135979d8",
-   "url": "https://www.yahoo.com/entertainment/music/articles/setlist-billie-joe-armstrongs-pinhead-170724026.html",
-   "title_original": "Setlist from Billie Joe Armstrong's Pinhead Gunpowder Minneapolis show",
-   "source": "Yahoo",
-   "image": "https://s.yimg.com/lo/mysterio/api/96c0dcc976503c98ff7d1119a469b806c34751a3011293a3d335c20c54419eb4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flist_wire_usa_today_articles_325%2Fdb2f71abd5e1f20f511f70c01f705d08.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T17:07:24+00:00",
-   "title_ja": "Pinhead Gunpowderのミネアポリス公演のセットリスト",
-   "summary_ja": "Billie Joe Armstrongが率いるPinhead Gunpowderがミネアポリスで行ったライブのセットリストを紹介しています。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong",
-    "Pinhead Gunpowder"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "40bb0e47854abe1d",
-   "url": "https://newnoisemagazine.com/news-green-day-inspired-movie-nimrods-available-in-digital-now",
-   "title_original": "News: Green Day Inspired Movie ‘Nimrods’ Now Available Digitally",
-   "source": "New Noise Magazine",
-   "image": "https://newnoisemagazine.com/wp-content/uploads/2026/10/image-1-5.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T14:50:41+00:00",
-   "title_ja": "Green Day関連映画『Nimrods』が配信開始",
-   "summary_ja": "Green Dayに着想を得た映画作品『Nimrods』が、各デジタルプラットフォームにてオンライン配信の提供を開始したという話題。（98文字）",
-   "category": "映像・映画・書籍",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d85d7b51feef08bd",
-   "url": "https://www.jsonline.com/story/entertainment/music/2026/10/08/weezer-milwaukee-fiserv-forum-concert-review/92021719007",
-   "title_original": "Weezer's a winner, and maybe helped the Brewers win, at Milwaukee show",
-   "source": "Milwaukee Journal Sentinel",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T13:56:00+00:00",
-   "title_ja": "Weezerがミルウォーキー公演を開催",
-   "summary_ja": "Weezerがミルウォーキーでのライブを行い、素晴らしいパフォーマンスで会場を魅了した。地元の野球チームの勝利にも貢献したという。（91文字）",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "98164e8965fa332d",
-   "url": "https://faroutmagazine.co.uk/the-linda-lindas-the-next-phase-of-revolutionaries",
-   "title_original": "The Linda Lindas: the next phase of revolutionaries",
-   "source": "Far Out Magazine",
-   "image": "https://cdn1.faroutmagazine.co.uk/uploads/1/2026/10/The-Linda-Lindas-the-next-phase-of-revolutionaries-Far-Out-Magazine-01.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T13:15:00+00:00",
-   "title_ja": "The Linda Lindasが迎える新たな革新のフェーズ",
-   "summary_ja": "次世代のパンクシーンを担うバンドとして注目を集めるThe Linda Lindasの、新たな音楽的展開や活動の歩みに迫る記事。（96文字）",
-   "category": "その他",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas"
    ],
    "japan": false,
    "importance": 3,
