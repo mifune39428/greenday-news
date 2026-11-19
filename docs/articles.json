@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T00:28:51.957293+09:00",
+ "updated_at": "2026-11-19T09:09:36.473533+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -36,18 +36,18 @@
   "100% ROCK MAGAZINE",
   "103.9 Wayne FM",
   "24Hip-Hop",
-  "930 WFMD Free Talk",
+  "95.7 BEN FM",
   "95.9 The RAT",
   "96.3 KKLZ",
   "ABS-CBN",
   "AD HOC NEWS",
   "AFL-CIO",
   "ALT 98.7",
+  "All Music Magazine UK",
   "Arts Council of Greater New Haven",
   "Audacy",
   "BLABBERMOUTH.NET",
   "Backseat Mafia",
-  "Barstool Sports",
   "Berkeleyside",
   "Big Country News |",
   "Billboard",
@@ -138,7 +138,6 @@
   "NME",
   "NME Japan",
   "NYS Music",
-  "Nanaimo News Bulletin",
   "Neon Music",
   "New Noise Magazine",
   "New York Post",
@@ -176,6 +175,7 @@
   "Rock News UK",
   "Rock Sound",
   "Rolling Stone",
+  "Rolling Stone Canada",
   "RouteNote",
   "SAYS",
   "SB Nation",
@@ -187,7 +187,6 @@
   "Sheldon Ang Media",
   "Soap Central",
   "Sports Illustrated",
-  "Star Tribune",
   "Stereogum",
   "SurvivorNet",
   "TVGuide.co.uk",
@@ -199,6 +198,7 @@
   "The Big Takeover",
   "The Charge",
   "The Daily Texan",
+  "The Hofstra Chronicle",
   "The Hollywood Reporter",
   "The Hype Magazine",
   "The Indy Review",
@@ -220,7 +220,6 @@
   "Ubisoft",
   "Ultimate Guitar",
   "VICE",
-  "Variety",
   "Variety India",
   "Verge Magazine",
   "WECB",
@@ -257,57 +256,224 @@
   "upi",
   "山陽新聞デジタル｜さんデジ",
   "激ロック",
-  "씨네플레이",
   "조선일보"
  ],
- "count": 397,
+ "count": 398,
  "detail_count": 298,
  "digest": {
-  "headline": "パンク・ロック界の最新ニュースと来日・新作情報まとめ",
+  "headline": "主要パンクバンドの新曲発表や2027年ツアー情報が続々到着",
   "points": [
    {
-    "text": "ParamoreのHayley Williamsが、2027年3月に東京・豊洲PITで来日公演を開催することを発表した。",
+    "text": "Fall Out Boyは新曲発表や2027年スタジアム・世界ツアーの告知を行い、チケットが完売続出している。",
+    "ids": [
+     "0125f15533b1c74b",
+     "6b9ef4315db68c34",
+     "1e34eada96d2db12"
+    ]
+   },
+   {
+    "text": "Sum 41のDeryck Whibleyがソロアルバムの発表や欧州ツアー、アコースティック新作のリリースを控えている。",
+    "ids": [
+     "4a81c5233b70d12f",
+     "94b531a90ba4a252",
+     "0cfddd1678624e83"
+    ]
+   },
+   {
+    "text": "Blink-182やPierce The Veilが「When We Were Young 2027」のヘッドライナーに決定した。",
+    "ids": [
+     "79fbd2338466c0c3",
+     "2bd17607b550a340",
+     "2eb364cbbd9dce1b"
+    ]
+   },
+   {
+    "text": "ParamoreのHayley Williamsが2027年3月に東京・豊洲PITでの来日公演開催を発表した。",
     "ids": [
      "9dc4a6ceb49ae9f9"
     ]
    },
    {
-    "text": "Blink-182やONE OK ROCKが出演するWhen We Were Young 2027の開催が発表された。",
+    "text": "My Chemical Romanceは『The Black Parade』の20周年記念盤発表や19年ぶりのマレーシア公演を行った。",
     "ids": [
-     "450ae415fb20a90b",
-     "cf6fd3c823fa7b77",
-     "92e40dfeb29e32b2"
-    ]
-   },
-   {
-    "text": "Fall Out Boyが新曲「Doomsday Generation」の音源とMVを公開した。",
-    "ids": [
-     "08bf2dfcaab03162",
-     "3481189992f6b822",
-     "3d1c2e1951cb5cc7"
-    ]
-   },
-   {
-    "text": "Sum 41のDeryck Whibleyが代表曲のアコースティック新作アルバムを発表した。",
-    "ids": [
-     "94b531a90ba4a252",
-     "38fd1ef306c5031b"
-    ]
-   },
-   {
-    "text": "My Chemical Romanceの名盤『The Black Parade』発売20周年記念盤のリリースが決定した。",
-    "ids": [
-     "f8516d4cb1362e92"
+     "f8516d4cb1362e92",
+     "c23bb3304b561948"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-16T00:33:06.550448+09:00",
-  "generated_at": "2026-11-19T00:33:12.087198+09:00",
+  "from": "2026-11-16T09:11:17.315438+09:00",
+  "generated_at": "2026-11-19T09:11:19.142939+09:00",
   "article_count": 24,
-  "sig": "84db3d9dbf4a"
+  "sig": "68f934f0bad8"
  },
  "items": [
+  {
+   "id": "79fbd2338466c0c3",
+   "url": "https://www.thatericalper.com/2026/11/18/blink-182-and-pierce-the-veil-headline-when-we-were-youngs-massive-2027-comeback",
+   "title_original": "Blink-182 And Pierce The Veil Headline When We Were Young’s Massive 2027 Comeback",
+   "source": "That Eric Alper",
+   "image": "https://www.thatericalper.com/wp-content/uploads/2026/11/download-2026-11-18T171156.717.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T22:12:54+00:00",
+   "title_ja": "Blink-182とPierce The Veilが2027年フェスでヘッドライナー",
+   "summary_ja": "Blink-182とPierce The Veilが、2027年に開催される「When We Were Young」のヘッドライナーを務めることが発表された。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Pierce The Veil"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "2bd17607b550a340",
+   "url": "https://www.jambase.com/article/when-we-were-young-2027-lineup-blink-182-pierce-the-veil",
+   "title_original": "Blink-182 & Pierce The Veil Lead When We Were Young’s 2027 Las Vegas Return",
+   "source": "JamBase",
+   "image": "https://www.jambase.com/wp-content/uploads/2026/11/when-we-were-young-2027-featured-1480x832.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T21:17:44+00:00",
+   "title_ja": "Blink-182とPierce The VeilがWhen We Were Young 2027に出演",
+   "summary_ja": "ラスベガスで開催される「When We Were Young」の2027年復活公演にて、Blink-182とPierce The Veilがヘッドライナーを務める。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Pierce The Veil"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "6b9ef4315db68c34",
+   "url": "https://themusicuniverse.com/fall-out-boy-sells-out-2027-shows-globally",
+   "title_original": "Fall Out Boy sells out 2027 shows globally",
+   "source": "The Music Universe",
+   "image": "https://themusicuniverse.com/wp-content/uploads/2026/11/falloutboy27tour.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T18:53:17+00:00",
+   "title_ja": "Fall Out Boyの2027年世界ツアー公演が完売続出",
+   "summary_ja": "Fall Out Boyが発表した2027年のグローバルツアーの各公演チケットが、世界各地で次々とソールドアウトを記録している。",
+   "category": "ライブ・ツアー",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "879a77fc2a4e7af5",
+   "url": "https://www.iheart.com/content/2026-11-18-iheartradio-alter-ego-2027-lineup-adds-sum-41s-deryck-whibley",
+   "title_original": "iHeartRadio ALTer EGO 2027 Lineup Adds Sum 41's Deryck Whibley",
+   "source": "iHeart",
+   "image": "https://i.iheart.com/v3/re/new_assets/6afddbf9254ccb42b57a8b22",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T18:02:09+00:00",
+   "title_ja": "iHeartRadio ALTer EGO 2027にSum 41のDeryck Whibleyが出演決定",
+   "summary_ja": "2027年開催の音楽イベント「iHeartRadio ALTer EGO」の追加ラインナップとして、Sum 41のDeryck Whibleyの出演が発表された。",
+   "category": "フェス出演",
+   "band": "Sum 41",
+   "artists": [
+    "Deryck Whibley",
+    "Sum 41"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "4a81c5233b70d12f",
+   "url": "https://www.allmusicmagazine.co.uk/post/deryck-whibley-announces-debut-solo-record-sum-41-diamonds-of-the-night-vol-1-european-tour-dat",
+   "title_original": "Deryck Whibley announces debut solo record ‘Sum 41 Diamonds Of The Night: Vol 1’ – European tour dates announced",
+   "source": "All Music Magazine UK",
+   "image": "https://static.wixstatic.com/media/37163d_c3aac73d50914d75b1fe8fe9cc7f7bb1~mv2.jpg/v1/fill/w_800,h_800,al_c,q_85/37163d_c3aac73d50914d75b1fe8fe9cc7f7bb1~mv2.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T17:59:39+00:00",
+   "title_ja": "Sum 41のDeryck Whibleyが初のソロ作発表と欧州ツアー決定",
+   "summary_ja": "Sum 41のDeryck Whibleyがデビュー・ソロ・アルバム『Sum 41 Diamonds Of The Night: Vol 1』のリリースを発表し、あわせてヨーロッパツアーの日程を公開した。",
+   "category": "新曲・新作",
+   "band": "Sum 41",
+   "artists": [
+    "Deryck Whibley",
+    "Sum 41"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "4f510c67faef9b7c",
+   "url": "https://ca.rollingstone.com/music/deryck-whibley-sum-41-diamonds-of-the-night-solo-album",
+   "title_original": "Deryck Whibley Is Giving Sum 41 Classics a New Life on First Solo Album",
+   "source": "Rolling Stone Canada",
+   "image": "https://ca.rollingstone.com/media-library/image.png?id=68708821&width=1200&height=600&coordinates=0%2C31%2C0%2C32",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T15:54:44+00:00",
+   "title_ja": "Sum 41の楽曲を再構築した初のソロ作を発表",
+   "summary_ja": "Deryck Whibleyが初のソロアルバムを発表。Sum 41の代表曲を新たなアレンジで蘇らせた作品となっている。",
+   "category": "新曲・新作",
+   "band": "Sum 41",
+   "artists": [
+    "Deryck Whibley",
+    "Sum 41"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "1e34eada96d2db12",
+   "url": "https://newnoisemagazine.com/news-fall-out-boy-release-single-doomsday-generation-slacker-for-the-ages",
+   "title_original": "News: Fall Out Boy Release Single ‘Doomsday Generation (Slacker for the Ages)’",
+   "source": "New Noise Magazine",
+   "image": "https://newnoisemagazine.com/wp-content/uploads/2026/10/falloutboy_1791302421_4002049624474294051_301048096.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T15:50:59+00:00",
+   "title_ja": "Fall Out Boyが新シングルをリリース",
+   "summary_ja": "Fall Out Boyが新曲「Doomsday Generation (Slacker for the Ages)」を新たにリリースした。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "2eb364cbbd9dce1b",
+   "url": "https://957benfm.com/2026/11/18/when-we-were-young-2027-blink-182-pierce-the-veil-and-50-acts-set-for-las-vegas",
+   "title_original": "When We Were Young 2027: Blink-182, Pierce The Veil and 50+ Acts Set for Las Vegas",
+   "source": "95.7 BEN FM",
+   "image": "https://957benfm.com/uploads/2026/11/GettyImages-1482435985-1.jpg?auto=webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T15:17:06+00:00",
+   "title_ja": "When We Were Young 2027の全貌が明らかに",
+   "summary_ja": "ラスベガスで行われる「When We Were Young 2027」にBlink-182やPierce The Veilをはじめ50組以上の出演が決定した。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Pierce The Veil"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "38fd1ef306c5031b",
    "url": "https://exclaim.ca/music/article/sum-41-songs-reimagined-by-deryck-whibley-for-diamonds-of-the-night-vol-1",
@@ -324,6 +490,27 @@
    "artists": [
     "Sum 41",
     "Deryck Whibley"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c4e3102706a5080a",
+   "url": "https://blabbermouth.net/news/the-offsprings-dexter-holland-to-be-inducted-into-orange-county-hall-of-fame",
+   "title_original": "THE OFFSPRING's DEXTER HOLLAND To Be Inducted Into ORANGE COUNTY HALL OF FAME",
+   "source": "BLABBERMOUTH.NET",
+   "image": "https://assets.blabbermouth.net/media/dexterhollandnov2026_638.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T13:55:13+00:00",
+   "title_ja": "The OffspringのDexter Hollandがオレンジ郡殿堂入りへ",
+   "summary_ja": "The OffspringのフロントマンであるDexter Hollandが、地元オレンジ郡のホール・オブ・フェーム（殿堂）に殿堂入りすることが明らかになった。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "Dexter Holland",
+    "The Offspring"
    ],
    "japan": false,
    "importance": 3,
@@ -390,7 +577,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "450ae415fb20a90b",
@@ -413,6 +600,27 @@
    "has_detail": true
   },
   {
+   "id": "0cfddd1678624e83",
+   "url": "https://www.kerrang.com/deryck-whibley-announces-solo-album-of-reimagined-sum-41-songs-and-european-tour-dates",
+   "title_original": "Deryck Whibley announces solo album of reimagined Sum 41 songs, plus European tour dates",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/2026/11/deryck-whibley-sum-41-solo-header-2026-travis-shinn.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1795005896&s=868de01b9c03409da57f2e818316d189",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T00:00:00+00:00",
+   "title_ja": "Deryck Whibleyがソロアルバムと欧州ツアーを発表",
+   "summary_ja": "Deryck WhibleyがSum 41の名曲を再解釈したソロアルバムのリリースと、それに伴うヨーロッパツアーの開催を発表した。",
+   "category": "ライブ・ツアー",
+   "band": "Sum 41",
+   "artists": [
+    "Deryck Whibley",
+    "Sum 41"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "cf6fd3c823fa7b77",
    "url": "https://news.yahoo.co.jp/articles/d5fdc01d85ea1c07616e20ccd9b64d8617bd68a9/images/000",
    "title_original": "ONE OK ROCK、米大型フェス「When We Were Young 2027」に出演決定 ブリンク182、リンプ・ビズキットら豪華共演",
@@ -432,7 +640,7 @@
    ],
    "japan": true,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e40f1430265220cd",
@@ -454,6 +662,26 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "31d1cb04ef44661b",
+   "url": "https://www.imdb.com/it/news/ni4483618",
+   "title_original": "Weezer's Hurley Cover Star Never Planned To Sing With The Band",
+   "source": "IMDb",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T20:27:02+00:00",
+   "title_ja": "Weezerのアルバム『Hurley』ジャケットの少年、バンドとの共演は想定外だった",
+   "summary_ja": "Weezerのアルバム『Hurley』のジャケットに起用された少年が、バンドと一緒に歌うことは当初全く予定されていなかったことを明かした。",
+   "category": "その他",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "92e40dfeb29e32b2",
@@ -497,6 +725,26 @@
    ],
    "japan": false,
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "735909052b3ff8ce",
+   "url": "https://thehofstrachronicle.com/115963/arts-entertainment/my-chemical-romances-the-black-parade-marches-on",
+   "title_original": "My Chemical Romance’s ‘The Black Parade’ marches on",
+   "source": "The Hofstra Chronicle",
+   "image": "https://thehofstrachronicle.com/wp-content/uploads/2026/11/My-Chemical-Romance-cr-Chapman-Baehler-press-2024-billboard-1548_bf0f86.jpg.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T18:03:26+00:00",
+   "title_ja": "My Chemical Romanceの名盤が持つ色褪せない魅力",
+   "summary_ja": "My Chemical Romanceの歴史的傑作『The Black Parade』が現在もファンやシーンに与え続けている多大な影響や、その楽曲群の求心力について振り返る。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
    "has_detail": true
   },
   {
@@ -603,7 +851,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f8516d4cb1362e92",
@@ -687,26 +935,6 @@
    "has_detail": true
   },
   {
-   "id": "9d1f031755c26f57",
-   "url": "https://www.vice.com/en/article/fall-out-boy-recruits-90s-legend-for-unexpected-new-collaboration",
-   "title_original": "Fall Out Boy Recruits 90s Legend for Unexpected New Collaboration",
-   "source": "VICE",
-   "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/Fall-Out-Boy1.jpg?w=1200",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-16T19:42:02+00:00",
-   "title_ja": "Fall Out Boyが90年代のレジェンドと予想外のコラボを実現",
-   "summary_ja": "Fall Out Boyが、90年代を代表する伝説的アーティストを新たに迎えて制作した予想外のコラボレーション楽曲を発表した。",
-   "category": "新曲・新作",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
    "id": "edacf142ccd85319",
    "url": "https://tribune.net.ph/amp/story/2026/11/16/more-than-music-my-chemical-romance-and-5sos-bring-nostalgia-to-manila",
    "title_original": "More than music: My Chemical Romance and 5SOS bring nostalgia to Manila",
@@ -768,6 +996,26 @@
    ],
    "japan": false,
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "0125f15533b1c74b",
+   "url": "https://rockcellarmagazine.com/fall-out-boy-twilight-of-the-punks-tour-2027-new-song-aces-details",
+   "title_original": "Fall Out Boy Debuts \"Aces,\" Announces 2027 Stadium Tour",
+   "source": "Rock Cellar Magazine",
+   "image": "https://rockcellarmagazine.com/wp-content/uploads/2026/11/fall-out-boy-pic-2026.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T16:33:25+00:00",
+   "title_ja": "Fall Out Boyが新曲発表と2027年スタジアムツアーを告知",
+   "summary_ja": "Fall Out Boyが新曲「Aces」を初披露するとともに、2027年に開催予定の大規模なスタジアムツアーのスケジュールを発表した。今後の活動展開に大きな期待が寄せられている。",
+   "category": "ライブ・ツアー",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy"
+   ],
+   "japan": false,
+   "importance": 5,
    "has_detail": true
   },
   {
@@ -8263,233 +8511,6 @@
    "band": "The Linda Lindas",
    "artists": [
     "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4c49eb59a83a90b2",
-   "url": "https://nme-jp.com/news/173152",
-   "title_original": "ブリンク182のトム・デロング、パドレス戦で観客が“All the Small Things”を歌う光景に感極まることに",
-   "source": "NME Japan",
-   "image": "https://nme-jp.com/nmesite/wp-content/uploads/2023/09/Blink-182.-Credit-PRESS-1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T11:30:13+00:00",
-   "title_ja": "Blink-182のトム、球場の合唱に感極まる",
-   "summary_ja": "野球場の観客がBlink-182の「All the Small Things」を大合唱する光景に、トム・デロングが感極まった。",
-   "category": "メンバー・発言",
-   "band": "Blink-182",
-   "artists": [
-    "Tom DeLonge",
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a8ce921f9b95a918",
-   "url": "https://www.cineplay.co.kr/ja-jp/articles/30104",
-   "title_original": "ブリンク182のトラヴィス・バーカー、入院・手術の近況を報告 「腕と指のしびれで肘部管症候群の手術」",
-   "source": "씨네플레이",
-   "image": "https://cdn.www.cineplay.co.kr/w1200/q100/f_jpg/article-images/2026-10-08/02d498ea-7893-43c1-9ee8-7b6985484f19.webp",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T09:00:00+00:00",
-   "title_ja": "Blink-182のトラヴィス、肘部管症候群で手術",
-   "summary_ja": "Blink-182のトラヴィス・バーカーが入院し、腕や指のしびれを改善するため肘部管症候群の手術を受けたことを報告した。",
-   "category": "メンバー・発言",
-   "band": "Blink-182",
-   "artists": [
-    "Travis Barker",
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "816e79c4c8141aab",
-   "url": "https://www.startribune.com/green-day-billie-joe-armstrong-pinhead-gunpowder/601898189",
-   "title_original": "What was Green Day’s frontman doing onstage at First Avenue?",
-   "source": "Star Tribune",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T06:44:32+00:00",
-   "title_ja": "Green Dayのフロントマンがステージに登場",
-   "summary_ja": "Green Dayのフロントマンであるビリー・ジョー・アームストロングが、ライブハウスのステージでどのようなパフォーマンスを繰り広げたのかが注目されている。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong",
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "db8889495c3599cf",
-   "url": "https://music.mxdwn.com/2026/10/07/new-york-city/dropkick-murphys-at-brooklyn-paramount-on-march-7th",
-   "title_original": "Dropkick Murphys at Brooklyn Paramount on March 7th",
-   "source": "mxdwn Music",
-   "image": "https://music-b26f.kxcdn.com/wp-content/uploads/2025/07/DROPKICK_MURPHYS_WARPED_TOUR_2025_CH_20250727-25.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T03:37:14+00:00",
-   "title_ja": "Dropkick Murphysがブルックリン公演を開催",
-   "summary_ja": "Dropkick Murphysがブルックリン・パラマウントにて公演を行う予定であることを伝える記事。",
-   "category": "ライブ・ツアー",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "d20532ead4e07fc5",
-   "url": "https://variety.com/2026/music/concert-reviews/hayley-williams-hollywood-bowl-concert-tour-review-1236905172",
-   "title_original": "Hayley Williams Proves There’s a Lot More to Her Than Paramore in a Galvanizing Solo Show at the Hollywood Bowl: Concert Review",
-   "source": "Variety",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T00:09:00+00:00",
-   "title_ja": "ParamoreのHayley Williamsがハリウッドボウルでソロ公演を開催",
-   "summary_ja": "ParamoreのHayley Williamsがハリウッド・ボウルで行ったソロ公演のライブレビュー。バンドとは異なる彼女の魅力が証明された。",
-   "category": "ライブ・ツアー",
-   "band": "Paramore",
-   "artists": [
-    "Hayley Williams"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8cc389a683606309",
-   "url": "https://www.vice.com/en/article/watch-thousands-of-san-diego-padres-fans-sing-blink-182s-all-the-small-things-to-tom-delonge-and-is-someone-cutting-onions",
-   "title_original": "WATCH: Thousands of San Diego Padres Fans Sing Blink-182’s ‘All The Small Things’ to Tom DeLonge and Is Someone Cutting Onions?",
-   "source": "VICE",
-   "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/06/Blink-1824.jpg?w=1200",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-07T20:26:25+00:00",
-   "title_ja": "パドレス戦でBlink-182の大合唱が発生",
-   "summary_ja": "サンディエゴ・パドレスの試合中、観客数千人がBlink-182の代表曲「All The Small Things」を大合唱し、その場にいたTom DeLongeも大きな注目を集めました。",
-   "category": "その他",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182",
-    "Tom DeLonge"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "70dec75f3edc0c91",
-   "url": "https://www.wfmd.com/2026/10/07/paramores-hayley-williams-targets-christian-nationalism-as-americas-greatest-threat-to-democracy",
-   "title_original": "Paramore’s Hayley Williams targets Christian nationalism as America’s ‘greatest threat’ to democracy",
-   "source": "930 WFMD Free Talk",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/hayley-williams-going-platinum-austin-texas_001-scaled.jpg?ve=1&tl=1",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-07T19:17:15+00:00",
-   "title_ja": "ParamoreのHayley Williamsが発言",
-   "summary_ja": "ParamoreのHayley Williamsが、アメリカの民主主義にとっての最大の脅威としてキリスト教ナショナリズムを強く批判しました。",
-   "category": "メンバー・発言",
-   "band": "Paramore",
-   "artists": [
-    "Paramore",
-    "Hayley Williams"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "58a8b8d32fcd070d",
-   "url": "https://newnoisemagazine.com/news-fall-out-boy-release-cover-of-it-feels-like-christmas-from-the-muppet-christmas-carol",
-   "title_original": "News: Fall Out Boy Release Cover of 'It Feels Like Christmas' from 'The Muppet Christmas Carol'",
-   "source": "New Noise Magazine",
-   "image": "https://newnoisemagazine.com/wp-content/uploads/2026/10/falloutboy_1791302421_4002049624474294051_301048096.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-07T14:50:51+00:00",
-   "title_ja": "Fall Out Boyが映画『Muppet Christmas Carol』のカバー曲を配信",
-   "summary_ja": "Fall Out Boyがクリスマス映画『The Muppet Christmas Carol』の劇中歌「It Feels Like Christmas」のカバーをリリースした。",
-   "category": "新曲・新作",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "5d80d74dda7a8689",
-   "url": "https://www.barstoolsports.com/blog/3578631/padres-are-back-blink-182s-tom-delonge-led-petco-park-in-all-the-small-things",
-   "title_original": "Padres Are Back – Blink-182's Tom DeLonge Led Petco Park in All The Small Things Last Night, And As Always, It Rocked",
-   "source": "Barstool Sports",
-   "image": "https://chumley.barstoolsports.com/union/2026/10/07/2d1cb2551390.jpeg?crop=16%3A9%2Csmart&width=560",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-07T14:30:00+00:00",
-   "title_ja": "パドレス戦でBlink-182の曲が大合唱、トム・デロングも参加",
-   "summary_ja": "前夜の試合会場でパドレスファンがBlink-182の楽曲を大合唱し、トム・デロング自身もスタジアムを盛り上げて熱狂的な夜を作り出した。",
-   "category": "ライブ・ツアー",
-   "band": "Blink-182",
-   "artists": [
-    "Blink-182",
-    "Tom DeLonge"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "0138362e70c6526f",
-   "url": "https://consequence.net/2026/10/blink-182-tom-delonge-emotional-san-diego-padres-all-the-small-things",
-   "title_original": "blink-182’s Tom DeLonge Gets Emotional at San Diego Padres Game as Crowd Sings “All the Small Things”: Watch",
-   "source": "Consequence",
-   "image": "https://consequence.net/wp-content/uploads/2026/10/blink-182-Tom-DeLonge.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-07T14:00:49+00:00",
-   "title_ja": "Blink-182のTom DeLonge、野球場でファンと感動を共有",
-   "summary_ja": "MLBのプレーオフ会場でBlink-182の楽曲が大合唱され、Tom DeLongeが感極まった姿を見せた。地元サンディエゴでの試合中継やSNSでも大きな注目を集めている。",
-   "category": "その他",
-   "band": "Blink-182",
-   "artists": [
-    "Tom DeLonge",
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "738104a631ef7764",
-   "url": "https://nanaimobulletin.com/2026/10/07/pop-punk-heavyweights-simple-plan-bringing-tour-to-victoria",
-   "title_original": "Pop-punk heavyweights Simple Plan bringing tour to Victoria",
-   "source": "Nanaimo News Bulletin",
-   "image": "https://nanaimobulletin.com/wp-content/uploads/sites/4/2026/10/Your20paragraph20text201.jpg?w=1024",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-07T14:00:00+00:00",
-   "title_ja": "Simple Planがビクトリア公演を含むツアー開催を発表",
-   "summary_ja": "ポップパンクを牽引するSimple Planが、新たにビクトリアでの公演を含むツアーの開催を発表した。ベテランバンドによるエネルギッシュなステージに期待が高まる。",
-   "category": "ライブ・ツアー",
-   "band": "Simple Plan",
-   "artists": [
-    "Simple Plan"
    ],
    "japan": false,
    "importance": 3,
