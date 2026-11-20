@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T00:35:56.657781+09:00",
+ "updated_at": "2026-11-20T09:31:48.743943+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -44,6 +44,7 @@
   "AFL-CIO",
   "ALT 98.7",
   "All Music Magazine UK",
+  "Alternative Press",
   "Arts Council of Greater New Haven",
   "Audacy",
   "BLABBERMOUTH.NET",
@@ -103,6 +104,7 @@
   "LADbible",
   "LAist",
   "Lambgoat",
+  "Las Vegas Review-Journal",
   "Las Vegas Sun",
   "Law Commentary",
   "Los Angeles Daily News",
@@ -156,6 +158,7 @@
   "Philstar.com",
   "Pitchfork",
   "Pollstar News",
+  "PopCulture.com",
   "PopMatters",
   "RAMzine",
   "RIFF Magazine",
@@ -255,54 +258,138 @@
   "激ロック",
   "조선일보"
  ],
- "count": 390,
- "detail_count": 292,
+ "count": 394,
+ "detail_count": 295,
  "digest": {
-  "headline": "Green DayやParamore、Fall Out Boyらの最新動向まとめ",
+  "headline": "Green DayのBillie Joeが地元凱旋ライブ！パンク・ロック界の最新",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongが、Pinhead Gunpowderと共にバークレーで地元凱旋ライブを行う。",
+    "text": "Green DayのBillie Joe Armstrongが、サイドプロジェクトのPinhead Gunpowderと地元バークレーで凱旋ライブを開催する。",
     "ids": [
      "590fd4c2ac0c6817"
     ]
    },
    {
-    "text": "ParamoreのHayley Williamsが2027年3月に東京・豊洲PITで単独公演を開催することを発表した。",
+    "text": "ParamoreのHayley Williamsが2027年3月に東京・豊洲PITで来日公演を行うことを発表した。",
     "ids": [
      "9dc4a6ceb49ae9f9"
     ]
    },
    {
-    "text": "Fall Out Boyが新曲を相次いで発表したほか、2027年の大規模なスタジアムツアーなどを告知した。",
+    "text": "Sum 41のDeryck Whibleyがバンド曲をアコースティック調で再構築したソロアルバムのリリースとツアーを発表した。",
     "ids": [
-     "0125f15533b1c74b",
-     "1e34eada96d2db12",
-     "08bf2dfcaab03162"
-    ]
-   },
-   {
-    "text": "Sum 41のDeryck Whibleyが、楽曲を再構築した初のソロアルバムを携えてツアーを行うことを発表した。",
-    "ids": [
+     "18b87cb95db16957",
      "c6bf6a33b373a146",
-     "4a81c5233b70d12f",
-     "0cfddd1678624e83"
+     "4a81c5233b70d12f"
     ]
    },
    {
-    "text": "Blink-182やONE OK ROCKらが、2027年開催の大型フェス「When We Were Young 2027」に出演する。",
+    "text": "Fall Out Boyが新曲リリースや全36公演のTwilightツアー、世界ツアーの完売続出など精力的な動きを見せている。",
+    "ids": [
+     "e9f88a5ee88cfa86",
+     "6b9ef4315db68c34",
+     "1e34eada96d2db12"
+    ]
+   },
+   {
+    "text": "Blink-182がヘッドライナーを務める2027年のWhen We Were YoungフェスにONE OK ROCKらの出演が決定した。",
     "ids": [
      "79fbd2338466c0c3",
-     "cf6fd3c823fa7b77"
+     "2bd17607b550a340",
+     "2eb364cbbd9dce1b"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-17T00:46:32.294998+09:00",
-  "generated_at": "2026-11-20T00:47:26.421509+09:00",
+  "from": "2026-11-17T09:32:22.665003+09:00",
+  "generated_at": "2026-11-20T09:32:24.814326+09:00",
   "article_count": 24,
-  "sig": "d9b1579a47ad"
+  "sig": "275191621462"
  },
  "items": [
+  {
+   "id": "802371c160acb042",
+   "url": "https://popculture.com/celebrity/news/blink-182-bandmates-daughter-speaks-out-after-seeing-violating-photos-of-herself",
+   "title_original": "Blink-182 Member’s Daughter Speaks Out After Seeing ‘Violating’ Photos of Herself",
+   "source": "PopCulture.com",
+   "image": "https://popculture.com/wp-content/uploads/sites/5/2022/08/f291fcf6-107e-4c23-9223-b55bacd5f051.png?w=1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T17:45:07+00:00",
+   "title_ja": "Blink-182メンバーの娘が盗撮被害の写真について心境を吐露",
+   "summary_ja": "Blink-182のメンバーの娘が、自身を捉えた不適切な写真が拡散された問題について公に発言を行った。プライバシーの侵害に対する強い怒りと不安を語り、波紋を呼んでいる。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "e99b342c2ef78eee",
+   "url": "https://parade.com/news/fall-out-boy-patrick-stump-exclusive-music-video-the-night-symbie-saved-christmas-spidey-amazing-friends-marvel-disney",
+   "title_original": "Fall Out Boy’s Patrick Stump Gives a Venom-Like ‘Spidey’ Villain His Own Christmas Song — Watch the Exclusive Video",
+   "source": "Parade Magazine",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T17:00:00+00:00",
+   "title_ja": "Fall Out BoyのPatrick Stumpがスパイダーマンのヴィランにクリスマスソングを提供",
+   "summary_ja": "Fall Out BoyのPatrick Stumpが、マーベルのヴィランをテーマにしたクリスマスソングを制作し、専用の独占映像が公開された。彼の独特な音楽性が発揮されたホリデーシーズンの注目企画となっている。",
+   "category": "新曲・新作",
+   "band": "Fall Out Boy",
+   "artists": [
+    "Fall Out Boy",
+    "Patrick Stump"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "18b87cb95db16957",
+   "url": "https://www.altpress.com/deryck-whibley-sum-41-with-me-first-dance-video-watch",
+   "title_original": "Deryck Whibley will release an album of stripped-back Sum 41 songs",
+   "source": "Alternative Press",
+   "image": "https://media.altpress.com/fkdgxpscnt/styles/card-social/2026/11/19/MixCollage-19-Nov-2026-10-58-AM-5433.jpg.webp?version=3ef8b97be853",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T16:44:23+00:00",
+   "title_ja": "Sum 41の楽曲をアコースティック調で収録したアルバムの発売が決定",
+   "summary_ja": "Sum 41のDeryck Whibleyが、バンドの楽曲をシンプルかつアコースティックにアレンジした新アルバムをリリースすることを発表した。これまでの名曲たちが新たな装いで蘇ることになる。",
+   "category": "新曲・新作",
+   "band": "Sum 41",
+   "artists": [
+    "Sum 41",
+    "Deryck Whibley"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "2653a8c13cd74f35",
+   "url": "https://www.reviewjournal.com/news/nation-and-world/blink-182s-mark-hoppus-wants-the-money-from-lawsuit-victory-against-neighbor-now-3916389",
+   "title_original": "Blink-182’s Mark Hoppus wants the money from lawsuit victory against neighbor — now",
+   "source": "Las Vegas Review-Journal",
+   "image": "https://www.reviewjournal.com/wp-content/uploads/2026/11/22316453_web1_58775713.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T16:04:32+00:00",
+   "title_ja": "Blink-182のMark Hoppus、隣人訴訟の勝訴に伴い賠償金を要求",
+   "summary_ja": "Blink-182のMark Hoppusが、隣人との間で争われていた訴訟での勝訴を受け、金銭的な賠償の支払いを求めていることが明らかになった。バンドのベーシストとして知られる彼の法的な動きに注目が集まっている。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Mark Hoppus"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "e9f88a5ee88cfa86",
    "url": "https://www.ad-hoc-news.de/unterhaltung/musik/fall-out-boy-announced-36-date-twilight-tour-on-november-9/70536900",
@@ -404,7 +491,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b295ec2c095e08a1",
@@ -424,7 +511,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1938f3fa6bb60e41",
@@ -1519,7 +1606,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "832d31b7c1331f41",
