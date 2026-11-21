@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T15:46:29.998021+09:00",
+ "updated_at": "2026-11-22T03:59:43.874124+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -147,7 +147,6 @@
   "Northern Transmissions",
   "Official Charts",
   "On Tap Sports Net",
-  "Orlando Sentinel",
   "Orlando Weekly",
   "PUNKLOID",
   "Parade Magazine",
@@ -253,7 +252,6 @@
   "khorasantimes.com",
   "mxdwn Music",
   "niagara-gazette.com",
-  "rockin'on",
   "stephanelarue.com",
   "theriffreport.co.uk",
   "upi",
@@ -261,57 +259,117 @@
   "激ロック",
   "조선일보"
  ],
- "count": 398,
- "detail_count": 298,
+ "count": 396,
+ "detail_count": 297,
  "digest": {
-  "headline": "Green Dayの凱旋ライブをはじめ、人気バンドの新譜やツアー情報が続々発表",
+  "headline": "Green Dayの動向やパンク・ロック勢の新作・ツアー情報",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongが、サイドプロジェクトのPinhead Gunpowderと地元で凱旋ライブを行う。",
+    "text": "Green DayのBillie Joe Armstrongが、サイドプロジェクトのPinhead Gunpowderと地元バークレーで凱旋ライブを行う。",
     "ids": [
      "590fd4c2ac0c6817"
     ]
    },
    {
-    "text": "The Offspringが小規模会場のライブ音源を収録した新作ライブアルバムのリリースを発表した。",
+    "text": "The Offspringが新作ライブアルバム『Just The Punk Stuff』のリリースや映像公開を発表した。",
     "ids": [
-     "b2c9f33cedabce20",
      "5ffc47a75d0cf350",
-     "1076af54725f891a"
+     "99eb48f421fd450c",
+     "506f3c6dd2a3ab56"
     ]
    },
    {
-    "text": "Sum 41のDeryck Whibleyがバンド曲を再構築したソロアルバムの発表やツアー開催を明かした。",
+    "text": "Sum 41のDeryck Whibleyがバンド曲を再構築したソロアルバムの発表やツアー開催などを控えている。",
     "ids": [
      "2d2a736214a7527c",
      "18b87cb95db16957",
-     "4a81c5233b70d12f"
+     "c6bf6a33b373a146"
     ]
    },
    {
-    "text": "Fall Out Boyが3年ぶりの新曲リリースに加え、全英および世界ツアーの開催を発表した。",
+    "text": "Fall Out Boyが約3年ぶりの新曲や全英および最大規模のツアー開催を発表した。",
     "ids": [
      "13ba21d5a412960d",
      "b76c989b25a6e02d",
-     "1e34eada96d2db12"
+     "e9f88a5ee88cfa86"
     ]
    },
    {
-    "text": "Blink-182が「When We Were Young 2027」のヘッドライナーを務めることが発表された。",
+    "text": "My Chemical Romanceのマレーシア公演が盛況に終わり、2日間で約13万人を動員した。",
     "ids": [
-     "79fbd2338466c0c3",
-     "2bd17607b550a340",
-     "2eb364cbbd9dce1b"
+     "8c4d99b70fbfd73a",
+     "18eb077dca3be6ab",
+     "d12a6dfc7e66072f"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-18T15:48:28.407772+09:00",
-  "generated_at": "2026-11-21T15:48:30.001146+09:00",
+  "from": "2026-11-19T04:02:21.048214+09:00",
+  "generated_at": "2026-11-22T04:02:22.678474+09:00",
   "article_count": 24,
-  "sig": "6047727fc10f"
+  "sig": "8cabe4d2ca06"
  },
  "items": [
+  {
+   "id": "8c4d99b70fbfd73a",
+   "url": "https://www.malaymail.com/news/showbiz/2026/11/21/my-chemical-romances-kl-return-drew-nearly-130000-fans-over-two-nights-biggest-stop-on-southeast-asia-tour-says-organiser/244238",
+   "title_original": "My Chemical Romance’s KL return drew nearly 130,000 fans over two nights, biggest stop on Southeast Asia tour, says organiser",
+   "source": "Malay Mail",
+   "image": "https://www.malaymail.com/malaymail/uploads/images/2026/11/21/375676.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-21T18:31:00+00:00",
+   "title_ja": "My Chemical RomanceのKL公演、2日間で約13万人を動員",
+   "summary_ja": "My Chemical Romanceがマレーシアのクアラルンプールで開催した2日間の公演に、約13万人のファンが来場した。東南アジアツアーで最大の動員数となった。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "38a092d11d825a03",
+   "url": "https://weirdkaya.com/good-job-team-msian-thanks-medics-who-worked-nonstop-helping-fans-at-my-chemical-romances-kl-concert",
+   "title_original": "‘Good Job Team’ — M’sian Thanks Medics Who Worked Nonstop Helping Fans At My Chemical Romance’s KL Concert",
+   "source": "WeirdKaya",
+   "image": "https://cdn.weirdkaya.com/media/%E2%80%98Good-Job-Team-%E2%80%94-Msian-Thanks-Medics-Who-Worked-Nonstop-Helping-Fans-At-My-Chemical-Romances-KL-Concert.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-21T15:27:35+00:00",
+   "title_ja": "My Chemical RomanceのKL公演、救護活動を行った医療チームへ感謝の声",
+   "summary_ja": "My Chemical Romanceのクアラルンプール公演にて、ファンを救護するため不眠不休で対応した医療チームに対し、マレーシア国内から称賛と感謝の声が寄せられている。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 1,
+   "has_detail": true
+  },
+  {
+   "id": "506f3c6dd2a3ab56",
+   "url": "https://amass.jp/193162",
+   "title_original": "オフスプリング 新ライヴ・アルバム『Just The Punk Stuff (Live At The Stone Pony)』発売 ライヴ映像1曲あり",
+   "source": "amass",
+   "image": "https://amassing2.sakura.ne.jp/image/jacket/large/2026b/143718.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-21T12:30:00+00:00",
+   "title_ja": "The Offspringが新ライブ盤『Just The Punk Stuff』発売、映像も1曲公開",
+   "summary_ja": "The Offspringが新たなライブアルバム『Just The Punk Stuff (Live At The Stone Pony)』をリリース。発表に合わせてライブ映像1曲が公開されている。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "8445135e7162cfea",
    "url": "https://www.nst.com.my/news/nst-viral/2026/11/1582395/nstviral-my-chemical-romance-concert-reunites-best-friends-after-15",
@@ -330,27 +388,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
-  },
-  {
-   "id": "b2c9f33cedabce20",
-   "url": "https://www.allmusicmagazine.co.uk/post/the-offspring-announce-just-the-punk-stuff-live-at-the-stone-pony-live-album",
-   "title_original": "The Offspring Announce 'Just The Punk Stuff – Live At The Stone Pony' Live Album",
-   "source": "All Music Magazine UK",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-20T23:58:50+00:00",
-   "title_ja": "The Offspring、新作ライブ盤『Just The Punk Stuff – Live At The Stone Pony』発表",
-   "summary_ja": "The Offspringが、新たなライブアルバム『Just The Punk Stuff – Live At The Stone Pony』のリリースを発表しました。名門ライブハウスで行われたステージの音源が作品として届けられます。",
-   "category": "新曲・新作",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "5ffc47a75d0cf350",
@@ -635,6 +673,26 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "99eb48f421fd450c",
+   "url": "https://www.kerrang.com/the-offspring-announce-new-live-album-just-the-punk-stuff-live-at-the-stone-pony",
+   "title_original": "The Offspring announce new live album, Just The Punk Stuff – Live At The Stone Pony",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/2026/11/the-offspring-live-shot.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1795191365&s=8eeb5a04cdbb4ff44f4806ee70830114",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-20T00:00:00+00:00",
+   "title_ja": "The Offspringが新ライブ盤をリリースへ",
+   "summary_ja": "The Offspringが新たなライブアルバム『Just The Punk Stuff – Live At The Stone Pony』をリリースすることを発表した。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "802371c160acb042",
@@ -8417,108 +8475,6 @@
    "japan": false,
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "1159786e875969bb",
-   "url": "https://rockinon.com/blog/rockinon/216074",
-   "title_original": "ザ・リンダ・リンダズ、記念すべきメジャーデビューアルバムをリリース！ 瑞々しい感性でかき鳴らす新世代パンクロック『ガラゲラウッ』についてメンバー全員を直撃！",
-   "source": "rockin'on",
-   "image": "https://rockinon.com/images/entry/width:1200/216074/1",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-13T09:00:00+00:00",
-   "title_ja": "The Linda Lindasがメジャーデビュー作について語る",
-   "summary_ja": "メジャーデビューアルバム『ガラゲラウッ』をリリースしたThe Linda Lindas。瑞々しい感性で鳴らす新世代パンクロックについてメンバー全員が直撃インタビューで語った。",
-   "category": "メンバー・発言",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": true,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "4ac47beb6e19d216",
-   "url": "https://metalheadzone.com/paramores-hayley-williams-asks-fans-to-support-diy-music-scene-go-to-smaller-shows-than-this",
-   "title_original": "Paramore's Hayley Williams Asks Fans to Support DIY Music Scene: \"Go To Smaller Shows Than This\"",
-   "source": "Metalhead Zone",
-   "image": "https://metalheadzone.com/wp-content/uploads/2026/10/hayley-williams-smiling.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-12T19:25:05+00:00",
-   "title_ja": "ParamoreのHayley WilliamsがDIYシーンの支援を呼びかけ",
-   "summary_ja": "ParamoreのHayley Williamsがファンに対し、大規模なライブだけでなく小規模なDIY音楽のライブにも足を運んでサポートするよう呼びかけました。",
-   "category": "メンバー・発言",
-   "band": "Paramore",
-   "artists": [
-    "Hayley Williams",
-    "Paramore"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "18bfc7c031230648",
-   "url": "https://www.orlandosentinel.com/2026/10/12/weezer-gathers-generations-of-fans-together-at-rocking-orlando-show-review",
-   "title_original": "Weezer gathers generations of fans together at rocking Orlando show | Review",
-   "source": "Orlando Sentinel",
-   "image": "https://www.orlandosentinel.com/wp-content/uploads/2026/10/TOS-L-weezer-orlando-29.jpg?w=4000&h=2667",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-12T17:30:41+00:00",
-   "title_ja": "Weezerがオーランド公演で幅広い世代のファンを魅了",
-   "summary_ja": "Weezerが米オーランドで開催したライブのレビュー。会場には幅広い世代のファンが集まり、大盛況のステージを繰り広げました。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "5bb41953019314d3",
-   "url": "https://www.bigcountrynewsconnection.com/weezer-expands-the-gathering-tour-into-2027-shares-the-single-c-e-o",
-   "title_original": "Weezer expands ‘The Gathering Tour’ into 2027, shares the single ‘C.E.O.’",
-   "source": "Big Country News |",
-   "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2801/2026/10/12083027/shutterstock_2235859091-1628158.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-12T15:30:27+00:00",
-   "title_ja": "Weezerがツアー拡大と新曲C.E.O.を発表",
-   "summary_ja": "Weezerが「The Gathering Tour」の2027年までの延長を発表し、同時に新曲「C.E.O.」を公開しました。",
-   "category": "新曲・新作",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "fdc68bde8074a940",
-   "url": "https://www.yahoo.com/entertainment/music/articles/tom-delonge-emotional-reaction-padres-145137402.html",
-   "title_original": "Tom DeLonge Has Emotional Reaction to Padres Fans Belting blink-182 Classic",
-   "source": "Yahoo",
-   "image": "https://s.yimg.com/lo/mysterio/api/102b38150bfc67578b27637f7078109db1d2d4245dd36bb362b94860bdb8743c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F91bea96b38b091b45ed0ca059522d98b.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-12T14:51:37+00:00",
-   "title_ja": "Tom DeLonge、パドレスファンの大合唱に感激",
-   "summary_ja": "野球の試合中、パドレスファンがblink-182の名曲を大合唱した場面に、トム・デロングが感動の反応を見せた。",
-   "category": "その他",
-   "band": "Blink-182",
-   "artists": [
-    "Tom DeLonge",
-    "Blink-182"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
   }
  ]
 }
