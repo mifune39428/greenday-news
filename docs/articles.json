@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T08:54:13.533629+09:00",
+ "updated_at": "2026-11-21T15:46:29.998021+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -45,7 +45,6 @@
   "ALT 98.7",
   "All Music Magazine UK",
   "Alternative Press",
-  "Arts Council of Greater New Haven",
   "Audacy",
   "BLABBERMOUTH.NET",
   "Backseat Mafia",
@@ -175,6 +174,7 @@
   "Rock DNA Magazine",
   "Rock News UK",
   "Rock Sound",
+  "Rockum",
   "Rolling Stone",
   "RouteNote",
   "SAYS",
@@ -262,55 +262,96 @@
   "조선일보"
  ],
  "count": 398,
- "detail_count": 300,
+ "detail_count": 298,
  "digest": {
-  "headline": "Green DayやFall Out Boyらの最新動向を総覧",
+  "headline": "Green Dayの凱旋ライブをはじめ、人気バンドの新譜やツアー情報が続々発表",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongが、Pinhead Gunpowderと共にバークレーの924 Gilmanで地元凱旋ライブを行う。",
+    "text": "Green DayのBillie Joe Armstrongが、サイドプロジェクトのPinhead Gunpowderと地元で凱旋ライブを行う。",
     "ids": [
      "590fd4c2ac0c6817"
     ]
    },
    {
-    "text": "Fall Out Boyが3年ぶりの新曲リリースに加え、全英ツアーや大規模なグローバルツアーの開催を発表した。",
+    "text": "The Offspringが小規模会場のライブ音源を収録した新作ライブアルバムのリリースを発表した。",
     "ids": [
-     "13ba21d5a412960d",
-     "b76c989b25a6e02d",
-     "6b9ef4315db68c34"
-    ]
-   },
-   {
-    "text": "Sum 41のDeryck Whibleyがバンドの楽曲を再構築したソロアルバムの発表やソロツアーの開催を明らかにした。",
-    "ids": [
-     "2d2a736214a7527c",
-     "18b87cb95db16957",
-     "c6bf6a33b373a146"
-    ]
-   },
-   {
-    "text": "The Offspringが小規模会場の限定ライブ音源を収録した新作ライブアルバムのリリースを発表した。",
-    "ids": [
+     "b2c9f33cedabce20",
      "5ffc47a75d0cf350",
      "1076af54725f891a"
     ]
    },
    {
-    "text": "Blink-182が2027年のWhen We Were Youngでヘッドライナーを務めることなどが発表された。",
+    "text": "Sum 41のDeryck Whibleyがバンド曲を再構築したソロアルバムの発表やツアー開催を明かした。",
+    "ids": [
+     "2d2a736214a7527c",
+     "18b87cb95db16957",
+     "4a81c5233b70d12f"
+    ]
+   },
+   {
+    "text": "Fall Out Boyが3年ぶりの新曲リリースに加え、全英および世界ツアーの開催を発表した。",
+    "ids": [
+     "13ba21d5a412960d",
+     "b76c989b25a6e02d",
+     "1e34eada96d2db12"
+    ]
+   },
+   {
+    "text": "Blink-182が「When We Were Young 2027」のヘッドライナーを務めることが発表された。",
     "ids": [
      "79fbd2338466c0c3",
      "2bd17607b550a340",
-     "450ae415fb20a90b"
+     "2eb364cbbd9dce1b"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-18T08:55:54.656245+09:00",
-  "generated_at": "2026-11-21T08:55:56.625508+09:00",
+  "from": "2026-11-18T15:48:28.407772+09:00",
+  "generated_at": "2026-11-21T15:48:30.001146+09:00",
   "article_count": 24,
-  "sig": "f52b219f2d68"
+  "sig": "6047727fc10f"
  },
  "items": [
+  {
+   "id": "8445135e7162cfea",
+   "url": "https://www.nst.com.my/news/nst-viral/2026/11/1582395/nstviral-my-chemical-romance-concert-reunites-best-friends-after-15",
+   "title_original": "#NSTviral: My Chemical Romance concert reunites best friends after 15 years [WATCH]",
+   "source": "NST Online",
+   "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/2D1D5BC7C3345E2D46597141E55A48F8_data_0.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-21T01:00:16+00:00",
+   "title_ja": "My Chemical Romanceの公演が15年ぶりの親友同士の再会を実現",
+   "summary_ja": "My Chemical Romanceのコンサートをきっかけに、15年間離れ離れになっていた親友同士が再会を果たしました。この心温まるエピソードと当日の様子を捉えた映像がネット上で話題を呼んでいます。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "b2c9f33cedabce20",
+   "url": "https://www.allmusicmagazine.co.uk/post/the-offspring-announce-just-the-punk-stuff-live-at-the-stone-pony-live-album",
+   "title_original": "The Offspring Announce 'Just The Punk Stuff – Live At The Stone Pony' Live Album",
+   "source": "All Music Magazine UK",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-20T23:58:50+00:00",
+   "title_ja": "The Offspring、新作ライブ盤『Just The Punk Stuff – Live At The Stone Pony』発表",
+   "summary_ja": "The Offspringが、新たなライブアルバム『Just The Punk Stuff – Live At The Stone Pony』のリリースを発表しました。名門ライブハウスで行われたステージの音源が作品として届けられます。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "5ffc47a75d0cf350",
    "url": "https://consequence.net/2026/11/the-offspring-just-the-punk-stuff-live-album",
@@ -1025,6 +1066,29 @@
    "artists": [
     "Jay Bentley",
     "Bad Religion"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "6dafc4fb42699278",
+   "url": "https://www.rockumweb.com/reportes/2810/paramore-singer-hayley-williams-to-headline-both-nights-of-outbreak-festival-2027-with-dinosaur-jr-blood-orange-and-julien-baker",
+   "title_original": "Paramore Singer Hayley Williams to Headline Both Nights of Outbreak Festival 2027 With Dinosaur Jr., Blood Orange and Julien Baker",
+   "source": "Rockum",
+   "image": "https://www.rockumweb.com/hayley-williams-paramore-outbreak-festival-2027-lineup.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T06:43:43+00:00",
+   "title_ja": "ParamoreのHayley WilliamsがOutbreak Festivalに出演決定",
+   "summary_ja": "ParamoreのボーカリストであるHayley Williamsが、2027年のOutbreak Festivalで両日のヘッドライナーを務めることが発表された。（133文字）",
+   "category": "フェス出演",
+   "band": "Paramore",
+   "artists": [
+    "Hayley Williams",
+    "Paramore",
+    "Dinosaur Jr.",
+    "Blood Orange"
    ],
    "japan": false,
    "importance": 3,
@@ -8454,68 +8518,6 @@
    ],
    "japan": false,
    "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "374c16ab549f969d",
-   "url": "https://exclaim.ca/music/article/toronto-s-5-can-t-miss-concerts-including-beck-fucked-up-the-linda-lindas-october-12-18-2026",
-   "title_original": "Toronto's 5 Can't-Miss Concerts, Including Beck, Fucked Up, the Linda Lindas: October 12–18, 2026",
-   "source": "Exclaim!",
-   "image": "https://assets.exclaim.ca/image/upload/v1752948873/Beck_Roy_Thomson_Hall_2_2e8453b4d0.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-12T13:15:00+00:00",
-   "title_ja": "The Linda Lindas出演、トロントの注目ライブ5選",
-   "summary_ja": "2026年10月12日から18週の期間にトロントで開催される、The Linda Lindasら出演の要注目コンサート情報を紹介しています。",
-   "category": "ライブ・ツアー",
-   "band": "The Linda Lindas",
-   "artists": [
-    "The Linda Lindas",
-    "Beck",
-    "Fucked Up"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "9e1a2888fcf59e1d",
-   "url": "https://www.newhavenarts.org/arts-paper/articles/the-linda-lindas-prove-punk-is-not-dead?hs_amp=true",
-   "title_original": "The Linda Lindas Prove Punk is Not Dead",
-   "source": "Arts Council of Greater New Haven",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-12T04:30:00+00:00",
-   "title_ja": "The Linda Lindasがパンクの健在を証明",
-   "summary_ja": "The Linda Lindasがパンクミュージックの健在を証明していることを伝える記事。",
-   "category": "その他",
-   "band": "その他",
-   "artists": [
-    "The Linda Lindas"
-   ],
-   "japan": false,
-   "importance": 1,
-   "has_detail": true
-  },
-  {
-   "id": "3ac7e939b31f298a",
-   "url": "https://www.loudhailermagazine.com/concert-reviews/weezer-at-nationwide-arena-in-columbus-oh",
-   "title_original": "Weezer at Nationwide Arena in Columbus, OH",
-   "source": "Loud Hailer Magazine",
-   "image": "https://www.loudhailermagazine.com/wp-content/uploads/2026/10/Header-Weezer-Columbus-OH-20261006-HarryAcosta.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-11T15:52:37+00:00",
-   "title_ja": "Weezerがオハイオ州コロンバスのNationwide Arenaで公演",
-   "summary_ja": "Weezerがオハイオ州コロンバスのNationwide Arenaにてライブを開催したことを報じる記事。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   }
  ]
