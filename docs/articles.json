@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T03:59:43.874124+09:00",
+ "updated_at": "2026-11-22T15:17:55.017259+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -163,7 +163,6 @@
   "PopMatters",
   "RAMzine",
   "RIFF Magazine",
-  "ROCK 105.3",
   "RTTNews",
   "Reckless Press",
   "Reuters Connect",
@@ -191,6 +190,7 @@
   "SurvivorNet",
   "TVGuide.co.uk",
   "Tekedia",
+  "Tempo.co English",
   "Texas Lifestyle Magazine",
   "That Eric Alper",
   "The 13th Floor",
@@ -209,6 +209,7 @@
   "The Needle Drop",
   "The Oarsman",
   "The PRP",
+  "The Press",
   "The Red & Black",
   "The Rock Revival",
   "The Scotsman",
@@ -245,6 +246,7 @@
   "chorus.fm",
   "completemusicupdate.com",
   "dangerousminds.net",
+  "deeparrival.com",
   "https://rocknloadmag.com/",
   "iHeart",
   "idobi",
@@ -259,35 +261,25 @@
   "激ロック",
   "조선일보"
  ],
- "count": 396,
- "detail_count": 297,
+ "count": 397,
+ "detail_count": 296,
  "digest": {
-  "headline": "Green Dayの動向やパンク・ロック勢の新作・ツアー情報",
+  "headline": "Green DayのBillie Joeが地元で凱旋ライブを開催",
   "points": [
    {
-    "text": "Green DayのBillie Joe Armstrongが、サイドプロジェクトのPinhead Gunpowderと地元バークレーで凱旋ライブを行う。",
+    "text": "Green DayのBillie Joe Armstrongが、サイドプロジェクトのPinhead Gunpowderと共にバークレーの924 Gilmanで地元凱旋ライブを行う。",
     "ids": [
      "590fd4c2ac0c6817"
     ]
    },
    {
-    "text": "The Offspringが新作ライブアルバム『Just The Punk Stuff』のリリースや映像公開を発表した。",
+    "text": "My Chemical Romanceはクアラルンプールで2日間の公演を行い、約13万人を動員した。",
     "ids": [
-     "5ffc47a75d0cf350",
-     "99eb48f421fd450c",
-     "506f3c6dd2a3ab56"
+     "8c4d99b70fbfd73a"
     ]
    },
    {
-    "text": "Sum 41のDeryck Whibleyがバンド曲を再構築したソロアルバムの発表やツアー開催などを控えている。",
-    "ids": [
-     "2d2a736214a7527c",
-     "18b87cb95db16957",
-     "c6bf6a33b373a146"
-    ]
-   },
-   {
-    "text": "Fall Out Boyが約3年ぶりの新曲や全英および最大規模のツアー開催を発表した。",
+    "text": "Fall Out Boyは約3年ぶりの新曲リリースと、自身最大規模となる全英ツアーを含むツアー開催を発表した。",
     "ids": [
      "13ba21d5a412960d",
      "b76c989b25a6e02d",
@@ -295,21 +287,89 @@
     ]
    },
    {
-    "text": "My Chemical Romanceのマレーシア公演が盛況に終わり、2日間で約13万人を動員した。",
+    "text": "Sum 41のDeryck Whibleyがバンド曲を再構築したソロアルバムの発表やソロツアーの開催を明かし、Blink-182はDownload Festival 2027への出演が決定した。",
     "ids": [
-     "8c4d99b70fbfd73a",
-     "18eb077dca3be6ab",
-     "d12a6dfc7e66072f"
+     "6cba95a6872ce9e2",
+     "2d2a736214a7527c",
+     "cb1bab3cacf84223"
+    ]
+   },
+   {
+    "text": "The Offspringは小規模会場の音源を収めたライブアルバム『Just the Punk Stuff』のリリースを発表した。",
+    "ids": [
+     "5ffc47a75d0cf350",
+     "1076af54725f891a",
+     "99eb48f421fd450c"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-19T04:02:21.048214+09:00",
-  "generated_at": "2026-11-22T04:02:22.678474+09:00",
+  "from": "2026-11-19T15:18:42.296885+09:00",
+  "generated_at": "2026-11-22T15:18:44.063899+09:00",
   "article_count": 24,
-  "sig": "8cabe4d2ca06"
+  "sig": "9b457c0889a3"
  },
  "items": [
+  {
+   "id": "5a5caa1fd3d57399",
+   "url": "https://en.tempo.co/read/2124155/transjakarta-extends-jis-monas-route-hours-for-my-chemical-romance-concert",
+   "title_original": "Transjakarta Extends JIS-Monas Route Hours for My Chemical Romance Concert",
+   "source": "Tempo.co English",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-22T05:36:57+00:00",
+   "title_ja": "My Chemical Romance公演に合わせ交通網が運行時間を延長",
+   "summary_ja": "ジャカルタの交通事業者Transjakartaは、My Chemical Romanceのコンサート開催に合わせてJIS-Monas路線の運行時間を延長すると発表した。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "6cba95a6872ce9e2",
+   "url": "https://deeparrival.com/news/download-festival-2027-blink-182-bring-me-the-horizon-evanescence-june-9-13",
+   "title_original": "Download Festival 2027 Brings Blink-182 to Donington, June 9-13",
+   "source": "deeparrival.com",
+   "image": "https://deeparrival.com/wp-content/uploads/2026/11/da-news-606426e4e83093577432e78b18bbb43567921aa09ac94f15458d106346b6f32a-7c3ee639ec44168c.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-21T22:43:31+00:00",
+   "title_ja": "Download Festival 2027にBlink-182が出演決定",
+   "summary_ja": "イギリスの音楽フェスDownload Festival 2027にBlink-182の出演が発表された。開催日程は6月9日から13日まで、ドニントンにて行われる予定。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "3e413755ffdb247c",
+   "url": "https://www.imdb.com/es/news/ni66122294",
+   "title_original": "The Making of My Chemical Romance’s ‘The Black Parade’",
+   "source": "IMDb",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-21T22:15:57+00:00",
+   "title_ja": "My Chemical Romanceの名盤制作過程に迫る映像作品",
+   "summary_ja": "My Chemical Romanceの代表作『The Black Parade』の制作の舞台裏に迫る映像作品に関する情報がIMDbに掲載されている。",
+   "category": "映像・映画・書籍",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "8c4d99b70fbfd73a",
    "url": "https://www.malaymail.com/news/showbiz/2026/11/21/my-chemical-romances-kl-return-drew-nearly-130000-fans-over-two-nights-biggest-stop-on-southeast-asia-tour-says-organiser/244238",
@@ -331,24 +391,25 @@
    "has_detail": true
   },
   {
-   "id": "38a092d11d825a03",
-   "url": "https://weirdkaya.com/good-job-team-msian-thanks-medics-who-worked-nonstop-helping-fans-at-my-chemical-romances-kl-concert",
-   "title_original": "‘Good Job Team’ — M’sian Thanks Medics Who Worked Nonstop Helping Fans At My Chemical Romance’s KL Concert",
-   "source": "WeirdKaya",
-   "image": "https://cdn.weirdkaya.com/media/%E2%80%98Good-Job-Team-%E2%80%94-Msian-Thanks-Medics-Who-Worked-Nonstop-Helping-Fans-At-My-Chemical-Romances-KL-Concert.png",
+   "id": "09f1c5fc7fa64ece",
+   "url": "https://www.thepress.co.nz/culture/361114137/first-time-christchurch-visitors-dropkick-murphys-share-wolfbrook-arena-stage-old-favourites-rise",
+   "title_original": "First-time Christchurch visitors Dropkick Murphys share Wolfbrook Arena stage with old favourites Rise Against",
+   "source": "The Press",
+   "image": "",
    "lang": "en",
    "region": "global",
-   "published": "2026-11-21T15:27:35+00:00",
-   "title_ja": "My Chemical RomanceのKL公演、救護活動を行った医療チームへ感謝の声",
-   "summary_ja": "My Chemical Romanceのクアラルンプール公演にて、ファンを救護するため不眠不休で対応した医療チームに対し、マレーシア国内から称賛と感謝の声が寄せられている。",
+   "published": "2026-11-21T17:00:00+00:00",
+   "title_ja": "Dropkick MurphysとRise Againstがクライストチャーチで共演",
+   "summary_ja": "初訪札となるDropkick Murphysが、ウルフブルック・アリーナのステージで馴染み深いRise Againstと共演したことを地元メディアが伝えている。",
    "category": "ライブ・ツアー",
-   "band": "My Chemical Romance",
+   "band": "Dropkick Murphys",
    "artists": [
-    "My Chemical Romance"
+    "Dropkick Murphys",
+    "Rise Against"
    ],
    "japan": false,
-   "importance": 1,
-   "has_detail": true
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "506f3c6dd2a3ab56",
@@ -368,7 +429,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8445135e7162cfea",
@@ -692,7 +753,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "802371c160acb042",
@@ -8431,50 +8492,6 @@
    "japan": false,
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "924ccc5c47e6c15f",
-   "url": "https://rock1053.iheart.com/content/2026-10-13-iheartradio-alter-ego-2027-lineup-revealed-evanescence-billy-corgan-the-offspring-more",
-   "title_original": "iHeartRadio ALTer EGO 2027 Lineup Revealed: Evanescence, Billy Corgan, The Offspring & More",
-   "source": "ROCK 105.3",
-   "image": "https://i.iheart.com/v3/re/new_assets/6ace2bb50d6c002b7b80e7e7?ops=gravity(%22north%22),fit(1200,675),quality(65)",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-13T12:56:00+00:00",
-   "title_ja": "2027年のiHeartRadio ALTer EGO出演者が発表",
-   "summary_ja": "2027年開催のiHeartRadio ALTer EGOの出演ラインナップが発表され、The OffspringやEvanescence、Billy Corganらの出演が決定した。",
-   "category": "フェス出演",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring",
-    "Evanescence",
-    "Billy Corgan"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "af161ad30c248f01",
-   "url": "https://www.billboard.com/music/rock/2027-iheartradio-alter-ego-lineup-evanescence-offspring-1236359528",
-   "title_original": "Evanescence, The Offspring & Billy Corgan Lead 2027 iHeartRadio ALTer EGO Lineup",
-   "source": "Billboard",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-13T12:31:39+00:00",
-   "title_ja": "The Offspringらが2027年ALTer EGOのヘッドライナーに",
-   "summary_ja": "2027年のiHeartRadio ALTer EGOの出演アーティストが発表され、The Offspring、Evanescence、Billy Corganらが名を連ねた。",
-   "category": "フェス出演",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring",
-    "Evanescence",
-    "Billy Corgan"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
