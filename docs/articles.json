@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T04:23:49.245871+09:00",
+ "updated_at": "2026-11-23T16:08:39.860820+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -258,54 +258,115 @@
   "激ロック",
   "조선일보"
  ],
- "count": 395,
- "detail_count": 294,
+ "count": 398,
+ "detail_count": 297,
  "digest": {
-  "headline": "Fall Out Boyの新曲発表や各バンドのツアー・新作情報",
+  "headline": "Blink-182、Sum 41、FOBらパンクバンドの最新情報が続々到着",
   "points": [
    {
-    "text": "Fall Out Boyが約3年ぶりの新曲をリリースし、全英ツアーを含む大規模ツアーの開催を発表した。",
+    "text": "Blink-182が「When We Were Young 2027」や「Download Festival 2027」などの大型フェスでヘッドライナーを務めることが発表された。",
     "ids": [
-     "b76c989b25a6e02d",
-     "13ba21d5a412960d"
-    ]
-   },
-   {
-    "text": "The Offspringが、小規模会場での限定ライブ音源を収録した新作ライブアルバムのリリースを発表した。",
-    "ids": [
-     "5ffc47a75d0cf350",
-     "1076af54725f891a",
-     "99eb48f421fd450c"
+     "c0152c574d8026bc",
+     "6cba95a6872ce9e2",
+     "6d47c8fc285741c9"
     ]
    },
    {
     "text": "Sum 41のDeryck Whibleyが、バンドの楽曲を再構築した初のソロデビューアルバムのリリースを発表した。",
     "ids": [
      "cd3025d769a93e69",
-     "2d2a736214a7527c"
+     "2d2a736214a7527c",
+     "cb1bab3cacf84223"
     ]
    },
    {
-    "text": "Blink-182が、イギリスの音楽フェスDownload Festival 2027に出演することが決定した。",
+    "text": "Fall Out Boyが約3年ぶりの新曲解禁や最大規模のツアー、北米ツアー、全英ツアーの開催を発表した。",
     "ids": [
-     "6cba95a6872ce9e2",
-     "6d47c8fc285741c9"
+     "13ba21d5a412960d",
+     "b76c989b25a6e02d",
+     "2061e4cd9b2f9bae"
     ]
    },
    {
-    "text": "ParamoreのHayley Williamsが、2027年にシンガポールでソロプロジェクトのライブ公演を行うと発表した。",
+    "text": "The Offspringが小規模会場でのライブ音源などを収めた新作ライブアルバムをリリースした。",
     "ids": [
-     "51cdee4649797f52"
+     "5ffc47a75d0cf350",
+     "1076af54725f891a",
+     "506f3c6dd2a3ab56"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-20T04:26:42.189417+09:00",
-  "generated_at": "2026-11-23T04:27:08.526433+09:00",
+  "from": "2026-11-20T16:10:25.753574+09:00",
+  "generated_at": "2026-11-23T16:10:27.345569+09:00",
   "article_count": 24,
-  "sig": "87905f420c01"
+  "sig": "126ed5d3437b"
  },
  "items": [
+  {
+   "id": "3b8e66da769e0c80",
+   "url": "https://www.thatericalper.com/2026/11/22/my-chemical-romance-revisit-pulps-common-people-on-expanded-danger-days-deluxe-edition",
+   "title_original": "My Chemical Romance Revisit Pulp’s \"Common People\" On Expanded 'Danger Days' Deluxe Edition",
+   "source": "That Eric Alper",
+   "image": "https://www.thatericalper.com/wp-content/uploads/2026/11/download-2026-11-22T200909.412.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-23T01:09:54+00:00",
+   "title_ja": "My Chemical Romance『Danger Days』拡張盤にPulpカバー収録",
+   "summary_ja": "My Chemical Romanceが、アルバム『Danger Days』の拡張デラックスエディションをリリースし、Pulpの楽曲「Common People」のカバーが収録されていることが明らかになりました。",
+   "category": "再発・記念盤",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "Pulp"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "6c5895a33753aa2a",
+   "url": "https://www.billboard.com/lists/corona-capital-2026-day-2-twenty-one-pilots-offspring",
+   "title_original": "Twenty One Pilots, The Offspring, Peaches & More: 5 Best Moments in Mexico City’s Corona Capital (Day 2)",
+   "source": "Billboard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-22T21:58:36+00:00",
+   "title_ja": "The OffspringやTwenty One Pilots出演のメキシコフェス名場面",
+   "summary_ja": "メキシコシティで開催された音楽フェスティバル「Corona Capital」の2日目において、The OffspringやTwenty One Pilots、Peachesらのパフォーマンスがイベントのハイライトとして選出されました。",
+   "category": "フェス出演",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Twenty One Pilots",
+    "Peaches"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "c0152c574d8026bc",
+   "url": "https://www.rttnews.com/amp/3716920/blink-182-pierce-the-veil-to-headline-when-we-were-young-2027.aspx",
+   "title_original": "Blink-182, Pierce The Veil To Headline When We Were Young 2027",
+   "source": "RTTNews",
+   "image": "https://cdn.rttnews.com/articleimages/ustopstories/2026/november/generic5-20112026-lt.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-22T16:01:15+00:00",
+   "title_ja": "Blink-182「When We Were Young 2027」のヘッドライナーに決定",
+   "summary_ja": "Blink-182とPierce The Veilが、2027年に開催される音楽フェスティバル「When We Were Young 2027」でヘッドライナーを務めることが発表されました。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Pierce The Veil"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "431fe86b4219c73f",
    "url": "https://karlobag.eu/en/music/my-chemical-romance-and-the-black-parade-rob-cavallo-recalls-the-making-of-an-ic-k9xrg",
@@ -325,7 +386,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2061e4cd9b2f9bae",
@@ -508,7 +569,7 @@
    ],
    "japan": false,
    "importance": 2,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "506f3c6dd2a3ab56",
@@ -565,6 +626,29 @@
    "band": "The Offspring",
    "artists": [
     "The Offspring"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "adcc72b9ba1abaac",
+   "url": "https://www.newsbreak.com/newsforce-24-7-411463152/5019688845037-sonic-temple-2027-iron-maiden-blink-182-korn-and-falling-in-reverse-lead-nearly-150-acts-in-columbus",
+   "title_original": "Sonic Temple 2027: Iron Maiden, Blink-182, Korn and Falling In Reverse Lead Nearly 150 Acts in Columbus",
+   "source": "NewsBreak: Local News & Alerts",
+   "image": "https://img.particlenews.com/img/id/2bJSDt_1HHxVHst00",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-20T17:50:23+00:00",
+   "title_ja": "Blink-182やIron Maidenら「Sonic Temple 2027」出演発表",
+   "summary_ja": "コロンバスで開催されるフェスティバル「Sonic Temple 2027」の出演陣が発表され、Blink-182やIron Maiden、Korn、Falling In Reverseが約150組のラインナップを牽引することが決定しました。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Iron Maiden",
+    "Korn",
+    "Falling In Reverse"
    ],
    "japan": false,
    "importance": 4,
@@ -8426,26 +8510,6 @@
    ],
    "japan": false,
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "d5e44aedea19b5df",
-   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/the-offspring-play-mission-bayfest-in-san-diego-on-18-october/70319921",
-   "title_original": "The Offspring play Mission Bayfest in San Diego on 18 October",
-   "source": "ad-hoc-news.de",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403778_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-14T05:04:57+00:00",
-   "title_ja": "The Offspring、10月18日のSan Diego公演に出演へ",
-   "summary_ja": "The Offspringが10月18日にサンディエゴで開催されるMission Bayfestに出演することが決定した。現時点でイベントに関する詳細なスケジュールなどは明かされていない。",
-   "category": "ライブ・ツアー",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring"
-   ],
-   "japan": false,
-   "importance": 3,
    "has_detail": true
   }
  ]
