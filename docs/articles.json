@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T16:08:39.860820+09:00",
+ "updated_at": "2026-11-24T08:43:44.953275+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -75,6 +75,7 @@
   "FACT Magazines",
   "FOX5 Vegas",
   "Far Out Magazine",
+  "Foro3D",
   "GMA Network",
   "Glide Magazine",
   "Global News",
@@ -161,6 +162,7 @@
   "PopMatters",
   "RAMzine",
   "RIFF Magazine",
+  "ROCK 105.3",
   "RTTNews",
   "Reckless Press",
   "Reuters Connect",
@@ -258,51 +260,108 @@
   "激ロック",
   "조선일보"
  ],
- "count": 398,
- "detail_count": 297,
+ "count": 400,
+ "detail_count": 298,
  "digest": {
-  "headline": "Blink-182、Sum 41、FOBらパンクバンドの最新情報が続々到着",
+  "headline": "Blink-182のフェス出演やMCRのアジア公演など直近のパンク・ロック動向ま",
   "points": [
    {
-    "text": "Blink-182が「When We Were Young 2027」や「Download Festival 2027」などの大型フェスでヘッドライナーを務めることが発表された。",
+    "text": "Blink-182が2027年の音楽フェス「When We Were Young 2027」や「Download Festival 2027」のヘッドライナーを務めることが発表された。",
     "ids": [
      "c0152c574d8026bc",
-     "6cba95a6872ce9e2",
-     "6d47c8fc285741c9"
+     "6cba95a6872ce9e2"
     ]
    },
    {
-    "text": "Sum 41のDeryck Whibleyが、バンドの楽曲を再構築した初のソロデビューアルバムのリリースを発表した。",
+    "text": "Sum 41のDeryck Whibleyが初のソロデビューアルバムやピアノ再解釈作品のリリースを発表した。",
     "ids": [
      "cd3025d769a93e69",
-     "2d2a736214a7527c",
-     "cb1bab3cacf84223"
+     "55a134c3de988b35"
     ]
    },
    {
-    "text": "Fall Out Boyが約3年ぶりの新曲解禁や最大規模のツアー、北米ツアー、全英ツアーの開催を発表した。",
+    "text": "My Chemical Romanceのマレーシア公演が2日間で約13万人を動員し、ジャカルタ公演では交通網の運行時間が延長された。",
     "ids": [
-     "13ba21d5a412960d",
-     "b76c989b25a6e02d",
-     "2061e4cd9b2f9bae"
+     "5a5caa1fd3d57399",
+     "8c4d99b70fbfd73a"
     ]
    },
    {
-    "text": "The Offspringが小規模会場でのライブ音源などを収めた新作ライブアルバムをリリースした。",
+    "text": "The Offspringが新ライブアルバム『Just The Punk Stuff (Live At The Stone Pony)』をリリースし、映像も公開した。",
     "ids": [
-     "5ffc47a75d0cf350",
-     "1076af54725f891a",
      "506f3c6dd2a3ab56"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-20T16:10:25.753574+09:00",
-  "generated_at": "2026-11-23T16:10:27.345569+09:00",
-  "article_count": 24,
-  "sig": "126ed5d3437b"
+  "from": "2026-11-21T08:44:29.397573+09:00",
+  "generated_at": "2026-11-24T08:44:48.250703+09:00",
+  "article_count": 18,
+  "sig": "18e053d23caa"
  },
  "items": [
+  {
+   "id": "cfeb7c45025d759f",
+   "url": "https://rock1053.iheart.com/content/2026-11-23-the-offsprings-noodles-explains-why-punk-rocks-imperfect-sound-matters",
+   "title_original": "The Offspring’s Noodles Explains Why Punk Rock’s Imperfect Sound Matters",
+   "source": "ROCK 105.3",
+   "image": "https://i.iheart.com/v3/re/assets.getty/6b04aa926b399b98d8281628?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-23T21:03:00+00:00",
+   "title_ja": "The OffspringのNoodles、パンクロックにおける不完全なサウンドの重要性を語る",
+   "summary_ja": "The OffspringのギタリストであるNoodlesがインタビューに応じ、パンクロックが持つ完璧すぎない不完全なサウンドや生々しさが、なぜ音楽において重要であるのかについて自身の考えを明かした。",
+   "category": "メンバー・発言",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring",
+    "Noodles"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "55a134c3de988b35",
+   "url": "https://foro3d.com/en/2026/noviembre/deryck-whibley-lleva-sum-41-al-piano-con-diamonds-of-the-night-vol-1.html",
+   "title_original": "Deryck Whibley takes Sum 41 to the piano with Diamonds of the Night: Vol 1",
+   "source": "Foro3D",
+   "image": "https://foro3d.com/2026/noviembre/imagenes/deryck-whibley-lleva-sum-41-al-piano-con-diamonds-of-the-night-vol-1.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-23T13:06:44+00:00",
+   "title_ja": "Deryck Whibley、Sum 41の楽曲をピアノで表現した作品をリリース",
+   "summary_ja": "Sum 41のフロントマンであるDeryck Whibleyが、バンドの楽曲をピアノ中心に再解釈した新たな作品『Diamonds of the Night: Vol 1』を手掛けたことが明らかになった。",
+   "category": "新曲・新作",
+   "band": "Sum 41",
+   "artists": [
+    "Deryck Whibley",
+    "Sum 41"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "2dc4f67ef45b0640",
+   "url": "https://www.imdb.com/es/news/ni66083813",
+   "title_original": "Dallas Cowboys Cheerleaders Score Victory Over My Chemical Romance Concert Stunt Amid Historic Unionization Push",
+   "source": "IMDb",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-23T10:08:41+00:00",
+   "title_ja": "ダラス・カウボーイズのチアリーダー、MCR公演でのスタントを巡り勝利",
+   "summary_ja": "労働組合結成に向けた歴史的な動きが広がるなか、ダラス・カウボーイズのチアリーダーたちが、My Chemical Romanceのコンサートで行われた演出・スタントを巡る争いで勝利を収めた。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "3b8e66da769e0c80",
    "url": "https://www.thatericalper.com/2026/11/22/my-chemical-romance-revisit-pulps-common-people-on-expanded-danger-days-deluxe-edition",
@@ -344,7 +403,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c0152c574d8026bc",
@@ -8490,26 +8549,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "bb9db71e0216080f",
-   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/fall-out-boy-released-it-feels-like-christmas-on-6-october-video/70320586",
-   "title_original": "Fall Out Boy released It Feels Like Christmas on 6 October - video",
-   "source": "ad-hoc-news.de",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403853_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-14T05:51:24+00:00",
-   "title_ja": "Fall Out Boyが新曲「It Feels Like Christmas」を公開",
-   "summary_ja": "Fall Out Boyが10月6日に新曲「It Feels Like Christmas」をリリースし、同時にミュージックビデオも公開された。",
-   "category": "新曲・新作",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 4,
    "has_detail": true
   }
  ]
