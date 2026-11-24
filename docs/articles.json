@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T18:32:45.721035+09:00",
+ "updated_at": "2026-11-25T07:14:57.880432+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -97,7 +97,6 @@
   "JamBase",
   "Jambands.com",
   "KCRW",
-  "KLBJ-FM",
   "KSBY News",
   "KSNV",
   "KarloBag.eu",
@@ -260,47 +259,129 @@
   "激ロック",
   "조선일보"
  ],
- "count": 399,
- "detail_count": 297,
+ "count": 398,
+ "detail_count": 300,
  "digest": {
-  "headline": "パンク・ロックシーンの最新動向：Blink-182フェス出演やSum 41のDe",
+  "headline": "The Offspringのライブ盤発表やBlink-182のフェス出演などの動",
   "points": [
    {
-    "text": "Blink-182が「When We Were Young 2027」や「Download Festival 2027」のヘッドライナーを務めることが発表されました。",
+    "text": "The Offspringがライブアルバム『Just The Punk Stuff』をリリースし、「Jennifer Lost The War」の先行配信も行われている。",
+    "ids": [
+     "2fc8b3fb8267324b",
+     "e8a3952da72febac",
+     "33446d8409023d43"
+    ]
+   },
+   {
+    "text": "Blink-182が2027年開催の音楽フェス「When We Were Young 2027」やDownload Festival 2027のヘッドライナーを務めることが発表された。",
     "ids": [
      "c0152c574d8026bc",
      "6cba95a6872ce9e2"
     ]
    },
    {
-    "text": "Sum 41のDeryck Whibleyがソロデビューアルバムやピアノ再解釈作品のリリースを発表しました。",
+    "text": "Sum 41のDeryck Whibleyが、バンドの楽曲をピアノ中心に再解釈したソロ作品を発表した。",
     "ids": [
      "cd3025d769a93e69",
      "55a134c3de988b35"
     ]
    },
    {
-    "text": "My Chemical Romanceは『Danger Days』拡張盤の発売やアジアツアーでの大規模動員を記録しました。",
+    "text": "My Chemical Romanceの『Danger Days』拡張盤にPulpのカバーが収録されるほか、Fall Out Boyが北米ツアーのチケット販売やMVの裏側公開を行った。",
     "ids": [
      "3b8e66da769e0c80",
-     "8c4d99b70fbfd73a"
-    ]
-   },
-   {
-    "text": "The Offspringが新ライブアルバムをリリースしたほか、年末のラスベガスでの大晦日ライブ開催も決定しました。",
-    "ids": [
-     "506f3c6dd2a3ab56",
-     "69a8f2a8a579a1ee"
+     "0087956c5d73313f",
+     "2061e4cd9b2f9bae"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-21T18:34:37.761837+09:00",
-  "generated_at": "2026-11-24T18:34:40.026142+09:00",
+  "from": "2026-11-22T07:15:39.281683+09:00",
+  "generated_at": "2026-11-25T07:15:40.947022+09:00",
   "article_count": 19,
-  "sig": "023deb31734d"
+  "sig": "862e2d4ed7a9"
  },
  "items": [
+  {
+   "id": "e8a3952da72febac",
+   "url": "https://wrat.com/2026/11/24/the-offspring-prepping-just-the-punk-stuff-live-album-from-stone-pony-show",
+   "title_original": "The Offspring Prepping ‘Just the Punk Stuff’ Live Album From Stone Pony Show",
+   "source": "95.9 The RAT",
+   "image": "https://wrat.com/uploads/2026/11/GettyImages-2236503127-e1795550790600.jpg?auto=webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-24T20:12:59+00:00",
+   "title_ja": "The Offspring、ライブアルバムを準備中",
+   "summary_ja": "The Offspringが、ストーン・ポニーでの公演を収録したライブアルバム『Just the Punk Stuff』の準備を進めていることが明らかになった。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "b6663c474a29c34e",
+   "url": "https://neonmusic.co.uk/american-idiot-meaning-green-day",
+   "title_original": "American Idiot Meaning: Green Day's Post-9/11 Anthem",
+   "source": "Neon Music",
+   "image": "https://neonmusic.co.uk/wp-content/uploads/2026/11/green-day-american-idiot-music-video-2004.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-24T12:00:26+00:00",
+   "title_ja": "Green Day「American Idiot」が持つメッセージと背景を考察",
+   "summary_ja": "Green Dayの名曲「American Idiot」が持つ意味や背景を掘り下げる解説記事。9.11以降のアメリカ社会に向けたアンセムとしての歴史的意義や、楽曲に込められたメッセージについて改めて伝えている。",
+   "category": "その他",
+   "band": "Green Day",
+   "artists": [
+    "Green Day"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "2fc8b3fb8267324b",
+   "url": "https://gekirock.com/news/2026/11/the_offspring_jennifer_lost_the_war.php",
+   "title_original": "THE OFFSPRING、ライヴ・アルバム『Just The Punk Stuff (Live At The Stone Pony)』来年1/29リリース！「Jennifer Lost The War」先行配信＆ライヴ映像公開！",
+   "source": "激ロック",
+   "image": "https://gekirock.com/news/2026/11/24/images/THE%20OFFSPRING.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-24T11:45:00+00:00",
+   "title_ja": "THE OFFSPRINGがライブ作品発売へ「Jennifer Lost The War」も配信",
+   "summary_ja": "THE OFFSPRINGがライブアルバム『Just The Punk Stuff (Live At The Stone Pony)』を翌年1月29日にリリースすることを発表した。「Jennifer Lost The War」の先行配信とライブ映像も公開されている。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "THE OFFSPRING"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "33446d8409023d43",
+   "url": "https://foro3d.com/en/2026/noviembre/the-offspring-publica-just-the-punk-stuff-un-directo-grabado-en-asbury.html",
+   "title_original": "The Offspring releases Just the Punk Stuff, a live album recorded in Asbury Park",
+   "source": "Foro3D",
+   "image": "https://foro3d.com/2026/noviembre/imagenes/the-offspring-publica-just-the-punk-stuff-un-directo-grabado-en-asbury.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-24T00:08:43+00:00",
+   "title_ja": "The Offspringがライブ盤をリリース",
+   "summary_ja": "The Offspringが、アスズリ・パークで収録されたライブアルバム『Just the Punk Stuff』をリリースした。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "0087956c5d73313f",
    "url": "https://idobi.com/news/fall-out-boy-bts-footage-aces-doomsday-generation",
@@ -8426,110 +8507,6 @@
    "japan": false,
    "importance": 2,
    "has_detail": true
-  },
-  {
-   "id": "e79c4bb4a5a44169",
-   "url": "https://www.mensjournal.com/news/billie-joe-armstrong-botched-two-opening-chords-and-swore-on-this-1997-track-among-the-best-acoustic-rock-songs-in-2019",
-   "title_original": "Billie Joe Armstrong Botched Two Opening Chords and Swore on This 1997 Track Among the ‘Best Acoustic Rock Songs’ in 2019",
-   "source": "Men's Journal",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-14T17:27:00+00:00",
-   "title_ja": "Billie Joe Armstrongが1997年の名曲のアコースティック演奏でハプニング",
-   "summary_ja": "Billie Joe Armstrongがアコースティック・ロックの名曲選の中で、1997年の楽曲の冒頭でコードを間違えて思わず悪態をついたエピソード。",
-   "category": "メンバー・発言",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "e4ab5c14d30e1911",
-   "url": "https://www.thatericalper.com/2026/10/14/dropkick-murphys-announce-2027-boston-st-patricks-day-shows-with-special-guests",
-   "title_original": "Dropkick Murphys Announce 2027 Boston St. Patrick’s Day Shows With Special Guests",
-   "source": "That Eric Alper",
-   "image": "https://www.thatericalper.com/wp-content/uploads/2026/10/imgi_3_847828803_18634572295031204_5579493000928619927_n.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-14T16:22:54+00:00",
-   "title_ja": "Dropkick Murphysが2027年のボストン公演を発表",
-   "summary_ja": "Dropkick Murphysが2027年の聖パトリック・デイを祝う恒例のボストン公演の開催を発表しました。",
-   "category": "ライブ・ツアー",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "441bc9cf4c53553a",
-   "url": "https://chorus.fm/news/super-sometimes-cover-fall-out-boy",
-   "title_original": "Super Sometimes Cover Fall Out Boy",
-   "source": "chorus.fm",
-   "image": "https://chorus.fm/wp-content/uploads/2026/03/Super-Sometimes.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-14T15:07:57+00:00",
-   "title_ja": "Super SometimesがFall Out Boyのカバーを披露",
-   "summary_ja": "Super SometimesがFall Out Boyの楽曲をカバーしたことを伝えるニュースです。",
-   "category": "新曲・新作",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Fall Out Boy",
-    "Super Sometimes"
-   ],
-   "japan": false,
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "30462b60561efb52",
-   "url": "https://www.loudersound.com/music/albums/how-nimrod-and-good-riddance-taught-green-day-billie-joe-armstrong-to-stop-caring-about-dumb-punk-rock-rules",
-   "title_original": "\"I thought people were probably gonna hate it.\" How Nimrod, and its surprise hit single Good Riddance (Time of Your Life), taught Green Day's Billie Joe Armstrong to stop caring about dumb punk rock rules",
-   "source": "Louder",
-   "image": "https://cdn.mos.cms.futurecdn.net/6NrmMrrmBL2cUoqMysRVvD-1280-80.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-14T15:00:00+00:00",
-   "title_ja": "Green DayのBillie Joeが名盤Nimrodの制作を振り返る",
-   "summary_ja": "Billie Joe Armstrongがインタビューで、アルバムNimrodの制作当時やヒット曲Good Riddanceの誕生について振り返っています。",
-   "category": "メンバー・発言",
-   "band": "Green Day",
-   "artists": [
-    "Billie Joe Armstrong",
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "fff54d29f528b6b2",
-   "url": "https://www.klbjfm.com/rock-daypop/the-offspring-jimmy-eat-world-and-311-to-lead-lineup-at-2026-sema-fest-in-las-vegas",
-   "title_original": "The Offspring, Jimmy Eat World and 311 to lead lineup at 2026 SEMA Fest in Las Vegas",
-   "source": "KLBJ-FM",
-   "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1303/2026/10/14084029/shutterstock_2380638877262856.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-14T09:08:05+00:00",
-   "title_ja": "The Offspringらが2026年SEMA Festに出演へ",
-   "summary_ja": "ラスベガスで開催される2026年SEMA Festのヘッドライナーとして、The Offspring、Jimmy Eat World、311の出演が決定した。",
-   "category": "フェス出演",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring",
-    "Jimmy Eat World",
-    "311"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
