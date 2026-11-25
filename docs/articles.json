@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T17:03:36.474138+09:00",
+ "updated_at": "2026-11-26T06:30:34.351739+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -71,6 +71,7 @@
   "Diffuser.fm",
   "Distorted Sound Magazine -",
   "Dying Scene",
+  "Entertainment Focus",
   "Exclaim!",
   "FACT Magazines",
   "FOX5 Vegas",
@@ -128,7 +129,6 @@
   "Music Ally",
   "Music Connection Magazine",
   "Music Feeds",
-  "Music Wee",
   "Music-News.com",
   "MusicRadar",
   "NBC News",
@@ -192,7 +192,6 @@
   "SurvivorNet",
   "TVGuide.co.uk",
   "Tekedia",
-  "Tempo.co English",
   "Texas Lifestyle Magazine",
   "That Eric Alper",
   "The 13th Floor",
@@ -232,7 +231,6 @@
   "WMNF",
   "WMTW",
   "WOUB Public Media -",
-  "Warner Music Group",
   "Washington Examiner",
   "WebWire",
   "WeirdKaya",
@@ -263,47 +261,90 @@
   "激ロック",
   "조선일보"
  ],
- "count": 400,
+ "count": 399,
  "detail_count": 303,
  "digest": {
-  "headline": "Green DayやSum 41などパンクロックの最新情報",
+  "headline": "パンク・ロックバンドの最新動向と新曲リリースまとめ",
   "points": [
    {
-    "text": "Green Dayの名曲「American Idiot」が持つ背景や歴史的意義を掘り下げる解説記事が公開。",
+    "text": "Sum 41のDeryck Whibleyが、初となるソロアルバム『SUM 41 Diamonds of the Night: Vol 1』を2027年3月にリリースする。",
     "ids": [
-     "b6663c474a29c34e"
+     "90ff297c0000f937",
+     "836761c5b8986aad"
     ]
    },
    {
-    "text": "Sum 41のDeryck Whibleyが、初のソロアルバム作品『SUM 41 Diamonds of the Night: Vol 1』のリリースを発表。",
-    "ids": [
-     "836761c5b8986aad",
-     "cd3025d769a93e69",
-     "55a134c3de988b35"
-    ]
-   },
-   {
-    "text": "THE OFFSPRINGが、ライブアルバム『Just The Punk Stuff (Live At The Stone Pony)』を翌年1月29日にリリースすると発表。",
+    "text": "The Offspringがライブアルバム『Just The Punk Stuff (Live At The Stone Pony)』を翌年1月29日に発売する。",
     "ids": [
      "2fc8b3fb8267324b",
-     "e8a3952da72febac",
-     "33446d8409023d43"
+     "e8a3952da72febac"
     ]
    },
    {
-    "text": "Blink-182が、2027年に開催されるフェスティバル「When We Were Young 2027」のヘッドライナーに決定。",
+    "text": "My Chemical RomanceがNHLのニュージャージー・デビルズと限定コラボを行い、コラボTシャツのプレゼント企画などを発表した。",
     "ids": [
-     "c0152c574d8026bc"
+     "19caf0c76e91e7c8",
+     "795fe5240adcdee3"
+    ]
+   },
+   {
+    "text": "Green Dayの名曲American Idiotが持つ社会的背景や、パンクロックの不完全なサウンドの重要性を語るインタビューなどが公開された。",
+    "ids": [
+     "b6663c474a29c34e",
+     "cfeb7c45025d759f"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-22T17:05:52.208115+09:00",
-  "generated_at": "2026-11-25T17:06:06.786381+09:00",
-  "article_count": 23,
-  "sig": "f864d276eedf"
+  "from": "2026-11-23T06:31:40.969769+09:00",
+  "generated_at": "2026-11-26T06:31:43.124312+09:00",
+  "article_count": 18,
+  "sig": "f9008e59dc67"
  },
  "items": [
+  {
+   "id": "8403a2b7469c9bb4",
+   "url": "https://www.vice.com/en/article/henry-rollins-has-no-idea-that-dropkick-murphys-vocalist-ken-casey-nearly-ran-him-over-with-a-car",
+   "title_original": "Henry Rollins Has No Idea That Dropkick Murphys Vocalist Ken Casey Nearly Ran Him Over With a Car",
+   "source": "VICE",
+   "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/Web_Photo_Editor-2026-11-25T110125.904.jpg?w=1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-25T17:17:14+00:00",
+   "title_ja": "Henry RollinsとDropkick MurphysのKen Caseyを巡るエピソード",
+   "summary_ja": "Henry Rollinsが、Dropkick MurphysのボーカリストであるKen Caseyに車でひかれそうになった出来事を知らなかったことが明らかになった。",
+   "category": "メンバー・発言",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Henry Rollins",
+    "Ken Casey",
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "90ff297c0000f937",
+   "url": "https://entertainment-focus.com/2026/11/25/sum-41s-deryck-whibley-to-release-debut-solo-album-in-march-2027",
+   "title_original": "Sum 41’s Deryck Whibley to release debut solo album in March 2027",
+   "source": "Entertainment Focus",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-25T08:51:42+00:00",
+   "title_ja": "Sum 41のDeryck Whibleyが2027年3月に初ソロアルバムを発売",
+   "summary_ja": "Sum 41のDeryck Whibleyが、自身初となるソロ・アルバムを2027年3月にリリースすることが報じられた。バンド解散後の新たな動きとして注目を集めている。",
+   "category": "新曲・新作",
+   "band": "Sum 41",
+   "artists": [
+    "Deryck Whibley",
+    "Sum 41"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "4028eb41c9c53fce",
    "url": "https://voxrebelle.com/reviews/rise-against-dropkick-murphys-live-auckland-november-2026",
@@ -406,7 +447,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e8a3952da72febac",
@@ -779,24 +820,24 @@
    "has_detail": true
   },
   {
-   "id": "5a5caa1fd3d57399",
-   "url": "https://en.tempo.co/read/2124155/transjakarta-extends-jis-monas-route-hours-for-my-chemical-romance-concert",
-   "title_original": "Transjakarta Extends JIS-Monas Route Hours for My Chemical Romance Concert",
-   "source": "Tempo.co English",
+   "id": "9dbeca396b19f6ea",
+   "url": "https://www.thehypemagazine.com/2026/11/20/my-chemical-romance-black-parade-billboard-200-no-1",
+   "title_original": "My Chemical Romance Make Billboard Chart History as The Black Parade Debuts at No. 1 Two Decades Later",
+   "source": "The Hype Magazine",
    "image": "",
    "lang": "en",
    "region": "global",
-   "published": "2026-11-22T05:36:57+00:00",
-   "title_ja": "My Chemical Romance公演に合わせ交通網が運行時間を延長",
-   "summary_ja": "ジャカルタの交通事業者Transjakartaは、My Chemical Romanceのコンサート開催に合わせてJIS-Monas路線の運行時間を延長すると発表した。",
-   "category": "ライブ・ツアー",
+   "published": "2026-11-21T22:56:17+00:00",
+   "title_ja": "My Chemical RomanceのThe Black Paradeがビルボードチャートで首位を獲得",
+   "summary_ja": "My Chemical Romanceの名盤『The Black Parade』が、発売から20年を経てビルボードのチャートで初登場1位を記録する歴史的な快挙を達成した。",
+   "category": "チャート・受賞",
    "band": "My Chemical Romance",
    "artists": [
     "My Chemical Romance"
    ],
    "japan": false,
-   "importance": 3,
-   "detail_tries": 2
+   "importance": 5,
+   "has_detail": true
   },
   {
    "id": "6cba95a6872ce9e2",
@@ -8495,66 +8536,6 @@
    "japan": false,
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "76902e607bb9d308",
-   "url": "https://www.bigcountrynewsconnection.com/my-chemical-romance-to-release-expanded-20th-anniversary-edition-of-the-black-parade",
-   "title_original": "My Chemical Romance to release expanded 20th Anniversary edition of ‘The Black Parade’",
-   "source": "Big Country News |",
-   "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2801/2026/10/15084044/shutterstock_133113044-resized-to-large-1274833.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-15T15:40:44+00:00",
-   "title_ja": "My Chemical Romance、名盤『The Black Parade』20周年盤を発売へ",
-   "summary_ja": "My Chemical Romanceが、バンドの代表作である名盤『The Black Parade』の発売20周年を記念した拡張エディションをリリースすることを発表した。",
-   "category": "再発・記念盤",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "813e514561688831",
-   "url": "https://www.musicweek.com/publishing/read/warner-chappell-signs-global-deal-with-generational-force-my-chemical-romance/095255",
-   "title_original": "Warner Chappell signs global deal with 'generational force' My Chemical Romance",
-   "source": "Music Wee",
-   "image": "https://www.musicweek.com/cimages/9ce6def333fa790e6075ca7af92c4d59.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-15T14:17:00+00:00",
-   "title_ja": "Warner Chappell、My Chemical Romanceと世界契約を発表",
-   "summary_ja": "音楽出版社のWarner Chappellが、世代を代表する存在であるMy Chemical Romanceと世界規模の契約を締結したと発表した。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8b3e8fb63a163c71",
-   "url": "https://www.wmg.com/news/warner-chappell-music-signs-global-deal-with-my-chemical-romance",
-   "title_original": "WARNER CHAPPELL MUSIC SIGNS GLOBAL DEAL WITH MY CHEMICAL ROMANCE",
-   "source": "Warner Music Group",
-   "image": "https://www.wmg.com/wp-content/uploads/2026/10/MCR-scaled.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-15T14:02:54+00:00",
-   "title_ja": "My Chemical Romanceがワーナー・チャペルとグローバル契約",
-   "summary_ja": "My Chemical Romanceがワーナー・チャペル・ミュージックと新たに世界規模の音楽出版契約を締結した。今後の楽曲展開や活動に向けた大きな一歩となる。",
-   "category": "その他",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
