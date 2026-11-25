@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T07:14:57.880432+09:00",
+ "updated_at": "2026-11-25T17:03:36.474138+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -83,6 +83,7 @@
   "Happy Mag",
   "Her Campus",
   "Hit Channel",
+  "Hockey.com",
   "Hoodline",
   "Horror Cult Films",
   "IMDb",
@@ -131,6 +132,7 @@
   "Music-News.com",
   "MusicRadar",
   "NBC News",
+  "NHL.com",
   "NME",
   "NME Japan",
   "NST Online",
@@ -163,6 +165,7 @@
   "ROCK 105.3",
   "RTTNews",
   "Reckless Press",
+  "Red Raven News",
   "Reuters Connect",
   "Richland Source",
   "River 949",
@@ -220,9 +223,11 @@
   "UK Festival Guides",
   "Ubisoft",
   "Ultimate Guitar",
+  "V13 Media",
   "VICE",
   "Variety India",
   "Verge Magazine",
+  "Vox Rebelle",
   "WECB",
   "WMNF",
   "WMTW",
@@ -243,7 +248,6 @@
   "buzzmusic",
   "chorus.fm",
   "completemusicupdate.com",
-  "dangerousminds.net",
   "deeparrival.com",
   "https://rocknloadmag.com/",
   "iHeart",
@@ -259,13 +263,27 @@
   "激ロック",
   "조선일보"
  ],
- "count": 398,
- "detail_count": 300,
+ "count": 400,
+ "detail_count": 303,
  "digest": {
-  "headline": "The Offspringのライブ盤発表やBlink-182のフェス出演などの動",
+  "headline": "Green DayやSum 41などパンクロックの最新情報",
   "points": [
    {
-    "text": "The Offspringがライブアルバム『Just The Punk Stuff』をリリースし、「Jennifer Lost The War」の先行配信も行われている。",
+    "text": "Green Dayの名曲「American Idiot」が持つ背景や歴史的意義を掘り下げる解説記事が公開。",
+    "ids": [
+     "b6663c474a29c34e"
+    ]
+   },
+   {
+    "text": "Sum 41のDeryck Whibleyが、初のソロアルバム作品『SUM 41 Diamonds of the Night: Vol 1』のリリースを発表。",
+    "ids": [
+     "836761c5b8986aad",
+     "cd3025d769a93e69",
+     "55a134c3de988b35"
+    ]
+   },
+   {
+    "text": "THE OFFSPRINGが、ライブアルバム『Just The Punk Stuff (Live At The Stone Pony)』を翌年1月29日にリリースすると発表。",
     "ids": [
      "2fc8b3fb8267324b",
      "e8a3952da72febac",
@@ -273,35 +291,123 @@
     ]
    },
    {
-    "text": "Blink-182が2027年開催の音楽フェス「When We Were Young 2027」やDownload Festival 2027のヘッドライナーを務めることが発表された。",
+    "text": "Blink-182が、2027年に開催されるフェスティバル「When We Were Young 2027」のヘッドライナーに決定。",
     "ids": [
-     "c0152c574d8026bc",
-     "6cba95a6872ce9e2"
-    ]
-   },
-   {
-    "text": "Sum 41のDeryck Whibleyが、バンドの楽曲をピアノ中心に再解釈したソロ作品を発表した。",
-    "ids": [
-     "cd3025d769a93e69",
-     "55a134c3de988b35"
-    ]
-   },
-   {
-    "text": "My Chemical Romanceの『Danger Days』拡張盤にPulpのカバーが収録されるほか、Fall Out Boyが北米ツアーのチケット販売やMVの裏側公開を行った。",
-    "ids": [
-     "3b8e66da769e0c80",
-     "0087956c5d73313f",
-     "2061e4cd9b2f9bae"
+     "c0152c574d8026bc"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-22T07:15:39.281683+09:00",
-  "generated_at": "2026-11-25T07:15:40.947022+09:00",
-  "article_count": 19,
-  "sig": "862e2d4ed7a9"
+  "from": "2026-11-22T17:05:52.208115+09:00",
+  "generated_at": "2026-11-25T17:06:06.786381+09:00",
+  "article_count": 23,
+  "sig": "f864d276eedf"
  },
  "items": [
+  {
+   "id": "4028eb41c9c53fce",
+   "url": "https://voxrebelle.com/reviews/rise-against-dropkick-murphys-live-auckland-november-2026",
+   "title_original": "Two Roads- Same destination: Dropkick Murphys Bring Community & Rise Against Bring Conviction",
+   "source": "Vox Rebelle",
+   "image": "https://i0.wp.com/voxrebelle.com/wp-content/uploads/2026/11/Rise-Against-Spark-Arena-24_11_2026-33.jpg?fit=1200%2C628&ssl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-25T01:28:20+00:00",
+   "title_ja": "Dropkick MurphysとRise Againstのライブ模様をレポート",
+   "summary_ja": "Dropkick MurphysとRise Againstが共演を果たしたライブの模様を伝える記事。それぞれ独自のスタイルを持ちながらも観客と深く繋がり、情熱あふれるパフォーマンスを披露して会場を熱狂させた。",
+   "category": "ライブ・ツアー",
+   "band": "Dropkick Murphys",
+   "artists": [
+    "Dropkick Murphys",
+    "Rise Against"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "795fe5240adcdee3",
+   "url": "https://www.hockey.com/news/devils-and-my-chemical-romance-plan-t-shirt-giveaway-for-tgigit",
+   "title_original": "Devils and My Chemical Romance plan T-shirt giveaway for Calgary game",
+   "source": "Hockey.com",
+   "image": "https://www.hockey.com/api/og/article/devils-and-my-chemical-romance-plan-t-shirt-giveaway-for-tgigit?style=editorial-1&v=1795563959199",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-24T23:45:59.197000+00:00",
+   "title_ja": "My Chemical RomanceとDevilsが限定Tシャツ配布を計画",
+   "summary_ja": "ニュージャージー・デビルズがカルガリー戦において、地元出身バンドであるMy Chemical RomanceとのコラボレーションTシャツのプレゼント企画を実施することが明らかになった。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "New Jersey Devils",
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "b9e891d1f8c47ab0",
+   "url": "https://redraven.news/article/rise-against-spark-arena-24-november-2026-review-photo-gallery",
+   "title_original": "Rise Against - Spark Arena, 24 November 2026: Review & Photo Gallery",
+   "source": "Red Raven News",
+   "image": "https://strrnprodmedia.blob.core.windows.net/media/f/bd32fc72-549f-440d-b08b-3dd172b28cd1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-24T22:43:09.038232+00:00",
+   "title_ja": "Rise AgainstのSpark Arena公演を写真とレポートで振り返る",
+   "summary_ja": "2026年11月24日にSpark Arenaで開催されたRise Againstのライブパフォーマンスについて、会場の熱気を伝えるライブ写真と詳細なレビュー記事が掲載されている。",
+   "category": "ライブ・ツアー",
+   "band": "Rise Against",
+   "artists": [
+    "Rise Against"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "19caf0c76e91e7c8",
+   "url": "https://www.nhl.com/devils/news/new-jersey-devils-partner-with-hometown-heroes-my-chemical-romance-for-exclusive-collaboration-release-11-24-26",
+   "title_original": "New Jersey Devils Partner with Hometown Heroes My Chemical Romance for Exclusive Collaboration | RELEASE",
+   "source": "NHL.com",
+   "image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/rmonbduf8ryajjr05s72.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-24T22:04:01.825000+00:00",
+   "title_ja": "My Chemical RomanceがNHLデビルズと限定コラボを発表",
+   "summary_ja": "NHLチームのニュージャージー・デビルズが、地元出身のパンクロックバンドであるMy Chemical Romanceとパートナーシップを結び、排他的なコラボレーションを実施することを公式発表した。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "New Jersey Devils",
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "836761c5b8986aad",
+   "url": "https://v13.net/2026/11/deryck-whibley-delivering-debut-solo-record-sum-41-diamonds-of-the-night-vol-1",
+   "title_original": "Deryck Whibley Delivering Debut Solo Record ‘SUM 41 Diamonds of the Night: Vol 1’",
+   "source": "V13 Media",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-24T21:40:29+00:00",
+   "title_ja": "Deryck Whibleyがソロ作『SUM 41 Diamonds of the Night: Vol 1』をリリース",
+   "summary_ja": "Sum 41のフロントマンであるDeryck Whibleyが、初のソロアルバム作品『SUM 41 Diamonds of the Night: Vol 1』をリリースすることが発表された。",
+   "category": "新曲・新作",
+   "band": "Sum 41",
+   "artists": [
+    "Deryck Whibley",
+    "Sum 41"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "e8a3952da72febac",
    "url": "https://wrat.com/2026/11/24/the-offspring-prepping-just-the-punk-stuff-live-album-from-stone-pony-show",
@@ -421,6 +527,28 @@
    ],
    "japan": false,
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "55b84911c88a223b",
+   "url": "https://neonmusic.co.uk/buddy-holly-meaning-weezer",
+   "title_original": "Buddy Holly Weezer Meaning: The Friend Rivers Cuomo Defended",
+   "source": "Neon Music",
+   "image": "https://neonmusic.co.uk/wp-content/uploads/2026/11/weezer-buddy-holly-music-video-1994.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-23T13:41:39+00:00",
+   "title_ja": "Weezerの代表曲「Buddy Holly」の背景とRivers Cuomoが歌詞に込めた意味",
+   "summary_ja": "Weezerの名曲「Buddy Holly」について、フロントマンであるRivers Cuomoが守ろうとした友人とのエピソードや歌詞に込められた意味を探る。楽曲の誕生背景とストーリーが解説されている。",
+   "category": "メンバー・発言",
+   "band": "Weezer",
+   "artists": [
+    "Weezer",
+    "Rivers Cuomo",
+    "Buddy Holly"
+   ],
+   "japan": false,
+   "importance": 2,
    "has_detail": true
   },
   {
@@ -8426,86 +8554,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a89279012a0247fc",
-   "url": "https://www.cltampa.com/music-2/review-in-tampa-weezer-goes-for-the-gold-during-stacked-alt-rock-gathering-w-photos",
-   "title_original": "Review: In Tampa, Weezer goes for the gold during stacked alt-rock gathering [w/photos]",
-   "source": "Creative Loafing Tampa",
-   "image": "https://www.cltampa.com/wp-content/uploads/2026/10/Weezer-Tampa-BenchmarkInternationalArena-RyanMetcalf-crop.jpg-scaled.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-15T13:25:09+00:00",
-   "title_ja": "Weezerのタンパ公演レビュー：オルタナの祭典で輝きを放つ",
-   "summary_ja": "フロリダ州タンパで開催されたオルタナティブ・ロックの大型イベントに出演したWeezerのステージについて、写真と共に振り返るライブレビュー。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "c8dfc396401deddc",
-   "url": "https://www.mensjournal.com/news/green-day-thought-fans-would-hate-this-song-that-became-a-graduation-classic",
-   "title_original": "Green Day Thought Fans Would Hate This Song That Became a Graduation Classic",
-   "source": "Men's Journal",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-15T11:02:29+00:00",
-   "title_ja": "Green Day、ファンに嫌われると思った曲が卒業式の定番に",
-   "summary_ja": "Green Dayが、当時はファンから拒絶されると考えていた楽曲が、意外にも卒業式の定番ソングになった当時の心境について語っている。",
-   "category": "メンバー・発言",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "f4916a70aead1145",
-   "url": "https://karlobag.eu/en/music/news/the-offspring-at-mission-bayfest-san-diego-tickets-zhpv5",
-   "title_original": "The Offspring at Mission Bayfest in San Diego - tickets for a waterfront punk rock show at Mariner's Point Park",
-   "source": "KarloBag.eu",
-   "image": "https://karlobag.eu/images/upload/tvyk5.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-15T03:55:28+00:00",
-   "title_ja": "The Offspringがサンディエゴのフェスに出演",
-   "summary_ja": "The Offspringが、サンディエゴのマリナーズ・ポイント・パークで開催される「Mission Bayfest」に出演することが決定した。海沿いの特設会場で行われるパンク・ロックの野外ライブとして注目を集めている。",
-   "category": "ライブ・ツアー",
-   "band": "The Offspring",
-   "artists": [
-    "The Offspring"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "56fd5bf4fe2e01b2",
-   "url": "https://dangerousminds.net/music/daily-mail-my-chemical-romance-protest",
-   "title_original": "Cult of Emo: When My Chemical Romance fans marched on the Daily Mail in 2008",
-   "source": "dangerousminds.net",
-   "image": "https://cdn1.dangerousminds.net/uploads/7/2026/10/Cult-of-Emo-When-The-Daily-Mail-made-My-Chemical-Romance-public-enemy-number-one-in-2006-Dangerous-Minds.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-14T23:00:00+00:00",
-   "title_ja": "My Chemical Romanceファンが2008年に起こした抗議活動",
-   "summary_ja": "2008年にMy Chemical Romanceのファンがデイリー・メール紙の本社前で行った抗議デモの文化的背景を振り返る記事。",
-   "category": "その他",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 2,
    "has_detail": true
   }
  ]
