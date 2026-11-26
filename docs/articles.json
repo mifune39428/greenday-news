@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T16:54:47.699119+09:00",
+ "updated_at": "2026-11-27T06:18:22.027339+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -127,6 +127,7 @@
   "Metal Insider",
   "Metal Underground.com",
   "Metalhead Zone",
+  "MojaNiderlandia.pl",
   "Music Ally",
   "Music Connection Magazine",
   "Music Feeds",
@@ -137,14 +138,12 @@
   "NME",
   "NME Japan",
   "NST Online",
-  "NYS Music",
   "Neon Music",
   "New Noise Magazine",
   "New York Post",
   "NewsBreak: Local News & Alerts",
   "Newswav",
   "Noise11",
-  "Northern Transmissions",
   "Official Charts",
   "On Tap Sports Net",
   "Orlando Weekly",
@@ -261,13 +260,21 @@
   "激ロック",
   "조선일보"
  ],
- "count": 400,
- "detail_count": 304,
+ "count": 399,
+ "detail_count": 302,
  "digest": {
-  "headline": "Sum 41のDeryck Whibleyによる初ソロ作発表や、The Offs",
+  "headline": "パンク・ロック界の最新ニュース：大型フェス出演や新作情報が続々",
   "points": [
    {
-    "text": "Sum 41のDeryck Whibleyが初となるソロアルバム『Diamonds Of The Night』および『SUM 41 Diamonds of the Night: Vol 1』のリリースを発表し、バンドの名曲を新たなアレンジやピアノで再構築する。",
+    "text": "blink-182がフランスの大型フェス「Hellfest 2027」やラスベガスの「When We Were Young 2027」でヘッドライナーを務めることが発表された。",
+    "ids": [
+     "1110051230aae0ad",
+     "19d4d3380def5b59",
+     "ee77c921f93fa5b7"
+    ]
+   },
+   {
+    "text": "Sum 41のDeryck Whibleyが初となるソロアルバム『Diamonds Of The Night』を発表し、バンドの楽曲を新たなアレンジで再構築する。",
     "ids": [
      "ca296f42ac15fd9a",
      "90ff297c0000f937",
@@ -275,41 +282,135 @@
     ]
    },
    {
-    "text": "The Offspringがライブアルバム『Just The Punk Stuff (Live At The Stone Pony)』のリリースや準備を進めており、「Jennifer Lost The War」の先行配信なども行われている。",
+    "text": "THE OFFSPRINGがライブアルバム『Just The Punk Stuff (Live At The Stone Pony)』のリリースを発表し、先行配信も行われた。",
     "ids": [
      "2fc8b3fb8267324b",
-     "e8a3952da72febac",
-     "33446d8409023d43"
+     "1530d25217a13096",
+     "e8a3952da72febac"
     ]
    },
    {
-    "text": "My Chemical RomanceがNHLのニュージャージー・デビルズとパートナーシップを結び、限定コラボやTシャツのプレゼント企画を実施することを発表した。",
+    "text": "Weezerのシカゴ公演やアムステルダムでのコンサート開催が決定したほか、各地のライブやコラボレーションの話題が伝えられている。",
     "ids": [
-     "19caf0c76e91e7c8",
-     "795fe5240adcdee3"
-    ]
-   },
-   {
-    "text": "Blink-182のTravis Barkerが憧れのPhil Collinsのロックの殿堂入りを祝福したほか、テレビ番組内で過去の貴重な写真が公開された。",
-    "ids": [
-     "beb69b3f62d757ad",
-     "4ba5560b8bce739a"
-    ]
-   },
-   {
-    "text": "Green Dayの代表曲「American Idiot」が持つ歴史的意義や社会的メッセージについて改めて振り返る解説記事が公開された。",
-    "ids": [
-     "b6663c474a29c34e"
+     "44702292cb5545a7",
+     "9a1b99380b9923a0",
+     "19caf0c76e91e7c8"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-23T16:55:16.055518+09:00",
-  "generated_at": "2026-11-26T16:55:20.565645+09:00",
-  "article_count": 20,
-  "sig": "ccdc9aef2785"
+  "from": "2026-11-24T06:18:39.347094+09:00",
+  "generated_at": "2026-11-27T06:18:40.915010+09:00",
+  "article_count": 22,
+  "sig": "d2be10ce842e"
  },
  "items": [
+  {
+   "id": "1110051230aae0ad",
+   "url": "https://lambgoat.com/news/56081/blink-182-parkway-drive-faith-no-more-gojira-etc-set-for-2027-hellfest-open-air-festival",
+   "title_original": "BLINK-182, PARKWAY DRIVE, FAITH NO MORE, GOJIRA, etc. set for 2027 HELLFEST OPEN AIR FESTIVAL",
+   "source": "Lambgoat",
+   "image": "https://lambgoat.com/cdn/2026/hellfest-27-20261126111151.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-26T19:30:00+00:00",
+   "title_ja": "Hellfest 2027の出演アーティストが発表",
+   "summary_ja": "フランスで開催されるHellfest 2027のラインナップが発表され、blink-182やGojiraらの出演が明らかになった。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Parkway Drive",
+    "Faith No More",
+    "Gojira"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "98144b546c64c873",
+   "url": "https://www.rockumweb.com/reportes/2867/hellfest-2027-reveals-308-band-lineup-with-gojira-blink-182-mtley-cre-evanescence-and-faith-no-more",
+   "title_original": "Hellfest 2027 Reveals 308-Band Lineup With Gojira, Blink-182, Mötley Crüe, Evanescence and Faith No More",
+   "source": "Rockum",
+   "image": "https://www.rockumweb.com/hellfest-2027-lineup-gojira-blink-182-motley-crue-evanescence.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-26T19:18:41+00:00",
+   "title_ja": "Hellfest 2027の308組に及ぶ全出演者が発表",
+   "summary_ja": "大規模ロックフェスHellfest 2027が全308組の出演ラインナップを発表。blink-182やMötley Crüeらが名を連ねている。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Gojira",
+    "Mötley Crüe",
+    "Evanescence"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "19d4d3380def5b59",
+   "url": "https://foro3d.com/en/2026/noviembre/blink-182-encabezara-el-when-we-were-young-de-2027-en-las-vegas.html",
+   "title_original": "Blink-182 to headline When We Were Young 2027 in Las Vegas",
+   "source": "Foro3D",
+   "image": "https://foro3d.com/2026/noviembre/imagenes/blink-182-encabezara-el-when-we-were-young-de-2027-en-las-vegas.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-26T15:31:52+00:00",
+   "title_ja": "blink-182がWhen We Were Young 2027に出演",
+   "summary_ja": "ラスベガスで開催される「When We Were Young 2027」のヘッドライナーとして、blink-182が出演することが決定した。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "cb4ffa1ccd317638",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/blink-182-named-when-we-were-young-headliner-on-november-17/70557649",
+   "title_original": "Blink-182 named When We Were Young headliner on November 17",
+   "source": "ad-hoc-news.de",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403816_1200_675.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-26T10:57:17+00:00",
+   "title_ja": "When We Were Youngのヘッドライナーに決定",
+   "summary_ja": "blink-182が、ラスベガスの人気フェス「When We Were Young」のヘッドライナーに決定したことが伝えられた。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "44702292cb5545a7",
+   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/weezer-plays-chicago-at-q101-twisted-on-december-10/70557363",
+   "title_original": "Weezer plays Chicago at Q101 Twisted on December 10",
+   "source": "ad-hoc-news.de",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403765_1200_675.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-26T10:04:15+00:00",
+   "title_ja": "Weezerが12月10日にシカゴのQ101 Twistedに出演決定",
+   "summary_ja": "Weezerが12月10日にシカゴで開催されるQ101 Twistedに出演することが明らかになった。地元ファン注目のライブとなる。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "1530d25217a13096",
    "url": "https://bluntmag.com.au/news/the-offspring-let-fans-pick-the-deep-cuts-for-new-live-album",
@@ -331,6 +432,29 @@
    "has_detail": true
   },
   {
+   "id": "ee77c921f93fa5b7",
+   "url": "https://www.kerrang.com/hellfest-unveils-huge-2027-line-up-featuring-blink-182-faith-no-more-parkway-drive-and-gojira-headlining-clisson-france-extreme-zone-june-2027",
+   "title_original": "Hellfest unveils huge 2027 line-up featuring blink-182, Faith No More, Parkway Drive and Gojira headlining",
+   "source": "Kerrang!",
+   "image": "https://transforms.kerrang.com/production/images/2026/11/HF27-CONFIDENTIAL-26.11-7PM-CET-1-1.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1795714224&s=d8eca964b8da9d6c4e57a5b4bfec019d",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-26T00:00:00+00:00",
+   "title_ja": "Hellfest 2027のヘッドライナーにblink-182ら",
+   "summary_ja": "巨大フェスHellfestが2027年の大規模な出演陣を発表し、blink-182やFaith No Moreらがヘッドライナーを務めることが決定した。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Faith No More",
+    "Parkway Drive",
+    "Gojira"
+   ],
+   "japan": false,
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "beb69b3f62d757ad",
    "url": "https://www.loudersound.com/bands-artists/blink-182s-travis-barker-shares-his-delight-after-inducting-phil-collins-into-the-rock-and-roll-hall-of-fame",
    "title_original": "Blink-182's Travis Barker shares his delight after inducting childhood hero and \"big inspiration\" Phil Collins into the Rock and Roll Hall of Fame: \"I looked over at the end and it was double thumbs up. I was so happy.\"",
@@ -349,29 +473,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
-  },
-  {
-   "id": "4ba5560b8bce739a",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jimmy-kimmel-pulls-pre-blink-213425248.html",
-   "title_original": "Jimmy Kimmel Pulls Out Pre-Blink-182 Photo of Travis Barker Dressed as a Superhero Beside Robin Williams",
-   "source": "Yahoo",
-   "image": "https://s.yimg.com/lo/mysterio/api/0474357d3bd1ec79a4d575162a513e5707c2f08f408003c8fbf31a6e56d245f4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F50fe1e8fa5e55256785ec8c89bc8dfb9.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-25T21:34:25+00:00",
-   "title_ja": "Jimmy Kimmel、Travis Barkerの意外な過去写真を公開",
-   "summary_ja": "テレビ番組内で、Blink-182のTravis Barkerが過去にスーパーヒーローの仮装をした貴重な写真を司会者のJimmy Kimmelが公開して話題となった。",
-   "category": "その他",
-   "band": "Blink-182",
-   "artists": [
-    "Travis Barker",
-    "Jimmy Kimmel",
-    "Robin Williams"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
+   "detail_tries": 2
   },
   {
    "id": "ca296f42ac15fd9a",
@@ -393,6 +495,26 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "9a1b99380b9923a0",
+   "url": "https://www.mojaniderlandia.pl/en/events/weezer-concert-at-afas-live-in-amsterdam-246",
+   "title_original": "Weezer – concert at AFAS Live in Amsterdam – Events in the Netherlands",
+   "source": "MojaNiderlandia.pl",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-25T19:14:33+00:00",
+   "title_ja": "WeezerがアムステルダムのAFAS Liveでコンサートを開催",
+   "summary_ja": "オランダ・アムステルダムのAFAS Liveにて、Weezerのコンサートが開催されることが決定した。欧州での公演スケジュールとして注目を集めている。",
+   "category": "ライブ・ツアー",
+   "band": "Weezer",
+   "artists": [
+    "Weezer"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "8403a2b7469c9bb4",
@@ -8425,148 +8547,6 @@
    ],
    "japan": false,
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "132683827a75057c",
-   "url": "https://www.nme.com/news/music/my-chemical-romance-share-unreleased-song-someone-out-there-loves-you-black-parade-reissue-3973392",
-   "title_original": "My Chemical Romance share fiery unreleased song 'Someone Out There Loves You' ahead of 'The Black Parade' 20th anniversary reissue",
-   "source": "NME",
-   "image": "https://www.nme.com/wp-content/uploads/2026/10/my-chemical-romance-2007@2000x1270.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T15:53:46+00:00",
-   "title_ja": "MCR、『The Black Parade』20周年再発盤に向け未発表曲を公開",
-   "summary_ja": "My Chemical Romanceが『The Black Parade』20周年記念リイシュー盤の発売を控え、激しい未発表曲「Someone Out There Loves You」をファンに向けてシェアした。",
-   "category": "再発・記念盤",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "57109a363283120a",
-   "url": "https://www.imdb.com/es/news/ni5898479",
-   "title_original": "Green Day vs. Stephen Sondheim x 2 for Musical Show Album Grammy",
-   "source": "IMDb",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T14:41:52+00:00",
-   "title_ja": "Green Dayがグラミー賞のミュージカル部門にノミネート",
-   "summary_ja": "Green Dayがミュージカル関連のアルバムでグラミー賞の候補に挙がったという話題。音楽賞でのバンドの新たな功績を伝えている。",
-   "category": "チャート・受賞",
-   "band": "Green Day",
-   "artists": [
-    "Green Day"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "0c741d0120a5fc4e",
-   "url": "https://celebrityaccess.com/2026/10/16/boston-hometown-boys-dropkick-murphys-come-home-for-st-patricks-day",
-   "title_original": "Boston Hometown Boys, Dropkick Murphys Come Home For St. Patrick’s Day",
-   "source": "CelebrityAccess",
-   "image": "https://celebrityaccess.com/wp-content/uploads/2026/01/Dropkick-Murphys-2025-byRileyVecchione.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T14:20:02+00:00",
-   "title_ja": "Dropkick Murphysが地元ボストンで恒例の公演を開催",
-   "summary_ja": "Dropkick Murphysが聖パトリックの日に向けた地元ボストンでの凱旋ライブを行うことが決定した。",
-   "category": "ライブ・ツアー",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4736581eae5e243e",
-   "url": "https://nysmusic.com/2026/10/16/pinhead-gunpowder-celebrates-35-years-with-first-ever-tour-at-irving-plaza",
-   "title_original": "Pinhead Gunpowder Celebrates 35 Years With First-Ever Tour at Irving Plaza",
-   "source": "NYS Music",
-   "image": "https://nysmusic.com/site/wp-content/uploads/2026/10/PinheadGunpowder_IrvingPlaza_10142026_MandyLain-1-1.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T14:15:00+00:00",
-   "title_ja": "Pinhead Gunpowderが結成35年で初のツアー開催",
-   "summary_ja": "Pinhead Gunpowderが結成35周年を記念し、Irving Plazaにてキャリア初となるツアーを開催してアニバーサリーを祝う。",
-   "category": "ライブ・ツアー",
-   "band": "Green Day",
-   "artists": [
-    "Pinhead Gunpowder"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "d849c4a3558e8a28",
-   "url": "https://www.musicradar.com/artists/producers-engineers/i-watched-the-look-on-their-faces-their-jaws-hit-the-floor-theyd-heard-something-they-couldnt-believe-rob-cavallo-tells-us-about-the-thrill-of-producing-green-days-most-celebrated-albums-and-the-anniversary-of-mcrs-the-black-parade",
-   "title_original": "“I watched the look on their faces, their jaws hit the floor – they’d heard something they couldn’t believe”: Rob Cavallo tells us about the thrill of producing Green Day’s most celebrated albums, and the anniversary of MCR’s The Black Parade",
-   "source": "MusicRadar",
-   "image": "https://cdn.mos.cms.futurecdn.net/BrsUTNCKaAypSm4yEbgdXe-1920-80.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T13:00:00+00:00",
-   "title_ja": "名プロデューサーがGreen DayやMCRの制作秘話を語る",
-   "summary_ja": "名プロデューサーのRob Cavalloが、Green Dayの傑作アルバムやMy Chemical Romanceの『The Black Parade』の制作当時を振り返るインタビュー。",
-   "category": "メンバー・発言",
-   "band": "Green Day",
-   "artists": [
-    "Rob Cavallo",
-    "Green Day",
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "c36dd57b96bf1502",
-   "url": "https://northerntransmissions.com/weezer-shares-new-single-shine-again",
-   "title_original": "Weezer shares new single “Shine Again”",
-   "source": "Northern Transmissions",
-   "image": "https://northerntransmissions.com/wp-content/uploads/2026/04/WEEZER-GATHERING_CreditBrendan-Walters-scaled.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T11:34:04+00:00",
-   "title_ja": "Weezerが新曲「Shine Again」を発表",
-   "summary_ja": "Weezerがファンに向けて新しいシングル曲「Shine Again」を公開し、注目を集めている。",
-   "category": "新曲・新作",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "53df95c6bcc56aa6",
-   "url": "https://rocksound.tv/news/my-chemical-romance-share-previously-unreleased-track-someone-out-there-loves-you",
-   "title_original": "My Chemical Romance Share Previously Unreleased Track 'Someone Out There Loves You'",
-   "source": "Rock Sound",
-   "image": "https://spaces.rocksound.tv/uploads/2026/09/MCR-new-Bryce-Hall.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T10:19:14+00:00",
-   "title_ja": "My Chemical Romanceが未発表曲を公開",
-   "summary_ja": "My Chemical Romanceがこれまで未発表だった楽曲「Someone Out There Loves You」を新たに公開した。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
    "has_detail": true
   }
  ]
