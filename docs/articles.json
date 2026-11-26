@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T06:30:34.351739+09:00",
+ "updated_at": "2026-11-26T16:54:47.699119+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -56,6 +56,7 @@
   "Boston's ROCK 92.9",
   "Britannica",
   "CDJournal.com",
+  "CNA",
   "CNA Lifestyle",
   "CelebrityAccess",
   "Chaoszine",
@@ -247,7 +248,6 @@
   "chorus.fm",
   "completemusicupdate.com",
   "deeparrival.com",
-  "https://rocknloadmag.com/",
   "iHeart",
   "idobi",
   "indienative",
@@ -261,47 +261,139 @@
   "激ロック",
   "조선일보"
  ],
- "count": 399,
- "detail_count": 303,
+ "count": 400,
+ "detail_count": 304,
  "digest": {
-  "headline": "パンク・ロックバンドの最新動向と新曲リリースまとめ",
+  "headline": "Sum 41のDeryck Whibleyによる初ソロ作発表や、The Offs",
   "points": [
    {
-    "text": "Sum 41のDeryck Whibleyが、初となるソロアルバム『SUM 41 Diamonds of the Night: Vol 1』を2027年3月にリリースする。",
+    "text": "Sum 41のDeryck Whibleyが初となるソロアルバム『Diamonds Of The Night』および『SUM 41 Diamonds of the Night: Vol 1』のリリースを発表し、バンドの名曲を新たなアレンジやピアノで再構築する。",
     "ids": [
+     "ca296f42ac15fd9a",
      "90ff297c0000f937",
      "836761c5b8986aad"
     ]
    },
    {
-    "text": "The Offspringがライブアルバム『Just The Punk Stuff (Live At The Stone Pony)』を翌年1月29日に発売する。",
+    "text": "The Offspringがライブアルバム『Just The Punk Stuff (Live At The Stone Pony)』のリリースや準備を進めており、「Jennifer Lost The War」の先行配信なども行われている。",
     "ids": [
      "2fc8b3fb8267324b",
-     "e8a3952da72febac"
+     "e8a3952da72febac",
+     "33446d8409023d43"
     ]
    },
    {
-    "text": "My Chemical RomanceがNHLのニュージャージー・デビルズと限定コラボを行い、コラボTシャツのプレゼント企画などを発表した。",
+    "text": "My Chemical RomanceがNHLのニュージャージー・デビルズとパートナーシップを結び、限定コラボやTシャツのプレゼント企画を実施することを発表した。",
     "ids": [
      "19caf0c76e91e7c8",
      "795fe5240adcdee3"
     ]
    },
    {
-    "text": "Green Dayの名曲American Idiotが持つ社会的背景や、パンクロックの不完全なサウンドの重要性を語るインタビューなどが公開された。",
+    "text": "Blink-182のTravis Barkerが憧れのPhil Collinsのロックの殿堂入りを祝福したほか、テレビ番組内で過去の貴重な写真が公開された。",
     "ids": [
-     "b6663c474a29c34e",
-     "cfeb7c45025d759f"
+     "beb69b3f62d757ad",
+     "4ba5560b8bce739a"
+    ]
+   },
+   {
+    "text": "Green Dayの代表曲「American Idiot」が持つ歴史的意義や社会的メッセージについて改めて振り返る解説記事が公開された。",
+    "ids": [
+     "b6663c474a29c34e"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-23T06:31:40.969769+09:00",
-  "generated_at": "2026-11-26T06:31:43.124312+09:00",
-  "article_count": 18,
-  "sig": "f9008e59dc67"
+  "from": "2026-11-23T16:55:16.055518+09:00",
+  "generated_at": "2026-11-26T16:55:20.565645+09:00",
+  "article_count": 20,
+  "sig": "ccdc9aef2785"
  },
  "items": [
+  {
+   "id": "1530d25217a13096",
+   "url": "https://bluntmag.com.au/news/the-offspring-let-fans-pick-the-deep-cuts-for-new-live-album",
+   "title_original": "The Offspring Let Fans Pick The Deep Cuts For New Live Album",
+   "source": "Blunt Magazine",
+   "image": "https://images-1.bluntmag.com.au/cdn-cgi/image/f=auto,quality=80,fit=scale-down/https://images-1.bluntmag.com.au/uploads/2026/11/offspring-stone-pony-86cde764af4108b09d667b8217faec8d.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-26T06:17:26+00:00",
+   "title_ja": "The Offspring、ファン投票で選ばれたライブアルバムを発表",
+   "summary_ja": "The Offspringが、ファンが選曲に参加した新たなライブアルバムをリリースする。レアな楽曲を中心に構成されたファン待望の作品となる。",
+   "category": "新曲・新作",
+   "band": "The Offspring",
+   "artists": [
+    "The Offspring"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "beb69b3f62d757ad",
+   "url": "https://www.loudersound.com/bands-artists/blink-182s-travis-barker-shares-his-delight-after-inducting-phil-collins-into-the-rock-and-roll-hall-of-fame",
+   "title_original": "Blink-182's Travis Barker shares his delight after inducting childhood hero and \"big inspiration\" Phil Collins into the Rock and Roll Hall of Fame: \"I looked over at the end and it was double thumbs up. I was so happy.\"",
+   "source": "Louder",
+   "image": "https://cdn.mos.cms.futurecdn.net/WcgMEbX56pyZo3BUbXaqUD-1280-80.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-26T00:00:00+00:00",
+   "title_ja": "Travis Barker、憧れのPhil Collinsの殿堂入りを祝福",
+   "summary_ja": "Blink-182のTravis Barkerが、少年時代のヒーローであるPhil Collinsをロックの殿堂に迎えた喜びを語った。式典での様子に大きな感動を得たという。",
+   "category": "メンバー・発言",
+   "band": "Blink-182",
+   "artists": [
+    "Travis Barker",
+    "Phil Collins"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "4ba5560b8bce739a",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jimmy-kimmel-pulls-pre-blink-213425248.html",
+   "title_original": "Jimmy Kimmel Pulls Out Pre-Blink-182 Photo of Travis Barker Dressed as a Superhero Beside Robin Williams",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/0474357d3bd1ec79a4d575162a513e5707c2f08f408003c8fbf31a6e56d245f4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F50fe1e8fa5e55256785ec8c89bc8dfb9.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-25T21:34:25+00:00",
+   "title_ja": "Jimmy Kimmel、Travis Barkerの意外な過去写真を公開",
+   "summary_ja": "テレビ番組内で、Blink-182のTravis Barkerが過去にスーパーヒーローの仮装をした貴重な写真を司会者のJimmy Kimmelが公開して話題となった。",
+   "category": "その他",
+   "band": "Blink-182",
+   "artists": [
+    "Travis Barker",
+    "Jimmy Kimmel",
+    "Robin Williams"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "ca296f42ac15fd9a",
+   "url": "https://www.rttnews.com/amp/3718050/deryck-whibley-to-reimagine-sum-41-songs-on-debut-solo-album-diamonds-of-the-night.aspx",
+   "title_original": "Deryck Whibley To Reimagine Sum 41 Songs On Debut Solo Album 'Diamonds Of The Night'",
+   "source": "RTTNews",
+   "image": "https://cdn.rttnews.com/articleimages/ustopstories/2026/november/sum41-25112026-lt.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-25T21:03:57+00:00",
+   "title_ja": "Deryck Whibley、初のソロ作でSum 41の名曲を再構築",
+   "summary_ja": "Sum 41のDeryck Whibleyが、初となるソロアルバム『Diamonds Of The Night』を発表。バンドの楽曲を新たなアレンジでセルフカバーする。",
+   "category": "新曲・新作",
+   "band": "Sum 41",
+   "artists": [
+    "Deryck Whibley",
+    "Sum 41"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "8403a2b7469c9bb4",
    "url": "https://www.vice.com/en/article/henry-rollins-has-no-idea-that-dropkick-murphys-vocalist-ken-casey-nearly-ran-him-over-with-a-car",
@@ -343,7 +435,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4028eb41c9c53fce",
@@ -634,6 +726,26 @@
    "detail_tries": 2
   },
   {
+   "id": "3122600f8d81c312",
+   "url": "https://www.channelnewsasia.com/entertainment/simple-plan-singapore-concert-2026-review-6573601",
+   "title_original": "Pop-punk band Simple Plan are still kids at heart – and their nostalgic Singapore concert proved it",
+   "source": "CNA",
+   "image": "https://dam.mediacorp.sg/image/upload/s--P3qhnvT3--/c_crop,h_1123,w_1997,x_3,y_229/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/23/simple_plan_hero_photo_joyee_koo.jpg?itok=9AKLsHAa",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-23T02:29:00+00:00",
+   "title_ja": "Simple Planがシンガポール公演でノスタルジーを披露",
+   "summary_ja": "ポップパンクバンドのSimple Planがシンガポールでコンサートを開催し、その色褪せない魅力とノスタルジーに満ちたステージで観客を魅了した。",
+   "category": "ライブ・ツアー",
+   "band": "Simple Plan",
+   "artists": [
+    "Simple Plan"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "3b8e66da769e0c80",
    "url": "https://www.thatericalper.com/2026/11/22/my-chemical-romance-revisit-pulps-common-people-on-expanded-danger-days-deluxe-edition",
    "title_original": "My Chemical Romance Revisit Pulp’s \"Common People\" On Expanded 'Danger Days' Deluxe Edition",
@@ -824,7 +936,7 @@
    "url": "https://www.thehypemagazine.com/2026/11/20/my-chemical-romance-black-parade-billboard-200-no-1",
    "title_original": "My Chemical Romance Make Billboard Chart History as The Black Parade Debuts at No. 1 Two Decades Later",
    "source": "The Hype Magazine",
-   "image": "",
+   "image": "https://www.thehypemagazine.com/wp-content/uploads/2026/11/MCR_TBPXX-Digital-scaled.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-11-21T22:56:17+00:00",
@@ -8456,86 +8568,6 @@
    "japan": false,
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "b2016a0538335f01",
-   "url": "https://rocknloadmag.com/rancid-celebrate-30-years-of-and-out-come-the-wolves-with-expanded-anniversary-boxed-set",
-   "title_original": "RANCID CELEBRATE 30 YEARS OF …AND OUT COME THE WOLVES WITH EXPANDED ANNIVERSARY BOXED SET",
-   "source": "https://rocknloadmag.com/",
-   "image": "https://rocknloadmag.com/wp-content/uploads/2026/10/87990_Rancid_OutComeTheWolves30thAnniversary.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T10:13:46+00:00",
-   "title_ja": "Rancidの名盤30周年を記念した豪華ボックスセット",
-   "summary_ja": "Rancidが傑作アルバム『…And Out Come the Wolves』の発売30周年を記念し、音源などを拡張したアニバーサリー仕様のボックスセットをリリースしてアニバーサリーを祝います。",
-   "category": "再発・記念盤",
-   "band": "Rancid",
-   "artists": [
-    "Rancid"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "33369ebd1584484d",
-   "url": "https://recklesspress.com/news/my-chemical-romance-finally-release-someone-out-there-loves-you-from-2007-live-show",
-   "title_original": "My Chemical Romance Finally Release “Someone Out There Loves You” From 2007 Live Show",
-   "source": "Reckless Press",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T09:47:34+00:00",
-   "title_ja": "My Chemical Romance、2007年ライブ音源の未発表曲をリリース",
-   "summary_ja": "My Chemical Romanceが、2007年のライブ音源よりファン待望の未発表曲「Someone Out There Loves You」を正式にリリースした。長年ライブでのみ演奏されてきた貴重な楽曲がついに音源化される。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "96e0f6e19dba97a1",
-   "url": "https://hoodline.com/2026/10/weezer-rolls-into-austin-s-moody-center-with-the-shins-silversun-pickups",
-   "title_original": "Weezer Plays Austin's Moody Center October 18, 2026",
-   "source": "Hoodline",
-   "image": "https://img.hoodline.com/2026/10/weezer-rolls-into-austin-s-moody-center-with-the-shins-silversun-pickups.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T01:24:52+00:00",
-   "title_ja": "WeezerがオースティンのMoody Centerで公演を開催",
-   "summary_ja": "Weezerが2026年10月18日にオースティンのMoody Centerでライブを行う予定。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8658e29252b16b05",
-   "url": "https://www.billboard.com/business/touring/weezer-legend-live-award-2026-billboard-live-music-summit-1236361002",
-   "title_original": "Weezer to Receive Legend of Live Award at 2026 Billboard Live Music Summit",
-   "source": "Billboard",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-15T17:00:42+00:00",
-   "title_ja": "Weezerが2026年ビルボード・ライブ・ミュージック・サミットで受賞へ",
-   "summary_ja": "Weezerが2026年Billboard Live Music SummitにてLegend of Live Awardを受賞することが発表された。",
-   "category": "チャート・受賞",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
