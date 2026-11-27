@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T06:18:22.027339+09:00",
+ "updated_at": "2026-11-27T16:55:20.583962+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -260,21 +260,21 @@
   "激ロック",
   "조선일보"
  ],
- "count": 399,
- "detail_count": 302,
+ "count": 400,
+ "detail_count": 303,
  "digest": {
-  "headline": "パンク・ロック界の最新ニュース：大型フェス出演や新作情報が続々",
+  "headline": "blink-182の大型フェス出演やパンク各バンドの最新情報",
   "points": [
    {
-    "text": "blink-182がフランスの大型フェス「Hellfest 2027」やラスベガスの「When We Were Young 2027」でヘッドライナーを務めることが発表された。",
+    "text": "blink-182が大規模ロックフェスHellfest 2027やラスベガスのWhen We Were Young 2027のヘッドライナーを務めることが発表された。",
     "ids": [
      "1110051230aae0ad",
-     "19d4d3380def5b59",
-     "ee77c921f93fa5b7"
+     "98144b546c64c873",
+     "19d4d3380def5b59"
     ]
    },
    {
-    "text": "Sum 41のDeryck Whibleyが初となるソロアルバム『Diamonds Of The Night』を発表し、バンドの楽曲を新たなアレンジで再構築する。",
+    "text": "Sum 41のDeryck Whibleyが初となるソロアルバム『Diamonds Of The Night』を2027年3月にリリースし、バンドの名曲を再構築する。",
     "ids": [
      "ca296f42ac15fd9a",
      "90ff297c0000f937",
@@ -282,7 +282,7 @@
     ]
    },
    {
-    "text": "THE OFFSPRINGがライブアルバム『Just The Punk Stuff (Live At The Stone Pony)』のリリースを発表し、先行配信も行われた。",
+    "text": "THE OFFSPRINGがライブアルバム『Just The Punk Stuff (Live At The Stone Pony)』のリリースを発表し、先行配信も行われている。",
     "ids": [
      "2fc8b3fb8267324b",
      "1530d25217a13096",
@@ -290,21 +290,41 @@
     ]
    },
    {
-    "text": "Weezerのシカゴ公演やアムステルダムでのコンサート開催が決定したほか、各地のライブやコラボレーションの話題が伝えられている。",
+    "text": "My Chemical RomanceがNHLのニュージャージー・デビルスとタッグを組み、限定コラボレーションやTシャツ配布などを実施する。",
     "ids": [
-     "44702292cb5545a7",
-     "9a1b99380b9923a0",
-     "19caf0c76e91e7c8"
+     "0b5fabccd0774453",
+     "19caf0c76e91e7c8",
+     "795fe5240adcdee3"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-24T06:18:39.347094+09:00",
-  "generated_at": "2026-11-27T06:18:40.915010+09:00",
-  "article_count": 22,
-  "sig": "d2be10ce842e"
+  "from": "2026-11-24T16:55:30.227020+09:00",
+  "generated_at": "2026-11-27T16:55:31.679114+09:00",
+  "article_count": 21,
+  "sig": "1ea7bbc06bae"
  },
  "items": [
+  {
+   "id": "0b5fabccd0774453",
+   "url": "https://www.theprp.com/2026/11/26/news/my-chemical-romance-the-new-jersey-devils-team-up-for-new-free-merch-collab",
+   "title_original": "My Chemical Romance & The New Jersey Devils Team Up For New Free Merch Collab",
+   "source": "The PRP",
+   "image": "https://www.theprp.com/app/uploads/2026/11/mychemicalromancenj-1200x675.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-26T21:27:12+00:00",
+   "title_ja": "My Chemical Romanceがニュージャージー・デビルスとコラボ",
+   "summary_ja": "My Chemical Romanceが、NHLのチームであるニュージャージー・デビルスとタッグを組み、新たな無料マーチャンダイズのコラボレーションを実施する。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "1110051230aae0ad",
    "url": "https://lambgoat.com/news/56081/blink-182-parkway-drive-faith-no-more-gojira-etc-set-for-2027-hellfest-open-air-festival",
@@ -326,7 +346,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "98144b546c64c873",
@@ -452,7 +472,7 @@
    ],
    "japan": false,
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "beb69b3f62d757ad",
@@ -514,7 +534,7 @@
    ],
    "japan": false,
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8403a2b7469c9bb4",
