@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T16:55:20.583962+09:00",
+ "updated_at": "2026-11-28T05:59:30.810560+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -149,7 +149,6 @@
   "Orlando Weekly",
   "PUNKLOID",
   "Parade Magazine",
-  "Paste Magazine",
   "Paul Tan's Automotive News",
   "People.com",
   "PhilNews",
@@ -227,11 +226,11 @@
   "Variety India",
   "Verge Magazine",
   "Vox Rebelle",
+  "WDHA FM",
   "WECB",
   "WMNF",
   "WMTW",
   "WOUB Public Media -",
-  "Washington Examiner",
   "WebWire",
   "WeirdKaya",
   "X-Press Magazine",
@@ -261,20 +260,20 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 303,
+ "detail_count": 305,
  "digest": {
-  "headline": "blink-182の大型フェス出演やパンク各バンドの最新情報",
+  "headline": "blink-182の大型フェス出演やSum 41のソロ作発表など、パンク・ロック",
   "points": [
    {
-    "text": "blink-182が大規模ロックフェスHellfest 2027やラスベガスのWhen We Were Young 2027のヘッドライナーを務めることが発表された。",
+    "text": "blink-182がフランスの大規模ロックフェス「Hellfest 2027」やラスベガスの「When We Were Young 2027」のヘッドライナーなどに出演決定。",
     "ids": [
-     "1110051230aae0ad",
-     "98144b546c64c873",
+     "04f63efcc65cfb73",
+     "ee77c921f93fa5b7",
      "19d4d3380def5b59"
     ]
    },
    {
-    "text": "Sum 41のDeryck Whibleyが初となるソロアルバム『Diamonds Of The Night』を2027年3月にリリースし、バンドの名曲を再構築する。",
+    "text": "Sum 41のDeryck Whibleyが初となるソロアルバム『Diamonds Of The Night』を発表し、バンドの名曲を新たなアレンジでセルフカバーする。",
     "ids": [
      "ca296f42ac15fd9a",
      "90ff297c0000f937",
@@ -282,15 +281,15 @@
     ]
    },
    {
-    "text": "THE OFFSPRINGがライブアルバム『Just The Punk Stuff (Live At The Stone Pony)』のリリースを発表し、先行配信も行われている。",
+    "text": "Rise AgainstとDropkick Murphysの共演ライブや、Weezerの新たな公演スケジュールなど、各バンドのライブ活動が次々と発表されている。",
     "ids": [
-     "2fc8b3fb8267324b",
-     "1530d25217a13096",
-     "e8a3952da72febac"
+     "97f520c996388b1d",
+     "44702292cb5545a7",
+     "9a1b99380b9923a0"
     ]
    },
    {
-    "text": "My Chemical RomanceがNHLのニュージャージー・デビルスとタッグを組み、限定コラボレーションやTシャツ配布などを実施する。",
+    "text": "My Chemical RomanceがNHLのニュージャージー・デビルスとコラボレーションし、限定マーチャンダイズの配布などを実施する。",
     "ids": [
      "0b5fabccd0774453",
      "19caf0c76e91e7c8",
@@ -299,12 +298,98 @@
    }
   ],
   "days": 3,
-  "from": "2026-11-24T16:55:30.227020+09:00",
-  "generated_at": "2026-11-27T16:55:31.679114+09:00",
-  "article_count": 21,
-  "sig": "1ea7bbc06bae"
+  "from": "2026-11-25T06:00:39.587807+09:00",
+  "generated_at": "2026-11-28T06:00:41.430677+09:00",
+  "article_count": 22,
+  "sig": "3eb3661e7c2b"
  },
  "items": [
+  {
+   "id": "768e4697ef331599",
+   "url": "https://www.ubisoft.com/en-au/game/rocksmith/plus/news-updates/2WjTWDdZl7bHMRKQLQQ8iG/my-chemical-romance-on-rocksmith-november-2026-new-songs",
+   "title_original": "My Chemical Romance on Rocksmith+ - November 2026 New Songs",
+   "source": "Ubisoft",
+   "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6azlNKzSk6CSKBL69DWxHU/6e4e7bdff8d42e7443bbc19f8e8ac8c6/R__November26_MCR.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-27T18:15:36+00:00",
+   "title_ja": "「Rocksmith+」にMy Chemical Romanceの楽曲が追加登場",
+   "summary_ja": "音楽ゲーム「Rocksmith+」の2026年11月度の新規追加曲として、My Chemical Romanceの楽曲が登場することがUbisoftより発表された。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "04f63efcc65cfb73",
+   "url": "https://wdhafm.com/2026/11/27/hellfest-2027-unveils-massive-lineup-featuring-evanescence-judas-priest-blink-182-faith-no-more-and-more",
+   "title_original": "Hellfest 2027 Unveils Massive Lineup Featuring Evanescence, Judas Priest, Blink-182, Faith No More and More",
+   "source": "WDHA FM",
+   "image": "https://wdhafm.com/uploads/2026/11/GettyImages-2263089494.jpg?auto=webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-27T15:39:19+00:00",
+   "title_ja": "「Hellfest 2027」の出演者発表、Blink-182やJudas Priestらが決定",
+   "summary_ja": "大型フェス「Hellfest 2027」のラインナップが解禁され、Blink-182、Evanescence、Judas Priest、Faith No Moreらの出演が決定した。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Evanescence",
+    "Judas Priest",
+    "Faith No More"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "97f520c996388b1d",
+   "url": "https://www.backseatmafia.com/live-gallery-punk-rock-solidarity-as-rise-against-and-dropkick-murphys-take-over-john-cain-arena-26-11-2026",
+   "title_original": "Live Gallery: Punk Rock Solidarity as Rise Against and Dropkick Murphys Take Over John Cain Arena 26.11.2026",
+   "source": "Backseat Mafia",
+   "image": "https://www.backseatmafia.com/wp-content/uploads/2026/11/18-rise-against-scaled.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-27T12:47:10+00:00",
+   "title_ja": "Rise AgainstとDropkick Murphys共演ライブのフォトギャラリーが公開",
+   "summary_ja": "Rise AgainstとDropkick Murphysが共演したジョン・ケイン・アリーナ公演のライブ写真が公開された。パンクロックの絆を感じさせる熱いステージの模様が捉えられている。",
+   "category": "ライブ・ツアー",
+   "band": "Rise Against",
+   "artists": [
+    "Rise Against",
+    "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "999c9a27684db40b",
+   "url": "https://therockrevival.com/rock-news/hellfest-2027-lineup-announced-blink-182-parkway-drive-gojira-and-more",
+   "title_original": "Hellfest 2027 Lineup Announced: blink-182, Parkway Drive, Gojira, and More",
+   "source": "The Rock Revival",
+   "image": "https://therockrevival.com/wp-content/uploads/2026/11/hellfest-2027-lineup-gojira-parkway-drive-blink-182.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-27T01:07:52+00:00",
+   "title_ja": "Hellfest 2027のラインナップ発表！blink-182やGojira出演決定",
+   "summary_ja": "大型ロックフェスティバル「Hellfest 2027」のラインナップが発表された。blink-182をはじめ、Parkway DriveやGojiraといった豪華アーティストの出演が決まっている。",
+   "category": "フェス出演",
+   "band": "その他",
+   "artists": [
+    "blink-182",
+    "Parkway Drive",
+    "Gojira"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "0b5fabccd0774453",
    "url": "https://www.theprp.com/2026/11/26/news/my-chemical-romance-the-new-jersey-devils-team-up-for-new-free-merch-collab",
@@ -8483,87 +8568,6 @@
    "artists": [
     "Dropkick Murphys",
     "Troy Jackson"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6f93001f628fd821",
-   "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4769598/dropkick-murphys-troy-jackson-maine",
-   "title_original": "Dropkick Murphys, of Celtic punk rock fame, encourage Maine voters to ‘ship’ Troy Jackson to DC",
-   "source": "Washington Examiner",
-   "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26206599930359-e1792203214558.jpg?resize=1200,683",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-17T02:44:57+00:00",
-   "title_ja": "Dropkick Murphysがメイン州の有権者に呼びかけ",
-   "summary_ja": "ケルト・パンク・ロックのバンドとして知られるDropkick Murphysが、メイン州の有権者に向けてトロイ・ジャクソンをワシントンD.C.へ送り出すよう呼びかけている。",
-   "category": "その他",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys",
-    "Troy Jackson"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "93f21844baa275cf",
-   "url": "https://www.pastemagazine.com/music/my-chemical-romance/my-chemical-romance-release-2007-track-ahead-of-the-black-parade-reissue",
-   "title_original": "My Chemical Romance release 2007 track ahead of The Black Parade reissue",
-   "source": "Paste Magazine",
-   "image": "https://www.pastemagazine.com/wp-content/uploads/2026/09/13/9E1E72B3-E6D6-4B78-A188-59F2904C37AA-scaled.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T18:25:00+00:00",
-   "title_ja": "MCR、再発盤に向けて2007年の楽曲を公開",
-   "summary_ja": "My Chemical Romanceが、「The Black Parade」の再発盤発売に先駆けて2007年の楽曲をリリースした。",
-   "category": "再発・記念盤",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "3293ff0fb6c78a7f",
-   "url": "https://www.billboard.com/music/rock/my-chemical-romance-unreleased-song-black-parade-reissue-listen-1236361897",
-   "title_original": "My Chemical Romance Drop Blistering Unreleased Song From ‘The Black Parade’ 20th Anniversary Edition: Listen",
-   "source": "Billboard",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T16:49:59+00:00",
-   "title_ja": "MCR、20周年盤から未発表曲をドロップ",
-   "summary_ja": "My Chemical Romanceが『The Black Parade』20周年記念エディションより、これまで未発表だった強力な楽曲を公開した。",
-   "category": "新曲・新作",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "5ddbb962accc0a98",
-   "url": "https://www.thatericalper.com/2026/10/16/watch-paramores-explosive-2013-itunes-festival-concert-at-londons-legendary-roundhouse",
-   "title_original": "Watch Paramore's Explosive 2013 iTunes Festival Concert At London's Legendary Roundhouse",
-   "source": "That Eric Alper",
-   "image": "https://www.thatericalper.com/wp-content/uploads/2026/10/download-2026-10-16T122103.440.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T16:21:13+00:00",
-   "title_ja": "Paramore、2013年ロンドンのiTunes Festival公演の映像を公開",
-   "summary_ja": "Paramoreが2013年にロンドンのRoundhouseで行った、iTunes Festivalの熱気溢れるライブパフォーマンス映像を公開した。当時のエネルギッシュなステージを再びオンラインで楽しむことができる。",
-   "category": "映像・映画・書籍",
-   "band": "Paramore",
-   "artists": [
-    "Paramore"
    ],
    "japan": false,
    "importance": 3,
