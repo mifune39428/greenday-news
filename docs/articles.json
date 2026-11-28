@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T05:59:30.810560+09:00",
+ "updated_at": "2026-11-28T16:24:56.567447+09:00",
  "categories": [
   "新曲・新作",
   "ライブ・ツアー",
@@ -71,7 +71,6 @@
   "Dallas News",
   "Diffuser.fm",
   "Distorted Sound Magazine -",
-  "Dying Scene",
   "Entertainment Focus",
   "Exclaim!",
   "FACT Magazines",
@@ -99,7 +98,6 @@
   "Interview Magazine",
   "JamBase",
   "Jambands.com",
-  "KCRW",
   "KSBY News",
   "KSNV",
   "KarloBag.eu",
@@ -159,6 +157,7 @@
   "Pollstar News",
   "PopCulture.com",
   "PopMatters",
+  "Punknews.org",
   "RAMzine",
   "RIFF Magazine",
   "ROCK 105.3",
@@ -229,7 +228,6 @@
   "WDHA FM",
   "WECB",
   "WMNF",
-  "WMTW",
   "WOUB Public Media -",
   "WebWire",
   "WeirdKaya",
@@ -262,48 +260,67 @@
  "count": 400,
  "detail_count": 305,
  "digest": {
-  "headline": "blink-182の大型フェス出演やSum 41のソロ作発表など、パンク・ロック",
+  "headline": "Blink-182の大型フェス出演やMCRの話題など直近の動向",
   "points": [
    {
-    "text": "blink-182がフランスの大規模ロックフェス「Hellfest 2027」やラスベガスの「When We Were Young 2027」のヘッドライナーなどに出演決定。",
+    "text": "Blink-182がフランスの「Hellfest 2027」やラスベガスの「When We Were Young 2027」に出演することが決定した。",
     "ids": [
-     "04f63efcc65cfb73",
-     "ee77c921f93fa5b7",
+     "2ca788e101dfb9ef",
+     "e9a3e8b9d7b4d7bf",
      "19d4d3380def5b59"
     ]
    },
    {
-    "text": "Sum 41のDeryck Whibleyが初となるソロアルバム『Diamonds Of The Night』を発表し、バンドの名曲を新たなアレンジでセルフカバーする。",
+    "text": "Sum 41のDeryck Whibleyが初となるソロアルバム『Diamonds Of The Night』を2027年3月にリリースする。",
     "ids": [
      "ca296f42ac15fd9a",
-     "90ff297c0000f937",
-     "836761c5b8986aad"
+     "90ff297c0000f937"
     ]
    },
    {
-    "text": "Rise AgainstとDropkick Murphysの共演ライブや、Weezerの新たな公演スケジュールなど、各バンドのライブ活動が次々と発表されている。",
+    "text": "My Chemical Romanceがマレーシアで大盛況のライブを開催したほか、NHLのニュージャージー・デビルスとのコラボ企画を実施する。",
     "ids": [
-     "97f520c996388b1d",
+     "cc0df2dbd1d541af",
+     "e9636b4e48069a12",
+     "0b5fabccd0774453"
+    ]
+   },
+   {
+    "text": "Weezerがシカゴのイベントやアムステルダムでのコンサート開催を発表したほか、The Offspringがライブアルバムのリリースを控えている。",
+    "ids": [
      "44702292cb5545a7",
+     "1530d25217a13096",
      "9a1b99380b9923a0"
-    ]
-   },
-   {
-    "text": "My Chemical RomanceがNHLのニュージャージー・デビルスとコラボレーションし、限定マーチャンダイズの配布などを実施する。",
-    "ids": [
-     "0b5fabccd0774453",
-     "19caf0c76e91e7c8",
-     "795fe5240adcdee3"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-25T06:00:39.587807+09:00",
-  "generated_at": "2026-11-28T06:00:41.430677+09:00",
+  "from": "2026-11-25T16:25:21.928877+09:00",
+  "generated_at": "2026-11-28T16:26:23.913595+09:00",
   "article_count": 22,
-  "sig": "3eb3661e7c2b"
+  "sig": "0e1d12d3697e"
  },
  "items": [
+  {
+   "id": "cc0df2dbd1d541af",
+   "url": "https://www.nst.com.my/lifestyle/groove/2026/11/1587346/showbiz-my-chemical-romance-conquers-bukit-jalil-grief-theatrics",
+   "title_original": "#SHOWBIZ: My Chemical Romance conquers Bukit Jalil with grief, theatrics and 63,000 voices",
+   "source": "NST Online",
+   "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/CC00ECDA9146C32C0FDD78945AFC522B_data_0.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-28T00:00:23+00:00",
+   "title_ja": "My Chemical Romanceがマレーシアで大盛況のライブ",
+   "summary_ja": "My Chemical RomanceがマレーシアのBukit Jalilでライブを開催し、6万3千人ものファンを動員して演劇的なステージを繰り広げた。",
+   "category": "ライブ・ツアー",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance"
+   ],
+   "japan": false,
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "768e4697ef331599",
    "url": "https://www.ubisoft.com/en-au/game/rocksmith/plus/news-updates/2WjTWDdZl7bHMRKQLQQ8iG/my-chemical-romance-on-rocksmith-november-2026-new-songs",
@@ -322,6 +339,71 @@
    ],
    "japan": false,
    "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "2ca788e101dfb9ef",
+   "url": "https://www.thatericalper.com/2026/11/27/hellfest-unveils-massive-2027-lineup-with-gojira-blink-182-evanescence-and-308-bands-across-10-stages",
+   "title_original": "Hellfest Unveils Massive 2027 Lineup With Gojira, Blink-182, Evanescence And 308 Bands Across 10 Stages",
+   "source": "That Eric Alper",
+   "image": "https://www.thatericalper.com/wp-content/uploads/2026/11/download-2026-11-27T125201.412.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-27T17:52:43+00:00",
+   "title_ja": "Hellfest 2027の全ラインナップが発表",
+   "summary_ja": "2027年のHellfestが大規模な出演者ラインナップを公開し、Blink-182やGojira、Evanescenceら多数のバンドが集結する。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Gojira",
+    "Evanescence"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "e9a3e8b9d7b4d7bf",
+   "url": "https://www.punknews.org/article/89606/festsandevents-faith-no-more-blink-182-turnstile-more-to-play-hellfest-2027",
+   "title_original": "Festivals & Events: Faith No More, Blink-182, Turnstile, more to play Hellfest 2027",
+   "source": "Punknews.org",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-27T17:05:00+00:00",
+   "title_ja": "Blink-182が2027年のHellfestに出演決定",
+   "summary_ja": "フランスで開催される大規模音楽フェスHellfest 2027の出演アーティストが発表され、Blink-182やFaith No Moreらが名を連ねた。",
+   "category": "フェス出演",
+   "band": "Blink-182",
+   "artists": [
+    "Blink-182",
+    "Faith No More",
+    "Turnstile"
+   ],
+   "japan": false,
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "35978ee376a032a6",
+   "url": "https://lambgoat.com/news/56087/my-chemical-romance-team-with-new-jersey-devils-for-special-merch-giveaway-at-tonights-game",
+   "title_original": "My Chemical Romance team with New Jersey Devils for special merch giveaway at tonight's game",
+   "source": "Lambgoat",
+   "image": "https://lambgoat.com/cdn/2026/my-chemical-romance-nj-devils-20261127084109.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-27T16:48:00+00:00",
+   "title_ja": "My Chemical RomanceがNJ Devilsとコラボグッズ配布",
+   "summary_ja": "My Chemical Romanceがアイスホッケーチームのニュージャージー・デビルスとタッグを組み、今夜の試合会場で特別なマーチャンダイズのプレゼントを実施する。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "New Jersey Devils"
+   ],
+   "japan": false,
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -363,6 +445,27 @@
    "artists": [
     "Rise Against",
     "Dropkick Murphys"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "e9636b4e48069a12",
+   "url": "https://chaoszine.net/my-chemical-romance-partner-with-new-jersey-devils-for-the-black-parade-anniversary-shirt-giveaway",
+   "title_original": "My Chemical Romance partner with New Jersey Devils for \"The Black Parade\" anniversary shirt giveaway",
+   "source": "Chaoszine",
+   "image": "https://chaoszine.net/wp-content/uploads/2026/10/my-chemical-romance.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-27T09:30:26+00:00",
+   "title_ja": "MCR、ニュージャージー・デビルス戦で記念Tシャツ配布",
+   "summary_ja": "My Chemical Romanceが「The Black Parade」の周年を記念し、ニュージャージー・デビルスの試合会場で限定Tシャツのプレゼント企画を実施する。",
+   "category": "その他",
+   "band": "My Chemical Romance",
+   "artists": [
+    "My Chemical Romance",
+    "New Jersey Devils"
    ],
    "japan": false,
    "importance": 3,
@@ -767,6 +870,26 @@
    "japan": false,
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "5cd2d714a36d2c5f",
+   "url": "https://13thfloor.co.nz/rise-against-spark-arena-november-24-2026-13th-floor-concert-review",
+   "title_original": "Rise Against – Spark Arena: November 24, 2026 (13th Floor Concert Review)",
+   "source": "The 13th Floor",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-24T21:20:08+00:00",
+   "title_ja": "Rise Againstのオークランド公演ライブレポート",
+   "summary_ja": "2026年11月24日にスパーク・アリーナで開催されたRise Againstのライブの模様を、現地メディアが詳細なレビューとともに伝えている。",
+   "category": "ライブ・ツアー",
+   "band": "Rise Against",
+   "artists": [
+    "Rise Against"
+   ],
+   "japan": false,
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "e8a3952da72febac",
@@ -8448,130 +8571,6 @@
    "japan": false,
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "4c9074a7b1720828",
-   "url": "https://www.ad-hoc-news.de/unterhaltung/musik/weezer-join-three-night-q101-twisted-in-chicago-on-10-december/70351653",
-   "title_original": "Weezer join three-night Q101 Twisted in Chicago on 10 December",
-   "source": "ad-hoc-news.de",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2403834_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-17T20:49:22+00:00",
-   "title_ja": "WeezerがシカゴのQ101 Twistedに出演決定",
-   "summary_ja": "Weezerが12月10日にシカゴで開催される3日間のイベント「Q101 Twisted」に出演することが決定した。",
-   "category": "ライブ・ツアー",
-   "band": "Weezer",
-   "artists": [
-    "Weezer"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "bf191633cab2c115",
-   "url": "https://www.theprp.com/2026/10/17/news/my-chemical-romance-drop-official-live-performance-video-for-their-rare-track-someone-out-there-loves-you",
-   "title_original": "My Chemical Romance Drop Official Live Performance Video For Their Rare Track \"Someone Out There Loves You\"",
-   "source": "The PRP",
-   "image": "https://www.theprp.com/app/uploads/2026/07/mychemicalromancelarge-1200x675.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-17T18:54:06+00:00",
-   "title_ja": "MCRがレア曲「Someone Out There Loves You」のライブ映像を公開",
-   "summary_ja": "My Chemical Romanceが、これまであまり聴けなかった楽曲「Someone Out There Loves You」の公式ライブパフォーマンス映像を公開した。",
-   "category": "映像・映画・書籍",
-   "band": "My Chemical Romance",
-   "artists": [
-    "My Chemical Romance"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "c79c405b08657271",
-   "url": "https://dyingscene.com/ds-gallery-day-two-of-riot-fest-2026-with-tool-bad-religion-social-distortion-destroy-boys-and-more",
-   "title_original": "DS Gallery: Day two of Riot Fest 2026 with TOOL, Bad Religion, Social Distortion, Destroy Boys and more!",
-   "source": "Dying Scene",
-   "image": "https://dyingscene.com/wp-content/uploads/2026/10/TOOL-AT-RIOT-FEST-2026-5.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-17T13:00:00+00:00",
-   "title_ja": "Riot Fest 2026の2日目ギャラリーが公開",
-   "summary_ja": "Riot Fest 2026の2日目の様子をとらえたフォトギャラリーが公開され、Bad ReligionやSocial Distortionらのステージが紹介されている。",
-   "category": "ライブ・ツアー",
-   "band": "Bad Religion",
-   "artists": [
-    "Bad Religion",
-    "Social Distortion"
-   ],
-   "japan": false,
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "c74c4e0f379ae122",
-   "url": "https://www.vice.com/en/article/the-unexpected-rapper-that-inspired-pete-wentz-to-write-songs-for-fall-out-boy-in-2006",
-   "title_original": "The Unexpected Rapper That Inspired Pete Wentz to Write Songs for Fall Out Boy in 2006",
-   "source": "VICE",
-   "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/The-Unexpected-Rapper-That-Inspired-Pete-Wentz-to-Write-Songs-for-Fall-Out-Boy-in-2006.jpg?w=1200",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-17T10:00:00+00:00",
-   "title_ja": "Pete Wentzが語るFall Out Boy楽曲制作の原点",
-   "summary_ja": "Pete Wentzが2006年のFall Out Boyの楽曲制作において影響を受けた、意外なラッパーの存在について明かしている。",
-   "category": "メンバー・発言",
-   "band": "Fall Out Boy",
-   "artists": [
-    "Pete Wentz",
-    "Fall Out Boy"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "498da0df72aebff2",
-   "url": "https://www.kcrw.com/giveaways/jimmy-eat-world-the-format-hollywood-bowl-sat-nov-7-entry-2026-10-17-at-00-58-55",
-   "title_original": "Jimmy Eat World + The Format at the Hollywood Bowl",
-   "source": "KCRW",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-17T07:00:00+00:00",
-   "title_ja": "Jimmy Eat WorldとThe Formatがハリウッド・ボウルで共演",
-   "summary_ja": "Jimmy Eat WorldとThe Formatが、歴史あるハリウッド・ボウルにてライブを開催する予定であることが伝えられている。",
-   "category": "ライブ・ツアー",
-   "band": "Jimmy Eat World",
-   "artists": [
-    "Jimmy Eat World",
-    "The Format"
-   ],
-   "japan": false,
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "8f3946f4edcff5b9",
-   "url": "https://www.wmtw.com/article/troy-jackson-rallies-with-dropkick-murphys-as-senate-campaign-enters-final-stretch/74165755",
-   "title_original": "Troy Jackson rallies with Dropkick Murphys as Senate campaign enters final stretch",
-   "source": "WMTW",
-   "image": "https://kubrick.htvapps.com/vidthumb/2f2256bc-038e-49ca-b3fd-f85928504b59/ece8f18e-1419-448c-9dcf-e3fda51e0a62.jpg?crop=1xw%3A1.0xh%3Bcenter%2Ctop&resize=1200%3A*",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-17T03:59:00+00:00",
-   "title_ja": "Dropkick Murphysが上院選終盤の集会に参加",
-   "summary_ja": "上院議員選挙の最終盤を迎え、Dropkick Murphysがトロイ・ジャクソン氏の集会を音楽で後押しした。",
-   "category": "ライブ・ツアー",
-   "band": "Dropkick Murphys",
-   "artists": [
-    "Dropkick Murphys",
-    "Troy Jackson"
-   ],
-   "japan": false,
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
